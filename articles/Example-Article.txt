@@ -4,4 +4,4 @@
 	"author" : "Glog"
 }
 
-An example of a Glog article.
+An example of a Glog article from hugh.
