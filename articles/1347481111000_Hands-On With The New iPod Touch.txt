@@ -1,0 +1,12 @@
+{
+"title" : "Hands-On With The New iPod Touch",
+"date" : "Wed, 12 Sep 2012 20:18:31 +0000",
+"author" : "John Biggs"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/scaled-0845.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="scaled-0845" title="scaled-0845" style="float: left; margin: 0 10px 7px 0;" /><p>Apple&#8217;s long-neglected iPod Touch just got a considerable upgrade with a new design, improved camera, and 4-inch Retina display. Not unlike the <a href="http://techcrunch.com/tag/iphone">iPhone 5</a>, the new model also supports iOS6 and has a 5-megapixel camera and A5 Dual-Core chip.</p>
+<p>The Touch is a considerable improvement over the old model but takes more design cues from the original Touches and iPhone 3G instead of the new iPhone 5. The back panel is curved, not chamfered, but the bottom is almost identical to the iPhone 5.</p>
+<p>Games and apps were far snappier (and better-looking) on this new model and at $299 it could be a go-to device for folks not looking to spend big bucks on an upgrade this iteration. While the iPhone 5 is, at best, a minor upgrade, the Touch has given plenty of oomph and is now far more compelling as a general purpose information manager and media player.</p>
+<p>The iPod Touch costs $299 for the 32GB version and $399 for the 64GB version. They will be available in October and up for pre-order on September 14.</p>
+<p><a target="_blank" href="http://store.apple.com/us/browse/home/shop_ipod/family/ipod_touch">Product Page</a> </p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/_yoxndCUhyA/">here</a>.
