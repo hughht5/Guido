@@ -5,8 +5,8 @@
 }
 
 <img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/zdvu61.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="zdVU6" title="zdVU6" style="float: left; margin: 0 10px 7px 0;" /><p>The iPod dock connector was built in in every iPhone and iPod (except the iPod Shuffle) since 2003. But Apple finally upgraded the port to Lightning <a href="http://techcrunch.com/2012/09/12/apple-iphone-5-official/">for the iPhone 5</a> at <a href="http://techcrunch.com/2012/09/12/join-us-live-at-1pm-eastern10am-pacific-for-apples-iphone-announcement/">the press conference today</a>. It is an 8-pin port that transports only digital data and is 80 percent smaller. Even though many things are now done wirelessly thanks to AirPlay, Wi-Fi syncing and other technologies, the connector is still indispensable.</p>
-<p>Durability was improved, it is reversible and therefore easier to use. But what about all your old accessories?</p>
-<p>Apple will sell an adaptor to allow you to plug your old accessories. Apple did not give many details and quickly went to the next topic. We are still left wondering what the new connector is capable of. Let&#8217;s just hope that the new connector is here to stay for the next ten years.</p>
+<p>Durability was improved, it is reversible and therefore easier to use. But what about all your old accessories? Apple will sell an adaptor to allow you to plug your old accessories.</p>
+<p>Apple did not give many details and quickly went to the next topic. We are still left wondering what the new connector is capable of. Let&#8217;s just hope that the new connector is here to stay for the next ten years.</p>
 <p><i>Developing…</i></p>
 <p><a target="_blank" href="http://www.techcrunch.com/tag/iphone"></a></p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/Q_pic7ww2UA/">here</a>.
