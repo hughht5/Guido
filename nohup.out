@@ -1731,3 +1731,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master 1d6140c] adding new article
+ 6 files changed, 49 insertions(+), 10 deletions(-)
+ create mode 100644 articles/1347470831000_First-Party Apple Apps Optimized For iPhone 5 Display, Existing Apps Will Run Letterboxed.txt
+
+Stderr: To git@github.com:hughht5/Guido.git
+   018aeec..1d6140c  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"wn13+U3QeUPcwIMCDPKVl6rv230","last-modified":"Wed, 12 Sep 2012 17:28:00 GMT","date":"Wed, 12 Sep 2012 17:28:56 GMT","expires":"Wed, 12 Sep 2012 17:28:56 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
