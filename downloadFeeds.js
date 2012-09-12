@@ -6,10 +6,10 @@ var querystring = require('querystring');
 var exec = require('child_process').exec;
 
 
-//download feeds every 2 minutes
+//download feeds every 30 seconds
 setInterval(function(){
       downloadFeeds();
-},120000);
+},30000);
 
 //download feed
 function downloadFeeds(){
