@@ -8,9 +8,9 @@ var exec = require('child_process').exec;
 
 //download feed
 http.get("http://feeds.feedburner.com/TechCrunch/", function(res) {
-	//console.log("Got response: " + res.statusCode);
-	//console.log('STATUS: ' + res.statusCode);
-	//console.log('HEADERS: ' + JSON.stringify(res.headers));
+	console.log("Got response: " + res.statusCode);
+	console.log('STATUS: ' + res.statusCode);
+	console.log('HEADERS: ' + JSON.stringify(res.headers));
 	res.setEncoding('utf8');
 	var pageData = "";
 	res.on('data', function (chunk) {
