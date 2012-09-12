@@ -9976,3 +9976,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master 4147c37] adding new article
+ 2 files changed, 52 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1347478778000_Hands On With The New iPhone 5.txt
+
+Stderr: To git@github.com:hughht5/Guido.git
+   7b3d988..4147c37  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"MdroqBNqVZIZfjSSgacZkihjQQM","last-modified":"Wed, 12 Sep 2012 19:40:15 GMT","date":"Wed, 12 Sep 2012 19:40:56 GMT","expires":"Wed, 12 Sep 2012 19:40:56 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
