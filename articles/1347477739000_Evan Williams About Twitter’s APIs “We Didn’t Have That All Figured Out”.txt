@@ -1,0 +1,11 @@
+{
+"title" : "Evan Williams About Twitter’s APIs “We Didn’t Have That All Figured Out”",
+"date" : "Wed, 12 Sep 2012 19:22:19 +0000",
+"author" : "Frederic Lardinois"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/img_0647.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="IMG_0647" title="IMG_0647" style="float: left; margin: 0 10px 7px 0;" /><p>Twitter co-founders Biz Stone and Evan Williams took the stage at TechCrunch Disrupt today to discuss <a target="_blank" href="https://medium.com/">Medium</a>, their new online publishing platform coming out of <a target="_blank" href="https://medium.com/c/2a65aec3167b">Obvious Corp</a> with YouTube&#8217;s Hunter Walk. Maybe the most interesting statement of the session came from Evan Williams, though, who noted that Obvious is taking things slow with its API. An API, he said, needs to have a purpose and developers have to be really conscious about what they want to do with an API. &#8220;We didn&#8217;t have that all figured out with Twitter,&#8221; Williams candidly noted.</p>
+<p>Twitter, of course, has been widely <a href="http://techcrunch.com/2012/09/08/twitters-api-crackdown-may-be-bad-for-users-even-if-they-never-notice/">criticized</a> for how it is currently handling its API and how it is slowly making it harder for developers to access to its formerly wide-open API. Williams, as Biz Stone noted, made one of the first consumer-facing on the web available to developers with Blogger. Twitter&#8217;s ecosystem grew very quickly thanks to its API, but now that the company is more focused on trying to monetize its huge user base, Twitter is slowly making it <a href="http://techcrunch.com/2012/08/27/twitter-api-changes-are-already-posing-challenges-to-tweetbot-developers/">harder for developers</a> to build products on top of its service.</p>
+<p>Williams stepped down as Twitter&#8217;s CEO in early 2011 and after some time as a ski bum, he is now running Obvious Corp with his fellow Twitter co-founder Biz Stone.</p>
+<p><a href="http://techcrunch.com/2012/09/12/evan-williams-twitter-apis-disrupt/img_0640-2/" rel="attachment wp-att-649542"></a></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/rR5iv8yOhGY/">here</a>.
