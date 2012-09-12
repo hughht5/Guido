@@ -1,0 +1,10 @@
+{
+"title" : "Apple Fixes Its Headphone Problem With New EarPods, Shipping Today",
+"date" : "Wed, 12 Sep 2012 18:40:03 +0000",
+"author" : "Darrell Etherington"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/wp8yt.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Wp8yT" title="Wp8yT" style="float: left; margin: 0 10px 7px 0;" /><p>Apple redesigned its signature headphones today, with a new geometry that&#8217;s made to better fit the ear. They don&#8217;t seal like in-ear phones, howeever, and have three ports designed to maximize air flow through the design.</p>
+<p>A port in the back is aimed at delivering better mid-tones, and there&#8217;s one in the stem and the primary one for delivering sound to the inside of your ear. It&#8217;s all aimed at delivering the best sound possible.</p>
+<p>These ship today standalone, and are included with new iPods and iPhone. They&#8217;ve gotta be better than the existing ones, but I&#8217;ll reserve judgement about how much better until I get actual ears-on experience.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/Ajsnj0Pw1nw/">here</a>.
