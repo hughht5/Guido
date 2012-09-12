@@ -1,5 +1,5 @@
 {
-"title" : "Steve Case Talks American Competitiveness And Finding The Next Wave",
+"title" : "About",
 "date" : "Tue, 11 Sep 2012 15:03:49 +0000",
 "author" : "Hugh Halford-Thompson"
 }
