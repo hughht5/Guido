@@ -1857,3 +1857,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master 8735baf] adding new article
+ 5 files changed, 56 insertions(+), 5 deletions(-)
+ create mode 100644 articles/1347470058000_Apple Officially Reveals The iPhone 5 LTE, 4-Inch Retina Display, New A6 Chip, Lighter Than iPhone 4S.txt
+
+Stderr: To git@github.com:hughht5/Guido.git
+   7609ad5..8735baf  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"Ran9WaayRFHEuYrQPNarH2FHJAg","last-modified":"Wed, 12 Sep 2012 17:30:53 GMT","date":"Wed, 12 Sep 2012 17:30:56 GMT","expires":"Wed, 12 Sep 2012 17:30:56 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub

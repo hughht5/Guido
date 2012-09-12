@@ -12,6 +12,7 @@
 <li>The long-rumored (and handsome) two-toned design is indeed legitimate, as is the new iPhone’s larger 4-inch Retina Display. And yes, that display runs at 1136 by 640. According to Schiller, it&#8217;s &#8220;the most accurate display in the industry&#8221; because the touch sensors are embedded in the display as well.</li>
 <li>It’s hardly a surprise at this point, but the iPhone 5 packs support for Sprint, Verizon, and AT&amp;T&#8217;s LTE networks here in the States.</li>
 <li>As expected, Apple has also unveiled a brand new chipset for the iPhone 5: the A6, which Schiller says is a full two times faster than the A5 chip in the iPhone 4S</li>
+<li>The iPhone 4S&#8217;s battery life wasn&#8217;t anything to write home about, but the iPhone 5 seems equipped to do much better &#8212; 8 hours of 3G talk time, as well as 8 hours of 3G and LTE web browsing to be precise.</li>
 </ul>
 <p><em>This is a developing story, please refresh for updates.</em></p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/9QmdFQXgUTk/">here</a>.
