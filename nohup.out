@@ -2605,3 +2605,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master 59c28e7] adding new article
+ 2 files changed, 45 insertions(+), 0 deletions(-)
+ create mode 100644 "articles/1347471684000_Uber\342\200\231s Travis Kalanick On Regulators You Have To Grit Your Teeth, Be A Warrior, Or Do Something Less Disruptive.txt"
+
+Stderr: To git@github.com:hughht5/Guido.git
+   1513092..59c28e7  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"CeGBp2Q7k/Fy1np936flDVpv3Aw","last-modified":"Wed, 12 Sep 2012 17:42:11 GMT","date":"Wed, 12 Sep 2012 17:42:56 GMT","expires":"Wed, 12 Sep 2012 17:42:56 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
