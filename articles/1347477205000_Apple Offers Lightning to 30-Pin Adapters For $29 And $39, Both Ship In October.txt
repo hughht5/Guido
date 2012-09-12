@@ -1,0 +1,9 @@
+{
+"title" : "Apple Offers Lightning to 30-Pin Adapters For $29 And $39, Both Ship In October",
+"date" : "Wed, 12 Sep 2012 19:13:25 +0000",
+"author" : "Darrell Etherington"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/md823.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="MD823" title="MD823" style="float: left; margin: 0 10px 7px 0;" /><p>Alongside an avalanche of new hardware, Apple also offered up a new adapter to ease the transition to its new Lightning connector for the iPhone 5 and new iPods. The adapter will let users charge and sync their device using existing 30-pin dock connector cables, and will also help stave off the Dockpocalypse for a while longer.</p>
+<p>The Lightning to 30-pin Adapter <a target="_blank" href="http://store.apple.com/us/product/MD823/lightning-to-30-pin-adapter">retails for $29</a> or <a target="_blank" href="http://store.apple.com/us/product/MD824/lightning-to-30-pin-adapter-02-m">$39</a> if you want one with a small cable attached, and is available now on the site but doesn&#8217;t ship until October. It&#8217;s compatible with the iPhone 5, the iPod touch 5th gen, and the iPod nano 7th gen.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/YXRI3Mr4p3c/">here</a>.
