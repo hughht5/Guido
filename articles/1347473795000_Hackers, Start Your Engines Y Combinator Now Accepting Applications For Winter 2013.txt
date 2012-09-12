@@ -1,0 +1,12 @@
+{
+"title" : "Hackers, Start Your Engines Y Combinator Now Accepting Applications For Winter 2013",
+"date" : "Wed, 12 Sep 2012 18:16:35 +0000",
+"author" : "Colleen Taylor"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/04/y_combinator-logo-usethis.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Y_Combinator-logo-USETHIS" title="Y_Combinator-logo-USETHIS" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://ycombinator.com">Y Combinator</a> co-founder Paul Graham announced this morning that the famed Silicon Valley startup incubator has begun accepting applications for its next class:</p>
+<blockquote class='twitter-tweet'><p>Applications open for Y Combinator&#039;s winter 2013 funding cycle: <a href="http://ycombinator.com/apply.html"> ycombinator.com/apply.html</a>&mdash; <br />Paul Graham (@paulg) <a href='http://twitter.com/#!/paulg/status/245943615644385280' data-datetime='2012-09-12T17:55:02+00:00'>September 12, 2012</a></p></blockquote>
+<p>The opening of YC&#8217;s newest application season comes just in the thick of today&#8217;s Apple news, which may help ease the deluge of applications that the program receives each season. </p>
+<p>Backstage yesterday at the ongoing TechCrunch Disrupt SF 2012 conference we talked to YC partner Harj Taggar about the Summer 2012 batch of startups that just graduated out of Y Combinator last month in the incubator&#8217;s largest ever class and how it plans to grow going forward. Check that out right here: </p>
+			<script type="text/javascript" src="http://pshared.5min.com/Scripts/PlayerSeed.js?sid=577&amp;width=640&amp;height=450&amp;colorPallet=%230A9600&amp;hasCompanion=false&amp;relatedMode=2&amp;videoControlDisplayColor=%23000000&amp;playList=517476144&amp;shuffle=0&amp;videoGroupID=133503&amp;autoStart=false&amp;playerActions=16407"></script>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/uovhxYJB29U/">here</a>.
