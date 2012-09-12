@@ -11219,3 +11219,36 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master d65a52d] adding new article
+ 3 files changed, 64 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1347476950000_The Apple Store Is Back Up! Pre-Order iPhone 5 For $199 & Up On Friday.txt
+ create mode 100644 articles/1347479861000_Hands-On With The New iPod Nano.txt
+
+Stderr: To git@github.com:hughht5/Guido.git
+   2c147b0..d65a52d  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"sJx0tfWI/p1no4cSZGBqK82ASro","last-modified":"Wed, 12 Sep 2012 20:00:04 GMT","date":"Wed, 12 Sep 2012 20:00:56 GMT","expires":"Wed, 12 Sep 2012 20:00:56 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
