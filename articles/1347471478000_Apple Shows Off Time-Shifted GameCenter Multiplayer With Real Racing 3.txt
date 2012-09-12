@@ -1,0 +1,10 @@
+{
+"title" : "Apple Shows Off Time-Shifted GameCenter Multiplayer With Real Racing 3",
+"date" : "Wed, 12 Sep 2012 17:37:58 +0000",
+"author" : "Darrell Etherington"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/real-racing-3-575x325.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Real-Racing-3-575x325" title="Real-Racing-3-575x325" style="float: left; margin: 0 10px 7px 0;" /><p>Apple demoed Real Racing 3 on stage today with the help of games publisher EA. The new racing game, arriving later this year for the iPhone 5, showed off terrific new graphics that looked very much like they could hold their own next to console games. It&#8217;s also capable of an impressive asynchronous multiplayer mode that shows serious attention to how gaming works on the iPhone, and how it differs from living room video game play.</p>
+<p>The asynchronous mode allows users to challenge their friends through game center to a race, and then play them later via time-shifting. It looked terrific in the demo, and the later player was even able to hit the car of the other player he was racing against, offline, after the initial run has been completed. </p>
+<p>This could make for a drastic change in mobile multiplayer, since it complements perfectly the style of play of mobile gamers who like a casual experience they can pick up and put down on their own schedule.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/wC4j4AonPlQ/">here</a>.
