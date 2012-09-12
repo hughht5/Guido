@@ -1,0 +1,13 @@
+{
+"title" : "With iOS 6 Integration, Facebook Set To Accelerate Mobile Success",
+"date" : "Wed, 12 Sep 2012 20:35:05 +0000",
+"author" : "Darrell Etherington"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/ios61.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="ios6" title="ios6" style="float: left; margin: 0 10px 7px 0;" /><p>If Passbook is the secret payload in iOS 6 like I suspect, Facebook integration is the more obvious time bomb. Apple has proven in the past that putting social networks deeply into its products results in a big bump: When it added Twitter to iOS in iOS 5, it <a href="http://techcrunch.com/2011/12/08/apple-ios-5-integration-boosted-twitter-signups-by-25-percent/">boosted monthly sign-ups by 25%</a>.</p>
+<p>Facebook has a lot more users to begin with, so the new sign-ups its inclusion in iOS will deliver isn&#8217;t likely to be quite as statistically significant. But the Facebook integration isn&#8217;t about user acquisition, it&#8217;s about engagement. System-level sharing available to all apps is a huge boon for Facebook&#8217;s social graph-building efforts. And for users, it&#8217;s a great convenience feature.</p>
+<p>Developers will now be able to build apps that can post status updates, and share photos directly fo Facebook. Once you associate your account via Settings, you can also update via Siri or Notification Center, and it can sync your contact info with your Facebook graph.</p>
+<p>That provides Facebook with the opportunity to track and capture a huge amount of potential new actions. Users do a huge amount of their social sharing, media consumption and more on their mobile devices, and built-in Facebook support means it&#8217;ll be that much easier for users to involve Facebook in that process.</p>
+<p>At Disrupt yesterday, Facebook founder and <a title="Zuckerberg Says “On Mobile We Are Going To Make A Lot More Money Than On Desktop”" href="http://techcrunch.com/2012/09/11/zuckerberg-says-on-mobile-we-are-going-to-make-a-lot-more-money-than-on-desktop/">CEO Mark Zuckerberg talked about the importance of mobile to his company&#8217;s future</a>. iOS 6 integration is like a bullet train straight to its destination in terms of increasing the likelihood of mobile engagement for its network.</p>
+<p><a target="_blank" href="http://www.techcrunch.com/tag/iphone"></a></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/rRNjCuZTYSU/">here</a>.
