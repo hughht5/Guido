@@ -12,7 +12,7 @@ console.log("About to download TechCrunch main feed.");
 var options = {
   host: 'feeds.feedburner.com',
   port: 80,
-  path: '/TechCrunch/greentech',
+  path: '/TechCrunch',
   method: 'GET'
 };
 
