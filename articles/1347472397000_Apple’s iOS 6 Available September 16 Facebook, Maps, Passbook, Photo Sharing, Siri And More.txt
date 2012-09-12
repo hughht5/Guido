@@ -1,0 +1,39 @@
+{
+"title" : "Apple’s iOS 6 Available September 16 Facebook, Maps, Passbook, Photo Sharing, Siri And More",
+"date" : "Wed, 12 Sep 2012 17:53:17 +0000",
+"author" : "Darrell Etherington"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/screen-shot-2012-09-11-at-11-04-46-pm.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-09-11 at 11.04.46 PM" title="Screen Shot 2012-09-11 at 11.04.46 PM" style="float: left; margin: 0 10px 7px 0;" /><p>Apple first previewed iOS 6 back in June at WWDC, but today it showed off the shipping product in detail. It arrives September 16 as a free update.</p>
+<p>In the intervening time you may have forgotten what it brings to the table, and since it&#8217;s actually quite a lot, there&#8217;s a good possibility that you have. Here&#8217;s what iOS 6 brings to your phone, so long as your phone is an iPhone 3GS or later, or you have an 4th-gen iPod touch, new iPad or iPad 2 (unless otherwise indicated).</p>
+<h2>Camera Improvements</h2>
+<p>The camera in iOS 6 does panorama photos on iPhone 5, with 28 megapixel images (measuring the combined resolution of the stitched-together images). It also includes video stabilization, 10-face detection on the rear and single face detection on the front camera.</p>
+<h2>New Maps</h2>
+<p>Apple killed Google Maps. Or, rather, it replaced them as the system-level mapping resource in iOS 6 with their own tool, built partly in-house and with a significant helping hand from GPS hardware and software-maker TomTom. This one&#8217;s sort of a mixed bag, and how you feel about the change might have a lot to do with how you use your phone.</p>
+<ul>
+<li>Good things: Apple Maps has a pretty great 3D mode with flyover effects that looks stellar if you&#8217;re in one of the areas that happens to have been rendered already. And Apple did a pretty good job of adding new areas during the beta period, so even if you&#8217;re not on that list now, you likely will be soon. Also there&#8217;s turn-by-turn voice-guided directions built in for free. Android users have had that for a while, so it&#8217;s about time. Yelp integration is also very nice.</li>
+<li>Bad things: Apple Maps just doesn&#8217;t feel nearly as complete as Google Maps. It also lacks built-in transit directions, opting instead to use third-party folks to take care of that. But if you&#8217;re in a city and you don&#8217;t have a car, Apple Maps aren&#8217;t ideal.</li>
+</ul>
+<h2>Passbook</h2>
+<p>This could be iOS 6&#8242;s most deadly secret payload. It&#8217;s got plenty of potential, though it might&#8217;ve been hard for users to see that pre-launch. Over the past week, however, we&#8217;ve seen a number of airlines including Virgin Air declare their support, so how it&#8217;ll be used starts to become more apparent.</p>
+<p>Passbook is about taking consumer activity paperless. That means providing digital coupons, boarding passes, loyalty, reward/gift cards and more. Is it a mobile wallet? Not yet, not quite, but it could be. And that&#8217;s why it&#8217;s the one to watch in this festival of new software, especially with time and location-based triggers that give you what you need, when you need it. New partners revealed on stage for the first time include Delta and Starwood hotels.</p>
+<h2>Facebook</h2>
+<p>Apple built Twitter into iOS 5, and now it&#8217;s doing the same for Facebook with iOS 6. There a number of theories why it wasn&#8217;t included before, but the short answer is: <a target="_blank" href="http://mashable.com/2011/09/30/apple-facebook-hp/">because of reasons</a>. I get into more detail about Facebook&#8217;s place in <a href="http://techcrunch.com/2012/09/11/apple-facebook-ios-6-integration">iOS 6 in a separate post.</a></p>
+<h2>Siri</h2>
+<p>Apple dropped some knowledge on Siri with this update. It now does sports scores and highlights, movies, reservations, app launching and Facebook/Twitter updates. Also, it works on the new iPad (older versions are left out, as is the iPhone 4 and 3GS).</p>
+<p>One thing that should be appreciated outside of the U.S. is international availability of the service. Many users in countries around the world were sold on Siri&#8217;s promise, but have had a long wait for features like directions and local business search. Does all of this make Siri great? Not necessarily, but it&#8217;s progress.</p>
+<h2>iCloud Tabs</h2>
+<p>Your Safari tabs can follow you to the desktop in Mountain Lion, or to other iOS 6 devices like the iPad, a nice feature for people looking to keep their online lives entirely in sync.</p>
+<h2>Shared Photo Streams</h2>
+<p>Apple should&#8217;ve delivered this as a launch component of iCloud, and its absence immediately felt like an oversight. But now that it&#8217;s here, you can share photos with other iCloud users on an iOS 6 or Mac device, and check them out on Apple TV, or for everyone else on the web. Shared photo streams over both Wi-Fi and cellular connections, and supports both push notifications and commenting. It&#8217;s almost like Facebook&#8217;s photos feature tied more closely to hardware and Apple&#8217;s ecosystem.</p>
+<h2>FaceTime Over Cellular</h2>
+<p>Say what you will about FaceTime and how useful it actually is to everyday life, having to be connected to Wi-Fi to even have a chance of using it wasn&#8217;t helping anything. This might get ugly with AT&amp;T limiting access, but carriers around the world largely seemed to embrace hotspot sharing eventually once Apple built it in, and hopefully FaceTime will be treated the same by companies that aren&#8217;t AT&amp;T.</p>
+<h2>Phone Options</h2>
+<p>If your only option for answering a call is to answer or decline it, you&#8217;re living in the past. Now, incoming calls can be replied to with canned or custom messages (SMS or iMessage). You can also set a reminder to make sure you remember to follow up. Just remember: humans are good at figuring out when you&#8217;re using a pre-written response, and can become annoyed if it happens often enough.</p>
+<h2>VIP Inbox And In-Line Image/Video</h2>
+<p>Mail gets some minor updates, including easier media insertion. The new VIP inbox is great for sorting things, too, and follows you around to various devices when using your iCloud account.</p>
+<h2>Other Fun Stuff</h2>
+<p>There&#8217;s lots more, including a new lost mode for Find My iPhone that provides a breadcrumb history of where your lost device has been, and geo-fenced alerts in Find My Friends that makes for perfect, much easier stalking. All the stores have been redesigned to general good effect (though the app search results page, inspired by Chomp, might rub folks the wrong way), and Apple has introduced a number of new features for its latest boom market, China.</p>
+<p>Maybe coolest of all, iOS 6 adds a lot for developers to play with, including additional camera feature controls, Passbook access, reminder creation and modification, iTunes content sales via in-app purchase, and access to things like text messages, opening up plenty of possibilities for hardware makers.</p>
+<p><a target="_blank" href="http://www.techcrunch.com/tag/iphone"></a></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/XhI2MTyAxXE/">here</a>.
