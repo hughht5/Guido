@@ -15882,3 +15882,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master 69539ac] adding new article
+ 2 files changed, 47 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1347484453000_Look Out, Lyft Uber CEO Travis Kalanick Says It Will Do Ride Sharing, Too.txt
+
+Stderr: To git@github.com:hughht5/Guido.git
+   dc5f771..69539ac  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"gihv9WvP1dj2iRs52ZvzSIZEzOY","last-modified":"Wed, 12 Sep 2012 21:15:09 GMT","date":"Wed, 12 Sep 2012 21:15:56 GMT","expires":"Wed, 12 Sep 2012 21:15:56 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
