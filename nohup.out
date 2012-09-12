@@ -917,3 +917,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master 1edbe1e] adding new article
+ 2 files changed, 45 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1347470058000_Apple Officially Reveals The iPhone 5.txt
+
+Stderr: To git@github.com:hughht5/Guido.git
+   031ffc8..1edbe1e  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"YAS5gkBrask4Mv+9Nkb516IBs8A","last-modified":"Wed, 12 Sep 2012 17:15:22 GMT","date":"Wed, 12 Sep 2012 17:15:55 GMT","expires":"Wed, 12 Sep 2012 17:15:55 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
