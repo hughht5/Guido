@@ -10504,3 +10504,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master 91d9678] adding new article
+ 3 files changed, 48 insertions(+), 1 deletions(-)
+ create mode 100644 articles/1347479282000_Ding Dong, Is Ping Dead.txt
+
+Stderr: To git@github.com:hughht5/Guido.git
+   0813ca7..91d9678  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"Cu3XjriTf5xLLtBL0NlRXvwMyFo","last-modified":"Wed, 12 Sep 2012 19:49:12 GMT","date":"Wed, 12 Sep 2012 19:49:26 GMT","expires":"Wed, 12 Sep 2012 19:49:26 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
