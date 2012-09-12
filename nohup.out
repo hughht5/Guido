@@ -8702,3 +8702,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master 225a74c] adding new article
+ 2 files changed, 45 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1347477477000_Ev Williams I Was Not A Good Ski Bum.txt
+
+Stderr: To git@github.com:hughht5/Guido.git
+   aa11dac..225a74c  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"0j/G43ZxW95sV5tUk0dDzt2iUc0","last-modified":"Wed, 12 Sep 2012 19:20:18 GMT","date":"Wed, 12 Sep 2012 19:20:26 GMT","expires":"Wed, 12 Sep 2012 19:20:26 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
