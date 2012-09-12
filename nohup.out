@@ -5535,3 +5535,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master f573326] adding new article
+ 5 files changed, 46 insertions(+), 3 deletions(-)
+ create mode 100644 articles/1347474247000_Apple Outs 5th Generation iPod Touch With 4-Inch Display The Thinnest (6.1mm) And Lightest (88g) One Yet.txt
+
+Stderr: To git@github.com:hughht5/Guido.git
+   4d4554e..f573326  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"+KUqc1Y09+oQrOw92cwlEREqyc4","last-modified":"Wed, 12 Sep 2012 18:29:11 GMT","date":"Wed, 12 Sep 2012 18:29:56 GMT","expires":"Wed, 12 Sep 2012 18:29:56 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
