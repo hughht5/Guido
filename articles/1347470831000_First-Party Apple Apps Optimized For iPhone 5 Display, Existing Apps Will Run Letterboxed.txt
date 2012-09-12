@@ -1,0 +1,11 @@
+{
+"title" : "First-Party Apple Apps Optimized For iPhone 5 Display, Existing Apps Will Run Letterboxed",
+"date" : "Wed, 12 Sep 2012 17:27:11 +0000",
+"author" : "Darrell Etherington"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/k62ft.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="K62FT" title="K62FT" style="float: left; margin: 0 10px 7px 0;" /><p>Apple&#8217;s iPhone boasts a taller screen, as rumored, and that means basically an extra row&#8217;s worth of information in terms of the homescreen. That&#8217;s going to result in some changes in the design language app-makers have to speak, but Apple&#8217;s already updated its first-party apps in order to give devs a roadmap.</p>
+<p>iWork, iMovie and Garageband, and all the stock apps that ship with the iPhone are now designed to take advantage of the change by providing extra information. For existing third-party apps, there&#8217;s a compatibility mode that will letterbox content, displaying black bars on either side. It&#8217;s better than just stretching things in terms of providing a pleasant, consistent user experience.</p>
+<p>&#8220;But what about the App Store apps?&#8221; Phil Schiller explained on stage. &#8220;Well here&#8217;s an app that hasn&#8217;t been updated. It runs at the same size. We center it and place black borders on either side&#8221;</p>
+<p>A stretched display brings the iPhone closer to a 16:9 resolution than its 4:3, good for video and movie playback. The change should also help us see some interesting additions from developers as they look to update their apps to take advantage of the new space.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/jX1dak6DzFI/">here</a>.
