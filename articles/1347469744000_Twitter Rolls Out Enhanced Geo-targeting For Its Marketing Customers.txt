@@ -8,5 +8,7 @@
 <p>Here&#8217;s what the <a target="_blank" href="http://advertising.twitter.com/2012/09/new-enhanced-geo-targeting-for-marketers.html">team had to say on its blog</a>:</p>
 <p><em>To help marketers reach relevant audiences around the globe with ever-greater precision, today we’re unveiling some enhancements to our geo-targeting capabilities for Promoted Tweets and Promoted Accounts. </p>
 <p>If you are looking to reach users in the UK and Japan, you will now find additional location options to target — including UK regions and major metropolitan areas, and several major areas in Japan such as the Tokyo region (Kanto), Osaka area (Kinki) and Nagoya area (Chubhu). In addition, we have added US states.</em></p>
-<p><strong>This is developing.</strong></p>
+<p>These new enhancements will be a super help for those using the targeted tweets product. Being able to send your message to the right demographic is a time-saver and money-saver for ad customers. Facebook has done a really fantastic job with this, as has Google. It&#8217;s nice to see Twitter moving into the geo future.</p>
+<p>If you think about it, why would a small restaurant in San Francisco pay to promote tweets worldwide? Right, doesn&#8217;t make sense.</p>
+<p>[Photo credit: <a target="_blank" href="http://www.flickr.com/photos/dantaylor/2062982712/">Flickr</a>]</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/5eYcg6Pg7x8/">here</a>.
