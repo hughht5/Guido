@@ -117,7 +117,7 @@ function postToGlog(posts){
 	for (var x=0;x<posts.length;x++){
 		waiting++;
 		//add JSON headers to post
-		posts[x].title = posts[x].title.replace(/[:*?"<>|\/]+/g,'');
+		posts[x].title = posts[x].title.replace(/[%&:*?"<>|\/]+/g,'');
 		posts[x].content = addJSONHeader(posts[x]);
 		
 		//write post to file - prepending current unix timestamp to ensure posts are in chronological order
