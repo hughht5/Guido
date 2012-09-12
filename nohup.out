@@ -6252,3 +6252,36 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master 0880b03] adding new article
+ 5 files changed, 58 insertions(+), 2 deletions(-)
+ create mode 100644 articles/1347474247000_Apple Outs 5th Gen iPod Touch Siri, 4-Inch Display, Comes In Five Different Colors, Launching In October.txt
+ create mode 100644 articles/1347475203000_Apple Fixes Its Headphone Problem With New EarPods, Shipping Today.txt
+
+Stderr: To git@github.com:hughht5/Guido.git
+   958ab49..0880b03  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"nc1FSOZUyuKdNLlC4RWp+HSHhNU","last-modified":"Wed, 12 Sep 2012 18:40:38 GMT","date":"Wed, 12 Sep 2012 18:41:26 GMT","expires":"Wed, 12 Sep 2012 18:41:26 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
