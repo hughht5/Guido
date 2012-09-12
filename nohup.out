@@ -23,3 +23,55 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master 4944c4b] adding new article
+ 21 files changed, 349 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1347427891000_Social Finance Lands $77M From Baseline, Renren To Help Solve The Student Debt Crisis.txt
+ create mode 100644 articles/1347429531000_The Final Seven Disrupt SF Startups Expect Labs, Gyft, Lit Motors, Prior Knowledge, Saya, YourMechanic And Zumper.txt
+ create mode 100644 articles/1347433548000_Ensighten Raises $15.5M Series A Round To Provide Enterprise Tag Management.txt
+ create mode 100644 "articles/1347433549000_Scoot, The \342\200\234Zipcar For Scooters,\342\200\235 Grabs $550K In Seed Funding.txt"
+ create mode 100644 articles/1347440664000_Adeven Launches Adjust.io Analyzer To Give Mobile App Advertisers Combined Analytics And Tracking.txt
+ create mode 100644 articles/1347441668000_Social Learning Network Brainly Raises $500K From Point Nine Capital, Angels.txt
+ create mode 100644 articles/1347449446000_Open Garden, A TechCrunch Disrupt NY Battlefield Finalist, Raises $2M Seed Round.txt
+ create mode 100644 articles/1347454746000_Preparing For An IPO, Online Customer Service Platform Zendesk Raises $60M From Redpoint, Goldman Sachs And Others.txt
+ create mode 100644 articles/1347456605000_Amazon Tries Its Hand At More Original (And Crowdsourced) Content With Blackburn Burrow Digital Comic.txt
+ create mode 100644 "articles/1347457740000_AOL Founder Steve Case On The JOBS Act Not A Big Deal In Silicon Valley, \342\200\230Really Important\342\200\231 In Detroit.txt"
+ create mode 100644 articles/1347458456000_Apple Store Is Down.txt
+ create mode 100644 "articles/1347459156000_Apple Search Engine Reveals Product News Before Today\342\200\231s Event iPhone 5, New iPods, New iTunes Confirmed.txt"
+ create mode 100644 articles/1347462229000_Steve Case Talks American Competitiveness And Finding The Next Wave.txt
+ create mode 100644 articles/1347463788000_Prepping For IPO, Huddle Tools Its Cloud Collaboration Platform For U.S. Intel Honchos Dept Of Homeland Security And NGA.txt
+ create mode 100644 "articles/1347463826000_Live From Apple\342\200\231s New iPhone Event 10AM Pacific  1PM Eastern.txt"
+ create mode 100644 articles/1347465490000_Some Unconventional Investing Rules.txt
+ create mode 100644 articles/1347466427000_Google Fiber Adds New TV Channels Ahead Of Signup Launch.txt
+ create mode 100644 articles/1347467950000_Watch TechCrunch Disrupt SF Live!.txt
+ create mode 100644 "articles/1347468645000_Oblong Industries \342\200\234The UI Is All You Have, The UI Is The Computer\342\200\235.txt"
+ create mode 100644 "articles/1347468909000_Join Us Live At 1PM Eastern10AM Pacific For Apple\342\200\231s iPhone Announcement.txt"
+ create mode 100644 nohup.out
+
+Stderr: To git@github.com:hughht5/Guido.git
+   82c4160..4944c4b  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"Joq5dRaMepVgHOFoBBl9fnjP6Zo","last-modified":"Wed, 12 Sep 2012 17:00:04 GMT","date":"Wed, 12 Sep 2012 17:01:55 GMT","expires":"Wed, 12 Sep 2012 17:01:55 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
