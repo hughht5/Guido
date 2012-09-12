@@ -7282,3 +7282,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master 08aca0f] adding new article
+ 2 files changed, 43 insertions(+), 0 deletions(-)
+ create mode 100644 "articles/1347476086000_CollegeHumor Presents Apple\342\200\231s Latest Press Conference Where It Announce Nothing.txt"
+
+Stderr: To git@github.com:hughht5/Guido.git
+   e5fe30a..08aca0f  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"1w4CfVdK77nBlmu5z6Q68sVI/bQ","last-modified":"Wed, 12 Sep 2012 18:57:05 GMT","date":"Wed, 12 Sep 2012 18:57:56 GMT","expires":"Wed, 12 Sep 2012 18:57:56 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
