@@ -1,0 +1,13 @@
+{
+"title" : "Oblong Industries Myopia Is A Real Problem With Startups",
+"date" : "Wed, 12 Sep 2012 17:39:33 +0000",
+"author" : "Alex Williams"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/img_0552.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="IMG_0552" title="IMG_0552" style="float: left; margin: 0 10px 7px 0;" /><p>The founders of <a target="_blank" href="http://oblong.com/">Oblong Industries</a> said myopia is a real problem in the world of startups today at Disrupt San Francisco 2012.</p>
+<p>TechCrunch writer and moderator Josh Constine set up the discussion when he asked Oblong founders Kwindla Kramer and John Underkoffer about how startups seem to be increasingly doing the bare minimum to get their startup up and running. A trend is emerging for startups to build something to get acquired and hired or &#8220;aqui-hired&#8221;, a term that has emerged over the past several months. He called it a form of myopia. Kramer and Underkoffer said they fully agree.</p>
+<p>Underkoffer said that you have to think out five years ahead and build toward that future. You have to think about how to develop a new tech stack. Startups are not really doing that.</p>
+<p>Oblong was founded in 2006 with the goal of creating the next generation of computing interfaces. At that time they were talking about a new user interface. People asked: &#8220;where is the mouse?&#8221; But they kept their focus on developing systems that bring data sets, workspaces, and communications channels to life across multiple screens. This new form of gesture computing will continue to require us to think in new ways about how we live and work.</p>
+<p>&#8220;This is not a special moment in time,&#8221; Underkoffer said.&#8221;It is always the case that things will be different five years from now.&#8221;</p>
+<p>Startups in the enterprise space need to take notice. There are so many &#8220;me too,&#8221; startups that call themselves some cross with a consumer startup. The better way, as Constine said, is to think ten years out but build a prototype you can show in six months.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/GEaQ93PWcfM/">here</a>.
