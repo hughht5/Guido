@@ -22152,3 +22152,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master a3a314d] adding new article
+ 2 files changed, 44 insertions(+), 0 deletions(-)
+ create mode 100644 "articles/1347490238000_The Loop\342\200\231s Jim Dalrymple On Ecosystem \342\200\234Apple Got A Decade Head Start On Most People\342\200\235.txt"
+
+Stderr: To git@github.com:hughht5/Guido.git
+   81489bf..a3a314d  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"MBXTZ6ojtNEzlOhZU5ywWOWfAoE","last-modified":"Wed, 12 Sep 2012 22:54:36 GMT","date":"Wed, 12 Sep 2012 22:55:26 GMT","expires":"Wed, 12 Sep 2012 22:55:26 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
