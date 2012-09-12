@@ -7,7 +7,15 @@ var exec = require('child_process').exec;
 
 console.log("About to download TechCrunch main feed.");
 //download feed
-http.get("http://feeds.feedburner.com/TechCrunch/", function(res) {
+
+var options = {
+  host: 'feeds.feedburner.com',
+  port: 80,
+  path: '/TechCrunch',
+  method: 'POST'
+};
+
+http.get(options, function(res) {
 	console.log("Got response: " + res.statusCode);
 	console.log('STATUS: ' + res.statusCode);
 	console.log('HEADERS: ' + JSON.stringify(res.headers));
@@ -100,18 +108,21 @@ function postToGlog(posts){
 		posts[x].content = addJSONHeader(posts[x]);
 		
 		//write post to file
-		writeToFile("articles/"+posts[x].title+".txt",posts[x].content); //regex removes filename special characters
-		
-		//execute git push
-		exec('cd articles; git add "'+posts[x].title+'.txt"', function(error, stdout, stderr) { //; git commit -a -m "adding new article: '+posts[x].title+'"; git push
-			if(error) {
-				console.log('Could not commit and push new articles: ' + error);
+		fs.writeFile("articles/"+posts[x].title+".txt", posts[x].content, function(err) {
+			if(err) {
+				console.log(err);
+			} else {
+				//execute git push
+				exec('git add *', function(error, stdout, stderr) { //; git commit -a -m "adding new article: '+posts[x].title+'"; git push
+					if(error) {
+						console.log('Could not commit and push new articles: ' + error);
+					}
+					console.log('Stdout: ' + stdout);
+					console.log('Stderr: ' + stderr);
+					
+				});
 			}
-			console.log('Stdout: ' + stdout);
-			console.log('Stderr: ' + stderr);
-			
 		});
-		console.log(posts[x].title+".txt");
 	}
 }
 
