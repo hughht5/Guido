@@ -20878,3 +20878,36 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master fc13476] adding new article
+ 3 files changed, 80 insertions(+), 0 deletions(-)
+ create mode 100644 "articles/1347489196000_Vinod Khosla \342\200\234I Feel Sad Sometimes For Y Combinator Companies That Get So Much Hype\342\200\235.txt"
+ create mode 100644 articles/1347489213000_JavaScript Tops Latest Programming Language Popularity Ranking From RedMonk.txt
+
+Stderr: To git@github.com:hughht5/Guido.git
+   e2186b2..fc13476  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"ieLVhNXAcFilbK8NL0CKgfhXh9E","last-modified":"Wed, 12 Sep 2012 22:34:11 GMT","date":"Wed, 12 Sep 2012 22:34:56 GMT","expires":"Wed, 12 Sep 2012 22:34:56 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
