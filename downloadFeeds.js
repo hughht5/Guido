@@ -4,6 +4,7 @@ var xml2js = require('xml2js');
 var parser = new xml2js.Parser();
 var querystring = require('querystring');
 var exec = require('child_process').exec;
+var async = require('async');
 
 console.log("About to download TechCrunch main feed.");
 //download feed
@@ -102,7 +103,9 @@ function formatTime(date){
  * Post an array of posts to Glog
  */
 function postToGlog(posts){
+	var waiting = 0;
 	for (var x=0;x<posts.length;x++){
+		waiting++;
 		//add JSON headers to post
 		posts[x].title = posts[x].title.replace(/[:*?"<>|\/]+/g,'');
 		posts[x].content = addJSONHeader(posts[x]);
@@ -114,19 +117,26 @@ function postToGlog(posts){
 			} else {
 				console.log("written file  ");
 			}
+			waiting--;
+			complete();
 		});
 	}
 	
 	
 	//execute git push
-	// exec('git add *', function(error, stdout, stderr) { //; git commit -a -m "adding new article: '+posts[x].title+'"; git push
-		// if(error) {
-			// console.log('Could not commit and push new articles: ' + error);
-		// }
-		// console.log('Stdout: ' + stdout);
-		// console.log('Stderr: ' + stderr);
-		
-	// });
+	function complete(){
+		if (!waiting) {
+			console.log("hugh done!");
+			exec('git add *', function(error, stdout, stderr) { //; git commit -a -m "adding new article: '+posts[x].title+'"; git push
+				if(error) {
+					console.log('Could not commit and push new articles: ' + error);
+				}
+				console.log('Stdout: ' + stdout);
+				console.log('Stderr: ' + stderr);
+				
+			});
+		}
+	}
 }
 
 /*
