@@ -6,18 +6,18 @@
 
 <img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/screen-shot-2012-09-12-at-13-11-09.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-09-12 at 13.11.09" title="Screen Shot 2012-09-12 at 13.11.09" style="float: left; margin: 0 10px 7px 0;" />			<script type="text/javascript" src="http://pshared.5min.com/Scripts/PlayerSeed.js?sid=577&amp;width=640&amp;height=450&amp;colorPallet=%230A9600&amp;hasCompanion=false&amp;relatedMode=2&amp;videoControlDisplayColor=%23000000&amp;playList=517476487&amp;shuffle=0&amp;videoGroupID=133503&amp;autoStart=false&amp;playerActions=16407"></script>
 <p>Israel has been called &#8220;The Startup Nation&#8221; by some and, indeed, that was even the title of a fascinating <a target="_blank" href="http://startupnationbook.com/">book</a> by journalists Dan Senor and Saul Singer.</p>
-<p>Israel&#8217;s ability to churn out technology companies is the stuff of legend and as usual this year&#8217;s showing by companies from the country at TechCrunch Disrupt in San Francisco is as strong as ever.</p>
-<p>Here&#8217;s a fast run through of the companies on show to give you a heads-up on who&#8217;s in town this week.</p>
-<p><a target="_blank" href="http://vi-app.com">VI</a> &#8211; Bringing personality into your online experience</p>
-<p><a target="_blank" href="http://Stevie.com">Stevie</a> &#8211; Creating personal TV programming out of Facebook &amp; Twitter</p>
-<p><a target="_blank" href="http://memocards.co">SmartApp Development</a> &#8211; Entrepreneur with academic background and IT &amp; Finance experience</p>
-<p><a target="_blank" href="http://wniverse.com">Serendip Media</a> &#8211; Twinklr is an amazing new way to meet serendipity on Facebook.</p>
-<p><a target="_blank" href="http://Scringo.com">Scringo</a> &#8211; swipe. discover.</p>
-<p><a target="_blank" href="http://rent2buy.com">Rent2Buy</a> &#8211; Rent2Buy Dealer 2 Peer and P2P car sharing with option to buy!</p>
-<p><a target="_blank" href="http://Moment.me">Moment.me</a> &#8211; See all pics, tweets &amp; vids from an event in 1 social 360 display</p>
-<p><a target="_blank" href="http://mixersapp.com">Mixers</a> &#8211; Mixers brings live chat video to online dating</p>
-<p><a target="_blank" href="http://instru-magic.com">instruMagic</a> &#8211; instruMagic makes music-playing apps that everyone can play</p>
-<p><a target="_blank" href="http://Dateini.com">Dateini</a> &#8211; Plan your night out with our personalized online conciergeservice.</p>
-<p><a target="_blank" href="http://clinch.co">Clinch</a> &#8211; An automatic social video editor combining content from multiple sources, based on location anytime.</p>
-<p><a target="_blank" href="http://Bannerplay.com">BannerPlay</a> &#8211; Gamifying online advertising</p>
+<p>Israel&#8217;s ability to churn out technology companies is the stuff of legend and, as usual, this year&#8217;s showing by companies from the country at TechCrunch Disrupt in San Francisco is as strong as ever.</p>
+<p>Here&#8217;s a run-through of the companies on show to give you a heads-up about who&#8217;s in town this week.</p>
+<p><a target="_blank" href="http://vi-app.com">VI</a> &#8211; Bringing personality into your online experience.</p>
+<p><a target="_blank" href="http://Stevie.com">Stevie</a> &#8211; Creating personal TV programming out of Facebook and Twitter.</p>
+<p><a target="_blank" href="http://memocards.co">SmartApp Development</a> &#8211; Entrepreneur with academic background and IT and finance experience.</p>
+<p><a target="_blank" href="http://wniverse.com">Serendip Media</a> &#8211; Twinklr is a new way to meet serendipity on Facebook.</p>
+<p><a target="_blank" href="http://Scringo.com">Scringo</a> &#8211; Swipe. Discover.</p>
+<p><a target="_blank" href="http://rent2buy.com">Rent2Buy</a> &#8211; Dealer to peer and P2P car sharing with option to buy.</p>
+<p><a target="_blank" href="http://Moment.me">Moment.me</a> &#8211; See all pics, tweets, and vids from an event in one social, panoramic display.</p>
+<p><a target="_blank" href="http://mixersapp.com">Mixers</a> &#8211; Brings live chat video to online dating.</p>
+<p><a target="_blank" href="http://instru-magic.com">instruMagic</a> &#8211; instruMagic makes music-playing apps that everyone can play.</p>
+<p><a target="_blank" href="http://Dateini.com">Dateini</a> &#8211; Plan your night out with this personalized online concierge service.</p>
+<p><a target="_blank" href="http://clinch.co">Clinch</a> &#8211; An automatic social video editor combining content from multiple sources based on location anytime.</p>
+<p><a target="_blank" href="http://Bannerplay.com">BannerPlay</a> &#8211; Gamifying online advertising.</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/KYYV8F3C6f4/">here</a>.
