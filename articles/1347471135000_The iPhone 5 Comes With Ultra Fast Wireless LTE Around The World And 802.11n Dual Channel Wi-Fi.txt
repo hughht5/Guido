@@ -5,8 +5,8 @@
 }
 
 <img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/zdvu6.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="zdVU6" title="zdVU6" style="float: left; margin: 0 10px 7px 0;" /><p><a href="http://techcrunch.com/2012/09/12/join-us-live-at-1pm-eastern10am-pacific-for-apples-iphone-announcement/">At the Apple press conference today</a>, the company announced that they integrated a new kind of chip inside <a href="http://techcrunch.com/2012/09/12/apple-iphone-5-official/">the iPhone 5</a>. They call it the &#8220;Ultra Fast Wireless&#8221; chip because it goes a bit further than simply adding LTE like they did on the iPad in March.</p>
-<p>The iPhone 5 is compatible with 4G LTE networks around the world. Tim Cook showed a map of carriers that will support LTE around the world and more specifically in the U.S., in Canada, in the UK, in Germany, in Japan, South Korea and other Asian countries. The full list will be added to this article. But it doesn&#8217;t stop there. The iPhone 5 comes with 802.11a/b/g/n 2.4GHz, dual channel 5GHz, just like in the Kindle Fire HD.</p>
+<p>The iPhone 5 is compatible with 4G LTE networks around the world. Tim Cook showed a map of carriers that will support LTE around the world and more specifically in the U.S., in Canada, in the UK, in Germany, in Japan, South Korea and other Asian countries. The full list will be added to this article. But it doesn&#8217;t stop there. The iPhone 5 comes with 802.11a/b/g/n 2.4GHz, dual-channel 5GHz, just like in the Kindle Fire HD.</p>
 <p>Apple integrated data and voice in a single chip in order to reduce size and optimize battery use. 802.11n Wi-Fi supports up to 150 Mbps while LTE supports up to 100 Mbps. The chip also supports HSPA+ and DC-HSDPA, which are improvements to the existing 3G technology as a fallback when LTE is not available.</p>
-<p><i>Developing…</i></p>
+<p><em>Developing…</em></p>
 <p><a target="_blank" href="http://www.techcrunch.com/tag/iphone"></a></p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/_RdziolrAPw/">here</a>.
