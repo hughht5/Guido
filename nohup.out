@@ -19796,3 +19796,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master 23fddb7] adding new article
+ 5 files changed, 49 insertions(+), 3 deletions(-)
+ create mode 100644 "articles/1347488291000_Sequoia\342\200\231s Jim Goetz Shocking More Startups Are Not Building For The Enterprise.txt"
+
+Stderr: To git@github.com:hughht5/Guido.git
+   70fd5e1..23fddb7  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"reQsvlN6BPZSfpGfY2ipE8jIwdM","last-modified":"Wed, 12 Sep 2012 22:18:22 GMT","date":"Wed, 12 Sep 2012 22:18:56 GMT","expires":"Wed, 12 Sep 2012 22:18:56 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
