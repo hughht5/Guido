@@ -1,0 +1,13 @@
+{
+"title" : "Join Us Live At 1PM Eastern10AM Pacific For Apple’s iPhone Announcement",
+"date" : "Wed, 12 Sep 2012 16:55:09 +0000",
+"author" : "John Biggs"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/scaled-img_0556.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="scaled.IMG_0556" title="scaled.IMG_0556" style="float: left; margin: 0 10px 7px 0;" /><p>We, like most of the Internet, are waiting for Apple&#8217;s annual <a href="http://techcrunch.com/tag/iphone">iPhone</a> launch event where we expect to meet the new LTE iPhone 5, a new dock connector, and, if the <a href="http://techcrunch.com/2012/09/12/whoops-apple-search-engine-is-revealing-product-news-before-todays-event-iphone-5-new-ipods-new-itunes-confirmed/">rumors are true, a few new iPods</a>.</p>
+<p>The scene you see above is a scrum of TV journalists and their trucks getting ready to cover the event live, on location, and as it happens, but we&#8217;ll do them one better: we&#8217;ll be live-blogging the event right here in a few hours.</p>
+<p>Until then, sit back, relax, and wait in restless anticipation for what is usually the most interesting launch event of the year. You can check out all of our content at <a href="http://techcrunch.com/tag/apple">our Apple tag page</a>, and keep your eyes here for some red hot liveblogging.</p>
+	<div id="livefyre"></div>
+	<script type="text/javascript" src="http://zor.livefyre.com/wjs/v3.0/javascripts/livefyre.js"></script><script type="text/javascript">var lf_config = [{"collectionMeta":"eyJ0eXAiOiJqd3QiLCJhbGciOiJIUzI1NiJ9.eyJ0aXRsZSI6IkxpdmUgRnJvbSBBcHBsZSdzIE5ldyBpUGhvbmUgRXZlbnQiLCJ1cmwiOiJodHRwOlwvXC90ZWNoY3J1bmNoLmNvbVwvMjAxMlwvMDlcLzEyXC9saXZlLWZyb20tYXBwbGVzLW5ldy1pcGhvbmUtZXZlbnQiLCJ0YWdzIjoiIiwiY2hlY2tzdW0iOiJlOWY3NjA2NGE2NjMxYWQyNGU0ZDQ4ZTE0MmFhMDViOSIsImFydGljbGVJZCI6IjQifQ.cU7Tkbc_3kFptYW8idS9PjiUT7dnHZHBFKOoEZ04WSI","checksum":"e9f76064a6631ad24e4d48e142aa05b9","siteId":"300860","articleId":"4","el":"livefyre"}];var conv = fyre.conv.load({}, lf_config);</script>
+<p><a target="_blank" href="http://www.techcrunch.com/tag/iphone/"></a></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/PNvHH5zyZXQ/">here</a>.

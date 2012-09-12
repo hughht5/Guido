@@ -1,0 +1,15 @@
+{
+"title" : "Watch TechCrunch Disrupt SF Live!",
+"date" : "Wed, 12 Sep 2012 16:39:10 +0000",
+"author" : "Matt Burns"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/disrupt-sf12-event31.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="disrupt-sf12-event3" title="disrupt-sf12-event3" style="float: left; margin: 0 10px 7px 0;" /><iframe src="http://www.ustream.tv/embed/4715292" width="640" height="386" scrolling="no" frameborder="0" style="border:0px none transparent;"></iframe>
+<p>This is it. The final day of TechCrunch Disrupt SF, and even though the show is sold out, we&#8217;re still going to bring you all the action on our official Ustream feed and <a href="http://techcrunch.com/events/disrupt-sf-2012/coverage/">on the site</a>. Disrupt is just too big for one site. Watch TechCrunch&#8217;s social feeds for even more action!</p>
+<p>Today is the last day of the show and the schedule is packed. The morning features a bunch of panels and then this afternoon, the seven finalists of the Battlefield will give it their all for the Disrupt Cup and a $50,000 prize.</p>
+<p>The full agenda for tomorrow can be viewed <a href="http://techcrunch.com/events/disrupt-sf-2012/agenda/">here</a>.</p>
+<p>Twitter: @TechCrunch with #tcdisrupt<br />
+<a target="_blank" href="http://www.facebook.com/techcrunch">Facebook</a><br />
+<a target="_blank" href="https://plus.google.com/+TechCrunch/posts">Google +</a><br />
+Tumblr: http://techcrunch.tumblr.com/</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/U8w6QdWpPBo/">here</a>.

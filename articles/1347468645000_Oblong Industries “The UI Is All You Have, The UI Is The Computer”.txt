@@ -1,0 +1,17 @@
+{
+"title" : "Oblong Industries “The UI Is All You Have, The UI Is The Computer”",
+"date" : "Wed, 12 Sep 2012 16:50:45 +0000",
+"author" : "Drew Olanoff"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/img_0553.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="IMG_0553" title="IMG_0553" style="float: left; margin: 0 10px 7px 0;" /><p>Our own Josh Constine is speaking to <a href="http://techcrunch.com/2012/03/08/foundry-group-leads-new-round-in-oblong-industries-to-push-computing-into-the-minority-report-age/">Oblong Industries</a> at TechCrunch Disrupt today, and they&#8217;re discussing the future of human interface when it comes to technology.</p>
+<p>The company says that we will not be using computers the same way in ten years, and there was no Wii, iPhone or iPad when it got started. Now that those devices are available, people are starting to understanding the potential of user interface for mobile and home computing.</p>
+<p>Kwindla Kramer and John Underkoffer from <a href="http://techcrunch.com/2011/06/23/oblong-mezzanine/">Oblong</a> had this to say about its mission:</p>
+<blockquote><p>Oblong&#8217;s mission is to re-make the world of computation for the better by putting a new interface on screen&#8217;s everywhere.</p></blockquote>
+<p>The two are talking about the gestures the company allows people to use to interact with their computer, which is actually really awesome.</p>
+<blockquote><p>Our thesis is that there is a huge increase in the number of pixels we have available to us at all times, on screens, our phones and people need to interact with those pixels in a more fluid way. We&#8217;ve designed a gestural system directly from John&#8217;s work with &#8220;Minority Report&#8221;</p></blockquote>
+<p>Constine has had a play with Oblong&#8217;s technology and discussed how you interact with the interfaces with simple movements, taking the difficulty out of consumer computing.</p>
+<p>High-bandwidth between users and machines is what Oblong things will change our interaction with technology. The company is obsessively focused on UI and the duo says &#8220;The UI is the computer.&#8221; Its technology is used in all different verticals, including customers that manage oil reservoir.</p>
+<blockquote><p>The smartest computer in the room is always in someones head.</p></blockquote>
+	<iframe src="http://www.snappytv.com/snap/founders-stories-with-kwindla-kramer-and-john-underkoffer-of-about-techcrunch-disrupt-sf-2012-wednesday-morning-full-sessions-on-disrupt-sf-2012-full-sessions?w=640&h=403" width="640" height="403" frameborder='0' scrolling='no' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/pe7ZvbuyC-8/">here</a>.
