@@ -1,0 +1,21 @@
+{
+"title" : "Startup Alley Day 2 — So Many Companies, So Little Time [TCTV]",
+"date" : "11/09/2012",
+"author" : "Mike Butcher"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/screen-shot-2012-09-11-at-19-10-51.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-09-11 at 19.10.51" title="Screen Shot 2012-09-11 at 19.10.51" style="float: left; margin: 0 10px 7px 0;" />			<script type="text/javascript" src="http://pshared.5min.com/Scripts/PlayerSeed.js?sid=577&amp;width=640&amp;height=450&amp;colorPallet=%230A9600&amp;hasCompanion=false&amp;relatedMode=2&amp;videoControlDisplayColor=%23000000&amp;playList=517476222&amp;shuffle=0&amp;videoGroupID=133503&amp;autoStart=false&amp;playerActions=16407"></script>
+<p>Startup Alley at TechCrunch Disrupt San Francisco is full of disruptive companies, and it&#8217;s hard to pick a favorite. But to give you a sense of the craziness, you need to tune in for just 5 minutes and check out these companies. There&#8217;s plenty more where these came from and some more videos coming, including the country Pavilions. Stay tuned.</p>
+<p>The companies covered here include: </p>
+<p><a target="_blank" href="http://Oogababy.com">Oogababy</a> &#8211; An online tool for parents in the modern era.</p>
+<p><a target="_blank" href="http://www.opicos.com">Opicos</a> &#8211; Opicos.com, spanish social polls and opinions platform</p>
+<p><a target="_blank" href="http://Pagodabox.com">Pagoda Box</a> &#8211; A powerful, automated scalable Hosting PaaS with no SysAdmin</p>
+<p><a target="_blank" href="http://www.parwinr.com">ParWinr</a> &#8211; Games+Video = New Era in Marketing, Education, Broadcast, SmartTV</p>
+<p><a target="_blank" href="http://Passwordbox.com">Password Box</a> &#8211; Instant sign-in on any site on all devices. No more passwords.</p>
+<p><a target="_blank" href="http://Pastbook.com">PastBook</a> &#8211; The easy way to rediscover your memories, on-line and off-line.</p>
+<p><a target="_blank" href="http://Ninut.com">Paymesh</a> &#8211; Payment network that allows people to pay anonymously.</p>
+<p><a target="_blank" href="http://Portalsapp.com">Portals</a> &#8211; Anyone can build beautiful HTML5 apps with the Portals platform.</p>
+<p><a target="_blank" href="http://Productsy.com">Productsy</a> &#8211; We design develop and iterate innovative mobile products</p>
+<p><a target="_blank" href="http://facebook.com/quikioapp">Quik.io</a> &#8211; Instantly stream or send your videos, music &amp; photos to any iPad.</p>
+<p><a target="_blank" href="http://Recipelover.com">Recipe Lover</a> &#8211; RecipeLover is a recipe sharing website/mobile app</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/Gj3Y_HKpprA/">here</a>.

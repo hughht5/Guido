@@ -1,0 +1,16 @@
+{
+"title" : "Quora Co-Founder Charlie Cheever Steps Back From Day-To-Day Role At The Company",
+"date" : "11/09/2012",
+"author" : "Kim-Mai Cutler"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2011/05/cheever.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Cheever" title="Cheever" style="float: left; margin: 0 10px 7px 0;" /><p>Quora co-founder and early Facebook engineer Charlie Cheever is stepping back from a day-to-day role at the company after starting the site in 2009. </p>
+<p>He&#8217;ll be taking time off after a very long stretch of work, building and scaling Quora (after building and scaling Facebook). He most recently <a href="http://techcrunch.com/2012/09/05/quora-android/">oversaw the launch of the company&#8217;s native Android app a week ago with designer Anne Halsall</a> and a handful of other engineers. No word on whether he&#8217;ll remain on the board yet, but we&#8217;re checking. </p>
+<p><a target="_blank" href="http://www.quora.com/Charlie-Cheever-1/Why-is-Charlie-Cheever-stepping-away-from-Quora-day-to-day">Here&#8217;s a statement from other co-founder Adam D&#8217;Angelo, who was Facebook&#8217;s first chief technology officer:</a></p>
+<blockquote><p>We decided it was best for Charlie to step away from his day-to-day role at the company. He will always be a founder of Quora and will be an advisor to the company. </p>
+<p>I have a lot of respect for Charlie and we wouldn&#8217;t be where we are today without him. Many of his contributions will remain as core parts of the company’s history and culture.</p>
+<p>Charlie and I both continue to care deeply about the employees of Quora, the writers and readers of Quora, and want to do what’s best to see Quora continue to grow into a successful company that helps everyone share knowledge.</p></blockquote>
+<p>The company is much larger than the days when D&#8217;Angelo, Cheever and designer Rebekah Cox first conceived of the site as a platform where people could share all of the untapped knowledge they normally wouldn&#8217;t publish. It&#8217;s now 40 people, about to move down to a much bigger office in Mountain View and just closed $50 million <a href="http://techcrunch.com/2012/05/14/quora-raises-50-at-400m-from-peter-thiel-dangelo-puts-20m-of-his-own-money/">from both D&#8217;Angelo&#8217;s personal capital and Peter Thiel</a>. </p>
+<p>It&#8217;s not uncommon for co-founders to leave a company as it scales or reaches a new life stage. Sometimes people burn out. Sometimes a person who is great at early product development isn&#8217;t happy or isn&#8217;t a good fit at a company that is substantially larger. Sometimes there is a difference in vision. It happened with Facebook, with three of the original four co-founders aside from Zuckerberg moving on. <a href="http://techcrunch.com/2008/10/16/ceo-change-at-twitter-ev-williams-back-at-the-helm/">It happened at Twitter</a>. <a target="_blank" href="http://gigaom.com/2012/03/04/naveen-selvadurai-foursquare-co-founder-maybe-leaving/">It happened at Foursquare</a>. </p>
+<p>And now it&#8217;s happened at Quora. We&#8217;ll be updating as we hear more. </p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/ZwCFZgpEDtA/">here</a>.

@@ -1,6 +1,6 @@
 {
 "title" : "Spinlister Makes It Into Disrupt Battlefield With It’s ‘Airbnb For Bikes’",
-"date" : "12/09/2012",
+"date" : "11/09/2012",
 "author" : "Mike Butcher"
 }
 
@@ -14,5 +14,5 @@
 <p>So far Spinlister has raised $225,000 in seed funding from Angels.</p>
 <p>Judges asked why the company did not start with mobile, but the team said the small team of three had come from a Web background and were now adding a mobile engineer to develop the mobile side. The team is also looking a &#8216;recreational enthusiasts&#8217;.</p>
 <p></p>
-			<script type="text/javascript" src="http://pshared.5min.com/Scripts/PlayerSeed.js?sid=577&amp;width=640&amp;height=390&amp;colorPallet=%230A9600&amp;hasCompanion=false&amp;sequential=0&amp;videoControlDisplayColor=%23000000&amp;playList=517476478&amp;videoGroupID=133503&amp;autoStart=false&amp;playerActions=16439"></script>
-<br /> The original article was posted <a href="http://techcrunch.com/2012/09/11/spinlister-makes-it-into-disrupt-battlefield-with-its-airbnb-for-bikes/">here</a>.
+			<script type="text/javascript" src="http://pshared.5min.com/Scripts/PlayerSeed.js?sid=577&amp;width=640&amp;height=450&amp;colorPallet=%230A9600&amp;hasCompanion=false&amp;relatedMode=2&amp;videoControlDisplayColor=%23000000&amp;playList=517476478&amp;shuffle=0&amp;videoGroupID=133503&amp;autoStart=false&amp;playerActions=16407"></script>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/ZLgtPzzXvwM/">here</a>.
