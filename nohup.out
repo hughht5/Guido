@@ -3818,3 +3818,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master 5a1b114] adding new article
+ 2 files changed, 44 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1347472849000_Apple Drops iPhone 4S Price To $99 And Will Give Away The iPhone 4 For Free.txt
+
+Stderr: To git@github.com:hughht5/Guido.git
+   5b01201..5a1b114  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"E7CT2ajPewQQMWFs63pNiYLrpEU","last-modified":"Wed, 12 Sep 2012 18:01:44 GMT","date":"Wed, 12 Sep 2012 18:02:26 GMT","expires":"Wed, 12 Sep 2012 18:02:26 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
