@@ -126,7 +126,7 @@ function postToGlog(posts){
 			if(err) {
 				console.log(err);
 			} else {
-				console.log("written file  ");
+				console.log("written article to disk.");
 			}
 			waiting--;
 			complete();
@@ -137,7 +137,7 @@ function postToGlog(posts){
 	//execute git push
 	function complete(){
 		if (!waiting) {
-			console.log("hugh done!");
+			console.log("Scraping complete. Now commiting to GitHub");
 			exec('git add *; git commit -a -m "adding new article"; git push', function(error, stdout, stderr) {
 				if(error) {
 					console.log('Could not commit and push new articles: ' + error);
