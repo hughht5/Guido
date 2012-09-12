@@ -853,3 +853,36 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master 734ed71] adding new article
+ 4 files changed, 54 insertions(+), 1 deletions(-)
+ create mode 100644 articles/1347470004000_Apple Retail 380 Stores, 83 Million Visitors Last Quarter.txt
+ create mode 100644 articles/1347470044000_iOS App Store Boasts 700K Apps, 90% Downloaded Every Month.txt
+
+Stderr: To git@github.com:hughht5/Guido.git
+   b527eeb..734ed71  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"last-modified":"Wed, 12 Sep 2012 17:14:57 GMT","etag":"5CrBdvCuwHPZtLuQOFphWtgVL6g","content-type":"text/xml; charset=UTF-8","date":"Wed, 12 Sep 2012 17:14:57 GMT","expires":"Wed, 12 Sep 2012 17:14:57 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
