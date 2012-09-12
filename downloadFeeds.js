@@ -4,7 +4,6 @@ var xml2js = require('xml2js');
 var parser = new xml2js.Parser();
 var querystring = require('querystring');
 var exec = require('child_process').exec;
-var async = require('async');
 
 console.log("About to download TechCrunch main feed.");
 //download feed
