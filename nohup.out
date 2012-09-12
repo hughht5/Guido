@@ -8890,3 +8890,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master f8988f5] adding new article
+ 2 files changed, 42 insertions(+), 0 deletions(-)
+ create mode 100644 "articles/1347477739000_Evan Williams About Twitter\342\200\231s APIs \342\200\234We Didn\342\200\231t Have That All Figured Out\342\200\235.txt"
+
+Stderr: To git@github.com:hughht5/Guido.git
+   8418924..f8988f5  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"L5/jc4KIPOTR3xQCjYlplOcG3XM","last-modified":"Wed, 12 Sep 2012 19:22:46 GMT","date":"Wed, 12 Sep 2012 19:23:26 GMT","expires":"Wed, 12 Sep 2012 19:23:26 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
