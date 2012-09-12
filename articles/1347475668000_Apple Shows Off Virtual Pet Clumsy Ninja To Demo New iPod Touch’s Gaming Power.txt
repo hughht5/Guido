@@ -1,0 +1,11 @@
+{
+"title" : "Apple Shows Off Virtual Pet Clumsy Ninja To Demo New iPod Touch’s Gaming Power",
+"date" : "Wed, 12 Sep 2012 18:47:48 +0000",
+"author" : "Darrell Etherington"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/phit4.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="pHit4" title="pHit4" style="float: left; margin: 0 10px 7px 0;" /><p>On stage Apple highlighted a new game for iOS 6 to emphasize the latest iPod touch&#8217;s video gaming prowess. The game, called Clumsy Ninja, is basically a powerful Tamagotchi using a ninja as the main character. It&#8217;s an interesting mix, ending up looking something like Kinectimals for Xbox which Microsoft used to show off Kinect&#8217;s capabilities.</p>
+<p>The virtual toy was described on stage as &#8220;self-aware, aware of his environment and fully interactive,&#8221; and some functionality demoed included poking and prodding him, and then playing games taking the form of &#8220;training&#8221; to help him improve his ninja skills.</p>
+<p>The game is an interesting piece of software, and it shows how Apple is approaching its role as a gaming platform. The iPod touch was also prefaced by latest Game Center numbers, which now has 150 million players, and there are currently 175,000 games available for iPod touch devices. Now that the touch has the A5 and the iPhone 5&#8242;s screen, and is capable of seven times the graphics speed performance of the last version, it looks like it could do even more damage to the dedicated portable gaming market.</p>
+<p><a target="_blank" href="http://www.techcrunch.com/tag/iphone"></a></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/swKXkD2JIX8/">here</a>.
