@@ -1325,3 +1325,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master 67169e9] adding new article
+ 3 files changed, 45 insertions(+), 1 deletions(-)
+ create mode 100644 articles/1347470275000_Apple Has Sold Over 400 Million iOS Devices 9.5% Growth Since March.txt
+
+Stderr: To git@github.com:hughht5/Guido.git
+   b5dae56..67169e9  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"tGWPbf101Xq+hMiUCPy1d7ShaSw","last-modified":"Wed, 12 Sep 2012 17:21:52 GMT","date":"Wed, 12 Sep 2012 17:22:25 GMT","expires":"Wed, 12 Sep 2012 17:22:25 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
