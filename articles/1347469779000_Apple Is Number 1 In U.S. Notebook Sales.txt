@@ -1,0 +1,10 @@
+{
+"title" : "Apple Is Number 1 In U.S. Notebook Sales",
+"date" : "Wed, 12 Sep 2012 17:09:39 +0000",
+"author" : "Jordan Crook"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/macbook-pro110221210702.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="macbook-pro110221210702" title="macbook-pro110221210702" style="float: left; margin: 0 10px 7px 0;" /><p>Last March at WWDC, Apple announced that it had sold <a href="http://techcrunch.com/2012/06/11/apple-wwdc2012-iphones-ipads-sold/">over 365 million iOS devices</a> globally since March 2012. But perhaps more important, Apple has just announced that its number 1 in US notebook sales. </p>
+<p>Mountain Lion, the newest version of OS X, has also been installed on 7 million devices. </p>
+<p><em>Developing&#8230;</em></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/xEHMkiGYYik/">here</a>.
