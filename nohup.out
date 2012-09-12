@@ -4007,3 +4007,37 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master da2eb94] adding new article
+ 5 files changed, 95 insertions(+), 1 deletions(-)
+ create mode 100644 "articles/1347472397000_Apple\342\200\231s iOS 6 Available September 19 Facebook, Maps, Passbook, Photo Sharing, Siri And More.txt"
+ create mode 100644 articles/1347472890000_iPhone 5 Pricing And Availability Revealed $199 For 16GB, $299 For 32GB, $399 For 64GB, Ships On 921.txt
+ create mode 100644 "articles/1347472982000_Mitt Romney\342\200\231s Digital Director Zac Moffatt You Can\342\200\231t Run A Political Campaign Without Digital.txt"
+
+Stderr: To git@github.com:hughht5/Guido.git
+   4e70171..da2eb94  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"jTMfYbXxBG3dnulTEtgZubXWVQk","last-modified":"Wed, 12 Sep 2012 18:04:48 GMT","date":"Wed, 12 Sep 2012 18:05:26 GMT","expires":"Wed, 12 Sep 2012 18:05:26 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
