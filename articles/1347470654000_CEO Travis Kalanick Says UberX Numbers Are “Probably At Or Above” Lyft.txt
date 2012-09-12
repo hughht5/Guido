@@ -1,0 +1,11 @@
+{
+"title" : "CEO Travis Kalanick Says UberX Numbers Are “Probably At Or Above” Lyft",
+"date" : "Wed, 12 Sep 2012 17:24:14 +0000",
+"author" : "Billy Gallagher"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/img_05703.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="IMG_0570" title="IMG_0570" style="float: left; margin: 0 10px 7px 0;" /><p>Uber CEO Travis Kalanick said UberX, the lowest costing option of the popular car service, is &#8220;probably at or above&#8221; rival Lyft in numbers. Kalanick discussed Uber&#8217;s struggles against regulators, expansion and competition with TechCrunch co-editor Alexia Tsotsis at TechCrunch Disrupt today.</p>
+<p>&#8220;Competition is good,&#8221; Kalanick said. &#8220;If somebody can offer value at a cheaper price, they should. But that also means Uber should, too.&#8221;</p>
+<p>Tsotsis asked Kalanick for exact numbers on Uber&#8217;s size and Kalanick said Uber is doing hundreds of thousands of hours per week in total rides.</p>
+<p>&#8220;Competition is fun,&#8221; Kalanick said. &#8220;That shit is fun. Let&#8217;s go.&#8221;</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/tbtzJ5GaMMc/">here</a>.
