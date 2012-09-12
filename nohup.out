@@ -21872,3 +21872,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master 5752b23] adding new article
+ 3 files changed, 43 insertions(+), 1 deletions(-)
+ create mode 100644 "articles/1347489908000_CloudFlare\342\200\231s Exploding Growth Half A Trillion Pageviews All-Time, 70B Monthlies, 500M Uniques.txt"
+
+Stderr: To git@github.com:hughht5/Guido.git
+   3ddf4d0..5752b23  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"mhFgt+7exhbn+3vMVaJTY0P7dS0","last-modified":"Wed, 12 Sep 2012 22:50:05 GMT","date":"Wed, 12 Sep 2012 22:50:56 GMT","expires":"Wed, 12 Sep 2012 22:50:56 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
