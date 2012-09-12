@@ -8310,3 +8310,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master 785c14c] adding new article
+ 2 files changed, 40 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1347477205000_Apple Offers Lightning to 30-Pin Adapters For $29 And $39, Both Ship In October.txt
+
+Stderr: To git@github.com:hughht5/Guido.git
+   45f6153..785c14c  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"vA/S/Jo+iWf8q0gqqtu3Ui+Q+YM","last-modified":"Wed, 12 Sep 2012 19:13:40 GMT","date":"Wed, 12 Sep 2012 19:14:26 GMT","expires":"Wed, 12 Sep 2012 19:14:26 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
