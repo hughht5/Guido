@@ -1,0 +1,18 @@
+{
+"title" : "Spinlister Makes It Into Disrupt Battlefield With It’s ‘Airbnb For Bikes’",
+"date" : "09/12/2012",
+"author" : "Mike Butcher"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/img_0536.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="IMG_0536" title="IMG_0536" style="float: left; margin: 0 10px 7px 0;" /><p>Peer-to-peer bike rental service <a target="_blank" href="https://www.spinlister.com/">Spinlister</a> was chosen by the audience from amongst the Startup Alley companies today to pitch on stage as part of the TechCrunch Disrupt Battlefield in San Francisco this week.</p>
+<p>There are over 100 million bikes in the US and over a billion on the planet. But most bikes are not used daily, meaning there&#8217;s plenty of opportunity to meet demand. Normal bike rental from a store costs about $16 a day. On Spinlister you can rent a bike from $5 a day up to about $100 for a really nice bike. They are now in 275 cities in 40 countries with over 2,000 bikes listed.</p>
+<p>Founded in May 2011, Spinlister is a peer-to-peer bike rental company allowing people to rent a bike online, either from other individuals or existing bike rental shops. It&#8217;s like an Airbnb for bikes. Pretty handy if you&#8217;re a tourist in a city. However it obviously needs lots of people to participate. So far it&#8217;s launched in San Francisco and New York but it announced on stage at Disrupt that it&#8217;s prepping a national launch this Fall and a new mobile app is in the works. International plans are also on the way. </p>
+<p></p>
+<p>Although it&#8217;s only being available in those two cities, back in May it managed to garner about 400 and over 2,000 from bike rental shops. Plus it&#8217;s reached bike renters in six continents globally. </p>
+<p>In the first six weeks after its launch about 25 percent of listers completed a rental, and of those, about 25 percent did multiple rentals. That means those users make an average of $50 each renting out their bike. The more popular your bike the more rents you get, with some people making up to $100 a week. Spinlister also now offers a guarantee which insures your bike for up to $5,000, which helps with traction obviously.</p>
+<p>The next stage is to decrease fulfillment times by getting renters and listers interacting.</p>
+<p>So far Spinlister has raised $225,000 in seed funding from Angels.</p>
+<p>Judges asked why the company did not start with mobile, but the team said the small team of three had come from a Web background and were now adding a mobile engineer to develop the mobile side. The team is also looking a &#8216;recreational enthusiasts&#8217;.</p>
+<p></p>
+			<script type="text/javascript" src="http://pshared.5min.com/Scripts/PlayerSeed.js?sid=577&amp;width=640&amp;height=450&amp;colorPallet=%230A9600&amp;hasCompanion=false&amp;relatedMode=2&amp;videoControlDisplayColor=%23000000&amp;playList=517476478&amp;shuffle=0&amp;videoGroupID=133503&amp;autoStart=false&amp;playerActions=16407"></script>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/ZLgtPzzXvwM/">here</a>.
