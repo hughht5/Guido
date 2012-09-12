@@ -5,33 +5,43 @@ var parser = new xml2js.Parser();
 var querystring = require('querystring');
 var exec = require('child_process').exec;
 
-console.log("About to download TechCrunch main feed.");
+
+//download feeds every 2 minutes
+setInterval(function(){
+      downloadFeeds();
+},120000);
+
 //download feed
+function downloadFeeds(){
 
-var options = {
-  host: 'feeds.feedburner.com',
-  port: 80,
-  path: '/TechCrunch',
-  method: 'GET'
-};
+	console.log("Updating TechCrunch main feed.");
 
-http.get(options, function(res) {
-	console.log("Got response: " + res.statusCode);
-	console.log('STATUS: ' + res.statusCode);
-	console.log('HEADERS: ' + JSON.stringify(res.headers));
-	res.setEncoding('utf8');
-	var pageData = "";
-	res.on('data', function (chunk) {
-		pageData += chunk;
+	var options = {
+	  host: 'feeds.feedburner.com',
+	  port: 80,
+	  path: '/TechCrunch',
+	  method: 'GET'
+	};
+
+	http.get(options, function(res) {
+		console.log("Got response: " + res.statusCode);
+		console.log('STATUS: ' + res.statusCode);
+		console.log('HEADERS: ' + JSON.stringify(res.headers));
+		res.setEncoding('utf8');
+		var pageData = "";
+		res.on('data', function (chunk) {
+			pageData += chunk;
+		});
+		
+		res.on('end', function(){
+			parse(pageData);
+		});
+
+	}).on('error', function(e) {
+		console.log("Got error: " + e.message);
 	});
-	
-	res.on('end', function(){
-		parse(pageData);
-    });
 
-}).on('error', function(e) {
-	console.log("Got error: " + e.message);
-});
+}
 
 //parse xml, convert it to JSON, and extract blog feeds.
 function parse(xml){
