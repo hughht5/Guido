@@ -5,7 +5,7 @@ var parser = new xml2js.Parser();
 var querystring = require('querystring');
 var exec = require('child_process').exec;
 
-
+console.log("About to download TechCrunch main feed.");
 //download feed
 http.get("http://feeds.feedburner.com/TechCrunch/", function(res) {
 	console.log("Got response: " + res.statusCode);
