@@ -14,9 +14,9 @@
 <li>As expected, Apple has also unveiled a brand new chipset for the iPhone 5:<strong> the A6</strong>, which Schiller says is a full two times faster than the A5 chip in the iPhone 4S</li>
 <li>The iPhone 4S&#8217;s battery life wasn&#8217;t anything to write home about, but the iPhone 5 seems equipped to do much better &#8212; 8 hours of 3G talk time, as well as 8 hours of 3G and LTE web browsing to be precise.</li>
 </ul>
-<h4>Camera/h4&gt;</p>
+<h4>Camera</h4>
 <ul>
 <li>Smartphone cameras are really starting to give their point-and-shoot brethren a run for their money (think Nokia’s PureView and HTC’s ImageSense tech), but instead of running up the megapixel count, Apple has stuck with an <strong>8-megapixel camera</strong>. That said, the backside-illuminated sensor is smaller, and features much better low-light performance (finally!). App developers may be bummed to know that the camera now also has a built-in panorama mode </li>
 </ul>
-<p><em>This is a developing story, please refresh for updates.</em></h4>
+<p><em>This is a developing story, please refresh for updates.</em></p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/9QmdFQXgUTk/">here</a>.
