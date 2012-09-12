@@ -1,0 +1,15 @@
+{
+"title" : "Pick1 Raises $1 Million For Opinions Database",
+"date" : "Wed, 12 Sep 2012 23:52:05 +0000",
+"author" : "Alex Williams"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/pick1.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="pick1" title="pick1" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.pick1.com/">Pick1</a> has raised $1 million from private investors for its opinions database and automated market research platform that serves as an open graph for opinions.</p>
+<p>The investment is what the founders say represents a bridge round for future funding. It includes a $535,000 investment led by ChileGlobal Angels that brings the aggregated investment raised to date to $1 million. Among the investors are Oliver Flogel, former CEO of Telefonica Chile; Jordi Ferrer, former head of digital at TNS Global; Wilson Pais, head of innovation of Microsoft and Gonzalo Begazo, former Finance Manager of Google. The company is based in San Francisco but the founders, both from Italy, participated in <a target="_blank" href="http://startupchile.org/">StartupChile</a> in the past year.</p>
+<p>Pick1 has built a service that gives people the capability to get people&#8217;s opinions from Facebook and other sites to ask questions, get insights and take actions. In many respects it is a big data play that provides a way to query people on social networks and online. Company executives call it a &#8220;new undiscovered data set uniquely positioning itself as the “sweet spot” between market research and advertising.&#8221;</p>
+<p>Pick1 makes it easy for companies to post questions. For instance, a customer can use a Facebook mobile app that includes a module for asking questions. Responses are real-time.</p>
+<p>The real opportunity for Pick1 seems to be its ability to build an opinions database. The Pick1 technology makes it simple to see what preferences people have for any variety of topics. Customers are now starting to purchase data related to those topics. One of the possibilities is to sell data to media agencies that Pick1 collects.</p>
+<p>Customers pay for the data they collect. Pricing starts as low as 5 cents per question.</p>
+<p>Competitors that Pick1 face include <a target="_blank" href="http://www1.peanutlabs.com/">Peanut Labs</a> and <a target="_blank" href="http://aytm.com/">Ask Your Target Market</a>.</p>
+<p>Pick1&#8242;s biggest challenge is staying a step ahead of big data analytics companies that can provide similar forms of analysis. There are lots of companies vying in the analytics space. Several have significant investments.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/oLWQTlny5yo/">here</a>.
