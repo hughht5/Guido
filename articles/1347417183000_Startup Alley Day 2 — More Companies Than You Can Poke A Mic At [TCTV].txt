@@ -1,6 +1,6 @@
 {
 "title" : "Startup Alley Day 2 — More Companies Than You Can Poke A Mic At [TCTV]",
-"date" : "09/12/2012",
+"date" : "Wed, 12 Sep 2012 02:33:03 +0000",
 "author" : "Mike Butcher"
 }
 

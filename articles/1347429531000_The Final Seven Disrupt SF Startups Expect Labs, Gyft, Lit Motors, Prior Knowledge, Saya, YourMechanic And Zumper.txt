@@ -1,6 +1,6 @@
 {
 "title" : "The Final Seven Disrupt SF Startups Expect Labs, Gyft, Lit Motors, Prior Knowledge, Saya, YourMechanic And Zumper",
-"date" : "09/12/2012",
+"date" : "Wed, 12 Sep 2012 05:58:51 +0000",
 "author" : "Eric Eldon and Alexia Tsotsis"
 }
 

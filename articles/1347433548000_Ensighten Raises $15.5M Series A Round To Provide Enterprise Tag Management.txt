@@ -1,6 +1,6 @@
 {
 "title" : "Ensighten Raises $15.5M Series A Round To Provide Enterprise Tag Management",
-"date" : "09/12/2012",
+"date" : "Wed, 12 Sep 2012 07:05:48 +0000",
 "author" : "Darrell Etherington"
 }
 

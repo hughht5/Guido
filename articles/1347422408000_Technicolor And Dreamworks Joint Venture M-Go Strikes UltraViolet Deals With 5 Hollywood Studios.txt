@@ -1,6 +1,6 @@
 {
 "title" : "Technicolor And Dreamworks Joint Venture M-Go Strikes UltraViolet Deals With 5 Hollywood Studios",
-"date" : "09/12/2012",
+"date" : "Wed, 12 Sep 2012 04:00:08 +0000",
 "author" : "Ryan Lawler"
 }
 

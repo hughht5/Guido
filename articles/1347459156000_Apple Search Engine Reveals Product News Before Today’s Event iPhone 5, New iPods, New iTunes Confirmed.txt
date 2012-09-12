@@ -1,6 +1,6 @@
 {
 "title" : "Apple Search Engine Reveals Product News Before Today’s Event iPhone 5, New iPods, New iTunes Confirmed",
-"date" : "09/12/2012",
+"date" : "Wed, 12 Sep 2012 14:12:36 +0000",
 "author" : "Sarah Perez"
 }
 

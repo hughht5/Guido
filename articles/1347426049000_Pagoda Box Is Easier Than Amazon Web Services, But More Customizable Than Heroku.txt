@@ -1,6 +1,6 @@
 {
 "title" : "Pagoda Box Is Easier Than Amazon Web Services, But More Customizable Than Heroku",
-"date" : "09/12/2012",
+"date" : "Wed, 12 Sep 2012 05:00:49 +0000",
 "author" : "Klint Finley"
 }
 

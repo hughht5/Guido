@@ -1,6 +1,6 @@
 {
 "title" : "Open Garden, A TechCrunch Disrupt Battlefield Finalist, Raises $2M Seed Round",
-"date" : "09/12/2012",
+"date" : "Wed, 12 Sep 2012 11:30:46 +0000",
 "author" : "Frederic Lardinois"
 }
 

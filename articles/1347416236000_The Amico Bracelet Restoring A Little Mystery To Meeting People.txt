@@ -1,6 +1,6 @@
 {
 "title" : "The Amico Bracelet Restoring A Little Mystery To Meeting People",
-"date" : "09/12/2012",
+"date" : "Wed, 12 Sep 2012 02:17:16 +0000",
 "author" : "Jay Donovan"
 }
 

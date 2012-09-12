@@ -1,6 +1,6 @@
 {
 "title" : "Evergram Founder Pitches His Meaningful Message Packager Wearing A Wedding Dress",
-"date" : "09/12/2012",
+"date" : "Wed, 12 Sep 2012 02:18:02 +0000",
 "author" : "Billy Gallagher"
 }
 

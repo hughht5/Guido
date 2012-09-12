@@ -1,6 +1,6 @@
 {
 "title" : "Quora Co-Founder Charlie Cheever Steps Back From Day-To-Day Role At The Company",
-"date" : "09/12/2012",
+"date" : "Wed, 12 Sep 2012 01:51:56 +0000",
 "author" : "Kim-Mai Cutler"
 }
 

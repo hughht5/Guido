@@ -1,6 +1,6 @@
 {
 "title" : "Preparing For An IPO, Online Customer Service Platform Zendesk Raises $60M From Redpoint, Goldman Sachs And Others",
-"date" : "09/12/2012",
+"date" : "Wed, 12 Sep 2012 12:59:06 +0000",
 "author" : "Leena Rao"
 }
 

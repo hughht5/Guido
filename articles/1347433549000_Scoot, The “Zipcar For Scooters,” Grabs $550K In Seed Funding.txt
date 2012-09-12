@@ -1,6 +1,6 @@
 {
 "title" : "Scoot, The “Zipcar For Scooters,” Grabs $550K In Seed Funding",
-"date" : "09/12/2012",
+"date" : "Wed, 12 Sep 2012 07:05:49 +0000",
 "author" : "Sarah Perez"
 }
 

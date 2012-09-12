@@ -1,6 +1,6 @@
 {
 "title" : "Amazon Tries Its Hand At More Original (And Crowdsourced) Content With Blackburn Burrow Digital Comic",
-"date" : "09/12/2012",
+"date" : "Wed, 12 Sep 2012 13:30:05 +0000",
 "author" : "Ingrid Lunden"
 }
 
