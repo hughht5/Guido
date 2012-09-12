@@ -12838,3 +12838,36 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master d0e73fa] adding new article
+ 3 files changed, 70 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1347480936000_Startup Alley A Run Through The Israeli Pavilion At TechCrunch Disrupt.txt
+ create mode 100644 articles/1347481550000_Ford CTO Paul Mascarenas On The Car Of The Future Green, Automated, Maybe Not Even A Car.txt
+
+Stderr: To git@github.com:hughht5/Guido.git
+   0a4a5bf..d0e73fa  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"e9lmHFmbINsG+fiUq3qHFB8dLck","last-modified":"Wed, 12 Sep 2012 20:26:25 GMT","date":"Wed, 12 Sep 2012 20:26:56 GMT","expires":"Wed, 12 Sep 2012 20:26:56 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
