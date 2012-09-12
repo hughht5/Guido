@@ -4,7 +4,7 @@
 "author" : "Klint Finley"
 }
 
-<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2008/07/godaddylogo.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Image (1) godaddylogo.png for post 20123" title="Image (1) godaddylogo.png for post 20123" style="float: left; margin: 0 10px 7px 0;" /><p>Following its <a href="http://techcrunch.com/2012/09/11/godaddy-says-it-wasnt-anonymous-it-wasnt-a-hack-it-wasnt-a-ddos-it-was-internal-network-issues/">lengthy outage</a> on Monday, hosting provider <a target="_blank" href="http://godaddy.com">GoDaddy</a> today sent an e-mail to customers containing a mea culpa and a credit good for one month of free service for each &#8220;active/published&#8221; site the customer hosts with GoDaddy.</p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/godaddy-logo.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="GoDaddy" title="GoDaddy" style="float: left; margin: 0 10px 7px 0;" /><p>Following its <a href="http://techcrunch.com/2012/09/11/godaddy-says-it-wasnt-anonymous-it-wasnt-a-hack-it-wasnt-a-ddos-it-was-internal-network-issues/">lengthy outage</a> on Monday, hosting provider <a target="_blank" href="http://godaddy.com">GoDaddy</a> today sent an e-mail to customers containing a mea culpa and a credit good for one month of free service for each &#8220;active/published&#8221; site the customer hosts with GoDaddy.</p>
 <p>The e-mail also reiterated that the outage was due to internal network issues that corrupted DNS tables, and that no customer information was compromised.</p>
 <p>Here&#8217;s the e-mail from GoDaddy a couple tipsters forwarded us:</p>
 <p></p>
