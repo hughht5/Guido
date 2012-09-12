@@ -3320,3 +3320,36 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master 698a983] adding new article
+ 5 files changed, 82 insertions(+), 2 deletions(-)
+ create mode 100644 articles/1347472385000_Apple Shows Off Panoramic Photos, Better Photo Sharing In New iPhone.txt
+ create mode 100644 "articles/1347472397000_Apple\342\200\231s iOS 6 Facebook, Maps, Passbook, Photo Sharing, Siri And More.txt"
+
+Stderr: To git@github.com:hughht5/Guido.git
+   0ce0b44..698a983  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"8Od8J6YeUuUfGYBKdxSHR4CnEL0","last-modified":"Wed, 12 Sep 2012 17:53:32 GMT","date":"Wed, 12 Sep 2012 17:54:26 GMT","expires":"Wed, 12 Sep 2012 17:54:26 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
