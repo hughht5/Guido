@@ -11502,3 +11502,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master dbb5481] adding new article
+ 2 files changed, 43 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1347480223000_Future Of Commerce Enough With The Subscription Model Already.txt
+
+Stderr: To git@github.com:hughht5/Guido.git
+   8121468..dbb5481  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"gdTZ8lG1MlhmUArT+cp7tSRKZjk","last-modified":"Wed, 12 Sep 2012 20:04:55 GMT","date":"Wed, 12 Sep 2012 20:05:26 GMT","expires":"Wed, 12 Sep 2012 20:05:26 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
