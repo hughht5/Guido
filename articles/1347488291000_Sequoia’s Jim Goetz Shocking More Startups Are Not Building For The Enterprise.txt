@@ -12,4 +12,5 @@
 <p>&#8220;It is almost blue ocean,&#8221; Goetz said.</p>
 <p>Palo Alto Networks Founder Nir Zuk came on stage to join Goetz. He said it takes two years to build an enterprise product. It takes two months to build a consumer service.</p>
 <p>&#8220;How can you be proud of that?&#8221; Zuk asked.</p>
+	<iframe src="http://www.snappytv.com/snap/fireside-chat-with-sequoia-capitas-jim-goetz-about-techcrunch-disrupt-sf-2012-wednesday-afternoon-full-sessions-on-disrupt-sf-2012-full-sessions?w=640&h=403" width="640" height="403" frameborder='0' scrolling='no' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/H76F2CI1UjA/">here</a>.
