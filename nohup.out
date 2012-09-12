@@ -6752,3 +6752,36 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master 2f57ee3] adding new article
+ 3 files changed, 52 insertions(+), 0 deletions(-)
+ create mode 100644 "articles/1347475635000_Investor And Director Greg Yaitanes Releases \342\200\230Banshee\342\200\231 Promo.txt"
+ create mode 100644 "articles/1347475668000_Apple Shows Off Virtual Pet Clumsy Ninja To Demo New iPod Touch\342\200\231s Gaming Power.txt"
+
+Stderr: To git@github.com:hughht5/Guido.git
+   826dcfb..2f57ee3  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"3rC4R7nfF89vflmzxpLIetEsgUU","last-modified":"Wed, 12 Sep 2012 18:48:41 GMT","date":"Wed, 12 Sep 2012 18:49:26 GMT","expires":"Wed, 12 Sep 2012 18:49:26 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
