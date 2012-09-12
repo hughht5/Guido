@@ -127,7 +127,7 @@ function postToGlog(posts){
 	function complete(){
 		if (!waiting) {
 			console.log("hugh done!");
-			exec('git add *', function(error, stdout, stderr) { //; git commit -a -m "adding new article: '+posts[x].title+'"; git push
+			exec('git add *; git commit -a -m "adding new article: '+posts[x].title+'"; git push', function(error, stdout, stderr) {
 				if(error) {
 					console.log('Could not commit and push new articles: ' + error);
 				}
