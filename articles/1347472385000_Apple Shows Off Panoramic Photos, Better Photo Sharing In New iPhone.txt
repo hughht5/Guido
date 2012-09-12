@@ -1,0 +1,10 @@
+{
+"title" : "Apple Shows Off Panoramic Photos, Better Photo Sharing In New iPhone",
+"date" : "Wed, 12 Sep 2012 17:53:05 +0000",
+"author" : "Sarah Perez"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/shared-photo-streams.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="shared-photo streams" title="shared-photo streams" style="float: left; margin: 0 10px 7px 0;" /><p>Apple is <a href="http://techcrunch.com/2012/09/12/join-us-live-at-1pm-eastern10am-pacific-for-apples-iphone-announcement">showing off</a> the new iPhone 5 camera this morning, which is essentially the same as the iPhone 4S&#8217;s camera, but packed into thinner housing. The camera offers an 8-megapixel sensor, a 5-element lens and f/2.4 aperture, and it includes a dynamic low light mode and 40% faster image capture. But the more intriguing thing about the camera and the accompanying photo album features, is that Apple is again encroaching on app developers&#8217; territory with the addition of things like support for panoramic photos and shared photo streams.</p>
+<p>We heard about these features previously, but now they&#8217;re official. The Shared Photo Streams feature is arguably the most practical addition, since previously sharing photos by email limited users to sending 5 photos at a time. MMS&#8217;ing photos is also not ideal. Photo Streams allow users to share a set of photos &#8211; something which a number of iOS apps allow for today. For some apps, sharing photos is all they do. Apple&#8217;s message to developers: if the only thing your app does is make it easier for iOS users to share photos, it&#8217;s time to retool and rethink.</p>
+<p>The Panoramic photos feature can now product a 28-megapixel image, which is also impressive. And yep, apps like 360 Panorama will now have to convince their user base that they&#8217;re offering a better alternative to Apple&#8217;s default here. </p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/F8F2B_iXb_8/">here</a>.

@@ -14,7 +14,7 @@
 <li>As expected, Apple has also unveiled a brand new chipset for the iPhone 5:<strong> the A6</strong>, which Schiller says is a full two times faster than the A5 chip in the iPhone 4S</li>
 <li>The iPhone 4S&#8217;s battery life wasn&#8217;t anything to write home about, but the iPhone 5 seems equipped to do much better &#8212; 8 hours of 3G talk time, as well as 8 hours of 3G and LTE web browsing to be precise.</li>
 <li>The iPhone’s audio system has been bolstered with a smaller (but improved speaker). There are also now three microphones in the mix: one on the front, one on the back, and another on the bottom.</li>
-<li>That oft-rumored miniature Dock Connector is real, and it&#8217;s called &#8220;Lightning.&#8221; Yes, there&#8217;s an adapter for it, but no word yet on exactly what it will cost you.</li>
+<li>That oft-rumored miniature Dock Connector is real: it&#8217;s all-digital, has eight pins and it&#8217;s called &#8220;Lightning.&#8221; Yes, there&#8217;s an adapter for it, but no word yet on exactly what it will cost you.</li>
 <li>Despite what a handful of leaks pointed to in the weeks leading up to the event, there&#8217;s been no mention of an integrated NFC chip yet.</li>
 </ul>
 <p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/09/i5camera.jpg" rel="lightbox[648926]"></a></p>
