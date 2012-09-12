@@ -980,3 +980,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master 3056b36] adding new article
+ 4 files changed, 44 insertions(+), 3 deletions(-)
+ create mode 100644 articles/NaN_The PC Is Dead Apple Announces Steller iPad Sales Numbers.txt
+
+Stderr: To git@github.com:hughht5/Guido.git
+   5456d11..3056b36  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"5MNhz7YfGWQw+Qrt9zJscWdNs4g","last-modified":"Wed, 12 Sep 2012 17:16:45 GMT","date":"Wed, 12 Sep 2012 17:16:55 GMT","expires":"Wed, 12 Sep 2012 17:16:55 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
