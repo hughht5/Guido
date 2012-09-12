@@ -6,6 +6,7 @@
 
 <img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/macbook-pro110221210702.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="macbook-pro110221210702" title="macbook-pro110221210702" style="float: left; margin: 0 10px 7px 0;" /><p>Last March at WWDC, Apple announced that it had sold <a href="http://techcrunch.com/2012/06/11/apple-wwdc2012-iphones-ipads-sold/">over 365 million iOS devices</a> globally since March 2012. But perhaps more important, Apple has just announced that its number 1 in US notebook sales. </p>
 <p>Mountain Lion, the newest version of OS X, has also been installed on 7 million devices. </p>
-<p>But Tim Cook also took the time to talk about iOS devices, announcing that 17 million iPads were sold between April and June, bringing the total to 84 million. </p>
+<p>But Tim Cook also took the time to talk about iOS device sales, announcing that the iPad has seen 17 million units sold between April and June. That brings us to a total of 84 million iPad sales. </p>
+<p>That&#8217;s &#8220;more iPads than any PC manufacturer sold of their entire lineup,&#8221; said Tim Cook. </p>
 <p><em>Developing&#8230;</em></p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/xEHMkiGYYik/">here</a>.
