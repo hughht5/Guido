@@ -2013,3 +2013,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master dc7471d] adding new article
+ 2 files changed, 42 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1347471135000_The iPhone 5 Comes With Ultra Fast Wireless LTE Around The World And 802.11n Dual Channel Wi-Fi.txt
+
+Stderr: To git@github.com:hughht5/Guido.git
+   18c6619..dc7471d  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"ommVZ6VNxUVxcbsIWL+U7neHwPA","last-modified":"Wed, 12 Sep 2012 17:32:48 GMT","date":"Wed, 12 Sep 2012 17:33:26 GMT","expires":"Wed, 12 Sep 2012 17:33:26 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
