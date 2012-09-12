@@ -4,7 +4,7 @@
 "author" : "Drew Olanoff"
 }
 
-<p>Twitter wants to make money, make no mistake about it. Today, the company announced some tweaks to its marketing tools which will allow brands to geo-target folks to reach out to on the platform.</p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/2062982712_bef4e6a105_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="2062982712_bef4e6a105_z" title="2062982712_bef4e6a105_z" style="float: left; margin: 0 10px 7px 0;" /><p>Twitter wants to make money, make no mistake about it. Today, the company announced some tweaks to its marketing tools which will allow brands to geo-target folks to reach out to on the platform.</p>
 <p>Here&#8217;s what the <a target="_blank" href="http://advertising.twitter.com/2012/09/new-enhanced-geo-targeting-for-marketers.html">team had to say on its blog</a>:</p>
 <p><em>To help marketers reach relevant audiences around the globe with ever-greater precision, today we’re unveiling some enhancements to our geo-targeting capabilities for Promoted Tweets and Promoted Accounts. </p>
 <p>If you are looking to reach users in the UK and Japan, you will now find additional location options to target — including UK regions and major metropolitan areas, and several major areas in Japan such as the Tokyo region (Kanto), Osaka area (Kinki) and Nagoya area (Chubhu). In addition, we have added US states.</em></p>
