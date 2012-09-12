@@ -16,4 +16,6 @@
 <p>Some of the new things that Khosla&#8217;s firm is getting into is the consumerization of healthcare, and he has discussed some of the new companies he&#8217;s investing in, including smart chips and apps that help you track your vital signs.</p>
 <p>At the end of the day, Vinod Khosla doesn&#8217;t even like to refer to himself as a venture capitalist:</p>
 <blockquote><p>I don&#8217;t consider myself a VC, I consider myself a mentor.</p></blockquote>
+<p>Other organizations clearly do things differently, including Y Combinator. Give this piece a read for more details:</p>
+<p><a target="_blank" href="http://tcrn.ch/QGx0ZS">I Feel Sad Sometimes For Y Combinator Companies That Get So Much Hype</a></p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/hDC_wEKgHKA/">here</a>.
