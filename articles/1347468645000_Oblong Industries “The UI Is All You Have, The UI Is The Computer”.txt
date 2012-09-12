@@ -11,7 +11,7 @@
 <p>The two are talking about the gestures the company allows people to use to interact with their computer, which is actually really awesome.</p>
 <blockquote><p>Our thesis is that there is a huge increase in the number of pixels we have available to us at all times, on screens, our phones and people need to interact with those pixels in a more fluid way. We&#8217;ve designed a gestural system directly from John&#8217;s work with &#8220;Minority Report&#8221;</p></blockquote>
 <p>Constine has had a play with Oblong&#8217;s technology and discussed how you interact with the interfaces with simple movements, taking the difficulty out of consumer computing.</p>
-<p>High-bandwidth between users and machines is what Oblong things will change our interaction with technology. The company is obsessively focused on UI and the duo says &#8220;The UI is the computer.&#8221; Its technology is used in all different verticals, including customers that manage oil reservoir.</p>
-<blockquote><p>The smartest computer in the room is always in someones head.</p></blockquote>
+<p>High bandwidth between users and machines is what Oblong thinks will change our interaction with technology. The company is obsessively focused on UI and the duo says &#8220;The UI is the computer.&#8221; Its technology is used in all different verticals, including customers that manage oil reservoir.</p>
+<blockquote><p>The smartest computer in the room is always in someone&#8217;s head.</p></blockquote>
 	<iframe src="http://www.snappytv.com/snap/founders-stories-with-kwindla-kramer-and-john-underkoffer-of-about-techcrunch-disrupt-sf-2012-wednesday-morning-full-sessions-on-disrupt-sf-2012-full-sessions?w=640&h=403" width="640" height="403" frameborder='0' scrolling='no' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/pe7ZvbuyC-8/">here</a>.
