@@ -108,22 +108,24 @@ function postToGlog(posts){
 		posts[x].content = addJSONHeader(posts[x]);
 		
 		//write post to file
-		fs.writeFile("articles/"+posts[x].title+".txt", posts[x].content, function(err) {
+		fs.writeFileSync("articles/"+posts[x].title+".txt", posts[x].content, function(err) {
 			if(err) {
 				console.log(err);
 			} else {
-				//execute git push
-				exec('git add *', function(error, stdout, stderr) { //; git commit -a -m "adding new article: '+posts[x].title+'"; git push
-					if(error) {
-						console.log('Could not commit and push new articles: ' + error);
-					}
-					console.log('Stdout: ' + stdout);
-					console.log('Stderr: ' + stderr);
-					
-				});
+				
 			}
 		});
 	}
+	
+	//execute git push
+	exec('git add *', function(error, stdout, stderr) { //; git commit -a -m "adding new article: '+posts[x].title+'"; git push
+		if(error) {
+			console.log('Could not commit and push new articles: ' + error);
+		}
+		console.log('Stdout: ' + stdout);
+		console.log('Stderr: ' + stderr);
+		
+	});
 }
 
 /*
