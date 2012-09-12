@@ -4756,3 +4756,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master 1adfca9] adding new article
+ 5 files changed, 52 insertions(+), 7 deletions(-)
+ create mode 100644 articles/1347473795000_Hackers, Start Your Engines Y Combinator Now Accepting Applications For Its Winter 2013 Class.txt
+
+Stderr: To git@github.com:hughht5/Guido.git
+   84253ca..1adfca9  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"QxQY1twA6/XoS92fbxtIs+399lU","last-modified":"Wed, 12 Sep 2012 18:16:53 GMT","date":"Wed, 12 Sep 2012 18:17:26 GMT","expires":"Wed, 12 Sep 2012 18:17:26 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
