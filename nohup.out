@@ -15976,3 +15976,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master 576cec2] adding new article
+ 3 files changed, 44 insertions(+), 1 deletions(-)
+ create mode 100644 "articles/1347484492000_Vinod Khosla of Khosla Ventures It\342\200\231s Not About Funding The Company, It\342\200\231s About Helping Them.txt"
+
+Stderr: To git@github.com:hughht5/Guido.git
+   62ffcda..576cec2  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"8p0CzTDP2YKyaZhfeP5Fnv5m8f4","last-modified":"Wed, 12 Sep 2012 21:16:46 GMT","date":"Wed, 12 Sep 2012 21:17:26 GMT","expires":"Wed, 12 Sep 2012 21:17:26 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
