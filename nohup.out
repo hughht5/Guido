@@ -13429,3 +13429,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master 4335f2d] adding new article
+ 2 files changed, 44 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1347482105000_With iOS 6 Integration, Facebook Set To Accelerate Mobile Success.txt
+
+Stderr: To git@github.com:hughht5/Guido.git
+   8ccb6d8..4335f2d  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"+y9f9CDW+0d5EVbpa5mNNkGNItk","last-modified":"Wed, 12 Sep 2012 20:35:29 GMT","date":"Wed, 12 Sep 2012 20:36:26 GMT","expires":"Wed, 12 Sep 2012 20:36:26 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
