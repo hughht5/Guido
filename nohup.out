@@ -20942,3 +20942,34 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master 675020b] adding new article
+ 2 files changed, 32 insertions(+), 1 deletions(-)
+
+Stderr: To git@github.com:hughht5/Guido.git
+   9d92132..675020b  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"xUYkGLnqK7IhXHCwI6z4IxSnMQA","last-modified":"Wed, 12 Sep 2012 22:35:38 GMT","date":"Wed, 12 Sep 2012 22:35:56 GMT","expires":"Wed, 12 Sep 2012 22:35:56 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
