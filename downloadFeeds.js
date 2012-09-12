@@ -112,7 +112,7 @@ function postToGlog(posts){
 			if(err) {
 				console.log(err);
 			} else {
-				
+				console.log("written file");
 			}
 		});
 	}
