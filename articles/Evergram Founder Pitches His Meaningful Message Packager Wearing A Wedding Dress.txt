@@ -1,0 +1,12 @@
+{
+"title" : "Evergram Founder Pitches His Meaningful Message Packager Wearing A Wedding Dress",
+"date" : "09/12/2012",
+"author" : "Billy Gallagher"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/screen-shot-2012-09-11-at-7-21-35-pm.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-09-11 at 7.21.35 PM" title="Screen Shot 2012-09-11 at 7.21.35 PM" style="float: left; margin: 0 10px 7px 0;" />			<script type="text/javascript" src="http://pshared.5min.com/Scripts/PlayerSeed.js?sid=577&amp;width=640&amp;height=450&amp;colorPallet=%230A9600&amp;hasCompanion=false&amp;relatedMode=2&amp;videoControlDisplayColor=%23000000&amp;playList=517476482&amp;shuffle=0&amp;videoGroupID=133503&amp;autoStart=false&amp;playerActions=16407"></script>
+<p>Think about when you go to a wedding (in my ripe old age, I have been to one) and you jot down a note in a big book for the couple. Imagine if instead you could record a video or audio message (or be boring and stick to the text) for them. That&#8217;s what Evergram offers.</p>
+<p>My interest in <a target="_blank" href="https://www.evergram.com/">Evergram</a> was first piqued when I saw co-founder Duncan Seay standing in Startup Alley in a full wedding dress today. I figured talking to this nutjob would be a funny break from a long day of writing. Instead, I was pitched by a very shrewd entrepreneur publicizing his company in an amusing way.</p>
+<p>The company&#8217;s current beta service is a wedding website, but it plans to expand to an iOS app in October and to include all occasions in the fall.</p>
+<span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/09/11/evergram-founder-pitches-his-meaningful-message-packager-wearing-a-wedding-dress/"></a></span>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/12APCO6rxSo/">here</a>.
