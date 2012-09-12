@@ -154,7 +154,7 @@ function postToGlog(posts){
  * Add JSON header for Glog posts.
  */
 function addJSONHeader(post){
-	return '{\n"title" : "'+post.title+'",\n"date" : "'+formatTime(post.pubDate)+'",\n"author" : "'+post.author+'"\n}\n\n'+post.content;
+	return '{\n"title" : "'+post.title+'",\n"date" : "'+post.pubDate+'",\n"author" : "'+post.author+'"\n}\n\n'+post.content;
 }
 
 function postToBlogger(posts){
