@@ -1,0 +1,17 @@
+{
+"title" : "Apple Officially Reveals The iPhone 5 4-Inch Retina Display, New A6 Chip, 20% Lighter Than iPhone 4S",
+"date" : "Wed, 12 Sep 2012 17:14:18 +0000",
+"author" : "Chris Velazco"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/iphone5-2.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="iphone5-2" title="iphone5-2" style="float: left; margin: 0 10px 7px 0;" /><p>And just like that, months and months of breathless speculation have finally come to an end. Apple’s Phil Schiller has just officially announced the new iPhone 5 at the company’s massive press event here in San Francisco, less than a year since its predecessor was unveiled.</p>
+<p>Some of the news won’t come as much of a shock considering the sheer volume of rumors and leaks lately (even<a href="http://techcrunch.com/2012/09/12/whoops-apple-search-engine-is-revealing-product-news-before-todays-event-iphone-5-new-ipods-new-itunes-confirmed/"> Apple let some details slip</a> earlier today) &#8212; I’m going to resist the temptation to pontificate on every new feature as it&#8217;s revealed (for now, anyway), so let’s get right down to it.</p>
+<h4>The iPhone 5</h4>
+<ul>
+<li>We can finally put the debate to rest — Apple’s newest mobile juggernaut is called the iPhone 5 (despite actually being the sixth iPhone to hit the market). It&#8217;s 20% lighter than the iPhone 4S, and 18% thinner to boot &#8212; not bad at all.</li>
+<li>The long-rumored (and handsome) two-toned design is indeed legitimate, as is the new iPhone’s larger 4-inch Retina Display. And yes, that display runs at 1136 by 640. According to Schiller, it&#8217;s &#8220;the most accurate display in the industry&#8221; because the touch sensors are embedded in the display as well.</li>
+<li>It’s hardly a surprise at this point, but the iPhone 5 packs support for Sprint, Verizon, and AT&amp;T&#8217;s LTE networks here in the States.</li>
+<li>As expected, Apple has also unveiled a brand new chipset for the iPhone 5: the A6, which Schiller says is a full two times faster than the A5 chip in the iPhone 4S</li>
+</ul>
+<p><em>This is a developing story, please refresh for updates.</em></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/9QmdFQXgUTk/">here</a>.
