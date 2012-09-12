@@ -8,6 +8,7 @@
 <p>You can switch back to a more traditional interface with listings of your music available and browse by artist. The interface is much clearer with pop-up elements that look like iOS. Search was improved.</p>
 <p>A new feature called &#8220;Up next&#8221; will be available. The name suggests that it should work like the queue feature in Spotify. </p>
 <p>The mini-player was redesigned. You can now search directly from the mini-player and even manage playlists. The iTunes Store was redesigned as well and looks a lot like the different stores on iOS. It remains to be confirmed whether the software was redeveloped from the ground up to get rid of the sluggishness of the current version.</p>
+<p>Artists can share photos directly into people&#8217;s iTunes library. By doing this, Apple is probably stating that Ping is now dead.</p>
 <p>The updated software will be available in late October.</p>
 <p><i>Developing…</i></p>
 <p><a target="_blank" href="http://www.techcrunch.com/tag/iphone"></a></p>
