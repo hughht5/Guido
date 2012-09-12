@@ -1012,3 +1012,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master 8f93c78] adding new article
+ 4 files changed, 43 insertions(+), 2 deletions(-)
+ create mode 100644 articles/1347469221000_The Post-PC Era Apple Announces Steller iPad Sales Numbers, 84M Sold.txt
+
+Stderr: To git@github.com:hughht5/Guido.git
+   3056b36..8f93c78  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"D34RsC0+U8BIYAt3iAq54FQ070c","last-modified":"Wed, 12 Sep 2012 17:17:18 GMT","date":"Wed, 12 Sep 2012 17:17:25 GMT","expires":"Wed, 12 Sep 2012 17:17:25 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
