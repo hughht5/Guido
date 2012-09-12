@@ -1,0 +1,46 @@
+{
+"title" : "Here Are Your TechCrunch Disrupt SF Battlefield Startups From Day 2",
+"date" : "12/09/2012",
+"author" : "Elin Blesener"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/img_0418.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="img_0418" title="img_0418" style="float: left; margin: 0 10px 7px 0;" /><p>What a day! TechCrunch Disrupt SF day two kicked off with super angel Ron Conway and San Francisco Mayor Ed Lee. Then we had Kevin Rose, Marc Benioff, Aaron Levie and many others. Not to mention Mike Arrington&#8217;s <a href="http://techcrunch.com/2012/09/11/the-best-soundbites-from-mark-zuckerberg-michael-arrington-interview-vide/">epic chat</a> with Facebook&#8217;s Mark Zuckerberg. Be sure to check out all of our live coverage of Disrupt SF day two <a href="http://techcrunch.com/events/disrupt-sf-2012/coverage/">here.</a></p>
+<p>Yesterday, <a href="http://techcrunch.com/2012/09/10/here-are-the-techcrunch-disrupt-sf-battlefield-startups-from-day-one/">15 companies presented</a> in the Startup Battlefield competition and today we had 14 companies who took the stage to fight it out for the ultimate prize of the Disrupt Cup and $50,000. All of the companies who presented today are below. Who do you think will win? Make sure to tune in tomorrow for the finale.</p>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/09/img_0430-11.jpeg" rel="lightbox[648090]"></a></p>
+<p><strong>Battlefield Finalists: Session 4: Disrupting Main Street</strong></p>
+<p><a href="http://techcrunch.com/2012/09/11/yourmechanic-the-uber-of-car-maintenance-offers-on-demand-certified-mechanics-at-30-50-savings/">YourMechanic.com</a><br />
+The mechanic that comes to you. YourMechanic is an online marketplace where you can hire the top notch local mechanics who will fix your car at your home or office.</p>
+<p><a href="http://techcrunch.com/2012/09/11/careticker-knockedup/">Careticker</a><br />
+Careticker is a mobile platform that allows patients and caregivers to pre-plan and coordinate everything they need before and after a hospitality stay, enabling providers to enhance engagement with patients and reduce unnecessary re-admissions.</p>
+<p><a href="http://techcrunch.com/2012/09/11/zumper-disrupt12/">Zumper</a><br />
+Zumper is a new apartment rental platform that makes it easier to find your new home. Unlike other apartment search sites, Zumper was built bottom-up through direct relationships with landlords, brokers and property managers to ensure the accuracy and legitimacy of its listings.</p>
+<p><a href="http://techcrunch.com/2012/09/11/alicanto-brings-the-automated-marketing-assistant-to-the-small-business-world/">Alicanto</a><br />
+Alicanto is a CMO and business development in a box for small businesses, a turnkey solution that expands the customer base and delivers effective marketing. Alicanto leverages the power of small businesses, allowing them to compete with large ones on an unheard of level through Alliances, it&#8217;s patented group promotion asset.</p>
+<p><a href="http://techcrunch.com/2012/09/11/organizer-electionear-disrupt/">Organizer</a><br />
+Organizer aims to bring political campaigns a smarter, faster way to manage their field work through smartphone apps — and eventually to do the same thing for businesses.</p>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/09/img_0493.jpeg" rel="lightbox[648090]"></a><br />
+<strong>Battlefield Finalists: Session 5: Disrupting Learning</strong></p>
+<p><a href="http://techcrunch.com/2012/09/11/kinobi-will-use-kinect-to-teach-you-yoga-dancing-or-maybe-even-surgery/">Kinobi</a><br />
+Kinobi helps you build the confidence to master any physical skill. Kinobi&#8217;s web-based application uses motion capture technology such as the Microsoft Kinect to provide people the feedback they need to learn for their mistakes.</p>
+<p><a href="http://techcrunch.com/2012/09/11/hackerrank-social-platform-for-coders/">HackerRank</a><br />
+HackerRank is a social platform for hackers to solve interesting challenges that include AI challenges, Machine learning problems, JavaScript hacks, image processing and many more.</p>
+<p><a href="http://techcrunch.com/2012/09/11/expect-labs-mindmeld-ipad-app-understands-your-conversations-in-real-time/">Expect Labs</a><br />
+Expect Labs are building a new platform called the Anticipatory Computing Engine, which is designed for the emerging generation which is designed for the emerging generation of applications that pay attention continuously to better anticipate our needs. As a first demonstration of this technology, the company is launching their flagship iPad app called MindMeld, which is the first voice and video calling app that can actually understand your conversations to make it effortless to find and share related information as you talk.</p>
+<p><a href="http://techcrunch.com/2012/09/11/prior-knowledge-a-predictive-database-for-developers/">Prior Knowledge</a><br />
+Prior Knowledge is launching Veritable, a predictive database that makes data science as easy as SQL. Now every developer can add data-driven insights to applications and websites &#8212; without needing to learn statistics and machine learning.</p>
+<p><a href="http://techcrunch.com/2012/09/11/studyhall-launch/">StudyHall</a><br />
+StudyHall is the smartest platform to connect with your classmates and make your academic life easier. Its platform makes studying social in a new way.</p>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/09/img_0548.jpeg" rel="lightbox[648090]"></a></p>
+<p><strong>Battlefield Finalists: Session 6: Disrupting Data</strong></p>
+<p><a href="http://techcrunch.com/2012/09/11/inrfoods-new-mobile-app-shines-a-spotlight-on-whats-actually-in-your-food/">INRFOOD</a><br />
+INRFOOD displays the nutritional value of food based on the ingredients rather that just the nutritional facts.</p>
+<p><a href="http://techcrunch.com/2012/09/11/disrupt-maluubas-do-engine-takes-aim-at-siri/">Maluuba</a><br />
+Maluuba&#8217;s mission is to empower people to find exactly what they want by speaking to their smartphone. Maluuba&#8217;s proprietary, patent-pending engine provides superior capabilities over traditional voice recognition systems.</p>
+<p><a href="http://techcrunch.com/2012/09/11/time-tracking-app-chronos-shows-you-how-you-spend-your-days-and-how-your-friends-do-too/">chronos</a><br />
+chronos is a mobile app that enables you to live your life more intentionally. Using your smartphone&#8217;s sensors, chronos figures out not only where you spend your time, but also with whom you spend your time with &#8212; no additional hardware or check-ins required.</p>
+<p><a href="http://techcrunch.com/2012/09/11/pathmapp-launch/">Pathmapp</a><br />
+Pathmapp is the world&#8217;s first real-time mobile A/B testing platform. For over a decade, A/B Testing has been a very popular technology on the web to help increase conversion. But for over four years, we&#8217;ve been left waiting on the same technology for mobile. Enter Pathmapp.</p>
+<p><strong>Audience Choice Winner</strong></p>
+<p><a href="http://techcrunch.com/2012/09/11/spinlister-makes-it-into-disrupt-battlefield-with-its-airbnb-for-bikes/">Spinlister</a><br />
+On Spinlister you can rent a bike from $5 a day up to about $100 for a really nice bike. They are now in 275 cities in 40 countries with over 2,000 bikes listed.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/xkyqPH2vYRM/">here</a>.

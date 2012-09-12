@@ -1,0 +1,14 @@
+{
+"title" : "Fly Or Die Amazon Kindle Fire HD",
+"date" : "12/09/2012",
+"author" : "Jordan Crook"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/photo-1.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="photo-1" title="photo-1" style="float: left; margin: 0 10px 7px 0;" />			<script type="text/javascript" src="http://pshared.5min.com/Scripts/PlayerSeed.js?sid=577&amp;width=640&amp;height=450&amp;colorPallet=%230A9600&amp;hasCompanion=false&amp;relatedMode=2&amp;videoControlDisplayColor=%23000000&amp;playList=517473218&amp;shuffle=0&amp;videoGroupID=133503&amp;autoStart=false&amp;playerActions=16407"></script>
+<p>The <a href="http://techcrunch.com/2012/09/06/live-from-amazons-2012-event-fire-it-up/">Kindle Fire HD</a> is a big deal. <em>Big.</em> </p>
+<p>It has rather excellent specs &mdash; <a href="http://techcrunch.com/2012/09/06/hands-on-with-the-7-kindle-fire-hd-excellent-display-super-snappy-but-new-wifi-is-a-question-mark/">a 1280&#215;800 7-inch display, TI OMAP processor, dual stereo speakers, and dual-antennae Wifi (with MIMO)</a> &mdash; and it comes at a ridiculously low price: $199.</p>
+<p>If the original Fire was competitive (and trust me, it was), this one is about to entirely disrupt the tablet space. We all agree. For the perhaps the first time ever, John, Matt and I all believe that the <a href="http://techcrunch.com/2012/09/06/say-hello-to-amazons-new-kindle-fire-family-bigger-fire-hds-159-upgraded-original/">Kindle Fire HD</a> is a fly. </p>
+<p>The build quality is superior to the Nexus 7, which is the tablet&#8217;s only direct competition. The display resolution is on par (but doesn&#8217;t quite beat) the new iPad. The form factor is all the rage. Plus, it has a bevy of new features including Whispersync for Games, X-Ray for movies, and Parental Controls. Why wouldn&#8217;t this tablet be a fly? </p>
+<p>Oh, and let&#8217;s not forget, it&#8217;s hooked into Amazon&#8217;s incredibly bountiful ecosystem. Winning on all counts.</p>
+<p>Until the iPad Mini&#8230;</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/K-Pk-qFVZ9E/">here</a>.

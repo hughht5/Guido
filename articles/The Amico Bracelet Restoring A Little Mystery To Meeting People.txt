@@ -1,0 +1,22 @@
+{
+"title" : "The Amico Bracelet Restoring A Little Mystery To Meeting People",
+"date" : "12/09/2012",
+"author" : "Jay Donovan"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/amico.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="amico" title="amico" style="float: left; margin: 0 10px 7px 0;" /><p>Do you remember life before the Internet? Can you recall a time when meeting someone new took place serendipitously and was uncluttered with all the profile searching and stalking? A time when there was a little mystery in taking weeks or months to uncover the contents of a new friend&#8217;s music collection?</p>
+<p>A time where, when you did meet someone interesting, you didn&#8217;t have every bit of information about them instantly available — where they studied, where they work, what food they like.</p>
+<p>Let me be clear, the <a target="_blank" href="http://www.amicobracelets.com/product.html">Amico Bracelet</a> would not restore this earlier era. But this concept could possibly restore just a little bit of mystery to meeting people — when you are actively trying to meet people, that is.</p>
+<p>The <a target="_blank" href="http://www.amicobracelets.com/product.html">Amico</a>, made by <a target="_blank" href="http://trovare-inc.com/">Trovare</a>, is (or will be) a wearable Bluetooth 4-enabled bracelet. It will synchronize with a mobile app that aggregates your social network profile and port that info into the bracelet&#8217;s onboard memory. It will then broadcast an aggregate view of this social profile (at a distance of about 50 meters). Other people who are wearing an Amico will also broadcast their profile. When two profiles that are deemed to be a good match come within proximity of each other&#8230;both bracelets will vibrate. Boom! Fireworks.</p>
+<p>There you have it. You will be notified when the girl/guy of your dreams is within 50 meters of you. But you won&#8217;t explicitly know what the person looks like or any other info about them. You will just know that a match is nearby and it will be up to you to get off your ass and work to find that dreamboat.</p>
+<p>I mean, this is still cheating right? The deck is stacked in your favor and the device is doing work for you that you should probably be doing yourself — reading body language, searching for intangibles or absorbing pheromones. But still, there is some mystery here.</p>
+<p>It&#8217;s a compelling concept, but what is at play here that makes this interesting? A couple of things.</p>
+<p><strong>Gamification</strong><br />
+There is an element of gameplay to this concept. The thrill of an imminent meetup without a spoiler.</p>
+<p><strong>Runs In The Background</strong><br />
+It pushes search into the background a bit and doesn&#8217;t require you to feverishly and addictively consult your mobile phone every five seconds to see who&#8217;s checked into the bar you&#8217;re in (but let&#8217;s be honest, you are still probably going to do that anyway).</p>
+<p><strong>A Second Chance</strong><br />
+Most interestingly, the system is designed in such a way that if you did get a notification that a match is nearby, but you just can&#8217;t find each other, both profiles will show up back in the app upon your next sync. So you could get a second chance to meet.</p>
+<p>The company has raised $250,000 in private funding, but is seeking another $750,000 &#8211; $1,000,000 to get the device into production.</p>
+<p>When the Amico eventually comes to market, it should be priced at around $40 or so. A small price to pay to keep the one that got away from getting away.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/JUmgON4xbiM/">here</a>.

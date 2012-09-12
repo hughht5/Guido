@@ -1,0 +1,18 @@
+{
+"title" : "Startup Alley Day 2 — From Mixer To Murally To Floost And The Rest",
+"date" : "12/09/2012",
+"author" : "Mike Butcher"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/screen-shot-2012-09-11-at-18-38-45.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-09-11 at 18.38.45" title="Screen Shot 2012-09-11 at 18.38.45" style="float: left; margin: 0 10px 7px 0;" />			<script type="text/javascript" src="http://pshared.5min.com/Scripts/PlayerSeed.js?sid=577&amp;width=640&amp;height=450&amp;colorPallet=%230A9600&amp;hasCompanion=false&amp;relatedMode=2&amp;videoControlDisplayColor=%23000000&amp;playList=517476215&amp;shuffle=0&amp;videoGroupID=133503&amp;autoStart=false&amp;playerActions=16407"></script>
+<p>It&#8217;s Day 2 in Startup Alley at TechCrunch Disrupt San Francisco, and the startups just keep coming. This year&#8217;s Alley is bigger than it&#8217;s ever been, so it&#8217;s pretty bought to get through all the companies. Indeed you could spend all day going through every one, but we do out best to give you a flavour of the companies in a few bite-sized TechCrunch TV videos. Enjoy!</p>
+<p>The companies covered here include: </p>
+<p><a target="_blank" href="http://match2blue.com">mapp2you</a> &#8211; relevant information finds the user at the right time.</p>
+<p><a target="_blank" href="http://pittile.com">Pittile/Mash Matrix</a> &#8211; Organize your photo collection and publish pages</p>
+<p><a target="_blank" href="http://Memoto.com">Memoto</a> &#8211; Memoto is a Swedish hardware+software lifelogging startup.</p>
+<p><a target="_blank" href="http://getmixer.com">Mixer</a> &#8211; A brand new take on location-based social networking.</p>
+<p><a target="_blank" href="http://mural.ly">Murally</a> &#8211; Social Ideation on flexible web spaces</p>
+<p><a target="_blank" href="http://neuverus.com">NeuVerus / NeuFit</a> &#8211; NeuFit is an entertaining &amp; social app that will get you healthy!</p>
+<p><a target="_blank" href="http://nightout.com">Night Out</a> &#8211; Night Out is a free nightlife discovery app. We curate the hottest Places, Deals, Happy Hours &amp; Events in your city</p>
+<p><a target="_blank" href="http://Floost.com">Floost</a> &#8211; We help you connect to the world through your interests:</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/-ax8Y8G2ejM/">here</a>.

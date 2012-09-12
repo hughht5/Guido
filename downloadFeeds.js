@@ -95,10 +95,11 @@ function formatTime(date){
 function postToGlog(posts){
 	for (var x=0;x<posts.length;x++){
 		//add JSON headers to post
+		posts[x].title = posts[x].title.replace(/[:*?"<>|\/]+/g,'');
 		posts[x].content = addJSONHeader(posts[x]);
 		
 		//write post to file
-		writeToFile("articles/"+posts[x].title.replace(/[:*?"<>|\/]+/g,'')+"",posts[x].content); //regex removes filename special characters
+		writeToFile("articles/"+posts[x].title+".txt",posts[x].content); //regex removes filename special characters
 		
 	}
 	
@@ -109,7 +110,7 @@ function postToGlog(posts){
  * Add JSON header for Glog posts.
  */
 function addJSONHeader(post){
-	return '{\n"title" : "'+post.title+'",\n"date" : "'+formatTime(post.pubDate)+'",\n"author" : "'+post.author+'"\n}\n\n';
+	return '{\n"title" : "'+post.title+'",\n"date" : "'+formatTime(post.pubDate)+'",\n"author" : "'+post.author+'"\n}\n\n'+post.content;
 }
 
 function postToBlogger(posts){
