@@ -1,0 +1,11 @@
+{
+"title" : "Whoops! Apple Search Engine Is Revealing Product News Before Today’s Event iPhone 5, New iPods, New iTunes Confirmed",
+"date" : "09/12/2012",
+"author" : "Sarah Perez"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/apple-store-search-engine.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="apple-store-search-engine" title="apple-store-search-engine" style="float: left; margin: 0 10px 7px 0;" /><p>Apple&#8217;s search engine is mistakenly revealing the details of today&#8217;s Apple news announcements in advance of today&#8217;s press event where it&#8217;s been expected Apple will announce new iPhones. As spotted first by the folks at <a target="_blank" href="http://9to5mac.com/2012/09/12/whoops-iphone-5-name-seems-to-be-confirmed-by-apple-coms-search-engine">9to5</a>, a <a target="_blank" href="http://www.apple.com/search/?q=iPhone-5&amp;section=global&amp;geo=us">search for “iPhone-5</a> on Apple’s website indicates that is, indeed, what&#8217;s happening today. And yep, looks like they&#8217;re calling it the iPhone 5, not &#8220;the new iPhone.&#8221; We&#8217;ve also found <a target="_blank" href="http://www.apple.com/search/?q=2012%2F09%2F12Apple">a link </a>that indicates a new version of iTunes is being announced as well, again confirming rumors.</p>
+<p>The search results also point to a new iPod Touch and iPod Nano, which is less exciting in our opinion, but still a notable leak.</p>
+<p><em>updating&#8230;.</em></p>
+<p><em>Image credit: 9to5</em></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/oQJZTfZSP_4/">here</a>.
