@@ -8584,3 +8584,59 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Could not commit and push new articles: Error: Command failed: error: Ref refs/heads/master is at bb78a6f00f112f68961e223e525775c965581f11 but expected 174165dfe334d87d7d77105dc63d6e61bf5f297b
+remote: error: failed to lock refs/heads/master[K
+To git@github.com:hughht5/Guido.git
+ ! [remote rejected] master -> master (failed to lock)
+error: failed to push some refs to 'git@github.com:hughht5/Guido.git'
+
+Stdout: [master 2b03f78] adding new article
+ 4 files changed, 50 insertions(+), 1 deletions(-)
+ create mode 100644 articles/1347477364000_Loyal3 A Platform For Letting Customers Own Equity In Your Company.txt
+
+Stderr: error: Ref refs/heads/master is at bb78a6f00f112f68961e223e525775c965581f11 but expected 174165dfe334d87d7d77105dc63d6e61bf5f297b
+remote: error: failed to lock refs/heads/master[K
+To git@github.com:hughht5/Guido.git
+ ! [remote rejected] master -> master (failed to lock)
+error: failed to push some refs to 'git@github.com:hughht5/Guido.git'
+
+Could not commit and push new articles: Error: Command failed: error: Ref refs/heads/master is at bb78a6f00f112f68961e223e525775c965581f11 but expected 174165dfe334d87d7d77105dc63d6e61bf5f297b
+remote: error: failed to lock refs/heads/master[K
+To git@github.com:hughht5/Guido.git
+ ! [remote rejected] master -> master (failed to lock)
+error: failed to push some refs to 'git@github.com:hughht5/Guido.git'
+
+Stdout: [master c3e25d2] adding new article
+ 1 files changed, 25 insertions(+), 0 deletions(-)
+
+Stderr: error: Ref refs/heads/master is at bb78a6f00f112f68961e223e525775c965581f11 but expected 174165dfe334d87d7d77105dc63d6e61bf5f297b
+remote: error: failed to lock refs/heads/master[K
+To git@github.com:hughht5/Guido.git
+ ! [remote rejected] master -> master (failed to lock)
+error: failed to push some refs to 'git@github.com:hughht5/Guido.git'
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"0LuT+1t4DjGOrybh223oAAmdLE0","last-modified":"Wed, 12 Sep 2012 19:18:16 GMT","date":"Wed, 12 Sep 2012 19:18:56 GMT","expires":"Wed, 12 Sep 2012 19:18:56 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
