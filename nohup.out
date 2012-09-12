@@ -1606,3 +1606,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master 5516561] adding new article
+ 4 files changed, 47 insertions(+), 1 deletions(-)
+ create mode 100644 "articles/1347470654000_CEO Travis Kalanick Says UberX Numbers Are \342\200\234Probably At Or Above\342\200\235 Lyft.txt"
+
+Stderr: To git@github.com:hughht5/Guido.git
+   e62a93d..5516561  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"9tIAT8yTuzL+nbPurOEpn4uc7aQ","last-modified":"Wed, 12 Sep 2012 17:26:36 GMT","date":"Wed, 12 Sep 2012 17:26:56 GMT","expires":"Wed, 12 Sep 2012 17:26:56 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
