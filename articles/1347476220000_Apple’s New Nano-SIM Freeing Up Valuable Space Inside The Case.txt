@@ -1,0 +1,11 @@
+{
+"title" : "Apple’s New Nano-SIM Freeing Up Valuable Space Inside The Case",
+"date" : "Wed, 12 Sep 2012 18:57:00 +0000",
+"author" : "Darrell Etherington"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/nano-sim.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="nano-SIM" title="nano-SIM" style="float: left; margin: 0 10px 7px 0;" /><p>Apple managed to get a new standard for SIM cards approved by the European Telecommunications Institute (ETSI) back in June, and today we see the result of that effort. The new nano-SIM is 44 percent smaller than existing micro-SIM designs, which may not seem significant in something already so small, but which could ultimately give Apple a lot more to work with.</p>
+<p>When it comes to adding more battery or new radios to the iPhone, the key to getting it done is freeing up space taken up by other elements. The nano-SIM does just that, minimizing the key component&#8217;s internal footprint, which may help account for why the new iPhone manages to get battery life on par with its predecessor despite a larger screen and LTE built-in.</p>
+<p>Once upon a time, there was talk of Apple replacing SIM cards altogether with a built-in solution integrated inextricably into the phone itself. That proposed change met with the ire of carriers according to <a target="_blank" href="http://gigaom.com/apple/france-telecom-ceo-carriers-oppose-apples-integrated-sim/">France Telecom CEO Stéphane Richard</a>, and so Apple went the route of the nano-SIM instead. Eventually, I&#8217;d bet Apple will still push for an integrated SIM, since in-case real estate will only become more valuable, not less.</p>
+<p><a target="_blank" href="http://www.techcrunch.com/tag/iphone"></a></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/meBPpsk420o/">here</a>.
