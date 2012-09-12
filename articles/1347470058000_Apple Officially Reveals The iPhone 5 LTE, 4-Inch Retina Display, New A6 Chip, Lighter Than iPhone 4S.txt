@@ -9,7 +9,7 @@
 <h4>The iPhone 5</h4>
 <ul>
 <li>We can finally put the debate to rest — Apple’s newest mobile juggernaut is called the iPhone 5 (despite actually being the sixth iPhone to hit the market). It&#8217;s 20% lighter than the iPhone 4S, 18% thinner, and crafted out of (what else?) glass and aluminum.</li>
-<li>The long-rumored (and handsome) two-toned design is indeed legitimate, as is the new iPhone’s larger<strong> 4-inch Retina Display.</strong> And yes, that display runs at 1136 by 640 with five rows of icons. According to Schiller, it&#8217;s &#8220;the most accurate display in the industry&#8221; because the touch sensors are embedded in the display as well.</li>
+<li>The long-rumored (and handsome) two-toned design is indeed legitimate, as is the new iPhone’s larger<strong> 4-inch Retina Display.</strong> And yes, that 16:9 display runs at 1136 by 640 with five rows of icons. According to Schiller, it&#8217;s &#8220;the most accurate display in the industry&#8221; because the touch sensors are embedded in the display as well.</li>
 <li>It’s hardly a surprise at this point, but the iPhone 5 packs support for Sprint, Verizon, and AT&amp;T&#8217;s <strong>LTE networks</strong> here in the States.</li>
 <li>As expected, Apple has also unveiled a brand new chipset for the iPhone 5:<strong> the A6</strong>, which Schiller says is a full two times faster than the A5 chip in the iPhone 4S</li>
 <li>The iPhone 4S&#8217;s battery life wasn&#8217;t anything to write home about, but the iPhone 5 seems equipped to do much better &#8212; 8 hours of 3G talk time, as well as 8 hours of 3G and LTE web browsing to be precise.</li>
