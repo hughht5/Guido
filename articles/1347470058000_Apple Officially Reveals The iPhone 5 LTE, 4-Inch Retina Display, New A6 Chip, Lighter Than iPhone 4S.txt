@@ -23,5 +23,5 @@
 <li>Smartphone cameras are really starting to give their point-and-shoot brethren a run for their money (think Nokia’s PureView and HTC’s ImageSense tech), but instead of running up the megapixel count, Apple has stuck with an <strong>8-megapixel camera</strong>. That said, the backside-illuminated sensor is smaller, and features much better low-light performance (finally!).</li>
 <li>App developers may be bummed to know that the camera now also has a built-in panorama mode. The revamped camera also supports 1080p video capture, and users can now snap photos while recording video at the same time. I wonder how HTC feels about that.</li>
 </ul>
-<p><em>This is a developing story, please refresh for updates.</em></p>
+<p><a target="_blank" href="http://www.techcrunch.com/tag/iphone"></a></p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/9QmdFQXgUTk/">here</a>.
