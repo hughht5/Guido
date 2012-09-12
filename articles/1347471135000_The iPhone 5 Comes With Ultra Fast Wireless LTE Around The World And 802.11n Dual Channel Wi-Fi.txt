@@ -4,7 +4,7 @@
 "author" : "Romain Dillet"
 }
 
-<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/a53a2.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="a53A2" title="a53A2" style="float: left; margin: 0 10px 7px 0;" /><p>At the Apple press conference today, the company announced that they integrated a new kind of chip inside the iPhone 5. They call it the &#8220;Ultra Fast Wireless&#8221; chip because it goes a bit further than simply adding LTE like they did on the iPad in March.</p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/a53a2.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="a53A2" title="a53A2" style="float: left; margin: 0 10px 7px 0;" /><p>&lt;a href=&quot;http://techcrunch.com/2012/09/12/join-us-live-at-1pm-eastern10am-pacific-for-apples-iphone-announcement/&quot;At the Apple press conference today, the company announced that they integrated a new kind of chip inside <a href="http://techcrunch.com/2012/09/12/apple-iphone-5-official/">the iPhone 5</a>. They call it the &#8220;Ultra Fast Wireless&#8221; chip because it goes a bit further than simply adding LTE like they did on the iPad in March.</p>
 <p>The iPhone 5 is compatible with 4G LTE networks around the world. Tim Cook showed a map of carriers that will support LTE around the world and more specifically in the U.S., in Canada, in the UK, in Germany, in Japan and other Asian countries. But it doesn&#8217;t stop there. The iPhone 5 comes with 802.11a/b/g/n 2.4GHz, dual channel 5GHz, just like in the Kindle Fire HD.</p>
 <p><i>Developing…</i></p>
 <p><a target="_blank" href="http://www.techcrunch.com/tag/iphone"></a></p>
