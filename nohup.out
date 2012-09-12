@@ -3009,3 +3009,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master 61c4d63] adding new article
+ 4 files changed, 46 insertions(+), 3 deletions(-)
+ create mode 100644 "articles/1347472080000_The iPhone 5 Comes With The New \342\200\234Lightning\342\200\235 Connector.txt"
+
+Stderr: To git@github.com:hughht5/Guido.git
+   edcfb5b..61c4d63  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"Vcy5tuFURzeiVxDElZ/6RV2PCVY","last-modified":"Wed, 12 Sep 2012 17:49:08 GMT","date":"Wed, 12 Sep 2012 17:49:26 GMT","expires":"Wed, 12 Sep 2012 17:49:26 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
