@@ -92,7 +92,7 @@ function formatTime(date){
 	}
     var curr_year = d.getFullYear();
 	
-	var complete = curr_date + "/"+curr_month+"/"+curr_year;
+	var complete = +curr_month+"/"curr_date + "/"+curr_year;
 	
 	//console.log(complete);
 	return complete;
