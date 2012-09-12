@@ -121,8 +121,8 @@ function postToGlog(posts){
 		posts[x].content = addJSONHeader(posts[x]);
 		
 		//write post to file - prepending current unix timestamp to ensure posts are in chronological order
-		console.log(Math.round((new Date(posts[x].pubDate)).getTime() / 1000));
-		fs.writeFile("articles/"+new Date().getTime()+"_"+posts[x].title+".txt", posts[x].content, function(err) {
+		var time = Math.round((new Date(posts[x].pubDate)).getTime() / 1000);
+		fs.writeFile("articles/"+time+"_"+posts[x].title+".txt", posts[x].content, function(err) {
 			if(err) {
 				console.log(err);
 			} else {
