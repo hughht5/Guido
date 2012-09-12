@@ -4,7 +4,8 @@
 "author" : "Chris Velazco"
 }
 
-<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/iphone5-3.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="iphone5-3" title="iphone5-3" style="float: left; margin: 0 10px 7px 0;" /><p>Now that everyone&#8217;s appetite for the iPhone 5 has been whetted, when can people actually get one? Apple&#8217;s Phil Schiller took the stage after playing a brief video to talk up the new iPhone 5 to finally talk about availability.</p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/iphone5-4.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="iphone5-4" title="iphone5-4" style="float: left; margin: 0 10px 7px 0;" /><p>Now that everyone&#8217;s appetite for the iPhone 5 has been whetted, when can people actually get one? Apple&#8217;s Phil Schiller took the stage after playing a brief video to talk up the new iPhone 5 to finally talk about availability.</p>
 <p>As usual, the iPhone 5 will be available in both black and white, and it will be the same price as the iPhone it replaces: $199 For 16GB, $299 For 32GB, $399 For 64GB (on-contract pricing, through partners AT&amp;T, Sprint, and Verizon of course). The pre-orders for the device itself beings on September 14 (that&#8217;s Friday, in case you were curious), and the iPhone 5 will actually be released into the wild on September 21.</p>
 <p><em>Developing&#8230;</em></p>
+<p><a target="_blank" href="http://www.techcrunch.com/tag/iphone"></a></p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/NLolo_6Y-GE/">here</a>.
