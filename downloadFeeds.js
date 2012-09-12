@@ -11,8 +11,8 @@ console.log("About to download TechCrunch main feed.");
 var options = {
   host: 'feeds.feedburner.com',
   port: 80,
-  path: '/TechCrunch',
-  method: 'POST'
+  path: '/TechCrunch/greentech',
+  method: 'GET'
 };
 
 http.get(options, function(res) {
@@ -41,7 +41,7 @@ function parse(xml){
 		//for each post, collect the values and add it to the posts array
 		for (var x=0;x<result.rss.channel[0].item.length;x++){
 			var post = new Object();
-			item = result.rss.channel[0].item[x];
+			var item = result.rss.channel[0].item[x];
 			post.title = item.title[0];
 			post.pubDate = item.pubDate[0];
 			post.link = item.link[0];
@@ -108,24 +108,25 @@ function postToGlog(posts){
 		posts[x].content = addJSONHeader(posts[x]);
 		
 		//write post to file
-		fs.writeFileSync("articles/"+posts[x].title+".txt", posts[x].content, function(err) {
+		fs.writeFile("articles/"+posts[x].title+".txt", posts[x].content, function(err) {
 			if(err) {
 				console.log(err);
 			} else {
-				console.log("written file");
+				console.log("written file  ");
 			}
 		});
 	}
 	
+	
 	//execute git push
-	exec('git add *', function(error, stdout, stderr) { //; git commit -a -m "adding new article: '+posts[x].title+'"; git push
-		if(error) {
-			console.log('Could not commit and push new articles: ' + error);
-		}
-		console.log('Stdout: ' + stdout);
-		console.log('Stderr: ' + stderr);
+	// exec('git add *', function(error, stdout, stderr) { //; git commit -a -m "adding new article: '+posts[x].title+'"; git push
+		// if(error) {
+			// console.log('Could not commit and push new articles: ' + error);
+		// }
+		// console.log('Stdout: ' + stdout);
+		// console.log('Stderr: ' + stderr);
 		
-	});
+	// });
 }
 
 /*
