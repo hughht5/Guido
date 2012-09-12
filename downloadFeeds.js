@@ -3,6 +3,7 @@ var fs = require('fs');
 var xml2js = require('xml2js');
 var parser = new xml2js.Parser();
 var querystring = require('querystring');
+var exec = require('child_process').exec;
 
 
 //download feed
@@ -101,9 +102,17 @@ function postToGlog(posts){
 		//write post to file
 		writeToFile("articles/"+posts[x].title+".txt",posts[x].content); //regex removes filename special characters
 		
+		//execute git push
+		exec('cd articles; git add "'+posts[x].title+'.txt"', function(error, stdout, stderr) { //; git commit -a -m "adding new article: '+posts[x].title+'"; git push
+			if(error) {
+				console.log('Could not commit and push new articles: ' + error);
+			}
+			console.log('Stdout: ' + stdout);
+			console.log('Stderr: ' + stderr);
+			
+		});
+		console.log(posts[x].title+".txt");
 	}
-	
-	console.log("complete");
 }
 
 /*
