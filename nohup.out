@@ -18740,3 +18740,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master 24e119f] adding new article
+ 3 files changed, 53 insertions(+), 1 deletions(-)
+ create mode 100644 articles/1347486863000_With New iOS 6 App Store, The Most Important Changes Are Under The Hood.txt
+
+Stderr: To git@github.com:hughht5/Guido.git
+   13e0352..24e119f  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"BJ/LtEf34nGO4k8Mt3hu/LQV90Q","last-modified":"Wed, 12 Sep 2012 22:01:24 GMT","date":"Wed, 12 Sep 2012 22:01:56 GMT","expires":"Wed, 12 Sep 2012 22:01:56 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
