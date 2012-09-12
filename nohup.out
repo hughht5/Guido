@@ -20022,3 +20022,42 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Could not commit and push new articles: Error: Command failed: To git@github.com:hughht5/Guido.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'git@github.com:hughht5/Guido.git'
+
+Stdout: [master 9d37b60] adding new article
+ 1 files changed, 39 insertions(+), 0 deletions(-)
+To prevent you from losing history, non-fast-forward updates were rejected
+Merge the remote changes before pushing again.  See the 'Note about
+fast-forwards' section of 'git push --help' for details.
+
+Stderr: To git@github.com:hughht5/Guido.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'git@github.com:hughht5/Guido.git'
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"reQsvlN6BPZSfpGfY2ipE8jIwdM","last-modified":"Wed, 12 Sep 2012 22:21:25 GMT","date":"Wed, 12 Sep 2012 22:22:26 GMT","expires":"Wed, 12 Sep 2012 22:22:26 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
