@@ -14081,3 +14081,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master bdd2f74] adding new article
+ 2 files changed, 43 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1347480021000_Airtime Launches Topic Chatrooms; Debate Who Should Win Disrupt Battlefield.txt
+
+Stderr: To git@github.com:hughht5/Guido.git
+   56c081c..bdd2f74  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"7NYfkwWRO275lmiyiP7jOQmI+p8","last-modified":"Wed, 12 Sep 2012 20:46:18 GMT","date":"Wed, 12 Sep 2012 20:46:56 GMT","expires":"Wed, 12 Sep 2012 20:46:56 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
