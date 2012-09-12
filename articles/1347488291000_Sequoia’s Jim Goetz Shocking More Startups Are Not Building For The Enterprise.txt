@@ -1,0 +1,15 @@
+{
+"title" : "Sequoia’s Jim Goetz Shocking More Startups Are Not Building For The Enterprise",
+"date" : "Wed, 12 Sep 2012 22:18:11 +0000",
+"author" : "Alex Williams"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/img_0718.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="IMG_0718" title="IMG_0718" style="float: left; margin: 0 10px 7px 0;" /><p>Sequoia Capital&#8217;s Jim Goetz said it is shocking that more startups are not focused on the enterprise in a discussion on stage at TechCrunch Disrupt in San Francisco.</p>
+<p>It&#8217;s the notion of reinventing the IT stack that holds such opportunity, Goetz said. And it&#8217;s an opportunity for everyone in the Disrupt audience. Companies like Salesforce.com have helped pave the way with SaaS models that build revenues based on subscriptions.</p>
+<p>&#8220;The business model is now a weapon for all of you,&#8221; Goetz said. &#8220;It allows you to disrupt legacy vendors. It makes it very difficulty for them to compete.&#8221;</p>
+<p>There is also a major tech shift happening in the market, Goetz said. You have Flash becoming important for the server. Virtualization is now standard in the enterprise. You have new architectures.</p>
+<p>Startups in the enterprise space face a different dynamic. They have only one or two competitors, and they are usually legacy providers.</p>
+<p>&#8220;It is almost blue ocean,&#8221; Goetz said.</p>
+<p>Palo Alto Networks Founder Nir Zuk came on stage to join Goetz. He said it takes two years to build an enterprise product. It takes two months to build a consumer service.</p>
+<p>&#8220;How can you be proud of that?&#8221; Zuk asked.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/H76F2CI1UjA/">here</a>.
