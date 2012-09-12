@@ -1,0 +1,27 @@
+{
+"title" : "Talking Points From Tesla’s Fourth-Quarter Earnings Statement",
+"date" : "16/02/2012",
+"author" : "Devin Coldewey"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/02/tesla-22.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="tesla-22" title="tesla-22" style="float: left; margin: 0 10px 7px 0;" /><p>Things are going smoothly for <a href="http://techcrunch.com/tag/tesla/">Tesla</a>. Their big <a href="http://techcrunch.com/2012/02/10/tesla-model-x/">Model X</a> debut was a success, their cars are pre-ordered to capacity, and new business opportunities are presenting themselves. They&#8217;re still posting a net loss, of course, but that was expected and will continue for another year or so.</p>
+<p>Here are the most salient points from their latest earnings statement, released today:</p>
+<ul>
+<li>Total Q4 revenues: $39M (up 9% YOY)</li>
+<li>Total 2011 revenues: $204M (up 75% vs. 2010)</li>
+<li>Expected revenues for 2012: $550M-$600M (mostly in late 2012)</li>
+<li>Operating expenses: $89M (GAAP)</li>
+<li>Capital expenditures: $54M (mostly building production infrastructure)</li>
+<li>Net Q4 losses: $81M (GAAP) or $0.78 per share on ~104M shares</li>
+<li>Net 2011 losses: $264M (GAAP) or $2.53 per share</li>
+<li>Beta Model S vehicles are being built at the nearly complete factory &#8211; 30 out of 50</li>
+<li>Model S betas successfully do 0-60MPH in 4.5s</li>
+<li>8000 total reservations for Model S</li>
+<li>Model X debut caused 500 reservations, with $5000 commitment each</li>
+<li>Model X to ship in late 2013 at around 10,000-15,000 units per year</li>
+<li>New deal with Daimler to develop a new Mercedes all-electric powertrain</li>
+<li>There are more Tesla battery packs at Daimler and Toyota than there are Roadsters</li>
+</ul>
+<p>Everything seems to be going according to plan. 2012 should see the Model S hit the streets (in July) and Tesla-developed batteries and powertrains ship in partners&#8217; vehicles. With luck we&#8217;ll have a chance to review the car and its interesting new dash system at that time.</p>
+<p>The full earnings report and shareholder letter can be found at <a href="http://ir.teslamotors.com/">Tesla&#8217;s investor relations site</a>.</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/02/15/talking-points-from-teslas-fourth-quarter-earnings-statement/">here</a>.

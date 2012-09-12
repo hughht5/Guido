@@ -1,0 +1,15 @@
+{
+"title" : "Koubachi Wi-Fi Plant Sensor Takes The Guesswork Out Of Container Gardening",
+"date" : "03/03/2012",
+"author" : "Matylda Czarnecka"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/03/img_0136.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="IMG_0136" title="IMG_0136" style="float: left; margin: 0 10px 7px 0;" /><p>Houseplants can be hard to care for, even when watered regularly on a sunny windowsill. A new device from Swiss startup <a href="http://www.koubachi.com">Koubachi</a> takes the guesswork out of plant care through real-time monitoring and notifications when the plant needs attention.</p>
+<p>&#8220;Many people don&#8217;t know what plant they have and what it needs,&#8221; says Koubachi co-founder and CEO Philipp Bolliger. &#8220;You try your best and still your plant withers.&#8221;</p>
+<p>The company&#8217;s interactive plant care assistant tucks into a pot, tracking its water, fertilizer, humidity, temperature and light levels. Just tell it what species of flora you&#8217;ve got flowering, and it&#8217;ll tell you how and when to care for it. Koubachi analyzes your individual plant&#8217;s data in addition to your care habits to provide personalized feedback via email or iPhone push notifications. It also takes into account your geographic weather data and season.</p>
+<p></p>
+<p>The sensor sends data into the cloud via Wi-Fi. From there, it is analyzed and synced to the web and iPhone app. The interface provides an overview of your potted plant oasis. The sensor can be moved to different pots, calibrating its recommendations to each plant&#8217;s individual needs.</p>
+<p></p>
+<p>Koubachi is ready to analyze more than 135 plant species. Currently, the most popular plants are the Orchid (Phalaenopsis), the Weeping Fig (Ficus benjamina) and the Dragon Tree (Dracaena marginata). The company plans to have 5,000 plants by the end of the year, and their 10-person team includes a plant physiologist focused solely on adding new species to the database. The sensor is currently <a href="http://store.koubachi.com/products/wi-fi-plant-sensor">available</a> for purchase in euros, with a planned U.S. retail rollout next year.</p>
+<p></p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/03/03/koubachi-wi-fi-plant-sensor-takes-the-guesswork-out-of-container-gardening/">here</a>.

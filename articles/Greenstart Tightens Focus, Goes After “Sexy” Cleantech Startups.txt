@@ -1,0 +1,36 @@
+{
+"title" : "Greenstart Tightens Focus, Goes After “Sexy” Cleantech Startups",
+"date" : "15/02/2012",
+"author" : "Sarah Perez"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/02/greenstart-logo.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="greenstart-logo" title="greenstart-logo" style="float: left; margin: 0 10px 7px 0;" /><p><a href="http://greenstart.com/">Greenstart</a>, the San Francisco-based startup accelerator dedicated to the cleantech industry &#8211; and more importantly, to making it &#8220;sexy&#8221; enough to attract investors &#8211; announced its second cadre of of companies this week. This time around, the organization is tightening its focus to concentrate solely on the intersection of I.T. and cleantech, specifically in areas of smart grid, the built environment, consumer services and transportation.</p>
+<p>It&#8217;s also being highly selective in terms of the startups accepted into the program. Of the 152 applicants, only five companies got in.</p>
+<p>&#8220;We&#8217;re trying to make cleantech a little sexier in the investment community,&#8221; explains Greenstart co-founder Mitch Lowe who runs the program alongside <a href="http://greenstart.com/about/team">five other</a> entrepreneurs and greentech/cleantech believers. &#8220;Cleantech has gotten kind of a bad rap lately, and we want to show that this intersection of cleantech and I.T. has a lot of good investment opportunities,&#8221; he says.</p>
+<p>To keep the quality of the startups high, <a href="http://greenstart.com/">Greenstart</a> only selected the few startups it felt would really appeal to investors. But the plan is to ramp up the numbers so that, by next year, the accelerator will have around 12 to 15 companies per program, meaning it will work with at least 30 per year.</p>
+<p>Despite the small size, round two is actually one startup larger than Greenstart&#8217;s first group, which only included four companies out of 129 applications. The high bar, however, has led to some success in terms of its goal of investor appeal. Of the initial four, one is approaching the close of a Series A round, two are doing mid-six figure angel rounds closing this month, and one is not yet in need of funding.</p>
+<p>With the launch of the second cadre, Greenstart is also launching an in-house design practice which will be led by its new COO, <a href="http://www.linkedin.com/pub/david-merkoski/2/934/900">David Merkoski</a>, the former Executive Creative Director of frog design. The organization realized the need for design talent in this space during its first run, says Lowe.</p>
+<p>&#8220;There tends to be a high aptitude for development and a high understanding of design importance, but so far that cleantech/I.T. connection hasn&#8217;t inspired designers to be a part of that founding team yet,&#8221; Lowe says. &#8220;In general right now, entrepreneurs are still driven to create the next Facebook instead figuring out the next <a href="http://www.crunchbase.com/company/opower">Opower</a>,&#8221; he explains. &#8220;The responsibility is on us and others to show that it&#8217;s just as exciting &#8211; if not more exciting &#8211; to do something in this category.&#8221;</p>
+<p>Eventually, the goal is to build out a team of designers, but the program will launch with Merkoski and five junior designers and interns.</p>
+<p>With the next cadre underway, participating startups receive all the typical benefits &#8211; <a href="http://greenstart.com/about/mentors">mentoring</a>, discounts, office space, etc., as well as $25,000 in seed funding. The companies (below) will demo to investors when the three month program completes. Here&#8217;s a sneak peek as to what they&#8217;re up to:</p>
+<p><a href="http://tctechcrunch2011.files.wordpress.com/2012/02/growing-energy-labs-logo.png" rel="lightbox[497612]"></a><a href="http://geli.net/">Growing Energy Labs</a><br />
+<em>Founders: Ryan Wartena, Cris Wagner</em><br />
+Growing Energy Labs enables advanced communications between energy storage, generation and loads via their ‘micro-utility in a box’.<br />
+Twitter handle: <a href="https://twitter.com/#!/growingenergy">@growingenergy</a></p>
+<p><a href="http://tctechcrunch2011.files.wordpress.com/2012/02/kwhours-logo.png" rel="lightbox[497612]"></a><a href="http://www.kwhours.com/">kWhOURS</a><br />
+<em>Founders: Colin Davis, Greg Davis, Shobin Uralil</em><br />
+kWhOURS develops a mobile data collection and management software platform for building energy auditors, reducing the time and cost of performing energy audits.<br />
+Twitter handle: <a href="https://twitter.com/#!/kWhOURS">@kWhOURS</a></p>
+<p><a href="http://tctechcrunch2011.files.wordpress.com/2012/02/ridepal-logo.png" rel="lightbox[497612]"></a><a href="http://www.ridepal.com/">Ridepal</a><br />
+<em>Founders: Nathalie Criou &amp; Mark Melville</em><br />
+Ridepal makes it affordable and simple for any size company to offer employee shuttles.<br />
+Twitter handle: <a href="https://twitter.com/#!/RidePal">@RidePal</a></p>
+<p><a href="http://tctechcrunch2011.files.wordpress.com/2012/02/scoot-logo.png" rel="lightbox[497612]"></a><a href="http://www.scootnetworks.com/">Scoot Networks</a><br />
+<em>Founder: Michael Keating</em><br />
+Scoot is a stealth startup transforming local transportation.<br />
+Twitter handle: <a href="https://twitter.com/#!/ScootNetworks">@ScootNetworks</a></p>
+<p><a href="http://tctechcrunch2011.files.wordpress.com/2012/02/smartgrid-billing-logo.png" rel="lightbox[497612]"></a><a href="http://www.smartgridbilling.com/">Smart Grid Billing</a><br />
+<em>Founder: Henrik Westergaard</em><br />
+Smart Grid Billing intelligently shifts small business and residential energy consumption off peak, selling the shifted watts as a ‘power producer’ to ISOs.<br />
+Twitter handle: <a href="https://twitter.com/#!/SGBill">@SGBill</a></p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/02/15/greenstart-tightens-focus-goes-after-sexy-cleantech-startups/">here</a>.

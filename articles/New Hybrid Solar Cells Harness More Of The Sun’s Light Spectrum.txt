@@ -1,0 +1,12 @@
+{
+"title" : "New Hybrid Solar Cells Harness More Of The Sun’s Light Spectrum",
+"date" : "10/02/2012",
+"author" : "Matylda Czarnecka"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/02/quantum-dot.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Quantum Dot" title="Quantum Dot" style="float: left; margin: 0 10px 7px 0;" /><p>Scientists at the University of Cambridge in the UK have found a way to improve the efficiency of photovoltaic cells by as much as 25% through harnessing more of the sun&#8217;s spectrum than most traditional silicon-based solar cells can. </p>
+<p>The new design, developed at the university&#8217;s Cavendish Laboratory in the Department of Physics, can absorb both red and blue light, and generates electrons from photons at a two-to-one ratio on the blue light spectrum. Most current solar cells lose blue photon energy as heat, leaving them unable to turn more than about 34% of the sunlight they absorb into power. </p>
+<p></p>
+<p>The team, led by professors Neil Greenham and Sir Richard Friend, recently published results in a <a href="http://pubs.acs.org/doi/full/10.1021/nl204297u">paper</a>. The hybrid cells have an added organic semiconductor called pentacene, which helps harness blue light energy to strengthen the electrical current coming from the cell, making the product up to 44% efficient. </p>
+<p>The university&#8217;s team also innovated on how the cells are made, by producing the cells in bulk using a roll-to-roll printing technique. While cheaper, more efficient photovoltaics sound promising, there remain hurdles to be overcome. The greatest costs in building a solar power plant are installation hardware, labor and land, so a cheaper solar cell is only a piece of the puzzle. </p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/02/10/cambridge-hybrid-solar-cells/">here</a>.

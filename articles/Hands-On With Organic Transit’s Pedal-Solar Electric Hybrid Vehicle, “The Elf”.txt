@@ -1,0 +1,13 @@
+{
+"title" : "Hands-On With Organic Transit’s Pedal-Solar Electric Hybrid Vehicle, “The Elf”",
+"date" : "17/07/2012",
+"author" : "Jordan Crook"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/07/elfmodel.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="ELFmodel" title="ELFmodel" style="float: left; margin: 0 10px 7px 0;" />			<script type="text/javascript" src="http://pshared.5min.com/Scripts/PlayerSeed.js?sid=577&amp;width=640&amp;height=390&amp;colorPallet=%230A9600&amp;hasCompanion=false&amp;sequential=0&amp;videoControlDisplayColor=%23000000&amp;playList=517420205&amp;videoGroupID=133503&amp;autoStart=false&amp;playerActions=16439"></script>
+<p>Our week in the Southeast gave us plenty of memorable moments, but perhaps my favorite of the entire trip was when I stumbled upon the Elf — a pedal-solar electric hybrid vehicle from <a target="_blank" href="http://www.organictransit.com/index.html">Organic Transit</a> in Durham, NC. It&#8217;s one of those products that — given the right financing and marketing — could be completely disruptive in Urban areas.</p>
+<p>The vehicles come in <a target="_blank" href="http://www.organictransit.com/models.html">two models</a> currently, The Elf which can hold up to 150lbs, and the TruckIt, which can handle an 800lb payload. Both have solar charged batteries that can last for 30 miles before switching to pedaling mode, and they have turn signals, brake lights and front headlights. They even have side mirrors.</p>
+<p>I stole away Rob Cotter, CEO at Organic Transit, to tell us a little more about what I like to call &#8220;sunbikes.&#8221; He said that Organic Transit vehicles can go anywhere a bike can go (like a bike lane, or bike trail) and &#8220;depending on what state you&#8217;re in&#8221; you can go about 30 mph. The Elf weighs 95 lbs and gets the equivalent of 1,800 miles per gallon.</p>
+<p>For insurance purposes, I wasn&#8217;t allowed to use the throttle on a prototype, but even pedaling that bad boy around was a pleasure. So if you&#8217;re interested, head over to <a target="_blank" href="http://www.organictransit.com/index.html">Organic Transit&#8217;s website</a> and pre-order. Even at $3,900 for the Elf, Cotter reports over 340 orders so far.</p>
+<a href="http://techcrunch.com/2012/07/17/hands-on-with-organic-transits-pedal-solar-electric-hybrid-vehicle-the-elf/#gallery-610768-1-slideshow">Click to view slideshow.</a>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/07/17/hands-on-with-organic-transits-pedal-solar-electric-hybrid-vehicle-the-elf/">here</a>.
