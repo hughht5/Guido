@@ -7,6 +7,7 @@ var exec = require('child_process').exec;
 
 
 //download feeds every 30 seconds
+downloadFeeds();
 setInterval(function(){
       downloadFeeds();
 },30000);
