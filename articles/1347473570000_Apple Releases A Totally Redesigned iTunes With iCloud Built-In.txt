@@ -1,0 +1,11 @@
+{
+"title" : "Apple Releases A Totally Redesigned iTunes With iCloud Built-In",
+"date" : "Wed, 12 Sep 2012 18:12:50 +0000",
+"author" : "Romain Dillet"
+}
+
+<p>As with every new hardware releases, Apple updated iTunes. But the media software received a major update today. The interface is now totally new with an edge-to-edge design. Browsing your music feels completely different with a great emphasis on album art. The left-side column is gone and it seems like the new iTunes is all about music.</p>
+<p>You can switch back to a more traditional interface with listings of your music available and browse by artist. The interface is much clearer with pop-up elements that look like iOS. Search was improved. The mini-player was redesigned.</p>
+<p>You can now search directly from the mini-player and even manage playlists.</p>
+<p><a target="_blank" href="http://www.techcrunch.com/tag/iphone"></a></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/TeBQqJJ_Uzw/">here</a>.
