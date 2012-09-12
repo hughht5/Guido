@@ -15695,3 +15695,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master cf262e0] adding new article
+ 3 files changed, 49 insertions(+), 1 deletions(-)
+ create mode 100644 "articles/1347484319000_Ears-On With Apple\342\200\231s New EarPods Better Bass, Better Looks, Just Better.txt"
+
+Stderr: To git@github.com:hughht5/Guido.git
+   b9ef56a..cf262e0  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"DFxSy/APB99nEtPDpncHIsQ3VFM","last-modified":"Wed, 12 Sep 2012 21:12:08 GMT","date":"Wed, 12 Sep 2012 21:12:56 GMT","expires":"Wed, 12 Sep 2012 21:12:56 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
