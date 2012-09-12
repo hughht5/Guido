@@ -12,4 +12,5 @@
 <p>The Yammer CEO said that he and the team still have quite a few products and ideas they&#8217;re looking to push and, although Yammer remains somewhat independent (as its still headquartered in San Francisco), notably the team is working on integrations with Microsoft products. </p>
 <p>So, look to see new Yamm-asoft products in clouds near you soon. We here at TechCrunch have often been heard to complain about the reliability of Yammer&#8217;s apps but are hoping that the integration with Microsoft will be good for the company &#8212; and that integration won&#8217;t just be a further distraction rather than a boon for the young enterprise social network.</p>
 <p><em>Updating</em></p>
+	<iframe src="http://www.snappytv.com/snap/fireside-chat-with-yammer-founder-and-ceo-david-sacks-about-techcrunch-disrupt-sf-2012-wednesday-morning-full-sessions-on-disrupt-sf-2012-full-sessions?w=640&h=403" width="640" height="403" frameborder='0' scrolling='no' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/eqpF2LyJtsw/">here</a>.
