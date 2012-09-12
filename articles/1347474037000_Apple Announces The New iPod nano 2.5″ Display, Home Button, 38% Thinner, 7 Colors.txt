@@ -4,7 +4,7 @@
 "author" : "Jordan Crook"
 }
 
-<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/screen-shot-2012-09-12-at-2-44-08-pm.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen shot 2012-09-12 at 2.44.08 PM" title="Screen shot 2012-09-12 at 2.44.08 PM" style="float: left; margin: 0 10px 7px 0;" /><p>Of course all eyes are on the <a href="http://techcrunch.com/2012/09/12/apple-iphone-5-official/">brand new iPhone</a>, but everybody loves a good iPod refresh. Today, the company has announced a new batch of iPod touch models, as well as an iPod nano upgrade and a new iPod shuffle. </p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/x1xmx.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="X1Xmx" title="X1Xmx" style="float: left; margin: 0 10px 7px 0;" /><p>Of course all eyes are on the <a href="http://techcrunch.com/2012/09/12/apple-iphone-5-official/">brand new iPhone</a>, but everybody loves a good iPod refresh. Today, the company has announced a new batch of iPod touch models, as well as an iPod nano upgrade and a new iPod shuffle. </p>
 <p>The iPhone may have taken the cake in recent months, but the iPod is the most popular music player of all time, according to Apple. And with the iTunes refresh today, there&#8217;s no better time to learn about brand new iPods. But no more fodder, let&#8217;s get down to business. </p>
 <h3>iPod nano</h3>
 <p>Last year the revamped iPod nano wasn&#8217;t all that revamped &mdash; it was the same design as the 2010 model. But Apple has made some changes this year, re-introducing the display, and making it larger at 2.5-inches.. It looks a bit like a small phone. </p>
@@ -15,5 +15,5 @@
 <p>A fitness and pedometer have also been included, to compete with the likes of the Nike Fuel Band, and Moto ACTV. </p>
 <p>And as connectivity continues to be more and more important, the company has included Bluetooth. </p>
 <p><em>Developing&#8230;</em></p>
-<p><a target="_blank" href="http://www.techcrunch.com/tag/iphone"></a></p>
+<a href="http://techcrunch.com/2012/09/12/apple-announces-the-new-ipod-nano-2-5-display-home-button-38-thinner-7-colors/#gallery-649130-1-slideshow">Click to view slideshow.</a>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/wcR_WirvYRI/">here</a>.
