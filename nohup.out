@@ -572,3 +572,36 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master 11d3fd4] adding new article
+ 3 files changed, 53 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1347469744000_Twitter Rolls Out Enhanced Geo-targeting For Its Marketing Customers.txt
+ create mode 100644 articles/1347469779000_Apple Is Number 1 In U.S. Notebook Sales.txt
+
+Stderr: To git@github.com:hughht5/Guido.git
+   c21cb97..11d3fd4  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"lDc+9El5NNdenJOop3ZHXKhRUvg","last-modified":"Wed, 12 Sep 2012 17:09:48 GMT","date":"Wed, 12 Sep 2012 17:10:25 GMT","expires":"Wed, 12 Sep 2012 17:10:25 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
