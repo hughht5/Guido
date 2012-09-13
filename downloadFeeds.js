@@ -75,16 +75,10 @@ function parse(xml){
 			
 			posts.push(post);
 		}
-
-		var newPosts = postDiff(posts, oldPosts);
-		
 		
 		//remove posts that have already been downloaded into the oldPostURLS array
-		// var newPostURLs = getURLs(posts).diff(oldPostURLS); 
-		console.log("new posts length - "+newPosts.length);
-		console.log("posts length - "+posts.length);
-		console.log("olds posts length - "+oldPosts.length);
-		
+		var newPosts = postDiff(posts, oldPosts);
+	
 		//post to blog
 		postToGlog(newPosts);
 		//postToBlogger(posts);
@@ -103,19 +97,12 @@ function parse(xml){
 //function returns the posts that are in array a, but not also in array b
 //function compares titles only.
 function postDiff(a,b){
-	var results = a;
+	console.log("1 posts length - "+a.length);
+	console.log("1 olds posts length - "+b.length);
 	
-	//reverse through array to not change the upcoming indexes on deletion
-	for (var x=a.length-1;x=0;x--){
-		console.log("test1");
-		for (var y=b.length-1;y=0;y--){
-			console.log("test2");
-			if (a[x].title == b[y].title){
-				console.log("test3");
-				delete results[x];
-			}
-		}
-	}
+	var results = a.splice(b);
+	
+	console.log("2 new posts length - "+results.length);
 	
 	return results;
 }
