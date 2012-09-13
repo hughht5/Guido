@@ -108,7 +108,25 @@ function postDiff(a,b){
 	
 	// console.log("2 new posts length - "+results.length);
 	
-	return a;
+	var results = [];
+	
+	for (var i=0;i<a.length;i++){
+	
+		var found = false;
+		
+		for (var j=0;j<b.length;j++){
+			if(a[i]==b[j]){
+				found = true;
+			}
+		}
+		
+		if (found == false){
+			results.push(a[i]);
+		}
+		
+	}
+	
+	return results;
 }
 
 function getURLs(posts){
