@@ -1,0 +1,27 @@
+{
+"title" : "Startup Alley Brazilian Pavilion At Disrupt Shows An Exploding Startup Scene",
+"date" : "Thu, 13 Sep 2012 01:25:27 +0000",
+"author" : "Mike Butcher"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/screen-shot-2012-09-12-at-13-28-18.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-09-12 at 13.28.18" title="Screen Shot 2012-09-12 at 13.28.18" style="float: left; margin: 0 10px 7px 0;" />			<script type="text/javascript" src="http://pshared.5min.com/Scripts/PlayerSeed.js?sid=577&amp;width=640&amp;height=450&amp;colorPallet=%230A9600&amp;hasCompanion=false&amp;relatedMode=2&amp;videoControlDisplayColor=%23000000&amp;playList=517476452&amp;shuffle=0&amp;videoGroupID=133503&amp;autoStart=false&amp;playerActions=16407"></script>
+<p>Brazil is rapidly taking its place in the tech world as a fertile place for startups. Evidence of that was clear at TechCrunch Disrupt this week in San Francisco. In order to give you a sense of the sheer scale of the Brazilian presence, we came up with a new format &#8212; rapid-fire one sentence pitches. Check it out.</p>
+<p><a target="_blank" href="http://Ooif.me">Ooif.me</a> &#8211; Location-based and interest-driven network of people and channels.</p>
+<p><a target="_blank" href="http://Intacto.com.br">QualCanal</a> &#8211; Qual Canal is a monitoring tool for TV in social networks.</p>
+<p>Rota los Concursos &#8211; Adaptive learning for Brazil.</p>
+<p><a target="_blank" href="http://Sambaads.com.br">SambaAds</a> &#8211; Samba Ads is the largest premium video network in Latin America.</p>
+<p><a target="_blank" href="http://scup.com.br">Scup</a> &#8211; Social media monitoring and management platform.</p>
+<p><a target="_blank" href="http://Sitesustentavel.com.br">Site Sustentável</a> &#8211; Neutralize CO2 emissions from websites by planting trees.</p>
+<p>Verduca</p>
+<p><a target="_blank" href="http://Superlead.com.br">Superlead</a> &#8211; Internet marketing platform for Brazilian SMBs.</p>
+<p>ViS &#8211; Game-changing analytics platform for clinical-trial planning.</p>
+<p><a target="_blank" href="http://Wegoout.com">WeGoOut</a> &#8211; Find the most popular nearby parties and meet friends of friends.</p>
+<p><a target="_blank" href="http://Winetag.com.br">WineTag</a> &#8211; An intelligent multi-platform social network that works as a personal sommelier for every consumer, recommending the best wine for each user.</p>
+<p><a target="_blank" href="http://Moovia.com">Moovia</a> &#8211; Your professional network.</p>
+<p><a target="_blank" href="http://Xjobs.com.br">XJOBS</a> &#8211; Marketplace for outsourcing online jobs.</p>
+<p><a target="_blank" href="http://pagzoop.com">Zoop</a> &#8211; Zoop is a secure mobile social commerce and payment platform that enables merchants and consumers to take full advantage of a seamless shopping experience anywhere, anytime, anyway.</p>
+<p><a target="_blank" href="http://Universo.mobi">Universo</a> &#8211; Universo.mobi is a powerful DYI App creation platform.</p>
+<p><a target="_blank" href="http://Trip2gether.com">trip2gether</a> &#8211; Collaborative and intuitive travel planning and sharing.</p>
+<p><a target="_blank" href="http://Sonoma.com.br">Sonoma</a> &#8211; Discovery of finest wines and gastronomic products of Brazil.</p>
+<p>MyMaket</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/uhll6Vy1PrA/">here</a>.
