@@ -1,0 +1,10 @@
+{
+"title" : "NYC’s Lerer Ventures Raising $30M Third Fund For Early-Stage Investments",
+"date" : "Thu, 13 Sep 2012 21:37:52 +0000",
+"author" : "Rip Empson"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/screen-shot-2012-09-13-at-2-23-40-pm.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen shot 2012-09-13 at 2.23.40 PM" title="Screen shot 2012-09-13 at 2.23.40 PM" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.lererventures.com/">Lerer Ventures</a>, one of the better known seed stage venture capital funds based out of New York, has just closed a $30 million fund, according to its <a target="_blank" href="http://www.sec.gov/Archives/edgar/data/1556789/000155678912000001/xslFormDX01/primary_doc.xml">Form D filed today with the SEC</a>. It&#8217;s the third fund in the venture firm&#8217;s history and raises the  bar from Lerer&#8217;s second, $25 million fund, which it raised in May 2011. (Its maiden fund was worth $8 million and was raised in early 2010.)</p>
+<p>For those unfamiliar, Lerer Ventures is an NYC-based firm that invests in early-stage startups and companies, most often as part of seed and series A investments. The firm was founded by Ken Lerer, the chairman and co-founder of The Huffington Post (as well as a chairman of <a target="_blank" href="http://betaworks.com/about.php">betaworks</a> and Buzzfeed). His son, Ben Lerer, perhaps better known as a co-founder of Thrillist, is also a partner at the venture firm, along with former Huffington Post CEO and Softbank partner, Eric Hippeau.</p>
+<p><em>Updating</em>.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/30lFRGwbl_Q/">here</a>.
