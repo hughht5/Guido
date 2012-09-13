@@ -1,0 +1,13 @@
+{
+"title" : "FriendFeed Has Been Down For About 24 Hours, Is It Finally Dead",
+"date" : "Thu, 13 Sep 2012 18:52:41 +0000",
+"author" : "Drew Olanoff"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/4541437250_0653d311b0_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="4541437250_0653d311b0_z" title="4541437250_0653d311b0_z" style="float: left; margin: 0 10px 7px 0;" /><p>One of the interesting things that happened when Facebook acquired the FriendFeed team is that the service lived on for a certain segment of users. Content continued to flow, and in fact, it looks like FriendFeed still possesses the infamous &#8220;Twitter firehose.&#8221;</p>
+<p>Alarmingly, again&#8230;for some, FriendFeed hasn&#8217;t been available for the past 24 hours. I&#8217;m told by sources that this is one of, if not the, longest outages since the site&#8217;s inception. Sure, the team went on to work at Facebook, but the site has remained up and reliable since then.</p>
+<p>Bret Taylor, one of FriendFeed&#8217;s founders, recently left Facebook, and it&#8217;s not known at this time what he&#8217;s working on. Taylor once said that <a target="_blank" href="http://venturebeat.com/2010/04/21/friendfeed-shutdown/">Facebook had no plans on shutting down the site</a>. So, what&#8217;s up?</p>
+<p>Here&#8217;s what you see when you try to log in:</p>
+<p><a href="http://techcrunch.com/2012/09/13/friendfeed-has-been-down-for-about-24-hours-is-it-finally-dead/friendfeed-1/" rel="attachment wp-att-650479"></a></p>
+<p>We&#8217;ve reached out to Facebook and Taylor to see if anything has changed with the plans to keep FriendFeed alive.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/zBmrwohnDUw/">here</a>.
