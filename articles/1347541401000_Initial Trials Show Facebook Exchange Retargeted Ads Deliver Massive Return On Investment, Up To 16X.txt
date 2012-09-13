@@ -1,0 +1,15 @@
+{
+"title" : "Initial Trials Show Facebook Exchange Retargeted Ads Deliver Massive Return On Investment, Up To 16X",
+"date" : "Thu, 13 Sep 2012 13:03:21 +0000",
+"author" : "Josh Constine"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/facebook-exchange-ads-cookies.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="facebook-exchange-ads-cookies" title="facebook-exchange-ads-cookies" style="float: left; margin: 0 10px 7px 0;" /><p>Facebook began allowing partners in its <a href="http://techcrunch.com/2012/06/13/facebook-exchange/">Exchange cookie-based real-time bidding retargeted ads</a> to share results this morning, and data from AdRoll, Triggit, and TellApart show the ads earn businesses up to 16X what they spend. Facebook revealed the new ad format in June, and by August we were already hearing the ads were performing very well, but now the data shows Facebook Exchange (FBX) ads may be cheaper, get higher click through rates, and have higher post-click conversion rates than retargeted ads on other exchanges including Google&#8217;s AdX.</p>
+<p>By increasing relevance and quality of the ads for users and earning advertisers more money, Facebook Exchange could grow to be a huge revenue generator for Facebook &#8212; a company scrambling to prove it will continue earning more and more in the future.</p>
+<p>Here&#8217;s a breakdown of the data from three companies in the Facebook Exchange program:</p>
+<ul>
+<li>AdRoll noted 16X return on investment in Facebook Exchange ads for its clients</li>
+<li>TellApart clients averaged a click through rate of 6.65% on Facebook Exchange ads, compared to 6.41% on Google&#8217;s AdX</li>
+<li>Triggit&#8217;s Facebook Exchange Ads saw 4X higher return on assets (or profit), 2.2X higher post-click conversion rates, and 6.5X less cost per click-through order than on traditional ad exchanges</li>
+</ul>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/91ZmtFnamiw/">here</a>.
