@@ -1,0 +1,15 @@
+{
+"title" : "Google Drops Some Knowledge (Graph) On (Kevin) Bacon",
+"date" : "Thu, 13 Sep 2012 17:53:53 +0000",
+"author" : "Drew Olanoff"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/6455416821_bf57fa79a7_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="6455416821_bf57fa79a7_z" title="6455416821_bf57fa79a7_z" style="float: left; margin: 0 10px 7px 0;" /><p>When I <a href="http://techcrunch.com/2012/09/09/google-search-a-discussion-about-the-past-present-and-future-with-jack-menzel/">sat down with Jack Menzel from Google last week</a>, we discussed all of the cool possibilities that are to come for search. One of the most interesting projects the team is working on is Knowledge Graph, a way to connect the world&#8217;s information and provide &#8220;answers&#8221; for those inquisitive searchers.</p>
+<p>In the past, the <a target="_blank" href="http://thenextweb.com/insider/2012/05/28/how-an-mp3-player-inspired-the-launch-of-googles-knowledge-graph/">Knowledge Graph</a> team have dropped some funny results in for queries, <a target="_blank" href="http://thenextweb.com/shareables/2012/06/13/more-fun-with-knowledge-graph-googling-chuck-norris-uncovers-a-very-interesting-fact/">my favorite being Chuck Norris</a>.</p>
+<p>Today, it&#8217;s another actor that gets special treatment, but this time it&#8217;s in a more explicit way. Surely you know of the &#8220;Six Degrees of Kevin Bacon&#8221; meme. Basically, everyone in the world is connected to Kevin Bacon in some way.</p>
+<p>Google has surfaced an algorithm in its search results that calculate the &#8220;Bacon Number&#8221; for just about anyone.  Here&#8217;s an example on a search for &#8220;bacon number obama&#8221;:</p>
+<p><a href="http://techcrunch.com/2012/09/13/google-drops-some-knowledge-graph-on-kevin-bacon/bacon-number-obama-google-search-1/" rel="attachment wp-att-650432"></a></p>
+<p>What Google has done with its Knowledge Graph platform and search team, is shown you the secret sauce behind how things are connected. In this case, how President Barack Obama is connected to Kevin Bacon.</p>
+<p>Try your own search, I bet you&#8217;ll be hard pressed to find someone who isn&#8217;t connected to Kevin Bacon. The idea of curating and displaying a &#8220;Knowledge Graph&#8221; based on your queries and interests is the future of search, as I learned. More soon, so stay tuned.</p>
+<p>[Photo credit: <a target="_blank" href="http://www.flickr.com/photos/chasblackman/6455416821/">Flickr</a>]</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/xduOwHrZJOU/">here</a>.
