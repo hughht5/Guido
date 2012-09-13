@@ -1,0 +1,14 @@
+{
+"title" : "BuzzFeed’s First Acquisition Kingfish Labs Could Make Its FB Ads Go More Viral Than Football Cats",
+"date" : "Thu, 13 Sep 2012 22:07:53 +0000",
+"author" : "Josh Constine"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/buzzfish-labs-done.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Buzzfish Labs Done" title="Buzzfish Labs Done" style="float: left; margin: 0 10px 7px 0;" /><p>After its Facebook dating app didn&#8217;t pan out, New York&#8217;s <a target="_blank" href="http://www.crunchbase.com/company/kingfish-labs">Kingfish Labs</a> built a data service for optimizing Facebook ads, and now the startup has become content cornucopia <a target="_blank" href="http://www.buzzfeed.com/">Buzzfeed</a>&#8216;s first acquisition. Kingfish&#8217;s technology, engineering team, and one co-founder Jeff Revesz will head over to BuzzFeed, I&#8217;ve learned from other co-founder Rob Fishman.</p>
+<p>Here&#8217;s what they&#8217;ll be doing. BuzzFeed sells sponsored posts about brands like Red Bull and injects them into its own homepage feed of cute kitten, ridiculous lists, and insightful journalism. Kingfish will help it buy Facebook ads that drive traffic to those sponsored posts.</p>
+<p></p>
+<p>The two companies had strong ties as Kingfish&#8217;s Revesz and Rob Fishman had worked with Buzzfeed CEO Jonah Peretti at Huffington Post. Kingfish had also got part of its $500,000 seed funding from Lerer Ventures, whose Ken Lerer is the chairman of BuzzFeed.</p>
+<p>Fishman won&#8217;t be joining the rest of his team at the popular content hub. Instead he&#8217;s considering going back into writing or trying some new startup, perhaps something similar to Kingfish&#8217;s original project <a href="http://techcrunch.com/2012/03/28/yoke/">Yoke. That was a Facebook-based dating app</a> we broke the news on back in March. Fishman tells me it quickly ramped up to 15,000 users but stopped growing as people didn&#8217;t want to make dating introductions for Facebook friends like his team expected.</p>
+<p>Even though he won&#8217;t be joining BuzzFeed, at least not now, Fishman said the the acquisition is still &#8220;exciting news for all of us.&#8221; If BuzzFeed can amplify the inherent virality of its Sponsored Posts through Facebook ads, it could pull in a ton more traffic for them and charge higher prices &#8212; high enough to cover the Facebook ad spend and pull in a tidy profit. It can&#8217;t be such a dumb idea considering Buddy Media and Gannett both bought Facebook Ads companies too.</p>
+<p></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/zsn703FqzAk/">here</a>.
