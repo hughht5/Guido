@@ -6,8 +6,8 @@ var querystring = require('querystring');
 var exec = require('child_process').exec;
 var OAuth= require('oauth').OAuth;
 
-//to ensure tweets are not repeated keep an array of posts and after the first loop start tweeting
-var oldPosts = [];
+//to ensure tweets are not repeated keep an array of post URLs and after the first loop start tweeting
+var oldPostURLS = [];
 var firstDownload = true;
 
 //function to return what is in array 1 that is not in array 2 (this is a single directional diff)
@@ -74,28 +74,41 @@ function parse(xml){
 			
 			posts.push(post);
 		}
-		
-		//remove posts that have already been downloaded into the oldPosts array
-		var newPosts = posts.diff(oldPosts); 
-		console.log("new posts length - "+newPosts.length);
-		console.log("posts length - "+posts.length);
-		console.log("olds posts length - "+oldPosts.length);
-		
-		//console.log(JSON.stringify(posts));
-		
+
 		//post to blog
-		postToGlog(newPosts);
-		//postToBlogger(newPosts);
+		postToGlog(posts);
+		//postToBlogger(posts);
+		
+		//remove posts that have already been downloaded into the oldPostURLS array
+		var newPostURLs = getURLs(posts).diff(oldPostURLS); 
+		console.log("new posts length - "+newPostURLs.length);
+		console.log("posts length - "+posts.length);
+		console.log("olds posts length - "+oldPostURLS.length);
 		
 		//tweet
 		if (!firstDownload){
-			tweet(newPosts);
+			tweet(newPostURLs);
 		}
 		
-		//add newly posted posts to oldPosts array
-		oldPosts = oldPosts.concat(newPosts);
+		//add newly posted posts to oldPostURLS array
+		oldPostURLS = oldPostURLS.concat(newPostURLs);
 		
 	});
+}
+
+function getURLs(posts){
+	var urls = [];
+	
+
+	
+	for (var i=0;i<posts.length;i++){
+		var date = new Date(posts[i].pubDate);
+		var year = date.getFullYear();
+		var month = ('0'+(date.getMonth()+1)).slice(-2);
+		urls.push([year, month, posts[i].title.replace(/[%&:*?"<>|\/]+/g,'').replace(/\s/g, '-')].join('/'));
+	}
+	
+	return urls;
 }
 
 //write result to file
