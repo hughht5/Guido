@@ -97,16 +97,9 @@ function parse(xml){
 //function returns the posts that are in array a, but not also in array b
 //function compares titles only.
 function postDiff(a,b){
-	// console.log("1 posts length - "+a.length);
-	// console.log("1 olds posts length - "+b.length);
-
-	// var results = a;
+	console.log("1 posts length - "+a.length);
+	console.log("1 olds posts length - "+b.length);
 	
-	// for (var x=0;x<b.length;x++){
-		// results = results.splice(b[x]);
-	// }
-	
-	// console.log("2 new posts length - "+results.length);
 	
 	var results = [];
 	
@@ -125,6 +118,8 @@ function postDiff(a,b){
 		}
 		
 	}
+	
+	console.log("new posts length - "+results.length);
 	
 	return results;
 }
