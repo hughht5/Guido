@@ -6,8 +6,7 @@ var querystring = require('querystring');
 var exec = require('child_process').exec;
 var OAuth= require('oauth').OAuth;
 
-//to ensure tweets are not repeated keep an array of post URLs and after the first loop start tweeting
-var oldPostURLS = [];
+//to ensure tweets are not repeated keep an array of posts and after the first loop start tweeting
 var oldPosts = [];
 var firstDownload = true;
 
@@ -38,7 +37,7 @@ function downloadFeeds(first){
 	http.get(options, function(res) {
 		console.log("Got response: " + res.statusCode);
 		console.log('STATUS: ' + res.statusCode);
-		console.log('HEADERS: ' + JSON.stringify(res.headers));
+		//console.log('HEADERS: ' + JSON.stringify(res.headers));
 		res.setEncoding('utf8');
 		var pageData = "";
 		res.on('data', function (chunk) {
@@ -76,10 +75,10 @@ function parse(xml){
 			posts.push(post);
 		}
 		
-		//remove posts that have already been downloaded into the oldPostURLS array
+		//remove posts that have already been downloaded into the oldPosts array
 		var newPosts = postDiff(posts, oldPosts);
 		
-		//add newly posted posts to oldPostURLS array
+		//add newly posted posts to oldPosts array
 		oldPosts = oldPosts.concat(newPosts);
 	
 		//post to blog
@@ -97,8 +96,8 @@ function parse(xml){
 //function returns the posts that are in array a, but not also in array b
 //function compares titles only.
 function postDiff(a,b){
-	console.log("1 posts length - "+a.length);
-	console.log("1 olds posts length - "+b.length);
+	// console.log("1 posts length - "+a.length);
+	// console.log("1 olds posts length - "+b.length);
 	
 	
 	var results = [];
@@ -113,7 +112,7 @@ function postDiff(a,b){
 			}
 		}
 		
-		console.log("found "+i+ " = "+found);
+		// console.log("found "+i+ " = "+found);
 		
 		if (found == false){
 			results.push(a[i]);
@@ -121,26 +120,11 @@ function postDiff(a,b){
 		
 	}
 	
-	console.log("new posts length - "+results.length);
+	console.log("Found "+results.length+" new posts.");
 	
 	return results;
 }
 
-//unused
-// function getURLs(posts){
-	// var urls = [];
-	
-
-	
-	// for (var i=0;i<posts.length;i++){
-		// var date = new Date(posts[i].pubDate);
-		// var year = date.getFullYear();
-		// var month = ('0'+(date.getMonth()+1)).slice(-2);
-		// urls.push([year, month, posts[i].title.replace(/[%&:*?"<>|\/]+/g,'').replace(/\s/g, '-')].join('/'));
-	// }
-	
-	// return urls;
-// }
 
 //write result to file
 function writeToFile(filename, string){
@@ -217,8 +201,8 @@ function postToGlog(posts){
 				if(error) {
 					console.log('Could not commit and push new articles: ' + error);
 				}
-				console.log('Stdout: ' + stdout);
-				console.log('Stderr: ' + stderr);
+				console.log('Git - Stdout: ' + stdout);
+				console.log('Git - Stderr: ' + stderr);
 				
 			});
 		}
@@ -283,6 +267,9 @@ function tweet(posts){
 		var tweetText = posts[x].title;
 	
 		console.log("pretending to tweet : "+tweetText)
+		
+		var tweetURL = getURL(post);
+		console.log("url to tweet = "+tweetURL);
 	
 		// oAuth.post(
 			// "http://api.twitter.com/1/statuses/update.json",
@@ -297,4 +284,14 @@ function tweet(posts){
 	}
 }
 
+
+//returns URL to post
+function getURL(post){
+	var date = new Date(post.pubDate);
+	var year = date.getFullYear();
+	var month = ('0'+(date.getMonth()+1)).slice(-2);
+	var result = "http://www.techcrunchlite.com/"+[year, month, encodeURI(posts[i].title.replace(/\s/g, '-'))].join('/');
+	
+	return result;
+}
 
