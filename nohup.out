@@ -75299,3 +75299,43 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master c86a525] adding new article
+ 1 files changed, 40 insertions(+), 0 deletions(-)
+
+Stderr: To git@github.com:hughht5/Guido.git
+   297b522..c86a525  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"AfqXtVqw0jNLSpd3vHwg3ubmXyc","last-modified":"Thu, 13 Sep 2012 17:24:11 GMT","date":"Thu, 13 Sep 2012 17:29:51 GMT","expires":"Thu, 13 Sep 2012 17:29:51 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+1 posts length - 20
+1 olds posts length - 526
+found 0 = false
+found 1 = true
+found 2 = true
+found 3 = false
+found 4 = true
+found 5 = true
+found 6 = true
+found 7 = true
+found 8 = true
+found 9 = true
+found 10 = true
+found 11 = true
+found 12 = true
+found 13 = true
+found 14 = false
+found 15 = true
+found 16 = true
+found 17 = true
+found 18 = true
+found 19 = true
+new posts length - 3
+pretending to tweet : Drive Me Lyft Just Might Have The Customer Experience Advantage Over Uber
+pretending to tweet : Chrome For iOS Market Share Reaches 2.7
+pretending to tweet : Survey Says 44 Of iPhone Owners In Britain Want iPhone 5, 18 Of British HTC Owners To Follow
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
