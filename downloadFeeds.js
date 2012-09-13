@@ -106,9 +106,9 @@ function postDiff(a,b){
 	var results = a;
 	
 	//reverse through array to not change the upcoming indexes on deletion
-	for (var x=a.length;x>0;x--){
+	for (var x=a.length-1;x=0;x--){
 		console.log("test1");
-		for (var y=b.length;y>0;y--){
+		for (var y=b.length-1;y=0;y--){
 			console.log("test2");
 			if (a[x].title == b[y].title){
 				console.log("test3");
