@@ -37450,3 +37450,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master f6352ea] adding new article
+ 3 files changed, 47 insertions(+), 1 deletions(-)
+ create mode 100644 articles/1347505201000_Spestle Is CafePress For Seasoning Blends (Seriously).txt
+
+Stderr: To git@github.com:hughht5/Guido.git
+   5d00922..f6352ea  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"last-modified":"Thu, 13 Sep 2012 03:02:35 GMT","etag":"LnKrCTQi9IXeqd8ejT06kBngUu8","content-type":"text/xml; charset=UTF-8","date":"Thu, 13 Sep 2012 03:02:44 GMT","expires":"Thu, 13 Sep 2012 03:02:44 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
