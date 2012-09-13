@@ -113,6 +113,8 @@ function postDiff(a,b){
 			}
 		}
 		
+		console.log("found "+i+ " = "+found);
+		
 		if (found == false){
 			results.push(a[i]);
 		}
