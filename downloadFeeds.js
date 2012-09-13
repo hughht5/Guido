@@ -35,7 +35,6 @@ function downloadFeeds(first){
 	};
 
 	http.get(options, function(res) {
-		console.log("Got response: " + res.statusCode);
 		console.log('STATUS: ' + res.statusCode);
 		//console.log('HEADERS: ' + JSON.stringify(res.headers));
 		res.setEncoding('utf8');
