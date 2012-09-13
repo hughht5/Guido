@@ -27398,3 +27398,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master 782cc20] adding new article
+ 2 files changed, 45 insertions(+), 0 deletions(-)
+ create mode 100644 "articles/1347495592000_30 Rock Becomes The Latest Example To \342\200\234Go Google\342\200\235.txt"
+
+Stderr: To git@github.com:hughht5/Guido.git
+   0da370b..782cc20  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"KLfMcjRqsrpnUbkhwHtaEtB7WBc","last-modified":"Thu, 13 Sep 2012 00:20:10 GMT","date":"Thu, 13 Sep 2012 00:20:43 GMT","expires":"Thu, 13 Sep 2012 00:20:43 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
