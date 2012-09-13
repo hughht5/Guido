@@ -31526,3 +31526,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master 4e8920a] adding new article
+ 4 files changed, 62 insertions(+), 1 deletions(-)
+ create mode 100644 "articles/1347499527000_Startup Alley \342\200\224 Brazilian Pavilion At Disrupt Shows An Exploding Startup Scene.txt"
+
+Stderr: To git@github.com:hughht5/Guido.git
+   67b7bd6..4e8920a  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"wYOgGu8xvhICa2sqN/5m+lYtmHA","last-modified":"Thu, 13 Sep 2012 01:26:42 GMT","date":"Thu, 13 Sep 2012 01:27:13 GMT","expires":"Thu, 13 Sep 2012 01:27:13 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
