@@ -89895,3 +89895,9 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master 6d64af6] adding new article
+ 1 files changed, 44 insertions(+), 0 deletions(-)
+
+Stderr: To git@github.com:hughht5/Guido.git
+   4a8e265..6d64af6  master -> master
+
