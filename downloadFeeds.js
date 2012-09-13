@@ -106,8 +106,11 @@ function postDiff(a,b){
 	var results = a;
 	
 	for (var x=0;x<a.length;x++){
+		console.log("test1");
 		for (var y=0;y<b.length;y++){
+			console.log("test2");
 			if (a[x].title == b[y].title){
+				console.log("test3");
 				delete results[x];
 			}
 		}
