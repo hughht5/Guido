@@ -82295,3 +82295,46 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master 01302f9] adding new article
+ 3 files changed, 62 insertions(+), 3 deletions(-)
+ create mode 100644 articles/1347562546000_Credit Sesame Adds Social Comparison Tools, Lets You See How Your Debt Compares With People Like You.txt
+
+Stderr: To git@github.com:hughht5/Guido.git
+   c8e7128..01302f9  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"WuwuKgTQ1/gyGK0G/hgmdHP6scE","last-modified":"Thu, 13 Sep 2012 18:55:57 GMT","date":"Thu, 13 Sep 2012 18:56:51 GMT","expires":"Thu, 13 Sep 2012 18:56:51 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+1 posts length - 20
+1 olds posts length - 1059
+found 0 = true
+found 1 = false
+found 2 = true
+found 3 = true
+found 4 = false
+found 5 = true
+found 6 = true
+found 7 = false
+found 8 = true
+found 9 = true
+found 10 = true
+found 11 = true
+found 12 = true
+found 13 = true
+found 14 = true
+found 15 = true
+found 16 = true
+found 17 = true
+found 18 = false
+found 19 = true
+new posts length - 4
+pretending to tweet : FriendFeed Has Been Down For About 24 Hours, Is It Finally Dead
+pretending to tweet : Drive Me Lyft Just Might Have The Customer Experience Advantage Over Uber
+pretending to tweet : Chrome For iOS Market Share Reaches 2.7
+pretending to tweet : Survey Says 44 Of iPhone Owners In Britain Want iPhone 5, 18 Of British HTC Owners To Follow
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
