@@ -31338,3 +31338,36 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master fbd1907] adding new article
+ 3 files changed, 74 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1347499342000_Apple Announcement Roundup iPhone 5, New iPod Touch, iPod Nano, EarPods.txt
+ create mode 100644 "articles/1347499348000_Jack Dorsey Tries To Break Out Of The Bubble By Riding The Bus \342\200\234Every Single Day\342\200\235.txt"
+
+Stderr: To git@github.com:hughht5/Guido.git
+   7da477d..fbd1907  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"8KcOdWKn777urZhPtMOtM7hzrmw","last-modified":"Thu, 13 Sep 2012 01:23:29 GMT","date":"Thu, 13 Sep 2012 01:24:13 GMT","expires":"Thu, 13 Sep 2012 01:24:13 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
