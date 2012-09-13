@@ -78,6 +78,9 @@ function parse(xml){
 		
 		//remove posts that have already been downloaded into the oldPostURLS array
 		var newPosts = postDiff(posts, oldPosts);
+		
+		//add newly posted posts to oldPostURLS array
+		oldPosts = oldPosts.concat(newPosts);
 	
 		//post to blog
 		postToGlog(newPosts);
@@ -87,9 +90,6 @@ function parse(xml){
 		if (!firstDownload){
 			tweet(newPosts);
 		}
-		
-		//add newly posted posts to oldPostURLS array
-		oldPosts = oldPosts.concat(newPosts);
 		
 	});
 }
