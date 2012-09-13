@@ -282,17 +282,17 @@ function tweet(posts){
 	
 		var tweetText = posts[x].title;
 	
-		// console.log("pretending to tweet : "+tweetText)
+		console.log("pretending to tweet : "+tweetText)
 	
-		oAuth.post(
-			"http://api.twitter.com/1/statuses/update.json",
-			"144130100-v0ytQ8GC7EezMbQxfQyEuAvZeCmMnd7mbVfPC9kN", "y7V9C3N9LnNRF37cK0gVv4eiPNaZLd3eCPSPGTanycI",
-			{"status":tweetText},
-			function(error, data) {
-				if(error) console.log(require('sys').inspect(error))
-				else console.log("tweeted : "+tweetText);//console.log(data)
-			}
-		);
+		// oAuth.post(
+			// "http://api.twitter.com/1/statuses/update.json",
+			// "144130100-v0ytQ8GC7EezMbQxfQyEuAvZeCmMnd7mbVfPC9kN", "y7V9C3N9LnNRF37cK0gVv4eiPNaZLd3eCPSPGTanycI",
+			// {"status":tweetText},
+			// function(error, data) {
+				// if(error) console.log(require('sys').inspect(error))
+				// else console.log("tweeted : "+tweetText);//console.log(data)
+			// }
+		// );
 		
 	}
 }
