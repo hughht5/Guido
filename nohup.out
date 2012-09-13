@@ -82802,3 +82802,45 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master fa8fdf1] adding new article
+ 3 files changed, 71 insertions(+), 0 deletions(-)
+ create mode 100644 "articles/1347562846000_Facebook For iOS App\342\200\231s Review Average Climbs From 1.5 Stars To 4 Stars In Three Weeks Since Relaunch.txt"
+ create mode 100644 "articles/1347562855000_\342\200\234In the Studio,\342\200\235 Bloomreach\342\200\231s Ashu Garg Brings Machine Learning to Big Data.txt"
+
+Stderr: To git@github.com:hughht5/Guido.git
+   81faa2b..fa8fdf1  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"ns3s2iiw4b9BufbJ3fOoRTlZz6k","last-modified":"Thu, 13 Sep 2012 19:02:18 GMT","date":"Thu, 13 Sep 2012 19:02:51 GMT","expires":"Thu, 13 Sep 2012 19:02:51 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+1 posts length - 20
+1 olds posts length - 1108
+found 0 = true
+found 1 = true
+found 2 = true
+found 3 = false
+found 4 = true
+found 5 = true
+found 6 = false
+found 7 = true
+found 8 = true
+found 9 = false
+found 10 = true
+found 11 = true
+found 12 = true
+found 13 = true
+found 14 = true
+found 15 = true
+found 16 = true
+found 17 = true
+found 18 = true
+found 19 = true
+new posts length - 3
+pretending to tweet : FriendFeed Has Been Down For About 24 Hours, Is It Finally Dead
+pretending to tweet : Drive Me Lyft Just Might Have The Customer Experience Advantage Over Uber
+pretending to tweet : Chrome For iOS Market Share Reaches 2.7
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
