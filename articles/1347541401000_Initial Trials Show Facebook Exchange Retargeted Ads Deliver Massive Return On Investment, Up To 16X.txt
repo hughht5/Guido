@@ -13,4 +13,5 @@
 <li><a target="_blank" href="http://tellapart.com/early-results-from-facebook-exchange-show-strong-roi">TellApart</a> clients averaged a click through rate of 6.65% on Facebook Exchange ads, compared to 6.41% on Google&#8217;s AdX</li>
 <li><a target="_blank" href="http://blog.triggit.com/triggit-facebook-exchange-1/">Triggit&#8217;s Facebook Exchange Ads</a> saw 4X higher return on assets (or profit), 2.2X higher post-click conversion rates, and 6.5X less cost per click-through order than on traditional ad exchanges</li>
 </ul>
+<p>This is very good news for Facebook. It was hoping to prove that retargeted ads work on Facebook, that users weren&#8217;t alarmed by the mor personalized targeting, and that they earned money for advertisers. So far, that&#8217;s been the conclusion.</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/91ZmtFnamiw/">here</a>.
