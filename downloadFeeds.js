@@ -126,20 +126,21 @@ function postDiff(a,b){
 	return results;
 }
 
-function getURLs(posts){
-	var urls = [];
+//unused
+// function getURLs(posts){
+	// var urls = [];
 	
 
 	
-	for (var i=0;i<posts.length;i++){
-		var date = new Date(posts[i].pubDate);
-		var year = date.getFullYear();
-		var month = ('0'+(date.getMonth()+1)).slice(-2);
-		urls.push([year, month, posts[i].title.replace(/[%&:*?"<>|\/]+/g,'').replace(/\s/g, '-')].join('/'));
-	}
+	// for (var i=0;i<posts.length;i++){
+		// var date = new Date(posts[i].pubDate);
+		// var year = date.getFullYear();
+		// var month = ('0'+(date.getMonth()+1)).slice(-2);
+		// urls.push([year, month, posts[i].title.replace(/[%&:*?"<>|\/]+/g,'').replace(/\s/g, '-')].join('/'));
+	// }
 	
-	return urls;
-}
+	// return urls;
+// }
 
 //write result to file
 function writeToFile(filename, string){
@@ -187,13 +188,16 @@ function postToGlog(posts){
 	var waiting = 0;
 	for (var x=0;x<posts.length;x++){
 		waiting++;
+		
 		//add JSON headers to post
-		posts[x].title = posts[x].title.replace(/[%&:*?"<>|\/]+/g,'');
 		posts[x].content = addJSONHeader(posts[x]);
+		
+		//remove specials for url and filename
+		var title = posts[x].title.replace(/[^a-zA-Z0-9]+/g,'');
 		
 		//write post to file - prepending current unix timestamp to ensure posts are in chronological order
 		var time = (new Date(posts[x].pubDate)).getTime();
-		fs.writeFile("articles/"+time+"_"+posts[x].title+".txt", posts[x].content, function(err) {
+		fs.writeFile("articles/"+time+"_"+title+".txt", posts[x].content, function(err) {
 			if(err) {
 				console.log(err);
 			} else {
