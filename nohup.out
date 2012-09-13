@@ -85125,3 +85125,45 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master 2455e8d] adding new article
+ 1 files changed, 40 insertions(+), 0 deletions(-)
+
+Stderr: To git@github.com:hughht5/Guido.git
+   9416f8d..2455e8d  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"4J8yYtRJ0zPdrF3cR+3iiLrLlgo","last-modified":"Thu, 13 Sep 2012 19:31:45 GMT","date":"Thu, 13 Sep 2012 19:31:51 GMT","expires":"Thu, 13 Sep 2012 19:31:51 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+1 posts length - 20
+1 olds posts length - 1282
+found 0 = false
+found 1 = true
+found 2 = true
+found 3 = true
+found 4 = false
+found 5 = true
+found 6 = true
+found 7 = false
+found 8 = true
+found 9 = true
+found 10 = false
+found 11 = true
+found 12 = true
+found 13 = true
+found 14 = true
+found 15 = true
+found 16 = true
+found 17 = true
+found 18 = true
+found 19 = true
+new posts length - 4
+pretending to tweet : Foursquare Brings Its Hackathon For Its Connected Apps Platform
+pretending to tweet : FriendFeed Has Been Down For About 24 Hours, Is It Finally Dead (UPDATED Back Up For Some)
+pretending to tweet : Drive Me Lyft Just Might Have The Customer Experience Advantage Over Uber
+pretending to tweet : Chrome For iOS Market Share Reaches 2.7
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
