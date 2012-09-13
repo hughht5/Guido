@@ -8,6 +8,7 @@ var OAuth= require('oauth').OAuth;
 
 //to ensure tweets are not repeated keep an array of post URLs and after the first loop start tweeting
 var oldPostURLS = [];
+var oldPosts = [];
 var firstDownload = true;
 
 //function to return what is in array 1 that is not in array 2 (this is a single directional diff)
@@ -75,25 +76,44 @@ function parse(xml){
 			posts.push(post);
 		}
 
-		//post to blog
-		postToGlog(posts);
-		//postToBlogger(posts);
+		var newPosts = postDiff(posts, oldPosts);
+		
 		
 		//remove posts that have already been downloaded into the oldPostURLS array
-		var newPostURLs = getURLs(posts).diff(oldPostURLS); 
-		console.log("new posts length - "+newPostURLs.length);
+		// var newPostURLs = getURLs(posts).diff(oldPostURLS); 
+		console.log("new posts length - "+newPosts.length);
 		console.log("posts length - "+posts.length);
-		console.log("olds posts length - "+oldPostURLS.length);
+		console.log("olds posts length - "+oldPosts.length);
+		
+		//post to blog
+		postToGlog(newPosts);
+		//postToBlogger(posts);
 		
 		//tweet
 		if (!firstDownload){
-			tweet(newPostURLs);
+			tweet(newPosts);
 		}
 		
 		//add newly posted posts to oldPostURLS array
-		oldPostURLS = oldPostURLS.concat(newPostURLs);
+		oldPosts = oldPosts.concat(newPosts);
 		
 	});
+}
+
+//function returns the posts that are in array a, but not also in array b
+//function compares titles only.
+function postDiff(a,b){
+	var results = a;
+	
+	for (var x=0;x<a.length;x++){
+		for (var y=0;y<b.length;y++){
+			if (a[x].title == b[y].title){
+				delete results[x];
+			}
+		}
+	}
+	
+	return results;
 }
 
 function getURLs(posts){
