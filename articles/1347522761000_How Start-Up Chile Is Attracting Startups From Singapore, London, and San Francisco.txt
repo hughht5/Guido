@@ -1,0 +1,20 @@
+{
+"title" : "How Start-Up Chile Is Attracting Startups From Singapore, London, and San Francisco",
+"date" : "Thu, 13 Sep 2012 07:52:41 +0000",
+"author" : "Alex Williams"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/chilelogo.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="chilelogo" title="chilelogo" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.socialance.com/preview/index.php">Socialance</a> is a startup out of London that has moved to Santiago, Chile, for six months. The reason for the move is pretty straightforward: Start-Up Chile is giving the company $40,000 without taking any equity stake. And the rent is relatively cheap.</p>
+<p>Start-Up Chile, which was here at Disrupt San Francisco, has attracted about 500 companies to its startup program since 2010. The program ends its first phase in 2014. By then, it will have provided grants to 1,000 companies for a total of $40 million.</p>
+<p>During the three days of Disrupt, I talked to companies from Start-Up Chile that hail from Singapore, Canada, and New Zealand. The effort is helping Chile create what Executive Director Horacio Melo calls a &#8220;mini&#8221; Silicon Valley. The differentiator is the ease with which international companies are able to go to Chile for the six-month experience. The Chilean government manages all the paperwork to settle there.</p>
+<p>And if the company decides to stay, all they have to do is get a new visa after one year there. The cost? $100. This kind of program is just not possible in the United States. The U.S. government has no willingness to cooperate on such a level.</p>
+<p><a target="_blank" href="http://vitenow.com">Vite</a> founder Pablo Saba said all companies in the program can qualify for $90,000 in seed funding after they move on from Start-Up Chile. Funding is dependent on the company raising its own initial $30,000.</p>
+<p>Startups are taking notice. The company has had 4,000 applicants through the first five rounds of the program. In the last round, 1,500 companies applied. Every three months, 100 new companies join the program. They come in two groups of 50 companies split every six weeks.</p>
+<p>The goal is to make Chile more innovative and build an entrepreneurial community. So far, it seems to be working. People with companies in the program say that more Chilean startups are emerging. Angel investors are funding companies. Today, <a href="http://techcrunch.com/2012/09/12/pick1-raises-1-million-for-opinions-database/">Pick1</a>, a San Francisco company, announced $1 million in funding that included Chilean investors.</p>
+<p>Some of the Start-Up Chile companies have decided to keep a presence in the country.</p>
+<p><a target="_blank" href="http://www.quantconnect.com/">Quantconnect</a> is a company seeking to democratize tools that banks and hedge funds use to develop trading algorithms. Co-Founder Jared Broad said Quantconnect is incorporated in Chile. He said he will move to New York but keep the engineering team in Santiago.</p>
+<p>For Socialance, a freelance service, the move has given the company a chance to get free office space, some mentoring and a two-bedroom apartment for $500 a month. In London, Vigil said they paid about $4,000 for a three-bedroom house that was shared by five people.</p>
+<p>And labor costs far less. Engineering talent can cost as little as $1,500 per month. In San Francisco, it can cost a minimum of $6,000 per month to hire an engineer.</p>
+<p>But more so, entrepreneurs cite the Start-Up Chile experience above all else.</p>
+<p>&#8220;You get a really great place to work,&#8221; said <a target="_blank" href="http://www.paperhater.com/">Paperhater</a> Founder Ashley Reddy. &#8220;You get to network and work with the entrepreneurs. And you are tied into the local Chilean ecosystem.&#8221;</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/VrzIHh4NO48/">here</a>.
