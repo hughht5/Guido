@@ -1,0 +1,13 @@
+{
+"title" : "Wallwisher Brings The Flexibility Of Notes On Paper To The Web",
+"date" : "Thu, 13 Sep 2012 06:30:39 +0000",
+"author" : "Romain Dillet"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/screen-shot-2012-09-12-at-6-02-23-pm.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Wallwisher" title="Wallwisher" style="float: left; margin: 0 10px 7px 0;" /><p>At <a href="http://techcrunch.com/events/disrupt-sf-2012/">TechCrunch Disrupt</a> in San Francisco, <a target="_blank" href="http://wallwisher.com/">Wallwisher</a> showed us <a target="_blank" href="http://next.wallwisher.com/">the new version</a> of their web application. Wallwisher allows users to write, collaborate and share content on an empty canvas.</p>
+<p>The idea is deliberately simple in order to allow many uses for the service. For example, you could create noticeboards, scrapbooks, playlists, charts, polls, use it to brainstorm or to manage events. Usage adoption has been great so far.</p>
+<p>Of the 400,000 Wallwisher users, 257,000 used the service over the past 30 days and created 262,000 posts. &#8220;If people could put content on the web as easily as putting pen and paper, they can do amazing things,&#8221; said Nitesh Goel, founder of Wallwisher. &#8220;The idea came from a question &#8211; &#8216;Why do people still reach out for a piece of paper while sitting at the computers?&#8217;&#8221; he continued.</p>
+<p>Flexibility is the key advantage of the service over some competitors, such as <a target="_blank" href="https://trello.com/">Trello</a> or even <a target="_blank" href="https://docs.google.com/">Google Docs</a>. It was first a side-project but the team is now working full time on the web application.</p>
+<p>Two features greatly improve the user experience, real-time collaboration and file uploads. Creating a new wall is just a click away and you can then share it with your friends, family or co-workers. It is another way to put content on the web without any knowledge as well.</p>
+<p>The startup received $40,000 from Startup Chile without giving away equity and $16,000 from Thymos Capital LLP.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/wBtqpuDzc1Q/">here</a>.
