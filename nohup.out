@@ -56054,3 +56054,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master 57606dd] adding new article
+ 2 files changed, 55 insertions(+), 0 deletions(-)
+ create mode 100644 "articles/1347523235000_Apple\342\200\231s Magic Is In The Turn, Not The Prestige.txt"
+
+Stderr: To git@github.com:hughht5/Guido.git
+   6466bd8..57606dd  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"MaiSCb/JFbl2ZEZKy5z+D3KWeD4","last-modified":"Thu, 13 Sep 2012 08:01:57 GMT","date":"Thu, 13 Sep 2012 08:02:44 GMT","expires":"Thu, 13 Sep 2012 08:02:44 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
