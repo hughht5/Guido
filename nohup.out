@@ -26529,3 +26529,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master 0e65917] adding new article
+ 2 files changed, 41 insertions(+), 0 deletions(-)
+ create mode 100644 "articles/1347493986000_Don\342\200\231t Take Our Word For It Watch Apple\342\200\231s Whole iPhone 5iPod Event Yourself.txt"
+
+Stderr: To git@github.com:hughht5/Guido.git
+   9b3f4c8..0e65917  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"zw29aReIID1nWgwR0zwg0zHXQUA","last-modified":"Thu, 13 Sep 2012 00:06:07 GMT","date":"Thu, 13 Sep 2012 00:06:43 GMT","expires":"Thu, 13 Sep 2012 00:06:43 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
