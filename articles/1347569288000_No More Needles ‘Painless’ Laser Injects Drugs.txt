@@ -1,0 +1,10 @@
+{
+"title" : "No More Needles ‘Painless’ Laser Injects Drugs",
+"date" : "Thu, 13 Sep 2012 20:48:08 +0000",
+"author" : "Gregory Ferenstein"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/green2.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="green2" title="green2" style="float: left; margin: 0 10px 7px 0;" /><p><a href="http://techcrunch.com/2012/09/13/no-more-needles-painless-laser-injects-drugs/laserpowered/" rel="attachment wp-att-650608"></a>The end of needles is nye: researches have developed a laser-based system &#8220;that blasts microscopic jets of drugs into the skin [that] could soon make getting a shot as painless as being hit with a puff of air,&#8221; <a target="_blank" href="http://phys.org/news/2012-09-laser-powered-needle-pain-free.html">reports</a> phys.org. The laser system works by creating microsecond bubbles of air that penetrate the skin and injects a drug through a narrow space about as wide as a human hair.</p>
+<p>Tests on guinea pigs has already proven successful and engineer Jack Yoh, professor of mechanical and aerospace engineering at Seoul National University in South Korea, is looking to commercialize it for clinical use. &#8220;In the immediate future, this technology could be most easily adopted to situations where small doses of drugs are injected at multiple sites,&#8221; he says.</p>
+<p>For those who fear needles (or have young children), this invention cannot come soon enough.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/jQC43fM1V78/">here</a>.
