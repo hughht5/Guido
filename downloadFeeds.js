@@ -105,9 +105,10 @@ function parse(xml){
 function postDiff(a,b){
 	var results = a;
 	
-	for (var x=0;x<a.length;x++){
+	//reverse through array to not change the upcoming indexes on deletion
+	for (var x=a.length;x>0;x--){
 		console.log("test1");
-		for (var y=0;y<b.length;y++){
+		for (var y=b.length;y>0;y--){
 			console.log("test2");
 			if (a[x].title == b[y].title){
 				console.log("test3");
