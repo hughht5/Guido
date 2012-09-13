@@ -81,7 +81,7 @@ function parse(xml){
 		console.log("posts length - "+posts.length);
 		console.log("olds posts length - "+oldPosts.length);
 		
-		console.log(JSON.stringify(posts));
+		//console.log(JSON.stringify(posts));
 		
 		//post to blog
 		postToGlog(newPosts);
