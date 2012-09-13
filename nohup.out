@@ -83804,3 +83804,43 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Stdout: [master fe6053f] adding new article
+ 1 files changed, 40 insertions(+), 0 deletions(-)
+
+Stderr: To git@github.com:hughht5/Guido.git
+   0729ef1..fe6053f  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"dpnePq1eudB3ZXNPmFFxKPmaGM4","last-modified":"Thu, 13 Sep 2012 19:14:39 GMT","date":"Thu, 13 Sep 2012 19:15:21 GMT","expires":"Thu, 13 Sep 2012 19:15:21 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+1 posts length - 20
+1 olds posts length - 1183
+found 0 = true
+found 1 = true
+found 2 = true
+found 3 = false
+found 4 = true
+found 5 = true
+found 6 = false
+found 7 = true
+found 8 = true
+found 9 = false
+found 10 = true
+found 11 = true
+found 12 = true
+found 13 = true
+found 14 = true
+found 15 = true
+found 16 = true
+found 17 = true
+found 18 = true
+found 19 = true
+new posts length - 3
+pretending to tweet : FriendFeed Has Been Down For About 24 Hours, Is It Finally Dead
+pretending to tweet : Drive Me Lyft Just Might Have The Customer Experience Advantage Over Uber
+pretending to tweet : Chrome For iOS Market Share Reaches 2.7
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
