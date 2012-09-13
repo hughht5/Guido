@@ -265,20 +265,19 @@ function tweet(posts){
 	
 		var tweetText = posts[x].title;
 	
-		console.log("pretending to tweet : "+tweetText)
-		
 		var tweetURL = getURL(posts[x]);
-		console.log("url to tweet = "+tweetURL);
-	
-		// oAuth.post(
-			// "http://api.twitter.com/1/statuses/update.json",
-			// "144130100-v0ytQ8GC7EezMbQxfQyEuAvZeCmMnd7mbVfPC9kN", "y7V9C3N9LnNRF37cK0gVv4eiPNaZLd3eCPSPGTanycI",
-			// {"status":tweetText},
-			// function(error, data) {
-				// if(error) console.log(require('sys').inspect(error))
-				// else console.log("tweeted : "+tweetText);//console.log(data)
-			// }
-		// );
+		
+		//console.log("pretending to tweet : " + tweetURL + " " + tweetText)
+		
+		oAuth.post(
+			"http://api.twitter.com/1/statuses/update.json",
+			"144130100-v0ytQ8GC7EezMbQxfQyEuAvZeCmMnd7mbVfPC9kN", "y7V9C3N9LnNRF37cK0gVv4eiPNaZLd3eCPSPGTanycI",
+			{"status":tweetURL + " " + tweetText},
+			function(error, data) {
+				if(error) console.log(require('sys').inspect(error))
+				else console.log("tweeted : "+tweetURL + " " + tweetText);//console.log(data)
+			}
+		);
 		
 	}
 }
