@@ -76973,3 +76973,58 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Could not commit and push new articles: Error: Command failed: error: Ref refs/heads/master is at b19efe6f130e1d78716c857a98d50b5eafb02a1f but expected f2db57ec537dccf9c8f113a65e4a871df34da122
+remote: error: failed to lock refs/heads/master[K
+To git@github.com:hughht5/Guido.git
+ ! [remote rejected] master -> master (failed to lock)
+error: failed to push some refs to 'git@github.com:hughht5/Guido.git'
+
+Stdout: [master f93aef1] adding new article
+ 1 files changed, 34 insertions(+), 0 deletions(-)
+
+Stderr: error: Ref refs/heads/master is at b19efe6f130e1d78716c857a98d50b5eafb02a1f but expected f2db57ec537dccf9c8f113a65e4a871df34da122
+remote: error: failed to lock refs/heads/master[K
+To git@github.com:hughht5/Guido.git
+ ! [remote rejected] master -> master (failed to lock)
+error: failed to push some refs to 'git@github.com:hughht5/Guido.git'
+
+Stdout: [master b19efe6] adding new article
+ 1 files changed, 40 insertions(+), 0 deletions(-)
+
+Stderr: To git@github.com:hughht5/Guido.git
+   f2db57e..b19efe6  master -> master
+
+Updating TechCrunch main feed.
+Got response: 200
+STATUS: 200
+HEADERS: {"content-type":"text/xml; charset=UTF-8","etag":"QZQmR+LvmgFhmVgjWE+hQY+D56g","last-modified":"Thu, 13 Sep 2012 17:50:29 GMT","date":"Thu, 13 Sep 2012 17:50:51 GMT","expires":"Thu, 13 Sep 2012 17:50:51 GMT","cache-control":"private, max-age=0","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","server":"GSE","transfer-encoding":"chunked"}
+1 posts length - 20
+1 olds posts length - 652
+found 0 = false
+found 1 = true
+found 2 = true
+found 3 = false
+found 4 = true
+found 5 = true
+found 6 = true
+found 7 = true
+found 8 = true
+found 9 = true
+found 10 = true
+found 11 = true
+found 12 = true
+found 13 = true
+found 14 = false
+found 15 = true
+found 16 = true
+found 17 = true
+found 18 = true
+found 19 = true
+new posts length - 3
+pretending to tweet : Drive Me Lyft Just Might Have The Customer Experience Advantage Over Uber
+pretending to tweet : Chrome For iOS Market Share Reaches 2.7
+pretending to tweet : Survey Says 44 Of iPhone Owners In Britain Want iPhone 5, 18 Of British HTC Owners To Follow
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
