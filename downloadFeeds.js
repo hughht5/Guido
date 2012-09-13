@@ -91,7 +91,7 @@ function parse(xml){
 		}
 		
 		//add newly posted posts to oldPosts array
-		oldPosts.push(newPosts);
+		oldPosts = oldPosts.concat(newPosts);
 		
 	});
 }
