@@ -108,7 +108,7 @@ function postDiff(a,b){
 		var found = false;
 		
 		for (var j=0;j<b.length;j++){
-			if(a[i]==b[j]){
+			if(a[i].title==b[j].title){
 				found = true;
 			}
 		}
