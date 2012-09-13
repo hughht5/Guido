@@ -8,8 +8,8 @@
 <p>By increasing relevance and quality of the ads for users and earning advertisers more money, Facebook Exchange could grow to be a huge revenue generator for Facebook &#8212; a company scrambling to prove it will continue earning more and more in the future.</p>
 <p>Here&#8217;s a breakdown of the data from three companies in the Facebook Exchange program:</p>
 <ul>
-<li>AdRoll noted 16X return on investment in Facebook Exchange ads for its clients</li>
-<li>TellApart clients averaged a click through rate of 6.65% on Facebook Exchange ads, compared to 6.41% on Google&#8217;s AdX</li>
-<li>Triggit&#8217;s Facebook Exchange Ads saw 4X higher return on assets (or profit), 2.2X higher post-click conversion rates, and 6.5X less cost per click-through order than on traditional ad exchanges</li>
+<li><a target="_blank" href="http://www.marketwatch.com/story/adroll-announces-positive-early-results-for-customers-and-expands-access-to-facebook-exchange-2012-09-13">AdRoll noted</a> 16X return on investment in Facebook Exchange ads for its clients</li>
+<li><a target="_blank" href="http://tellapart.com/early-results-from-facebook-exchange-show-strong-roi">TellApart</a> clients averaged a click through rate of 6.65% on Facebook Exchange ads, compared to 6.41% on Google&#8217;s AdX</li>
+<li><a target="_blank" href="http://blog.triggit.com/triggit-facebook-exchange-1/">Triggit&#8217;s Facebook Exchange Ads</a> saw 4X higher return on assets (or profit), 2.2X higher post-click conversion rates, and 6.5X less cost per click-through order than on traditional ad exchanges</li>
 </ul>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/91ZmtFnamiw/">here</a>.
