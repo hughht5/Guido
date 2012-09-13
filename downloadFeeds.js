@@ -4,16 +4,26 @@ var xml2js = require('xml2js');
 var parser = new xml2js.Parser();
 var querystring = require('querystring');
 var exec = require('child_process').exec;
+var OAuth= require('oauth').OAuth;
 
+//to ensure tweets are not repeated keep an array of posts and after the first loop start tweeting
+var oldPosts = [];
+var firstDownload = true;
+
+//function to return what is in array 1 that is not in array 2 (this is a single directional diff)
+Array.prototype.diff = function(a) {
+    return this.filter(function(i) {return !(a.indexOf(i) > -1);});
+};
 
 //download feeds every 30 seconds
 downloadFeeds();
 setInterval(function(){
-      downloadFeeds();
+	firstDownload = false
+	downloadFeeds();
 },30000);
 
 //download feed
-function downloadFeeds(){
+function downloadFeeds(first){
 
 	console.log("Updating TechCrunch main feed.");
 
@@ -64,9 +74,22 @@ function parse(xml){
 			
 			posts.push(post);
 		}
-		//writeToFile("test0.html",posts[0].content);
-		postToGlog(posts);
-		postToBlogger(posts);
+		
+		//remove posts that have already been downloaded into the oldPosts array
+		var newPosts = posts.diff(oldPosts); 
+		
+		//post to blog
+		postToGlog(newPosts);
+		//postToBlogger(newPosts);
+		
+		//tweet
+		if (!firstDownload){
+			tweet(newPosts);
+		}
+		
+		//add newly posted posts to oldPosts array
+		oldPosts.push(newPosts);
+		
 	});
 }
 
@@ -192,7 +215,32 @@ function postToBlogger(posts){
 	
 }
 
+function tweet(posts){
+	
+	//Authenticate with twitter
+	oAuth= new OAuth(
+		"http://twitter.com/oauth/request_token",
+		"http://twitter.com/oauth/access_token", 
+		"DtuiV13FmiMIgxDfGfMUw", "lAGTRr5F0mY3F8givzVXXGCrxEgJeVNXZqa1IWGsQ", 
+		"1.0A", null, "HMAC-SHA1"
+	);
 
-
+	//tweet all posts
+	for (var x =0; x < posts.length; x++){
+	
+		var tweetText = posts[x].title;
+	
+		oAuth.post(
+			"http://api.twitter.com/1/statuses/update.json",
+			"144130100-v0ytQ8GC7EezMbQxfQyEuAvZeCmMnd7mbVfPC9kN", "y7V9C3N9LnNRF37cK0gVv4eiPNaZLd3eCPSPGTanycI",
+			{"status":tweetText},
+			function(error, data) {
+				if(error) console.log(require('sys').inspect(error))
+				else console.log("tweeted : "+tweetText);//console.log(data)
+			}
+		);
+		
+	}
+}
 
 
