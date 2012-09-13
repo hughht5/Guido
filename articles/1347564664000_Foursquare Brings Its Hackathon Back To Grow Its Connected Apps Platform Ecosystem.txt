@@ -1,0 +1,12 @@
+{
+"title" : "Foursquare Brings Its Hackathon Back To Grow Its Connected Apps Platform Ecosystem",
+"date" : "Thu, 13 Sep 2012 19:31:04 +0000",
+"author" : "Drew Olanoff"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/3832888936_0aa7bed4cc_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="3832888936_0aa7bed4cc_z" title="3832888936_0aa7bed4cc_z" style="float: left; margin: 0 10px 7px 0;" /><p>Location-based check-in and promotional service foursquare has announced that it will hold another Hackathon after a successful first one. This time, the event will be focused on its new Connected Apps platform.</p>
+<p>Here&#8217;s what the company <a target="_blank" href="http://blog.foursquare.com/2012/09/13/connect-all-the-apps-dig-into-our-new-connected-apps-platform-at-our-2012-hackathon/">had to say about it today</a>:</p>
+<blockquote><p>On November 3, we’ll open up our NYC &amp; SF offices for an all-day Connected Apps hackathon. And like last year, we’re inviting developers all around the world to band together and hack up some awesome connected apps. We’ll have great prizes (last year one of the winning teams had their hack running on a giant screen in Times Square and even rang the closing bell for NASDAQ! Oh, and there’s a new title belt!), swag, and (naturally) global glory for the best foursquare hacks, no matter where in the world they come from.</p></blockquote>
+<p><a href="http://techcrunch.com/2012/09/13/foursquare-brings-its-hackathon-back-to-grow-its-connected-apps-platform-ecosystem/titlebeltwinner/" rel="attachment wp-att-650529"></a></p>
+<p><em>This is developing.</em></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/jrQfNKaKNy0/">here</a>.
