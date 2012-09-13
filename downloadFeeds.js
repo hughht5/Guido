@@ -77,6 +77,9 @@ function parse(xml){
 		
 		//remove posts that have already been downloaded into the oldPosts array
 		var newPosts = posts.diff(oldPosts); 
+		console.log("new posts length - "+newPosts.length);
+		console.log("posts length - "+posts.length);
+		console.log("olds posts length - "+oldPosts.length);
 		
 		//post to blog
 		postToGlog(newPosts);
