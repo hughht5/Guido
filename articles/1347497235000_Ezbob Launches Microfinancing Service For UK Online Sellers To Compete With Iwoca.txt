@@ -1,0 +1,10 @@
+{
+"title" : "Ezbob Launches Microfinancing Service For UK Online Sellers To Compete With Iwoca",
+"date" : "Thu, 13 Sep 2012 00:47:15 +0000",
+"author" : "Mike Butcher"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/screen-shot-2012-09-12-at-17-42-17.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-09-12 at 17.42.17" title="Screen Shot 2012-09-12 at 17.42.17" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://Ezbob.com">Ezbob</a> is a new microfinancing company for online merchants which launches this week in the UK. It makes working credit of up to £20,000 available instantly to eBay and Amazon Marketplace sellers through automated underwriting. In this space there is <a target="_blank" href="http://Iwoca.co.uk">Iwoca</a> in the UK, but they only cater to ebay sellers. Ezbob covers both eBay and Amazon, a more more difficult &#8216;nut&#8217; to crack. In the US, Ezbob would be similar to <a target="_blank" href="http://Kabbage.com">Kabbage</a>, which has yet to scale internationally.</p>
+<p>Founded by two Israeli entrepreneurs in 2011, Ezbob is the trading name of Orange Money, a privately-held UK company, which received angel funding last year and recently completed its Series A funding round. In the seed round, Ezbob raised £450,000 from Extreme Credit Systems. The Series A round raised £1.5 million from Keren Hagshama and £500,000 from high net worth individuals.</p>
+<p>CEO and Co-founder, Tomer Guriel says Ezbob is aimed at small e-retailers typically with under £1 million in annual turnover, for whom securing funding from traditional sources can be challenging. According to IMRG (Interactive Media in Retail Group) UK e-retail sales in 2012 are estimated to reach £77billion, and e-retail now accounts for 17 per cent of the total UK retail market.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/6OV0kMCyH-s/">here</a>.
