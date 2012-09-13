@@ -1,0 +1,12 @@
+{
+"title" : "iPhone 5 Unlocked U.S. Pricing $649 (16GB), $749 (32GB), And $849 (64GB)",
+"date" : "Thu, 13 Sep 2012 20:09:16 +0000",
+"author" : "Darrell Etherington"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/iphone-5-feature.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="iphone-5-feature" title="iphone-5-feature" style="float: left; margin: 0 10px 7px 0;" /><p>Apple&#8217;s website now shows the <a target="_blank" href="http://store.apple.com/us/browse/home/shop_iphone/family/iphone/compare">unlocked pricing for the iPhone 5 in the U.S</a>. Using the site&#8217;s compare tool, you can see that the 16GB model starts at $649, with the 32GB version costing $749, and the 64GB top-tier configuration running $849.</p>
+<p>That&#8217;s the same that the iPhone 4S used to cost unlocked, and it&#8217;s a considerable additional expense above and beyond the on-contract price, but you get a couple of advantages.</p>
+<p>First, you&#8217;re not locked into a lengthy carrier contract, which is useful if you suddenly have to move. You can also then <a target="_blank" href="http://bits.blogs.nytimes.com/2012/09/11/t-mobile-usa-says-bring-us-your-iphones/">use the iPhone on T-Mobile</a>, which is in the process of deploying a network on the 1,900 MHz spectrum that will finally let the iPhone achieve top mobile broadband speeds on the U.S.&#8217;s fourth-largest carrier.</p>
+<p>Choosing which unlocked device to buy will be important, however, as there are three variations that provide overseas LTE support, support for U.S. and Canada LTE networks on the 700 MHz frequency, and support for Sprint and Verizon LTE networks respectively.</p>
+<p>Pre-orders for the iPhone 5 start at 12:01 AM PT Friday, so get your motors running.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/YZG0Bz7fXvw/">here</a>.
