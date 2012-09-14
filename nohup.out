@@ -95920,3 +95920,60 @@ Found 2 new posts.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/09/Offermatic-Founder-Launches-CauseRocket,-An-Offer-Site-That-Helps-Causes-Raise-Money Offermatic Founder Launches CauseRocket, An Offer Site That Helps Causes Raise Money
+tweeted : http://www.techcrunchlite.com/2012/09/Offermatic-Founder-Launches-CauseRocket,-An-Offer-Site-That-Helps-Causes-Raise-Money Offermatic Founder Launches CauseRocket, An Offer Site That Helps Causes Raise Money
+Git - Stdout: [master b7436d3] adding new article
+ 3 files changed, 93 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1347640918000_OffermaticFounderLaunchesCauseRocketAnOfferSiteThatHelpsCausesRaiseMoney.txt
+ create mode 100644 articles/1347642026000_GoogleSearchInsightsCanHelpMotivateYouToIncreaseYourCharitableGiving.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   2350e2c..b7436d3  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 1 new posts.
+written article to disk.
+Scraping complete. Now commiting to GitHub
