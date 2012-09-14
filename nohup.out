@@ -96883,3 +96883,42 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Could not commit and push new articles: Error: Command failed: error: Ref refs/heads/master is at 3125eb5797112a516c698cefe0cf187362c33260 but expected ba75fe7e0c474898a86554cd0f9b10b74fd20838
+remote: error: failed to lock refs/heads/master[K
+To git@github.com:hughht5/Guido.git
+ ! [remote rejected] master -> master (failed to lock)
+error: failed to push some refs to 'git@github.com:hughht5/Guido.git'
+
+Git - Stdout: [master 6f98cbb] adding new article
+ 1 files changed, 30 insertions(+), 0 deletions(-)
+
+Git - Stderr: error: Ref refs/heads/master is at 3125eb5797112a516c698cefe0cf187362c33260 but expected ba75fe7e0c474898a86554cd0f9b10b74fd20838
+remote: error: failed to lock refs/heads/master[K
+To git@github.com:hughht5/Guido.git
+ ! [remote rejected] master -> master (failed to lock)
+error: failed to push some refs to 'git@github.com:hughht5/Guido.git'
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
