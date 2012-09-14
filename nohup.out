@@ -90732,3 +90732,106 @@ STATUS: 200
 Found 1 new posts.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/09/Amazon-Web-Services-Expands-in-Japan Amazon Web Services Expands in Japan
+Git - Stdout: [master f90862d] adding new article
+ 2 files changed, 237 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1347591483000_AmazonWebServicesExpandsinJapan.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   58e9ae3..f90862d  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 1 new posts.
+written article to disk.
+Scraping complete. Now commiting to GitHub

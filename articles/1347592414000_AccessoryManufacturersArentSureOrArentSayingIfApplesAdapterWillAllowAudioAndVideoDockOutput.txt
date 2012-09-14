@@ -1,0 +1,15 @@
+{
+"title" : "Accessory Manufacturers Aren’t Sure (Or Aren’t Saying) If Apple’s Adapter Will Allow Audio And Video Dock Output",
+"date" : "Fri, 14 Sep 2012 03:13:34 +0000",
+"author" : "John Biggs"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/barbie-ipod-dock.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="barbie-ipod-dock" title="barbie-ipod-dock" style="float: left; margin: 0 10px 7px 0;" /><p>One of the biggest concerns I&#8217;ve had about the <a href="http://techcrunch.com/tag/apple">Apple&#8217;s</a> new Lightning port is the perceived (or real) obsolescence of a whole constellation of iPod 30-pin compatible devices. Now that fear seems confirmed. As we learned today, the <a target="_blank" href="http://store.apple.com/us/product/MD824ZM/A/lightning-to-30-pin-adapter-02-m?fnode=48">Lightning to 30-pin adapter</a> come with an important caveat: &#8220;Video and iPod Out not supported.&#8221; This means thousands if not millions of devices <a href="http://techcrunch.com/2012/08/14/apple-is-creating-an-e-waste-problem/">will become e-waste</a>. </p>
+<p>But are we sure these adapters won&#8217;t work?</p>
+<p>I reached out to a major iPod dock company this morning and got a reply that should disconcert anyone with a dock in their home. The company rep, who will remain nameless, wrote back:</p>
+<div style="margin-left:30px;margin-right:30px;padding-left:15px;border-left:3px solid #ccc;font-style:italic;">We will be evaluating compatibility of our current products with the<br />
+new Apple adapter once it becomes available. Please feel free to check back in with us at that time.
+</div>
+<p>This company makes some of the best-known docks in the market and I sincerely doubt they aren&#8217;t aware of these compatibility issues at this late date. Yet this answer is troubling: if these guys don&#8217;t know what&#8217;s up with Lightning, who does? </p>
+<p>We probably won&#8217;t know much about Lightning architecture until devices are in users&#8217; hands and arguably Apple isn&#8217;t at fault here &#8211; they&#8217;re pushing their technology forward as any sane company would. But what we have here is a Schrödinger&#8217;s cat of port technology and I&#8217;m leaning towards the cat being dead.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/w_wfE5ljPCo/">here</a>.
