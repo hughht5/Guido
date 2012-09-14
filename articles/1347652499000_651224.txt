@@ -1,0 +1,13 @@
+{
+"title" : "YouTube Moves API Discussions And Support To Stack Overflow, Ditches Google Groups",
+"date" : "Fri, 14 Sep 2012 19:54:59 +0000",
+"author" : "Drew Olanoff"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/7482327318_176a6e40af_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="7482327318_176a6e40af_z" title="7482327318_176a6e40af_z" style="float: left; margin: 0 10px 7px 0;" /><p>Calling all developers, YouTube has taken steps to join <a href="http://techcrunch.com/2011/03/08/stack-overflow/">Stack Overflow</a> and bring discussions about its API there. For those who are using the API, you know that Google Groups hasn&#8217;t really been cutting it as far as getting updated information, details, and responses.</p>
+<p>It&#8217;s an interesting move for a Google-owned property to jump outside of its own house, but one that&#8217;s necessary to properly engage with developers. Go to where people are comfortable, your own tools be damned if they&#8217;re not cutting it. Good stuff.</p>
+<p>That should all change today. Here&#8217;s what the <a target="_blank" href="http://apiblog.youtube.com/2012/09/the-youtube-api-on-stack-overflow.html">team had to say about it</a>:</p>
+<blockquote><p>Many of you are already familiar with the terrific Stack Overflow website, which has become the de facto resource on the web for all types of programming questions. And many of you have been asking YouTube API questions on Stack Overflow for some time now, but haven’t received any official responses from the YouTube API Developer Relations team. That’s because, for the past five years or so, our focus has been on providing developer support via our dedicated Google Group. We’ve decided that instead of continuing to maintain a dedicated Google Group for YouTube API questions, it would help more users if we focused on responding to Stack Overflow posts.</p></blockquote>
+<p>The switch will happen officially on October 15, so get ready, as the official Google Group will go into archive-only mode at that time. This is another indication of how important a centralized communication hub for developers is, and Stack Overflow is in the mix for sure.</p>
+<p>The YouTube platform team is also <a target="_blank" href="http://google.com/+YouTubeDev">available on Google+</a>, but I imagine that those are more conversational threads rather than nuts and bolts of the API itself.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/R0EWiHwycoA/">here</a>.

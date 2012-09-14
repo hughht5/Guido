@@ -44,7 +44,6 @@ function downloadFeeds(first){
 		});
 		
 		res.on('end', function(){
-//			console.log(pageData);
 			parse(pageData);
 		});
 
@@ -58,8 +57,6 @@ function downloadFeeds(first){
 function parse(xml){
 	parser.parseString(xml, function (err, result) {
 		var posts = [];
-
-console.log(JSON.stringify(result));
 		
 		//for each post, collect the values and add it to the posts array
 		for (var x=0;x<result.rss.channel[0].item.length;x++){
@@ -71,11 +68,18 @@ console.log(JSON.stringify(result));
 			post.description = item.description[0];
 			post.author = item['dc:creator'][0];
 			post.content = item['content:encoded'][0];
+			post.id = item.guid[0]._.substring(item.guid[0]._.indexOf("p=")+2);
 			
 			post.content = fixContent(post);
 			
 			posts.push(post);
 		}
+		
+		
+		//post to blog
+		postToGlog(posts);
+		//postToBlogger(posts);
+		
 		
 		//remove posts that have already been downloaded into the oldPosts array
 		var newPosts = postDiff(posts, oldPosts);
@@ -83,9 +87,7 @@ console.log(JSON.stringify(result));
 		//add newly posted posts to oldPosts array
 		oldPosts = oldPosts.concat(newPosts);
 	
-		//post to blog
-		postToGlog(newPosts);
-		//postToBlogger(posts);
+		
 		
 		//tweet
 		if (!firstDownload){
@@ -179,11 +181,12 @@ function postToGlog(posts){
 		posts[x].content = addJSONHeader(posts[x]);
 		
 		//remove specials for url and filename
-		var title = posts[x].title.replace(/[^a-zA-Z0-9]+/g,'');
+		//var title = posts[x].title.replace(/[^a-zA-Z0-9]+/g,'');
 		
 		//write post to file - prepending current unix timestamp to ensure posts are in chronological order
 		var time = (new Date(posts[x].pubDate)).getTime();
-		fs.writeFile("articles/"+time+"_"+title+".txt", posts[x].content, function(err) {
+		
+		fs.writeFile("articles/"+time+"_"+posts[x].id+".txt", posts[x].content, function(err) {
 			if(err) {
 				console.log(err);
 			} else {
@@ -259,7 +262,7 @@ function tweet(posts){
 	oAuth= new OAuth(
 		"http://twitter.com/oauth/request_token",
 		"http://twitter.com/oauth/access_token", 
-		"AtlkNZlccKD7DttugFYLhg", "U2tm2Yaaw3rTDnUU6buGhsDbc6dKZH8tbLfSN4duM", 
+		"vGcpKRpAnL2E1UqYVbFLaQ", "wGBbbPpM2cSUigOX5XFwJkrg4Uh9pYYhXPeTxavV1v8", 
 		"1.0A", null, "HMAC-SHA1"
 	);
 
@@ -274,7 +277,7 @@ function tweet(posts){
 		
 		oAuth.post(
 			"http://api.twitter.com/1/statuses/update.json",
-			"823811478-NmDroUwG4KzWs2nYH91lDh6bapF3uoFV3F8prJ9Y", "EKzQtsggjUmPz7zXFY8aSfM41GWuv5EIG7UyVZkwzvY",
+			"144130100-EQ0fYvVigLUDO8oge1CIoYN05fvS0KTHiWO1KM3b", "9JIfZPLc6JhfJy9OGVcCHc2z4P7EuXhUypsBGNtw0",
 			{"status":tweetURL + " " + tweetText},
 			function(error, data) {
 				if(error) console.log(require('sys').inspect(error))

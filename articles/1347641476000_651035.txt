@@ -1,0 +1,22 @@
+{
+"title" : "Startup Alley At Disrupt SF — Argentina Shows Off Its Startup Scene",
+"date" : "Fri, 14 Sep 2012 16:51:16 +0000",
+"author" : "Mike Butcher"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/screen-shot-2012-09-14-at-09-48-32.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-09-14 at 09.48.32" title="Screen Shot 2012-09-14 at 09.48.32" style="float: left; margin: 0 10px 7px 0;" />			<script type="text/javascript" src="http://pshared.5min.com/Scripts/PlayerSeed.js?sid=577&amp;width=640&amp;height=450&amp;colorPallet=%230A9600&amp;hasCompanion=false&amp;relatedMode=2&amp;videoControlDisplayColor=%23000000&amp;playList=517476488&amp;shuffle=0&amp;videoGroupID=133503&amp;autoStart=false&amp;playerActions=16407"></script>
+<p>Argentina&#8217;s tech startups scene continues to bloom and we saw that at TechCrunch Disrupt in San Francisco.</p>
+<p>Despite a still nascent VC scene, there&#8217;s plenty of talent, some key universities and a growing number of success stories. </p>
+<p>Three Melons, the Argentinean game studio that created Bola Social Soccer, was recently acquired by Playdom for instance.</p>
+<p>We did a fast dash through Startup Alley at Disrupt to check out the companies on show. Here&#8217;s who they were.</p>
+<p><a target="_blank" href="http://Nxtplabs.com">NXTP.LABS</a> &#8211; NXTP Labs is a leading Latin American accelerator program.</p>
+<p><a target="_blank" href="http://Oony.com">OONY</a> &#8211; Get the best deals around</p>
+<p><a target="_blank" href="http://Polisofia.com">Polisofía</a> &#8211; We provide Open Innovation as a Service for emerging countries</p>
+<p><a target="_blank" href="http://Shopperception.com">Shopperception</a> &#8211; Cloud analytics for off-line retail shelves</p>
+<p><a target="_blank" href="http://Soicos.com">SOICOS</a> &#8211; The leading affiliate marketing network in Latin America.</p>
+<p><a target="_blank" href="http://Thefanmachine.com">The Fan Machine</a> &#8211; Social Marketing Platform targeting international markets</p>
+<p><a target="_blank" href="http://Wideoo.com">Wideoo.com</a> &#8211; A fun &amp; super easy-to-use online tool to create animated videos!</p>
+<p><a target="_blank" href="http://Comenta.tv">Comenta.tv</a> &#8211; The Ultimate Real Time SocialTV Guide for LatinAmerica and Brazil</p>
+<p><a target="_blank" href="http://Datafactory.la">DataFactory</a> &#8211; The real-time-sport-statistics leader in Latin America</p>
+<p><a target="_blank" href="http://Fanwards.com">Fanwards</a> &#8211; Fanwards is a loyalty platform gone &#8216;social&#8217;</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/a1v-CbnlukY/">here</a>.
