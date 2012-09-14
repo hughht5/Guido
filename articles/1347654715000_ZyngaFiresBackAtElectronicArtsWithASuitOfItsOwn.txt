@@ -1,0 +1,10 @@
+{
+"title" : "Zynga Fires Back At Electronic Arts With A Suit Of Its Own",
+"date" : "Fri, 14 Sep 2012 20:31:55 +0000",
+"author" : "Anthony Ha"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/zynga-logo1.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="zynga logo" title="zynga logo" style="float: left; margin: 0 10px 7px 0;" /><p>Zynga just filed its legal response to <a href="http://techcrunch.com/2012/08/03/electronic-arts-sues-zynga-says-the-ville-is-an-unmistakable-copy-of-the-sims/">Electronic Arts&#8217; lawsuit</a>. The response has three parts: A motion to strike portions of EA&#8217;s suit, an &#8220;answer and demand for jury trial&#8221; on other portions of the suit, and a counterclaim from Zynga.</p>
+<p>I&#8217;ll update this post with summaries and full copies of Zynga&#8217;s response. Here&#8217;s the company&#8217;s initial statement statement:</p>
+<blockquote><p>Today we responded to EA’s claims which we believe have no merit. We also filed a counterclaim which addresses actions by EA we believe to be anticompetitive and unlawful business practices, including legal threats and demands for no-hire agreements. We look forward to getting back to focusing all our efforts on delighting our players.</p></blockquote>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/d6UA11O57zc/">here</a>.
