@@ -1,0 +1,13 @@
+{
+"title" : "Google Apps Says Goodbye To Internet Explorer 8, Pulls Support For the Browser",
+"date" : "Fri, 14 Sep 2012 20:08:17 +0000",
+"author" : "Drew Olanoff"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/3114533455_b8198af90e_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="3114533455_b8198af90e_z" title="3114533455_b8198af90e_z" style="float: left; margin: 0 10px 7px 0;" /><p>Today, the Google Apps team announced that it will no longer support Internet Explorer 8. Thank goodness. This will affect everyone using Google Apps: businesses, educational and government institutions. The drop of support officially starts November 15th, a few weeks after Internet Explorer 10 launches.</p>
+<p>This means no support for GMail, no Calendar, no Drive, no anything for Internet Explorer 8. Good riddance.</p>
+<p>Here&#8217;s what the <a target="_blank" href="http://googleappsupdates.blogspot.com/2012/09/supporting-modern-browsers-internet.html">team had to say</a>:</p>
+<blockquote><p>As we announced last year, we support the latest version of Google Chrome (which automatically updates whenever it detects that a new version of the browser is available) as well as the current and prior major release of Firefox, Internet Explorer and Safari on a rolling basis. Each time a new version of one of these browsers is released, we begin supporting the update and stop supporting the third-oldest version.</p>
+<p>Internet Explorer 10 launches on 10/26/2012, and as a result, we will discontinue support for Internet Explorer 8 shortly afterwards, on 11/15/2012. After this date users accessing Google Apps services using Internet Explorer 8 will see a message recommending that they upgrade their browser.</p></blockquote>
+<p>I don&#8217;t think anyone will be crying over this, however, for companies who don&#8217;t get their workstations properly updated, this could cause some issues for sure.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/JVQ_iHQLmgQ/">here</a>.
