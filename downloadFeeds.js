@@ -256,7 +256,7 @@ function tweet(posts){
 	oAuth= new OAuth(
 		"http://twitter.com/oauth/request_token",
 		"http://twitter.com/oauth/access_token", 
-		"DtuiV13FmiMIgxDfGfMUw", "lAGTRr5F0mY3F8givzVXXGCrxEgJeVNXZqa1IWGsQ", 
+		"vGcpKRpAnL2E1UqYVbFLaQ", "wGBbbPpM2cSUigOX5XFwJkrg4Uh9pYYhXPeTxavV1v8", 
 		"1.0A", null, "HMAC-SHA1"
 	);
 
@@ -271,7 +271,7 @@ function tweet(posts){
 		
 		oAuth.post(
 			"http://api.twitter.com/1/statuses/update.json",
-			"144130100-v0ytQ8GC7EezMbQxfQyEuAvZeCmMnd7mbVfPC9kN", "y7V9C3N9LnNRF37cK0gVv4eiPNaZLd3eCPSPGTanycI",
+			"144130100-EQ0fYvVigLUDO8oge1CIoYN05fvS0KTHiWO1KM3b", "9JIfZPLc6JhfJy9OGVcCHc2z4P7EuXhUypsBGNtw0",
 			{"status":tweetURL + " " + tweetText},
 			function(error, data) {
 				if(error) console.log(require('sys').inspect(error))

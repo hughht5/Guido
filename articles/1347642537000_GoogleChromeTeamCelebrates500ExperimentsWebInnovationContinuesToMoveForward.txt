@@ -4,10 +4,11 @@
 "author" : "Drew Olanoff"
 }
 
-<p>Today, the Google Chrome team celebrated a milestone for its &#8220;Experiments&#8221; project that it launched in 2009. It&#8217;s a site that features some really great innovation for web browsers, highlighting HTML5 and WebGL. </p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/4857612585_dc979f9871_z-1.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="4857612585_dc979f9871_z (1)" title="4857612585_dc979f9871_z (1)" style="float: left; margin: 0 10px 7px 0;" /><p>Today, the Google Chrome team celebrated a milestone for its <a target="_blank" href="http://www.chromeexperiments.com/">&#8220;Experiments&#8221; project</a> that it launched in 2009. It&#8217;s a site that features some really great innovation for web browsers, highlighting HTML5, Javascript and WebGL. </p>
 <p>The team said it reached 500 experiments, hoping to help move web innovation further. Here&#8217;s what they <a target="_blank" href="http://chrome.blogspot.com/2012/09/500-chrome-experiments.html">had to say about it</a>:</p>
 <blockquote><p>Today marks our 500th experiment, and in celebration, we created Experiment 500 as a thank you note to everyone who submitted their work to the site. It’s an array of interactive particles, each one of them corresponding to a different submission. You can sort them by date or by category. </p>
 <p>As you browse the experiments, you’ll notice that Chrome Experiments has evolved along with the web in the last 3.5 years. After Google Chrome added support for WebGL, for example, we started seeing beautiful 3D graphics experiments like Evan Wallace’s WebGL Water Simulation and HelloEnjoy’s Lights. </p></blockquote>
 <p><a href="http://techcrunch.com/2012/09/14/google-chrome-team-celebrates-500-experiments-web-innovation-continues-to-move-forward/experiment_500/" rel="attachment wp-att-651072"></a></p>
-<p><em>Developing.</em></p>
+<p>With so much buzz about mobile these days, the desktop often gets forgotten. Remember though, the Chrome web browser is now the #1 browser, who would have thunk it?</p>
+<p>You should <a target="_blank" href="http://www.chromeexperiments.com/">head over to the site</a>, there are some pretty awesome things to check out and waste a Friday on.</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/8YlUZ0Gz0aI/">here</a>.
