@@ -1,0 +1,14 @@
+{
+"title" : "Dropbox Rewrote Its Entire Browser-Side Codebase In 1 Week",
+"date" : "Fri, 14 Sep 2012 00:56:39 +0000",
+"author" : "Klint Finley"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/dropbox_logo_clear.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Dropbox_logo_clear" title="Dropbox_logo_clear" style="float: left; margin: 0 10px 7px 0;" /><p>The engineering team at <a target="_blank" href="https://dropbox.com">Dropbox</a> re-wrote its browser-side codebase one week last July, <a target="_blank" href="https://tech.dropbox.com/?p=361">according to a post on the Dropbox tech blog</a>. The rewrite was done to translate all of its JavaScript into a language called <a target="_blank" href="http://coffeescript.org/">CoffeeScript</a>.</p>
+<p>CoffeeScript is a language that compiles into JavaScript. It offers an alternative syntax that looks more like Python or Ruby, with the goal of enabling &#8220;<a target="_blank" href="https://en.wikipedia.org/wiki/Literate_programming">literate programming&#8221;</a>, an approach to writing code that&#8217;s meant to be more human readable.</p>
+<p>The language has generated considerable controversy in the JavaScript community, but has many supporters, including JavaScript creator Brendan Eich. Eich spoke highly of CoffeeScript at <a>JSConf 2011</a>, which he co-keynoted with CoffeeScript creator Jeremy Ashkenas. Eich has been working to <a target="_blank" href="https://brendaneich.com/2011/05/my-jsconf-us-presentation/">bring some of the syntax of CoffeeScript into the next version of JavaScript</a>, codenamed JSNext, and encourages developers to create their own JavaScript variants as a way to potentially improve JavaScript.</p>
+<p>The Dropbox blog post addresses some of the common complaints about CoffeeScript, including performance and debugging. According to the blog post: &#8220;The size of the compressed bundle didn’t change significantly pre- and post-coffee transformation, so our users shouldn’t notice anything different. The site performs and behaves as before.&#8221; They also conducted extensive testing of the code changes during the week to make sure nothing broke.</p>
+<p>The team used <a target="_blank" href="http://js2coffee.org/">js2coffee</a>, an automatic conversion tool, to speed up the process. </p>
+<p>Here&#8217;s a before and after example from Dropbox:</p>
+<p></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/IZu_ObNQ1eE/">here</a>.
