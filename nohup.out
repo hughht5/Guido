@@ -92181,3 +92181,121 @@ STATUS: 200
 Found 1 new posts.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/09/Dropbox-Rewrote-Its-Entire-Browser-Side-Codebase-In-1-Week Dropbox Rewrote Its Entire Browser-Side Codebase In 1 Week
+Git - Stdout: [master 55869d9] adding new article
+ 2 files changed, 749 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1347584199000_DropboxRewroteItsEntireBrowserSideCodebaseIn1Week.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   a8f0183..55869d9  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 1 new posts.
+written article to disk.
+Scraping complete. Now commiting to GitHub

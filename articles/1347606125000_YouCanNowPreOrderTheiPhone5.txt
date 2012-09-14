@@ -1,0 +1,9 @@
+{
+"title" : "You Can Now Pre-Order The iPhone 5",
+"date" : "Fri, 14 Sep 2012 07:02:05 +0000",
+"author" : "Darrell Etherington"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/screen-shot-2012-09-12-at-3-24-44-pm.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="iPhone 5" title="iPhone 5" style="float: left; margin: 0 10px 7px 0;" /><p>Pre-orders for the iPhone 5 are now <a target="_blank" href="http://store.apple.com/us">live via Apple&#8217;s website</a>. As a reminder, the iPhone 5 is $199 on contract for the 16GB version, the 32GB model is $299, and for those with large media libraries, the $399 version is 64GB. An unlocked version is coming to the U.S. a little later on, for $649, $749, and $849, respectively.</p>
+<p>As usual, Apple provides a tool for checking upgrade eligibility with your respective carrier, and you can order a device set up with Sprint, AT&amp;T or Verizon. So go get it, but expect delays, because usually Apple&#8217;s store goes down and has all kinds of issues keeping up with demand when this type of shizz goes down.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/jfoagFmASz4/">here</a>.
