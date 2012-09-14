@@ -1,24 +1,24 @@
 {
-"title" : "Startup Alley — The Disrupt Mexican Pavilion Shows A Growing Tech Ecosystem",
+"title" : "Startup Alley: The Disrupt Mexican Pavilion Shows A Growing Tech Ecosystem",
 "date" : "Fri, 14 Sep 2012 00:36:00 +0000",
 "author" : "Mike Butcher"
 }
 
 <img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/screen-shot-2012-09-12-at-14-32-58.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-09-12 at 14.32.58" title="Screen Shot 2012-09-12 at 14.32.58" style="float: left; margin: 0 10px 7px 0;" />			<script type="text/javascript" src="http://pshared.5min.com/Scripts/PlayerSeed.js?sid=577&amp;width=640&amp;height=450&amp;colorPallet=%230A9600&amp;hasCompanion=false&amp;relatedMode=2&amp;videoControlDisplayColor=%23000000&amp;playList=517476492&amp;shuffle=0&amp;videoGroupID=133503&amp;autoStart=false&amp;playerActions=16407"></script>
-<p>The great thing about country-based pavilions at TechCrunch Disrupt is that one can see innovation and new tech companies coming from countries you might not have associated with startups before. As you will have read in this guest <a href="http://techcrunch.com/2012/09/03/mexico-is-happening-at-techcrunch-disrupt/">post</a> by Eduardo Serrano last week, the shift towards emerging markets shows that Mexico is on its way up in tech. A short flight from Silicon Valley, Mexico’s economy is growing 40% faster than Brazil’s, over twice as fast as the United States, and is already the world’s 14th largest economy (on a GDP based scale). One out of 5 Mexicans now owns a smartphone, and the market will have grown 70% in the next 2 years. Some 40 million Mexicans are connected to the Internet today. </p>
-<p>Here&#8217;s a fast run though of the companies in the pavilion:</p>
-<p><a target="_blank" href="http://Bandtastic.me">BandTastic.me</a> &#8211; Crowdfunding platform for events</p>
+<p>The great thing about country-based pavilions at TechCrunch Disrupt is that one can see innovation and new tech companies coming from countries you might not have associated with startups before. As you will have read in this guest <a href="http://techcrunch.com/2012/09/03/mexico-is-happening-at-techcrunch-disrupt/">post</a> by Eduardo Serrano last week, the shift toward emerging markets shows that Mexico is on its way up in tech. Mexico’s economy is growing 40 percent faster than Brazil’s, more than twice as fast as the United States, and is already the world’s 14th-largest economy (on a GDP-based scale). One out of five Mexicans now owns a smartphone, and the market will have grown 70 percent in the next two years. Some 40 million Mexicans are connected to the Internet today.</p>
+<p>Here&#8217;s a run though of the companies in the pavilion:</p>
+<p><a target="_blank" href="http://Bandtastic.me">BandTastic.me</a> &#8211; Crowdfunding platform for events.</p>
 <p><a target="_blank" href="http://Capptalog.com">Capptalog</a> &#8211; Create dynamic multimedia catalogs of your products and services.</p>
-<p><a target="_blank" href="http://imosom.com">osom</a> &#8211; Share your awesomeness</p>
-<p><a target="_blank" href="http://EmoSpeech.com">EmoSpeech</a> &#8211; Emotion recognition in speech for quality control in call centers</p>
+<p><a target="_blank" href="http://imosom.com">osom</a> &#8211; Share your awesomeness.</p>
+<p><a target="_blank" href="http://EmoSpeech.com">EmoSpeech</a> &#8211; Emotion recognition in speech for quality control in call centers.</p>
 <p><a target="_blank" href="http://Fontacto.com">Fontacto</a> &#8211; Fontacto is the Google Voice but for businesses.</p>
 <p><a target="_blank" href="http://Garagecoders.net">Garage Coders</a></p>
-<p><a target="_blank" href="http://Modebo.com.mx">Modebo</a> &#8211; Focuses on sustainability and energy efficiency in buildings</p>
-<p><a target="_blank" href="http://Noknoker.com">Noknoker</a> &#8211; Loyalty Digital Card &amp; Social Platform for SMB’s</p>
-<p><a target="_blank" href="http://Nuflick.com">Nuflick</a> &#8211; Based in Mexico City, Nuflick is a platform of on demand inde films and film festivals focused on the Mexican and Latin American market.</p>
-<p><a target="_blank" href="http://Yogome.com">Yogo.me</a> &#8211; Making learning fun for Kids with Engaging Multiplatform Games</p>
-<p>Rubberit &#8211; Condom Subscription Service for Mexico</p>
-<p><a target="_blank" href="http://Schoolcontrol.com">School Control</a> &#8211; Following your children’s school life</p>
+<p><a target="_blank" href="http://Modebo.com.mx">Modebo</a> &#8211; Focuses on sustainability and energy efficiency in buildings.</p>
+<p><a target="_blank" href="http://Noknoker.com">Noknoker</a> &#8211; Loyalty Digital Card &amp; Social Platform for SMBs.</p>
+<p><a target="_blank" href="http://Nuflick.com">Nuflick</a> &#8211; Based in Mexico City, Nuflick is a platform of on-demand indie films and film festivals focused on the Mexican and Latin American market.</p>
+<p><a target="_blank" href="http://Yogome.com">Yogo.me</a> &#8211; Making learning fun for kids with engaging multi-platform games.</p>
+<p>Rubberit &#8211; Condom subscription service for Mexico.</p>
+<p><a target="_blank" href="http://Schoolcontrol.com">School Control</a> &#8211; Following your children’s school life.</p>
 <p>Taxys &#8211; Safe taxis on-demand.</p>
 <p><a target="_blank" href="http://Zebstudios.com">Zebstudios.com</a></p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/jmF1sY9NGuc/">here</a>.
