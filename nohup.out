@@ -95858,3 +95858,65 @@ STATUS: 200
 Found 1 new posts.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/09/Startup-Alley-At-Disrupt-SF-%E2%80%94-Argentina-Shows-Off-Its-Startup-Scene Startup Alley At Disrupt SF — Argentina Shows Off Its Startup Scene
+Git - Stdout: [master 2350e2c] adding new article
+ 2 files changed, 100 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1347641476000_StartupAlleyAtDisruptSFArgentinaShowsOffItsStartupScene.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   b513728..2350e2c  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 2 new posts.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
