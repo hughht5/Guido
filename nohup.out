@@ -96247,3 +96247,34 @@ STATUS: 200
 Found 1 new posts.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/09/YC-Alum-PlanGrid-Launches-2.0-To-Bring-Construction-Blueprints-To-The-iPhone,-Too YC Alum PlanGrid Launches 2.0 To Bring Construction Blueprints To The iPhone, Too
+Git - Stdout: [master 0b3d6fa] adding new article
+ 2 files changed, 117 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1347644887000_YCAlumPlanGridLaunches20ToBringConstructionBlueprintsToTheiPhoneToo.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   9f00875..0b3d6fa  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 1 new posts.
+written article to disk.
+Scraping complete. Now commiting to GitHub
