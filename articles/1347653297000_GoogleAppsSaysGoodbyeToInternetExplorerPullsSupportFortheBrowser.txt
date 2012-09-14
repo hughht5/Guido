@@ -1,0 +1,12 @@
+{
+"title" : "Google Apps Says Goodbye To Internet Explorer, Pulls Support For the Browser",
+"date" : "Fri, 14 Sep 2012 20:08:17 +0000",
+"author" : "Drew Olanoff"
+}
+
+<p>Today, the Google Apps team announced that it will no longer support Internet Explorer 8. Thank goodness.</p>
+<p>Here&#8217;s what the <a target="_blank" href="http://googleappsupdates.blogspot.com/2012/09/supporting-modern-browsers-internet.html">team had to say</a>:</p>
+<blockquote><p>As we announced last year, we support the latest version of Google Chrome (which automatically updates whenever it detects that a new version of the browser is available) as well as the current and prior major release of Firefox, Internet Explorer and Safari on a rolling basis. Each time a new version of one of these browsers is released, we begin supporting the update and stop supporting the third-oldest version.</p>
+<p>Internet Explorer 10 launches on 10/26/2012, and as a result, we will discontinue support for Internet Explorer 8 shortly afterwards, on 11/15/2012. After this date users accessing Google Apps services using Internet Explorer 8 will see a message recommending that they upgrade their browser.</p></blockquote>
+<p><em>Developing.</em></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/JVQ_iHQLmgQ/">here</a>.
