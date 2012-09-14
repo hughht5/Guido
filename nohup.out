@@ -96080,3 +96080,67 @@ STATUS: 200
 Found 1 new posts.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/09/FCC-Chairman-Julius-Genachowski:-%E2%80%98The-US-Is-Killing-It-On-Mobile-Innovation%E2%80%99 FCC Chairman Julius Genachowski: ‘The US Is Killing It On Mobile Innovation’
+Git - Stdout: [master e4f5c46] adding new article
+ 2 files changed, 118 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1347643504000_FCCChairmanJuliusGenachowskiTheUSIsKillingItOnMobileInnovation.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   1adcab1..e4f5c46  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Updating TechCrunch main feed.
+STATUS: 200
+Found 1 new posts.
+written article to disk.
+Scraping complete. Now commiting to GitHub
