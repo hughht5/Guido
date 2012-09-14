@@ -58,6 +58,8 @@ function downloadFeeds(first){
 function parse(xml){
 	parser.parseString(xml, function (err, result) {
 		var posts = [];
+
+console.log(JSON.stringify(result));
 		
 		//for each post, collect the values and add it to the posts array
 		for (var x=0;x<result.rss.channel[0].item.length;x++){
