@@ -1,0 +1,9 @@
+{
+"title" : "Gillmor Gang Live 09.14.12 (TCTV)",
+"date" : "Fri, 14 Sep 2012 20:08:47 +0000",
+"author" : "Steve Gillmor"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2011/08/gillmore-gang-test-pattern.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Gillmor Gang test pattern" title="Gillmor Gang test pattern" style="float: left; margin: 0 10px 7px 0;" /><iframe src="http://www.ustream.tv/embed/142336" width="640" height="386" scrolling="no" frameborder="0" style="border:0px none transparent;"></iframe>
+<p><strong>Gillmor Gang</strong> &#8211; Kevin Marks, John Taschek, Robert Scoble, and Steve Gillmor. <strong>Recording live at 1pm Pacific.</strong></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/okOFBpLsPEI/">here</a>.
