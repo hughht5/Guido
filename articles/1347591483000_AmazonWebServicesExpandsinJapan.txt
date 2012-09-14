@@ -1,0 +1,11 @@
+{
+"title" : "Amazon Web Services Expands in Japan",
+"date" : "Fri, 14 Sep 2012 02:58:03 +0000",
+"author" : "Alex Williams"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2010/10/awslogo.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="awslogo" title="awslogo" style="float: left; margin: 0 10px 7px 0;" /><p>Amazon Web Services (AWS) is <a target="_blank" href="http://aws.typepad.com/aws/2012/09/aws-growth-adding-a-third-az-in-tokyo.html">expanding</a> in Japan through the opening of a new availability zone. The move means that AWS will most likely be adding more data centers to keep up with the steady demand in service it has had since it first began offering its service in Tokyo 18 months ago.</p>
+<p>AWS breaks its regions into availability zones. Each availability zone can encompass multiple data centers. For example, the AWS US East region in Northern Virginia now occupies more than ten data centers. That means it is likely AWS could be building new data centers in Japan for its new availability zone as well as the two it opened since early 2011.</p>
+<p>AWS is also giving a picture of the types of companies that are using AWS. According to the AWS blog, customers include <a target="_blank" href="http://cookpad.com/">Cookpad.com</a>, the top recipe site in Japan and <a target="_blank" href="http://www.kao.com/jp/">KAO</a>, a manufacturer of cosmetics and toiletries.. The company recently migrated its corporate site to the AWS cloud. In addition they include a popular virtual city which recently received some publicity which resulted in  influx of &#8220;virtual&#8221; visitors.</p>
+<p>AWS is  the biggest, fastest growing cloud services provider in the world. It is reported to be a billion dollar business. It is far ahead of its competition. This next year will give us an idea of how big of a lead it can continue to enjoy. Google launched its cloud service earlier this summer and OpenStack continues its efforts to provide a community built cloud infrastructure built with technology from vendors such as Rackspace, Canonical and HP.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/j2X5rYmPn_c/">here</a>.
