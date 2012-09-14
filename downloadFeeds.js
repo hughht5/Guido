@@ -44,6 +44,7 @@ function downloadFeeds(first){
 		});
 		
 		res.on('end', function(){
+			console.log(pageData);
 			parse(pageData);
 		});
 
