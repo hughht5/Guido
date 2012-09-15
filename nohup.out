@@ -101002,3 +101002,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/09/GitHub-Explains-This-Week%E2%80%99s-Outage-And-Poor-Performance GitHub Explains This Week’s Outage And Poor Performance
+Git - Stdout: [master 54e3f2a] adding new article
+ 3 files changed, 55 insertions(+), 3 deletions(-)
+ create mode 100644 articles/1347667316000_651427.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   ee75f6a..54e3f2a  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
