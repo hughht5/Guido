@@ -1,0 +1,22 @@
+{
+"title" : "GitHub Explains This Week’s Outage And Poor Performance",
+"date" : "Sat, 15 Sep 2012 00:01:56 +0000",
+"author" : "Alex Williams"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2010/07/github-logo.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="github-logo" title="github-logo" style="float: left; margin: 0 10px 7px 0;" /><p>A database migration gone awry caused the outage and poor availability that<a target="_blank" href="http://github.com"> GitHub</a> customers experienced this week.</p>
+<p>In a <a target="_blank" href="https://github.com/blog/1261-github-availability-this-week">lengthy blog post</a> today, GitHub&#8217;s <a target="_blank" href="https://github.com/jnewland">Jesse Newland</a> apologized for the outage and said overall it was way below the company&#8217;s standards.</p>
+<p>The root of the problem stemmed from a database replacement done last month. During that maintenance, the GitHub team replaced its aging pair of DRBD-backed MySQL servers with a 3-node cluster. The new infrastructure is designed so the MySQL database can run on all nodes at all times. This means a failover &#8220;simply moves the appropriate virtual IP between nodes after flushing transactions and appropriately changing the read_only MySQL variable.&#8221;</p>
+<p>With the new architecture, MySQL can run on all servers all the time. In the old way, failing over from one database to another required a cold start of MySQL.</p>
+<p>It sounds basic enough but as often happens, seemingly insignificant events can create a series of problems. As a result, GitHub is now taking a closer look at how it manages failovers and the overall management of its new cluster environment.</p>
+<p>On Monday, the outage stemmed from what GitHub called an innocuous database migration.  What resulted were some higher-than-expected loads that the GitHub operations team has not previously seen during these sorts of migrations. And that led to a cascading series of errors that resulted in the downtime.</p>
+<p>On Tuesday, a cluster partition occurred that caused customers to get data from other users&#8217; dashboards. In addition, some repositories created during this window were incorrectly routed. Newland said the company has removed all of the leaked events and performed an audit of all repositories that were incorrectly routed.</p>
+<p>Newland said 16 of these repositories were private. For seven minutes they were accessible to people outside of the repository&#8217;s list of collaborators or team members. Newland said all of the owners of these repositories were contacted about the problem.</p>
+<p>Newland said in summary that three primary events contributed to the downtime of the past few days:</p>
+<ul>
+<li>Several failovers of the &#8220;active&#8221; database role happened when they shouldn&#8217;t have.</li>
+<li>A cluster partition occurred that resulted in incorrect actions being performed by its cluster-management software.</li>
+<li>And the failovers triggered by the first two events impacted performance and availability more than they should have.</li>
+</ul>
+<p>GitHub&#8217;s problems stem from a change to its database stack. It illustrates an issue with growing online communities.  MySQL simply does not scale very well. And so when problems occur, it can cause issues that affect the entire organization, its customers, and overall perception.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/DfNIO3_aTRM/">here</a>.
