@@ -12,4 +12,5 @@
 <blockquote class="twitter-tweet"><p>Looking into an issue with one of our upstream providers, affecting multiple colos</p>
 <p>&mdash; CloudFlareStatus (@CloudFlareSys) <a target="_blank" href="https://twitter.com/CloudFlareSys/status/246997504950956032">September 15, 2012</a></p></blockquote>
 <p>The company has experienced explosive growth. &#8220;Collectively, the startup now sees 70B pageviews per month and 600M uniques — more traffic per month than Instagram, eBay, Amazon, Aol, Apple and many more, combined,&#8221; <a href="http://techcrunch.com/2012/09/12/cloudflares-exploding-growth-half-a-trillion-pageviews-all-time-70b-monthlies-500m-uniques/">Rip wrote earlier this week</a>.</p>
+<p>It&#8217;s done an amazing job scaling quickly, and the outage was relatively brief. But what we&#8217;ve been seeing with the outages this week, and what we see whenever other high profile services like Amazon Web Services go down, is just how many other sites and services can be affected by an outage at a single company.</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/yVQ-S2zW0N4/">here</a>.
