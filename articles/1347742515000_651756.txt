@@ -11,5 +11,5 @@
 <p>I&#8217;ll update when I have more information about why the service went down. So there this is all we&#8217;ve got:</p>
 <blockquote class="twitter-tweet"><p>Looking into an issue with one of our upstream providers, affecting multiple colos</p>
 <p>&mdash; CloudFlareStatus (@CloudFlareSys) <a target="_blank" href="https://twitter.com/CloudFlareSys/status/246997504950956032">September 15, 2012</a></p></blockquote>
-<p>As <a href="http://techcrunch.com/2012/09/12/cloudflares-exploding-growth-half-a-trillion-pageviews-all-time-70b-monthlies-500m-uniques/">we reported earlier this week</a> the company has had explosive growth and is now handling more traffic than Yahoo.</p>
+<p>The company has experienced explosive growth. &#8220;Collectively, the startup now sees 70B pageviews per month and 600M uniques — more traffic per month than Instagram, eBay, Amazon, Aol, Apple and many more, combined,&#8221; <a href="http://techcrunch.com/2012/09/12/cloudflares-exploding-growth-half-a-trillion-pageviews-all-time-70b-monthlies-500m-uniques/">Rip wrote earlier this week</a>.</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/yVQ-S2zW0N4/">here</a>.
