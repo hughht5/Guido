@@ -1,0 +1,12 @@
+{
+"title" : "Gillmor Gang: Positively 5th Street",
+"date" : "Sat, 15 Sep 2012 17:00:56 +0000",
+"author" : "Steve Gillmor"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2011/08/gillmore-gang-test-pattern.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Gillmor Gang test pattern" title="Gillmor Gang test pattern" style="float: left; margin: 0 10px 7px 0;" />			<script type="text/javascript" src="http://pshared.5min.com/Scripts/PlayerSeed.js?sid=577&amp;width=640&amp;height=450&amp;colorPallet=%230A9600&amp;hasCompanion=false&amp;relatedMode=2&amp;videoControlDisplayColor=%23000000&amp;playList=517480186&amp;shuffle=0&amp;videoGroupID=133503&amp;autoStart=false&amp;playerActions=16407"></script>
+<p>The Gillmor Gang — Robert Scoble, John Taschek, Kevin Marks, and Steve Gillmor — split right down the middle on the new iPhone 5. Well, @scobleizer did. He was bored by the announcement, impressed by the Apple ecosystem, and unable to come up with a good reason why we should buy anything else. @kevinmarks and @jtaschek won&#8217;t be buying it, but I already have.</p>
+<p>The Gang touched on the news from Disrupt: Zuck v. HTML 5, @Benioff teasing next week&#8217;s Dreamforce, and @scobleizer&#8217;s brain trust of Normal People. But like clockwork as Verizon sold out its allotment in 60 minutes, Apple proved once again that what we once called a reality distortion field has been unmasked as just plain reality.</p>
+<p>@stevegillmor, @scobleizer, @jtaschek, @kevinmarks</p>
+<p>Produced and directed by Tina Chase Gillmor @tinagillmor</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/jEr7L5F9_kQ/">here</a>.
