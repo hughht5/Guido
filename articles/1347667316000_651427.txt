@@ -1,5 +1,5 @@
 {
-"title" : "GitHub Explains This Week’s Outage And Poor Performance",
+"title" : "GitHub Says Database Issues Caused This Week’s Outage and Performance Problems",
 "date" : "Sat, 15 Sep 2012 00:01:56 +0000",
 "author" : "Alex Williams"
 }
