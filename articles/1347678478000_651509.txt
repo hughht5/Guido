@@ -15,6 +15,7 @@
 <p><a href="http://techcrunch.com/2012/09/14/twitter-bug-randomly-swaps-out-avatars-for-some-accounts-profile-settings-now-disabled/notification-center-8/" rel="attachment wp-att-651520"></a></p>
 <p>Here&#8217;s what you see if you try to enter the profile settings area:</p>
 <p><a href="http://techcrunch.com/2012/09/14/twitter-bug-randomly-swaps-out-avatars-for-some-accounts-profile-settings-now-disabled/notification-center-7-1/" rel="attachment wp-att-651518"></a></p>
+<p>All kidding aside, this is a very serious issue. It&#8217;s flat-out odd to think of a time where you could be potentially locked out of your Facebook settings, so this is pretty sad to see from Twitter.</p>
 <p>We&#8217;ve reached out to Twitter for comment and will let you know when we hear something.</p>
 <p><em>This is developing.</em></p>
 <p>[Photo credit: <a target="_blank" href="http://www.flickr.com/photos/jordan_a/4911233302/">Flickr</a>]</p>
