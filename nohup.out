@@ -122608,3 +122608,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/09/How-To-Disrupt-Petty-Inconveniences How To Disrupt Petty Inconveniences
+Git - Stdout: [master 8215d7a] adding new article
+ 2 files changed, 53 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1347688858000_651493.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   abb3ba9..8215d7a  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
