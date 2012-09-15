@@ -1,5 +1,5 @@
 {
-"title" : "The Verbal Elegance Of Apple And Nintendo",
+"title" : "The Verbal Elegance of Apple and Nintendo",
 "date" : "Sat, 15 Sep 2012 19:00:08 +0000",
 "author" : "Tadhg Kelly"
 }
