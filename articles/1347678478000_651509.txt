@@ -1,0 +1,12 @@
+{
+"title" : "Twitter Bug Randomly Swaps Out Avatars For Some Accounts, Profile Settings Now Disabled",
+"date" : "Sat, 15 Sep 2012 03:07:58 +0000",
+"author" : "Drew Olanoff"
+}
+
+<p>Well here&#8217;s a Twitter <a target="_blank" href="http://storify.com/danlev/hilarious-twitter-bug-swaps-profile-pictures-and-b">bug that is kind of alarming</a>. Apparently, for some verified accounts, avatars were swapped out with other random users&#8217;.</p>
+<p>Can you imagine trying to tweet and seeing some random Joe in your place? Yeah, weird. Here&#8217;s what the company had to say on the matter a few hours ago:</p>
+<p><blockquote class='twitter-tweet' lang='en'><p>We&#039;re investigating an issue with background images and profile photos on @<a href="https://twitter.com/verified">verified</a> accounts. We&#039;ll get this resolved ASAP.</p>&mdash; <br />&nbsp; (@Support) <a href='http://twitter.com/#!/Support/status/246752884748853249' data-datetime='2012-09-14T23:30:46+00:00'>September 14, 2012</a></blockquote><br />
+<blockquote class='twitter-tweet' lang='en'><p>We have temporarily disabled profile settings changes for all users. Our apologies for the inconvenience. Thank you for bearing with us.</p>&mdash; <br />&nbsp; (@Support) <a href='http://twitter.com/#!/Support/status/246767227142041601' data-datetime='2012-09-15T00:27:46+00:00'>September 15, 2012</a></blockquote></p>
+<p><em>This is developing.</em></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/DIScH2cumUY/">here</a>.
