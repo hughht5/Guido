@@ -15,12 +15,12 @@ Array.prototype.diff = function(a) {
     return this.filter(function(i) {return !(a.indexOf(i) > -1);});
 };
 
-//download feeds every 30 seconds
+//download feeds every 2 minutes
 downloadFeeds();
 setInterval(function(){
 	firstDownload = false
 	downloadFeeds();
-},30000);
+},120000);
 
 //download feed
 function downloadFeeds(first){
