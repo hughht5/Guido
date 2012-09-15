@@ -10,5 +10,6 @@
 <blockquote class='twitter-tweet' lang='en'><p>We have temporarily disabled profile settings changes for all users. Our apologies for the inconvenience. Thank you for bearing with us.</p>&mdash; <br />&nbsp; (@Support) <a href='http://twitter.com/#!/Support/status/246767227142041601' data-datetime='2012-09-15T00:27:46+00:00'>September 15, 2012</a></blockquote></p>
 <p>Digg was affected:</p>
 <p><a href="http://techcrunch.com/2012/09/14/twitter-bug-randomly-swaps-out-avatars-for-some-accounts-profile-settings-now-disabled/hilarious-twitter-bug-swaps-profile-pictures-and-backgrounds-of-verified-celebrities-and-brands-with-images-tweets-%c2%b7-danlev-%c2%b7-storify/" rel="attachment wp-att-651511"></a></p>
+<p>We&#8217;ve reached out to Twitter for comment and will let you know when we hear something.</p>
 <p><em>This is developing.</em></p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/DIScH2cumUY/">here</a>.
