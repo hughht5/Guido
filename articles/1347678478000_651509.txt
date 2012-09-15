@@ -4,7 +4,7 @@
 "author" : "Drew Olanoff"
 }
 
-<p>Well here&#8217;s a Twitter <a target="_blank" href="http://storify.com/danlev/hilarious-twitter-bug-swaps-profile-pictures-and-b">bug that is kind of alarming</a>. Apparently, for some verified accounts, avatars were swapped out with other random users&#8217;.</p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/4911233302_34a1663d89_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="4911233302_34a1663d89_z" title="4911233302_34a1663d89_z" style="float: left; margin: 0 10px 7px 0;" /><p>Well here&#8217;s a Twitter <a target="_blank" href="http://storify.com/danlev/hilarious-twitter-bug-swaps-profile-pictures-and-b">bug that is kind of alarming</a>. Apparently, for some verified accounts, avatars were swapped out with other random users&#8217;.</p>
 <p>Can you imagine trying to tweet and seeing some random Joe in your place? Yeah, weird. Here&#8217;s what the company had to say on the matter a few hours ago:</p>
 <p><blockquote class='twitter-tweet' lang='en'><p>We&#039;re investigating an issue with background images and profile photos on @<a href="https://twitter.com/verified">verified</a> accounts. We&#039;ll get this resolved ASAP.</p>&mdash; <br />&nbsp; (@Support) <a href='http://twitter.com/#!/Support/status/246752884748853249' data-datetime='2012-09-14T23:30:46+00:00'>September 14, 2012</a></blockquote><br />
 <blockquote class='twitter-tweet' lang='en'><p>We have temporarily disabled profile settings changes for all users. Our apologies for the inconvenience. Thank you for bearing with us.</p>&mdash; <br />&nbsp; (@Support) <a href='http://twitter.com/#!/Support/status/246767227142041601' data-datetime='2012-09-15T00:27:46+00:00'>September 15, 2012</a></blockquote></p>
@@ -12,4 +12,5 @@
 <p><a href="http://techcrunch.com/2012/09/14/twitter-bug-randomly-swaps-out-avatars-for-some-accounts-profile-settings-now-disabled/hilarious-twitter-bug-swaps-profile-pictures-and-backgrounds-of-verified-celebrities-and-brands-with-images-tweets-%c2%b7-danlev-%c2%b7-storify/" rel="attachment wp-att-651511"></a></p>
 <p>We&#8217;ve reached out to Twitter for comment and will let you know when we hear something.</p>
 <p><em>This is developing.</em></p>
+<p>[Photo credit: <a target="_blank" href="http://www.flickr.com/photos/jordan_a/4911233302/">Flickr</a>]</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/DIScH2cumUY/">here</a>.
