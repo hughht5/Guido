@@ -1,5 +1,5 @@
 {
-"title" : "Jay Adelson Takes To Facebook For Recruiting, Is It For His Own Startup?",
+"title" : "Jay Adelson Is Recruiting On Facebook, Is It For His Own Startup?",
 "date" : "Sat, 15 Sep 2012 18:12:25 +0000",
 "author" : "Drew Olanoff"
 }
