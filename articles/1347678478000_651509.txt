@@ -5,21 +5,22 @@
 }
 
 <img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/4911233302_34a1663d89_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="4911233302_34a1663d89_z" title="4911233302_34a1663d89_z" style="float: left; margin: 0 10px 7px 0;" /><p>Well here&#8217;s a Twitter <a target="_blank" href="http://storify.com/danlev/hilarious-twitter-bug-swaps-profile-pictures-and-b">bug that is kind of alarming</a>. Apparently, for some verified accounts, avatars were swapped out with other random users&#8217;.</p>
-<p>Currently, the profile settings are disabled for all users, so you&#8217;re stuck with what you have now. Can you imagine trying to tweet and seeing some random Joe in your place? Yeah, weird. </p>
+<p>Currently, the profile settings are disabled for all users, so you&#8217;re stuck with what you have now. Can you imagine trying to tweet and seeing some random Joe in your place? Yeah, weird.</p>
 <p>Here&#8217;s what the company had to say on the matter a few hours ago:</p>
 <p><blockquote class='twitter-tweet' lang='en'><p>We&#039;re investigating an issue with background images and profile photos on @<a href="https://twitter.com/verified">verified</a> accounts. We&#039;ll get this resolved ASAP.</p>&mdash; <br />&nbsp; (@Support) <a href='http://twitter.com/#!/Support/status/246752884748853249' data-datetime='2012-09-14T23:30:46+00:00'>September 14, 2012</a></blockquote><br />
 <blockquote class='twitter-tweet' lang='en'><p>We have temporarily disabled profile settings changes for all users. Our apologies for the inconvenience. Thank you for bearing with us.</p>&mdash; <br />&nbsp; (@Support) <a href='http://twitter.com/#!/Support/status/246767227142041601' data-datetime='2012-09-15T00:27:46+00:00'>September 15, 2012</a></blockquote></p>
 <p><a target="_blank" href="http://twitter.com/digg">Digg</a> was affected:</p>
 <p><a href="http://techcrunch.com/2012/09/14/twitter-bug-randomly-swaps-out-avatars-for-some-accounts-profile-settings-now-disabled/hilarious-twitter-bug-swaps-profile-pictures-and-backgrounds-of-verified-celebrities-and-brands-with-images-tweets-%c2%b7-danlev-%c2%b7-storify/" rel="attachment wp-att-651511"></a></p>
-<p>I&#8217;m pretty positive that this isn&#8217;t 500&#8242;s <a target="_blank" href="http://twitter.com/davemcclure">Dave McClure</a>:</p>
+<p>I&#8217;m pretty positive that this isn&#8217;t 500 Startups&#8217; <a target="_blank" href="http://twitter.com/davemcclure">Dave McClure</a>:</p>
 <p><a href="http://techcrunch.com/2012/09/14/twitter-bug-randomly-swaps-out-avatars-for-some-accounts-profile-settings-now-disabled/notification-center-8/" rel="attachment wp-att-651520"></a></p>
 <p>Here&#8217;s what you see if you try to enter the profile settings area:</p>
 <p><a href="http://techcrunch.com/2012/09/14/twitter-bug-randomly-swaps-out-avatars-for-some-accounts-profile-settings-now-disabled/notification-center-7-1/" rel="attachment wp-att-651518"></a></p>
 <p>All kidding aside, this is a very serious issue. It&#8217;s flat-out odd to think of a time where you could be potentially locked out of your Facebook settings, so this is pretty sad to see from Twitter.</p>
 <p>A Twitter representative tells us that the company is indeed &#8220;looking into it.&#8221;</p>
 <p><em>This is developing.</em></p>
-<p><b>UPDATE:</b> How about this? He <a target="_blank" href="http://www.reportajealperu.com/2009/08/piqueos-de-agosto.html">figured out who his avatar was</a>:</p>
+<p><strong>UPDATE:</strong> How about this? He <a target="_blank" href="http://www.reportajealperu.com/2009/08/piqueos-de-agosto.html">figured out who his avatar was</a>:</p>
 <p><a href="http://techcrunch.com/2012/09/14/twitter-bug-randomly-swaps-out-avatars-for-some-accounts-profile-settings-now-disabled/david-armano-armano-on-twitter/" rel="attachment wp-att-651546"></a></p>
+<p><strong>UPDATE 2: </strong>&#8230;Aaaaand normal services have resumed.</p>
 <p>h/t <a target="_blank" href="http://storify.com/danlev/hilarious-twitter-bug-swaps-profile-pictures-and-b">Dan</a></p>
 <p>[Photo credit: <a target="_blank" href="http://www.flickr.com/photos/jordan_a/4911233302/">Flickr</a>]</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/DIScH2cumUY/">here</a>.
