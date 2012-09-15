@@ -18,8 +18,8 @@
 <p>All kidding aside, this is a very serious issue. It&#8217;s flat-out odd to think of a time where you could be potentially locked out of your Facebook settings, so this is pretty sad to see from Twitter.</p>
 <p>A Twitter representative tells us that the company is indeed &#8220;looking into it.&#8221;</p>
 <p><em>This is developing.</em></p>
-<p><b>UPDATE:</b> How about this? He figured out who his avatar was:</p>
-<blockquote class='twitter-tweet' lang='en'><p>(LOL) RT @<a href="https://twitter.com/ischafer">ischafer</a>: @<a href="https://twitter.com/armano">armano</a> I figured out who your avatar is: <a href="http://bit.ly/1244L9"> bit.ly/1244L9</a></p>&mdash; <br />David Armano (@armano) <a href='http://twitter.com/#!/armano/status/246814799323873280' data-datetime='2012-09-15T03:36:48+00:00'>September 15, 2012</a></blockquote>
+<p><b>UPDATE:</b> How about this? He <a target="_blank" href="http://www.reportajealperu.com/2009/08/piqueos-de-agosto.html">figured out who his avatar was</a>:</p>
+<p><a href="http://techcrunch.com/2012/09/14/twitter-bug-randomly-swaps-out-avatars-for-some-accounts-profile-settings-now-disabled/david-armano-armano-on-twitter/" rel="attachment wp-att-651546"></a></p>
 <p>h/t <a target="_blank" href="http://storify.com/danlev/hilarious-twitter-bug-swaps-profile-pictures-and-b">Dan</a></p>
 <p>[Photo credit: <a target="_blank" href="http://www.flickr.com/photos/jordan_a/4911233302/">Flickr</a>]</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/DIScH2cumUY/">here</a>.
