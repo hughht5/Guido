@@ -1,0 +1,12 @@
+{
+"title" : "More Details On The Taipei Mini-Meetup",
+"date" : "Sun, 16 Sep 2012 11:48:18 +0000",
+"author" : "John Biggs"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/screen-shot-2012-09-13-at-8-31-15-pm1.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="screen-shot-2012-09-13-at-8-31-15-pm" title="screen-shot-2012-09-13-at-8-31-15-pm" style="float: left; margin: 0 10px 7px 0;" /><p>As you may have noticed last week that I planned an impromptu <a href="http://techcrunch.com/2012/09/13/taiwan-how-about-a-taipei-mini-meetup/">mini-meetup in Taipei</a>. We&#8217;ve decided on a location &#8211; <a target="_blank" href="http://www.ontaptaipei.com">OnTap Taipei</a> &#8211; on <strong>Tuesday, September 18, 2012, at about 8pm</strong>.</p>
+<p>To RSVP <a target="_blank" href="http://plancast.com/p/cve2">pop over to Plancast</a> or email me at john@techcrunch.com with the subject line “TAIPEI.” </p>
+<p>Special thanks to Richard from VIA who helped out planning this little soiree. </p>
+<p>I’d love to take your pitches and chat about the entrepreneurial environment in Taipei. Remember: This is an informal, bar-type event and not a formal presentation. Think networking, not seminar.</p>
+<p>See you on Tuesday!</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/Z5t4FUDuGZI/">here</a>.
