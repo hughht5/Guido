@@ -1,5 +1,5 @@
 {
-"title" : "Apple Announces Record Pre-Orders For iPhone 5: 2M in 24 Hours",
+"title" : "Apple Announces Record Pre-Orders For iPhone 5: 2M in 24 Hours, 2X iPhone 4S Day One Sales",
 "date" : "Mon, 17 Sep 2012 12:32:25 +0000",
 "author" : "Darrell Etherington"
 }

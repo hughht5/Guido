@@ -1,5 +1,5 @@
 {
-"title" : "Reality Check: 10-15% Of Social Media Fans, Likes And Reviews Will Be Fake By 2014, Says Gartner",
+"title" : "Reality Check: 10-15% Of Brands’ Social Media Fans, Likes And Reviews Will Be Fake By 2014, Says Gartner",
 "date" : "Mon, 17 Sep 2012 12:21:44 +0000",
 "author" : "Ingrid Lunden"
 }
