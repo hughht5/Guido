@@ -1,0 +1,14 @@
+{
+"title" : "UK Conservative Party Minister Grant Shapps Is A Master Spammer",
+"date" : "Mon, 17 Sep 2012 00:02:55 +0000",
+"author" : "John Biggs"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/trafficpaymaster-where-will-you-send-your-web-traffic-roadblock-600x469.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="TrafficPaymaster-Where-Will-You-Send-Your-Web-Traffic-Roadblock-600x469" title="TrafficPaymaster-Where-Will-You-Send-Your-Web-Traffic-Roadblock-600x469" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://boingboing.net/2012/09/16/uk-tories-put-a-spam-kingpin-i.html">BoingBoing</a> just pointed out <a target="_blank" href="http://www.guardian.co.uk/politics/2012/sep/02/grant-shapps-google-howtocorp-adsense">a nice piece about Grant Shapps</a>, UK Conservative Party Co-Chair and Member of Parliament for Welwyn Hatfield. The Conservative Party has fallen under scrutiny for being too cozy with Google and their practices this year but this seems to offset that considerably.</p>
+<p>Shapps runs <a target="_blank" href="http://www.howtocorp.com">HowToCorp</a>, one of those ubiquitous link farm services that promises to create heady amounts of Google juice for folks who are trying to squat on a topic like, say, &#8220;golf.&#8221;</p>
+<p>The service essentially scrapes the web for related content, runs it through a thesaurus, and posts thousands of copies everywhere. The resulting pages, containing lines like &#8220;A free of charge golf swing lesson appears a very little as well superior to be accurate&#8221; are, in theory, supposed to increase your position in Google because, Why? Shit floats.</p>
+<p>From the Guardian:</p>
+<div style="margin-left:30px;margin-right:30px;padding-left:15px;border-left:3px solid #ccc;font-style:italic;">Going under the name Michael Green and casting himself as an internet marketing guru, Shapps in 2007 claimed audiences could &#8220;make $20,000 in 20 days guaranteed or your money back&#8221; – if they spent $200 buying his bespoke software.Shapps previously told journalists he used the name Michael Green for the business to keep it separate from his political work.</p>
+</div>
+<p><a target="_blank" href="http://www.guardian.co.uk/politics/2012/sep/15/labour-probe-grant-shapps-company">The Labour Party</a> is calling for further investigation. You can read <a target="_blank" href="http://searchengineland.com/uk-conservative-party-chair-founded-google-spamming-business-132087">quite a bit about the scam here</a>, but I find it wonderful that the people are finally getting the tech-savvy politicians they deserve. Who knows? Maybe it could be <a target="_blank" href="https://twitter.com/Horse_ebooks">@horse_ebooks</a> for President in 2016?</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/VPIOSI6sqYA/">here</a>.

@@ -1,0 +1,20 @@
+{
+"title" : "Startup Alley At Disrupt — Impact Pavilion Shows Off Health, Energy And Transport",
+"date" : "Sun, 16 Sep 2012 21:17:06 +0000",
+"author" : "Mike Butcher"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/screen-shot-2012-09-16-at-21-53-40.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-09-16 at 21.53.40" title="Screen Shot 2012-09-16 at 21.53.40" style="float: left; margin: 0 10px 7px 0;" />			<script type="text/javascript" src="http://pshared.5min.com/Scripts/PlayerSeed.js?sid=577&amp;width=640&amp;height=450&amp;colorPallet=%230A9600&amp;hasCompanion=false&amp;relatedMode=2&amp;videoControlDisplayColor=%23000000&amp;playList=517476491&amp;shuffle=0&amp;videoGroupID=133503&amp;autoStart=false&amp;playerActions=16407"></script>
+<p>Not only were there country pavilions at TechCrunch Disrupt in San Francisco last week, but also themed ones like Hardware Alley and the Impact Pavilion. Here, you could peruse startups in the themes of health, energy and transport, a few of which were put together by the Greenstart accelerator programme and Solar Mosaic. We caught up with the guys to hear what they had on display.</p>
+<p>Here are the companies we talked to in this segment:</p>
+<p><a target="_blank" href="http://rockhealth.com/">RockHealth</a> &#8211; RockHealth.com powering the future of the digital health ecosystem.</p>
+<p><a target="_blank" href="http://greenstart.com/">Greenstart</a> &#8211; Cleantech startups &#8211; the fusion of design, capital, and speed.</p>
+<p><a target="_blank" href="http://solarmosaic.com/">Solar Mosaic</a> &#8211; Coming soon, a new way to create clean energy in your community and around the world.</p>
+<p><a target="_blank" href="http://RidePal.com">RidePal</a> &#8211; Commuting as a Service &#8211; your private-labeled shared commuter bus.</p>
+<p><a target="_blank" href="http://PVPower.com">PVPower</a> &#8211; Photovoltaic solar panels.</p>
+<p><a target="_blank" href="http://OrcaHealth.com">Orca Health</a> &#8211; Designed to help people make better decisions about their healthcare.</p>
+<p><a target="_blank" href="http://LUMOback.com">LUMOback</a> &#8211; Stand taller and feel better using the LUMOback posture sensor and mobile app.</p>
+<p><a target="_blank" href="http://Zamzee.com">Zamzee</a> &#8211; A meter that measures activity and a website that makes moving fun and gets kids moving.</p>
+<p><a target="_blank" href="http://GainFitness.com">Gain Fitness</a> &#8211; Workout routines and exercises for gym and home muscular development, weight lifting, fat burning, cardio and ab workouts.</p>
+<p><a target="_blank" href="http://www.scootnetworks.com/">Scoot</a> &#8211; A system of smartphone-enabled, shared electric scooters calling itself the “Zipcar for Scooters.”</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/o62ai8T_qrg/">here</a>.
