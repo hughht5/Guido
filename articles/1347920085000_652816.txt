@@ -1,0 +1,13 @@
+{
+"title" : "Oracle Buys SelectMinds For Using Facebook And Social Networks To Recruit Employees",
+"date" : "Mon, 17 Sep 2012 22:14:45 +0000",
+"author" : "Alex Williams"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/07/oraclelogo.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="oraclelogo" title="oraclelogo" style="float: left; margin: 0 10px 7px 0;" /><p>Oracle has acquired <a target="_blank" href="http://www.selectminds.com/">SelectMinds</a>, a provider of cloud-based, social talent sourcing apps that allow companies to use social networks such as Facebook to recruit employees. Terms of the deal were not disclosed.</p>
+<p>It is Oracle&#8217;s year for buying companies in the human capital management market (HCM). Earlier this year it <a href="http://techcrunch.com/2012/02/09/oracle-buys-talent-management-solutions-company-taleo-for-1-9-billion/">acquired Taleo for $1.92 billion</a>. Taleo’s <a target="_blank" href="http://www.taleo.com/solutions/talent-management">solutions</a> help customers attract, motivate, and retain employees.</p>
+<p>SelectMinds gives company recruiters, hiring managers and employees use of their own social networks to recruit people. The acquisition is testament to the deep competition playing out in the market. For example,  the SaaS solution allows customers to send new job listings, links, and status updates to Facebook pages and Twitter handles.</p>
+<p>The deal gives Oracle the opportunity to engage deeper in social networks and mobile. With SelectMinds, customers can transform job posts into a mobile job post that’s viewable and sharable on smartphones.</p>
+<p>Competition in the market is highlighted by <a target="_blank" href="http://workday.com">Workday,</a> which recently filed for a $400 million IPO. The news is timed to disrupt Salesforce.com&#8217;s Dreamforce event, which will feature the launch of <a target="_blank" href="http://work.com/">work.com</a>, an HCM service.</p>
+<p>Constellation Research Founder Ray Wang said in an email interview that Select Minds has had success with Facebook recruiting. Customers choose Select Mind because they see social as a key strategy.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/V1SyXTHQ7Qk/">here</a>.
