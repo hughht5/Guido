@@ -1,0 +1,12 @@
+{
+"title" : "iRobot Acquires Evolution Robotics, Makers Of The Mint Robot Vacuum, For $74 Million",
+"date" : "Mon, 17 Sep 2012 21:24:15 +0000",
+"author" : "John Biggs"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/header1.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="header1" title="header1" style="float: left; margin: 0 10px 7px 0;" /><p>Home (and military) robot maker iRobot has just acquired <a target="_blank" href="http://www.evolution.com">Evolution Robotics</a>, the makers of the <a target="_blank" href="http://www.evolution.com">Mint floor cleaning robot</a> with an R&amp;D shop focused on navigational tools. The Mint cleaner will join iRobot&#8217;s Roomba line.</p>
+<p>In a press release that touts the move as an expansion of iRobot&#8217;s &#8220;position as global robotic floor care market-leader,&#8221; the company announced that it paid cash for Evolution out of its own reserves. </p>
+<p>ER was founded in 2001 and launched the <a href="http://techcrunch.com/2010/09/25/review-mint-floor-cleaning-robot/">Mint floor cleaner</a> in 2010. Because Mint is designed for hardwood floors, the essentially non-competing products will target different markets. The Roombas, in other words, will take the rugs while the Mints will take the parquet. </p>
+<p>Evolution also offers the <a target="_blank" href="http://www.evolution.com/products/northstar/">Northstar navigation platform</a> that helps Mint return to its base station as well as the delightfully-named <a target="_blank" href="http://www.evolution.com/core/navigation/vslam.masn">vSLAM mapping system</a> that uses a small camera and dead reckoning to asses a robot&#8217;s position in space.</p>
+<p>The CEO of Evolution Robotics, Paolo Pirjanian, will become iRobot CTO. The acquisition will close in Q4 2012.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/rIm55JzRQ8s/">here</a>.
