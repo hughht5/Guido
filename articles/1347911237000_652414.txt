@@ -1,0 +1,12 @@
+{
+"title" : "Printchomp Is A Real-Time Marketplace For Printed Goods With Speedy Delivery",
+"date" : "Mon, 17 Sep 2012 19:47:17 +0000",
+"author" : "Romain Dillet"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/printchomp.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Printchomp" title="Printchomp" style="float: left; margin: 0 10px 7px 0;" /><p>Did you receive your business cards on time for <a href="http://techcrunch.com/events/disrupt-sf-2012/">TechCrunch Disrupt SF</a>? Last week, a company in the Startup Alley showed Disrupt attendees a new service to solve that issue at a good price. <a target="_blank" href="https://www.printchomp.com/">Printchomp</a> is a marketplace for printed goods, such as business cards, posters, brochures, or envelopes. It allows you to find the best printer for the job on a single website.</p>
+<p>After selecting the type of printed good you need, you can specify when you need them delivered in your city. Then you have to enter the traditional information, such as size, paper quality and whether it is two-sided. Comparing quotes from online printers isn&#8217;t the only option. The site also offers a listing of all the printers available in your area. Calling a printer directly could suit you better if it is a matter of hours and not days.</p>
+<p>&#8220;I saw there were huge opportunities to address the issue of a marketplace for goods without a barcode,&#8221; said Joseph Puopolo, co-founder and CEO of Printchomp. Printed goods are the first vertical they try to tackle. &#8220;We have processed over 40,000 business cards in beta among other print users,&#8221; he continued.</p>
+<p>Another interesting metric is the informal survey that they conducted at TechCrunch Disrupt. Of the 100 people they interviewed, one-fifth did not receive their business cards on time for the event. And another two-fifths found the process too long or cumbersome.</p>
+<p>The company is bootstrapped and based in Cambridge, Ontario, in Canada. The service is now available in the U.S. and Canada.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/NQPvCdSJKv4/">here</a>.

@@ -1,0 +1,13 @@
+{
+"title" : "Vox.io Hits A Million Users And Integrates Facebook Chat Inside The App",
+"date" : "Mon, 17 Sep 2012 17:23:56 +0000",
+"author" : "Mike Butcher"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/voxio1.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="voxio1" title="voxio1" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://Vox.io">Vox.io</a>&#8216;s innovative take on VOIP replaces what would normally be a phone number into a hyperlink, which you can put a lot of controls on and share around. And it&#8217;s getting real traction. The service now says it has hit a million users, indicating it is getting real uptake. Now they are launching a version which allows users to &#8216;Facebook chat&#8217; with their Facebook friends from inside Vox.io. Friends can also call into Voxio just but hitting a link. It&#8217;s all done transparently for the user.</p>
+<p>Plus, a new mobile version of vox.io with support for text based communication is in the works, according to CEO/Founder Tomaž Štolfa. Right now there are free calls between vox.io users on the iOS app and free group calls for up to 5 people on the desktop.</p>
+<p>&#8220;We are not going after Skype. vox.io is about making communication better. This product feature enables a better experience for our users and that is what we care about most,&#8221; Štolfa told us.</p>
+<p><a href="http://techcrunch.com/2012/03/26/voxios-chat-feature-is-aimed-at-killing-sms-but-in-a-smart-way/">Back in March</a> it added a realtime Chat feature across web and iOS app, going up against the WhatsApp app and a host of other messaging services trying to kill SMS. It&#8217;s two-column interface integrates embeds from other services. In the main it&#8217;s concentrating on starting a chat, a better interface for sharing and a chat history that syncs across devices, including SMS. </p>
+<p>vox.io is backed by angel investors and Seedcamp (vox.io won Mini Seedcamp London in January 2011 and was selected as one of the top startups at Seedcamp Week 2011).</p>
+<p></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/sb0gm9wIr8Y/">here</a>.

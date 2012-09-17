@@ -1,0 +1,18 @@
+{
+"title" : "Freshdesk Wants To Make Customer Service Fun With Game Mechanics",
+"date" : "Mon, 17 Sep 2012 19:00:08 +0000",
+"author" : "Klint Finley"
+}
+
+<img width="100" height="48" src="http://tctechcrunch2011.files.wordpress.com/2012/05/freshdesk-logo.jpg?w=100&amp;h=48&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="freshdesk logo" title="freshdesk logo" style="float: left; margin: 0 10px 7px 0;" /><p>Today <a target="_blank" href="http://freshdesk.com">Freshdesk</a> announced Freshdesk Arcade, a new game mechanics system for its web-based help desk software.</p>
+<p>Freshdesk Arcade will award points based on several factors, including the amount of time it takes to close a ticket, whether an issue is resolved in one call, and customer satisfaction. Points can be tracked through internal leaderboards, and agents will be able to rise through several levels, starting with &#8220;Support Newbie&#8221; and rising to &#8220;Support Guru.&#8221;</p>
+<p></p>
+<p>It will also award &#8220;trophies&#8221; (which I take to be like badges) such as &#8220;Sharpshooter,&#8221; &#8220;Speed Racer,&#8221; and &#8220;Customer Wow Champ.&#8221; And there&#8217;s a list of &#8220;quests&#8221; for agents to complete:</p>
+<p></p>
+<p>Every aspect of the game system can be customized by administrators, including how many points are awarded for each metric tracked, how many points it takes to level up, etc.</p>
+<p>One thing I worried about is what effect &#8220;problem users&#8221; will have on agents&#8217; scores. &#8220;Almost every support team has to deal with a few &#8216;problem users.&#8217; But the good thing is problem users aren&#8217;t tied to a specific agent,&#8221; says Freshdesk Strategic Marketing Manager Vikram Bhaskaran. &#8220;In fact, as a help desk agent grows in experience, they work with more difficult issues and problem users than the guys just starting out. That means as the agent grows up, their difficulty level in a real-world support situation keeps increasing, just as you would expect in the game.&#8221;</p>
+<p>Freshdesk isn&#8217;t the first company to apply gamification to help desk software. Last year <a target="_blank" href="http://uservoice.com">UserVoice</a> launched its own <a target="_blank" href="http://www.readwriteweb.com/enterprise/2011/03/uservoice-wants-to-make-custom.php">game mechanics system</a>. UserVoice awards points based on number of tickets responded to, speed of response and customer feedback (in the form of a system called &#8220;Kudos&#8221;).</p>
+<p>&#8220;We partially don&#8217;t do badges because the Kudos concept itself is a very strong motivator for agents (or so they&#8217;ve told us),&#8221; UserVoice CEO Richard White says. Here&#8217;s a look at how UserVoice organizes its leaderboard:</p>
+<p></p>
+<p>Freshdesk was founded by Girish Mathrubootham, a former Zoho employee. After <a target="_blank" href="http://blog.freshdesk.com/the-freshdesk-story-how-a-simple-comment-on-h-0/#.UFdPCo1lQpA">reading a comment on Hacker News</a> about how the help desk software-as-a-service market was prime for disruption, Mathrubootham quit his job to start the company.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/iLECI056TwY/">here</a>.
