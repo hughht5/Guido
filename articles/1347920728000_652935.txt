@@ -26,7 +26,7 @@
 <p>Also, the two colors that the company uses consistently, green and pink, are a send-back to Google&#8217;s map pins, which are green and red. The company decided to go with a &#8220;more friendly&#8221; green and pink.</p>
 <h3>An update focusing on happiness and delight</h3>
 <p>The company has <a target="_blank" href="http://itunes.apple.com/us/app/lyft-on-demand-ridesharing/id529379082?mt=8">just pushed an update for its iOS app</a>, and has added some fun animations when you&#8217;re ready to pay (or donate, as the app words it) your driver. Instead of plus and minus arrows, you tap a pencil to enter the amount of money you&#8217;d like to pay your driver. As you increase the amount, a balloon fills up and then eventually fireworks go off.</p>
-<p><a href="http://techcrunch.com/2012/09/17/lyfts-focus-on-community-and-the-story-behind-the-pink-mustache/lyft-new-donation-screen-2/" rel="attachment wp-att-653018"></a></p>
+<p><a href="http://techcrunch.com/2012/09/17/lyfts-focus-on-community-and-the-story-behind-the-pink-mustache/lyft-new-donation-screen/" rel="attachment wp-att-652994"></a></p>
 <p>It&#8217;s little things like that, that make you feel like a company actually cares. And trust me, Lyft cares. Can they make it into a huge business? Yes. Is it all for fun? No. But if the company can have some fun at the same time, and bring smiles as well, then it&#8217;s a win for everyone..</p>
 <p>Zimmer ended our talk by saying:</p>
 <blockquote><p>Building community is what drives me and makes me so happy to work on this.</p></blockquote>
