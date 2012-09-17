@@ -1,0 +1,23 @@
+{
+"title" : "Hands-On With The Fitbit Zip",
+"date" : "Mon, 17 Sep 2012 10:36:42 +0000",
+"author" : "John Biggs"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/fitbit4.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="fitbit4" title="fitbit4" style="float: left; margin: 0 10px 7px 0;" /><p>Fitbit just announced two new devices, the $99 One, a replacement for the Ultra pedometer, and the Zip, a $60 entry-level model that adds a bit of mirth to the <a href="http://techcrunch.com/tag/Fitbit">Fitbit</a> family. The One won&#8217;t be available until October but I carried Zip around for a week or so already and found it to be quite fun and capable.</p>
+<p>The Zip is a departure from the original &#8220;clothespin&#8221; style Ultra in that it can be removed from its case to create a sort of pedometer lozenge. It also runs on a single watch battery that lasts for six months, making it far more interesting to folks who don&#8217;t want to lug their charger with them.</p>
+<p>The Zip is similar to the first Fitbit in that it measures steps taken, calories, and distance. It does not support stairs taken, which could be a dealbreaker for fans of the current model. Most important, it does away with Fitbit&#8217;s pretty growing flower iconography &#8211; a flower grew when you exercised more &#8211; and instead replaces it with a smiling face that beams at you when you&#8217;ve gotten off your couch.</p>
+<p>Instead of a cradle, Fitbit includes a small dongle for USB devices as well as low power Bluetooth support for syncing with mobile devices.</p>
+<p>The other new Fitbit, the One, features everything the Ultra had, including the stair meter, as well as Bluetooth 4.0 support. The One also has a gradual alarm for waking yourself from sleep, something that was missing in the original models.<br />
+
+<a href='http://techcrunch.com/2012/09/17/hands-on-with-the-fitbit-zip/fitbit4/' title='fitbit4'></a>
+<a href='http://techcrunch.com/2012/09/17/hands-on-with-the-fitbit-zip/olympus-digital-camera-545/' title='OLYMPUS DIGITAL CAMERA'></a>
+<a href='http://techcrunch.com/2012/09/17/hands-on-with-the-fitbit-zip/fitbit2-3/' title='fitbit2'></a>
+<a href='http://techcrunch.com/2012/09/17/hands-on-with-the-fitbit-zip/fitbit-3/' title='fitbit'></a>
+<a href='http://techcrunch.com/2012/09/17/hands-on-with-the-fitbit-zip/fitbit-one-black-burgundy-side-view-1347661592/' title='fitbit-one-black-burgundy-side-view-1347661592'></a>
+</p>
+<p>Why a Fitbit? I&#8217;ve found that the Fitbit really helps you understand your activity levels. While it&#8217;s not a complete indicator of fitness, it&#8217;s nice to know I&#8217;ve been sitting down all day long and could probably use a walk. While I wouldn&#8217;t say it&#8217;s a great weight loss tool, it&#8217;s definitely an excellent reminder and prod for adding a bit more physical activity to your day. I&#8217;m definitely more interested in the One, shown below, when it becomes available because of the gradual alarm and stair feature. </p>
+<p></p>
+<p><a target="_blank" href="http://www.fitbit.com/us/zip">Zip Product Page</a><br />
+<a target="_blank" href="http://www.fitbit.com/us/one">One Product Page</a></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/tdfXQFoJavA/">here</a>.
