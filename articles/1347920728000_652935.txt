@@ -1,0 +1,35 @@
+{
+"title" : "Lyft’s Focus On Community And The Story Behind The Pink Mustache",
+"date" : "Mon, 17 Sep 2012 22:25:28 +0000",
+"author" : "Drew Olanoff"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/7640819472_0d2f9d23c4_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="7640819472_0d2f9d23c4_z" title="7640819472_0d2f9d23c4_z" style="float: left; margin: 0 10px 7px 0;" /><p>You ask for a ride, it rolls up, you get into the front seat and you give the drive a fist-bump. This sounds like something you do when your best friend picks you up, and that&#8217;s exactly the experience that <a href="http://techcrunch.com/2012/09/13/drive-me-lyft-just-might-have-the-customer-experience-advantage-over-uber/">super-hot ride-sharing service Lyft</a> wants to emulate.</p>
+<p>I sat down with Lyft&#8217;s co-founder, John Zimmer, today, to discuss the company&#8217;s approach to community and to this  ever-growing transportation vertical we have going on here in San Francisco.</p>
+<p>I also got to the root of the story behind the famous pink mustache that adorns all of Lyft&#8217;s cars, but we&#8217;ll get to that later. Its <a target="_blank" href="http://itunes.apple.com/us/app/lyft-on-demand-ridesharing/id529379082?mt=8">app just updated today</a>, and we&#8217;ll also get to that.</p>
+<p>My experience with Lyft thus far is that it&#8217;s a service for someone who doesn&#8217;t mind having a conversation with a cool person. Sure, if you want to hop in the back of a cab, you can sit there silently and not have to worry about someone bothering you while you tap away on your phone. Sometimes, I enjoy chatting. Ok, fine, I enjoy chatting all of the time. The Lyft drivers are friendly, and that&#8217;s something that the company likes to bring out in its fleet.</p>
+<p>Zimmer told me that &#8220;We try to find aspirational, friendly people, and when you take a ride with a person, you think &#8220;hey, that could be me.&#8221; The approach makes complete sense, as we&#8217;ve all had experiences where we&#8217;ve picked up a friend or two at the last minute.   </p>
+<p>The success of Lyft thus far has been greatly due to the word of mouth buzz that it has generated. Zimmer told me that word of mouth was build into the product, to carry you throughout the entire process from pickup to payment. It&#8217;s smart, and when you hear the joy in Zimmer&#8217;s voice, you know that the company is on to something.</p>
+<p>The demand for the service has gone through the roof for the 32 person company, which currently sports 200 drivers. As more people hear about Lyft, more drivers will be needed.  Zimmer doesn&#8217;t see that as a problem though, as drivers are starting to approach him with excitement.</p>
+<h3>Is it Lyft versus Uber?</h3>
+<p>What I&#8217;ve found is that the Lyft experience is completely different than the Uber one. It&#8217;s a more jovial and interactive social experience than simply getting into the back of a slick black car. One is not better than the other&#8230;it&#8217;s just different.</p>
+<p>Interestingly enough, Zimmer tells me that the rising demographic that is coming to Lyft are the people who chose not to go out in the first place in the past. These are folks that are financially conservative and skip an outing because of the cost. With simplicity and lower price, Lyft is actually getting people out of the house more.</p>
+<p>You feel like you&#8217;re in the car with a friend, and that&#8217;s no mistake. Zimmer tells me that the company has a &#8220;lounge&#8221; where drivers chat about experiences that they&#8217;ve had with riders. Whether it&#8217;s bringing someone a sandwich for the ride or letting them choose the music in the car, Lyft drivers have their own budding community growing.</p>
+<h3>The next level of the social graph</h3>
+<p>When I talked to Zimmer about how technology has turned some people into social-phobics, he shared that he feels like the tide is turning there:</p>
+<blockquote><p>The next wave of the social graph is empowering services like Airbnb and Lyft, that give people the chance to have that physical interaction. People are more open to that because of Airbnb.  Airbnb took couch surfing and took an additional step.</p></blockquote>
+<p>Airbnb indeed has opened up the floodgates for platforms and comfort to surround the idea of making these types of personal transactions that sounded crazy just a few short years ago.</p>
+<p>And the drivers are happy, which will then trickle down to the riders. They&#8217;re making money doing something they like, and they get to meet cool people. In fact, one gal has gone on a few dates with one of her Lyft drivers.</p>
+<h3>The Pink Mustache</h3>
+<p>The fist-pound, by way of co-founder Logan Green, is definitely one of the things that sticks with me when it comes to Lyft. However, you can&#8217;t ignore the symbolic pink mustaches that you see on the front of every car. Why a mustache? Why pink? I asked Zimmer about it and he opened up.</p>
+<blockquote><p>We originally thought of doing this just for women, as a safety kind of service and a very particular clientele. It&#8217;s partially because of that.</p></blockquote>
+<p>Also, the two colors that the company uses consistently, green and pink, are a send-back to Google&#8217;s map pins, which are green and red. The company decided to go with a &#8220;more friendly&#8221; green and pink.</p>
+<h3>An update focusing on happiness and delight</h3>
+<p>The company has <a target="_blank" href="http://itunes.apple.com/us/app/lyft-on-demand-ridesharing/id529379082?mt=8">just pushed an update for its iOS app</a>, and has added some fun animations when you&#8217;re ready to pay (or donate, as the app words it) your driver. Instead of plus and minus arrows, you tap a pencil to enter the amount of money you&#8217;d like to pay your driver. As you increase the amount, a balloon fills up and then eventually fireworks go off.</p>
+<p><a href="http://techcrunch.com/2012/09/17/lyfts-focus-on-community-and-the-story-behind-the-pink-mustache/lyft-new-donation-screen/" rel="attachment wp-att-652994"></a></p>
+<p>It&#8217;s little things like that, that make you feel like a company actually cares. And trust me, Lyft cares. Can they make it into a huge business? Yes. Is it all for fun? No. But if the company can have some fun at the same time, and bring smiles as well, then it&#8217;s a win for everyone..</p>
+<p>Zimmer ended our talk by saying:</p>
+<blockquote><p>Building community is what drives me and makes me so happy to work on this.</p></blockquote>
+<p>Not a bad business model, Lyft.</p>
+<p>[Photo credit: <a target="_blank" href="http://www.flickr.com/photos/lizasperling/7640819472/sizes/z/">Flickr</a>]</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/enT4UyO4F_8/">here</a>.
