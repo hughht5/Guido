@@ -1,5 +1,5 @@
 {
-"title" : "Google’s Loss=Yandex’s Gain In Apple’s iOS6: Russian Search Giant Nabs Maps API, Search Deal In The Works",
+"title" : "Google’s Loss=Yandex’s Gain In iOS6: Russian Search Giant Nabs Apple Maps API; Search Deal In The Works",
 "date" : "Mon, 17 Sep 2012 09:28:31 +0000",
 "author" : "Ingrid Lunden"
 }
@@ -11,6 +11,9 @@
 <p>From what I understand, talking to sources, this is a landmark deal on two levels.</p>
 <p>First: it&#8217;s a sign of more collaboration between Apple and companies (who are not Google) that are strong in search in specific markets. It&#8217;s part of a wider move by the company to move away from some Google services in its core iOS6 product as well. That has seen Apple forge ahead with its own mapping product, and remove apps like YouTube as a default app on iOS6.</p>
 <p>Second: these partnerships can be seen as a blueprint for how Apple will look improve Maps and other services as it continues to develop them independently of Google. Some have pointed out how Maps in iOS6 so far is still lacking; this is a sign of how Apple wants to improve that.</p>
+<p>It also helps Yandex shore up against Google in its home market. Yandex <a target="_blank" href="http://company.yandex.com/press_center/press_releases/2012/2012-07-31.xml">this quarter</a> said that it accounts for just over 60% of all searches in Russia, but that&#8217;s actually down from previous years. Meanwhile, Google&#8217;s presence is gradually growing stronger; it accounts for about 22% of searches in Russia today.</p>
 <p>Apple has long been murmured to be forging stronger partnerships with local search players like Yandex in Russia and Baidu in China. In the latter market, some believe that Baidu is <a target="_blank" href="https://www.google.com/search?q=apple+baidu&amp;aq=0&amp;oq=apple+baidu&amp;sugexp=chrome,mod=8&amp;sourceid=chrome&amp;ie=UTF-8#hl=en&amp;sclient=psy-ab&amp;q=apple+baidu+default+search&amp;oq=apple+baidu+default+search&amp;gs_l=serp.3...19521.20545.1.21269.7.7.0.0.0.0.75.457.7.7.0.les%3B..0.0...1c.1.aX34yC03_QI&amp;pbx=1&amp;bav=on.2,or.r_gc.r_pw.r_qf.&amp;fp=f5bedef6a12ab72e&amp;biw=1119&amp;bih=729">close to cutting a deal</a> to become the default search provider in Apple&#8217;s iOS version of Safari. For now, it looks like it is still only one of several options, although there is another sweetener to that relationship: Apple is apparently getting a cut of Baidu search revenues on iOS, according to Baidu VP Wang Jing (via <a target="_blank" href="http://www.bloomberg.com/news/2012-06-14/baidu-to-share-revenue-with-apple-on-china-iphone-search.html">Bloomberg</a>).</p>
-<p>Photo <a target="_blank" href="http://www.appleinsider.ru/ios/integraciya-yandeks-v-ios-6-eto-ne-mif.html">via</a></p>
+<p></p>
+<p></p>
+<p>Photo <a target="_blank" href="http://www.appleinsider.ru/ios/integraciya-yandeks-v-ios-6-eto-ne-mif.html">via</a> and <a target="_blank" href="http://alexmak.net/blog/wp-content/uploads/2012/09/IMG_3485.png">via</a></p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/gMVLlWEJu18/">here</a>.
