@@ -1,5 +1,5 @@
 {
-"title" : "Video Mashup Pro ReelSurfer Lands $880K From YC, Executive Producer Of The Hangover",
+"title" : "Video Mashup Pro Reelsurfer Lands $880K From YC, Executive Producer Of The Hangover",
 "date" : "Mon, 17 Sep 2012 22:52:07 +0000",
 "author" : "Rip Empson"
 }
