@@ -1,0 +1,15 @@
+{
+"title" : "SAP: Patent Turmoil Will Help Give Windows 8 Tablet The Number Two Spot In Enterprise",
+"date" : "Tue, 18 Sep 2012 01:28:53 +0000",
+"author" : "Alex Williams"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/07/windows-8-metro.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="windows-8-metro" title="windows-8-metro" style="float: left; margin: 0 10px 7px 0;" /><p>SAP&#8217;s Sanjay Poonen said in a meeting of bloggers and analysts today that Windows 8 will rise to the number two spot in the tablet market in part due to Samsung&#8217;s patent lawsuit loss to Apple last month.</p>
+<p>It&#8217;s not the sole reason that CIOs cite. But for many, it certainly is the nail in the coffin.</p>
+<p>The roots of the shift date back to January of 2011 when Microsoft introduced the concept of Windows 8.  It also helped that Microsoft committed to developing a common kernel across all of its platform and backward compatibility to Windows 7. The kernel and the backward compatibility means that CIOs can use existing apps on the new Windows 8 tablets. Microsoft has an established developer ecosystem. CIOs also find appealing the whole new Metro UI and Microsoft&#8217;s advancements in its touch screen technology.</p>
+<p>SAP is making a significant commitment to mobile. As a company, it is already one of the largest Apple enterprise customers. Listening to executives today, it&#8217;s apparent mobile security, device management and app development represent the company&#8217;s wedge in the market. Afaria is its security platform. For app development SAP recently acquired Syclo, an enterprise app development shop that it sees as its promise for serving the enterprise market.  They are building a mobile design center with teams throughout the world.  It also has a mobile app development environment currently called Sybase Unwired Platform (SUP).</p>
+<p>&#8220;It&#8217;s striking how much SAP&#8217;s device platform priorities are changing based on market demand,&#8221; said Jon Reed, a recognized SAP blogger and analyst. &#8220;A year ago, SAP was fully supporting RIM. Now it is looking harder at RIM development whereas Windows 8 is picking up dramatically.&#8221;</p>
+<p>Poonen, who runs SAP&#8217;s mobile efforts, says CIOs are comfortable with Microsoft. It&#8217;s in every enterprise. And with the common platform, CIOs can start having employees use tablets instead of laptops.</p>
+<p>Android will fall out of the race for a few reasons. Google has let Android become fragmented with device manufacturers, making it a complex affair for development. Google is also putting less emphasis on enterprise and the company does not support the Android platform.</p>
+<p>So Apple&#8217;s victory over Samsung just helps solidify their views that Windows 8 is simply the better choice.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/GmihuOC1lN4/">here</a>.
