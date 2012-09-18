@@ -1,0 +1,18 @@
+{
+"title" : "Blue Apron Delivers All The Ingredients You Need To Cook Fresh Meals Every Week",
+"date" : "Tue, 18 Sep 2012 20:23:54 +0000",
+"author" : "Romain Dillet"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/unboxing-box-107ca9e953a24f0c49164ad5bd694aaf.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Blue Apron" title="Blue Apron" style="float: left; margin: 0 10px 7px 0;" /><p>Do we need <a href="http://techcrunch.com/2012/03/06/dollar-shave-club/">another</a> <a href="http://techcrunch.com/2012/08/11/dejamor-keeps-your-sex-life-sexy-every-month/">subscription</a> <a href="http://techcrunch.com/2012/08/21/urban-cargo-delivers-a-box-of-handsome-to-your-doorstep-every-month/">service</a> to deliver things to the doorstep? <a target="_blank" href="http://www.blueapron.com/">Blue Apron</a> surprises with a new take on the market: every week, all the fresh ingredients you need to cook three meals are delivered to your home.</p>
+<p>It removes many hassles, such as having to think about a meal, finding the recipe, and, more importantly, spending hours trying to find fresh ingredients. As the service is very specific and includes vegetables or meat, the company emphasizes the freshness of the ingredients.</p>
+<p>That is why the service is currently restricted to the Northeastern U.S., including most parts of Massachusetts, New York, Connecticut, Pennsylvania, New Jersey, Rhode Island, and Maryland.</p>
+<p>&#8220;Our food is a major differentiator for us &#8212; we source from the same wholesale providers who supply high-end restaurants, so the quality is extremely high,&#8221; said Matt Salzberg, co-founder and CEO of Blue Apron. &#8220;In fact, our food is higher quality than you could get on your own at the supermarket, and fresher because it doesn&#8217;t sit for a week on the supermarket shelf before you buy it,&#8221; he continued.</p>
+<p>Even though the delivery occurs only once a week, you receive all the ingredients to cook three meals. The recipes are included in the package, and it will take at most 35 minutes to cook the meals.</p>
+<p>Time is the major appeal of the service, but recipe discovery might be another important strength for food lovers. It is a new take — albeit more expensive — on the traditional and popular recipe websites.</p>
+<p>When it comes to food, you have to deal with all sorts of concerns, including food allergy and special dietary restrictions. Over time, the company plans to introduce new plans to accomodate all those needs.</p>
+<p>Many companies offer to deliver meals to your home, but the food is already cooked and you just have to heat it. Salzberg and CTO Ilia Papas founded the company with Matthew Wadiak, a chef and serial entrepreneur in the food business. Wadiak is responsible for the product &#8212; in this case, the meals.</p>
+<p>Subscriptions cost $9.99 per person per meal; delivery is free and you can cancel at any time.</p>
+<p>The company has raised $800,000 from an impressive list of investors: Nat Turner &amp; Zach Weinberg (co-founders of Invite Media), Jason Finger (founder of Seamless), Eric &amp; Alan Gould (co-founders of IAG Research), Graph Investments and James Moran (founder of Yipit).</p>
+<a href="http://techcrunch.com/2012/09/18/blue-apron-delivers-all-the-ingredients-you-need-to-cook-fresh-meals-every-week/#gallery-653648-1-slideshow">Click to view slideshow.</a>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/O569qkA-Krk/">here</a>.
