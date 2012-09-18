@@ -1,0 +1,15 @@
+{
+"title" : "Twitter Announces New Design With Focus On Profile Pages, iPad Update On The TODAY Show",
+"date" : "Tue, 18 Sep 2012 12:26:42 +0000",
+"author" : "Drew Olanoff"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/4578515565_10bb13a556_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="4578515565_10bb13a556_z" title="4578515565_10bb13a556_z" style="float: left; margin: 0 10px 7px 0;" /><p>Today, Twitter&#8217;s CEO Dick Costolo announced XXX on the TODAY Show, live. The show teased &#8220;big changes&#8221; coming to Twitter, and drew it out pretty well giving a company tour.</p>
+<p>The company announced that there are over 140 million users, with 340 million tweets per day, currently. Twitter also has an $8B valuation, which is just massive, not to mention a whopping 900 employees in San Francisco alone.</p>
+<p>At times, this felt like a commercial for Twitter, discussing the free snacks they get.</p>
+<p>&#8220;Twitter brings you closer to the action and your heroes&#8221; said Costolo.</p>
+<p>We&#8217;ve known about Twitter&#8217;s appearance on the TODAY show since yesterday, but had no idea what would be discussed or announced.</p>
+<blockquote class='twitter-tweet' lang='en'><p>The wait is almost over...10 minutes away MT @<a href="https://twitter.com/laurlens">laurlens</a> Burning up with excitement! What&#039;s the big <a href="http://twitter.com/search?q=%23news" title="#news">#news</a> <a href="http://twitter.com/search?q=%23twitter" title="#twitter">#twitter</a> @<a href="https://twitter.com/todayshow">todayshow</a> @<a href="https://twitter.com/twitter">twitter</a></p>&mdash; <br />TODAY  (@todayshow) <a href='http://twitter.com/#!/todayshow/status/248031070031855616' data-datetime='2012-09-18T12:09:49+00:00'>September 18, 2012</a></blockquote>
+<blockquote class='twitter-tweet' lang='en'><p>Good morning! @<a href="https://twitter.com/dickc">dickc</a> is getting ready to talk Twitter on the @<a href="https://twitter.com/todayshow">todayshow</a> in the next few minutes. Time to change the channel to NBC.</p>&mdash; <br />Twitter (@twitter) <a href='http://twitter.com/#!/twitter/status/248024897794764800' data-datetime='2012-09-18T11:45:18+00:00'>September 18, 2012</a></blockquote>
+<p>[Photo credit: <a target="_blank" href="http://www.flickr.com/photos/joi/4578515565/sizes/z/">Flickr</a>]</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/k_aQsh35UNY/">here</a>.
