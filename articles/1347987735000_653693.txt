@@ -1,0 +1,14 @@
+{
+"title" : "Fquare Brings The Crowdfunding Model To … Farms?",
+"date" : "Tue, 18 Sep 2012 17:02:15 +0000",
+"author" : "Mike Butcher"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/donkey.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="donkey" title="donkey" style="float: left; margin: 0 10px 7px 0;" /><p>You&#8217;ve heard of <a target="_blank" href="http://Kickstarter.com">Kickstarter</a> and <a target="_blank" href="http://www.indiegogo.com/">IndieGoGo</a> and I&#8217;m sure you&#8217;ve heard of plenty of other crowd-funding startups. But clearly there was a gap in the market waiting to be filled. That gap was farms. Yes, farms ladies and gentlemen. Thus I give you <a target="_blank" href="http://Fquare.com">Fquare</a> (no, that&#8217;s no Square miss-spelled), a brand new &#8220;Agriculture Crowdfunding Platform&#8221;. Yes, really. But hold everything. There&#8217;s more to this than meets the eye.</p>
+<p>Frankly when I saw the release about Fquare&#8217;s launch I though it would be about crowd funding for… I don&#8217;t know… food? Buying cows? Anyways, it turns out it&#8217;s a about something pretty cool for struggling farmers out there. This is about investing in farmland and potentially keeping hard-pressed farmers on the land in a totally new way.</p>
+<p>Here&#8217;s the scenario. A farmer can&#8217;t keep up the payments on the farm or wants a new lifestyle. They decide to sell the farm. But instead of selling it to another farmer or for real estate, they sell it to &#8216;the crowd&#8217; of investors on Fquare. The farmer agrees to pay investors up to 6% interest annually for up to 20 years. If the funds are raised successfully through crowdfunding the farmer becomes the tenant and the investors the landlord.</p>
+<p>On the investor side, Fquare collects rent from the farmer every month and distributes the rent payment to investors accordingly, depending on the amount of shares owned. Investors can sell their shares to other investors via the Fquare secondary market. Each year, investors vote to either hold onto farmland or list it for sale by a real estate broker. Hopefully the former.</p>
+<p>Charles Polanco, founder and CEO of Fquare reckons cash leases on farmland will return on average 5% in net annual income on Fquare.</p>
+<p>So there you have it. Crowdfunding for farms. </p>
+<p>Your suggestions for the next area to be disrupted by crowdfunding are now required in the comments.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/b5dvlX7oBIc/">here</a>.
