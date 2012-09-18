@@ -14,4 +14,5 @@
 <p><a href="http://techcrunch.com/2012/09/18/still-missing-igoogle-try-backstitch-instead/backstitch-2/" rel="attachment wp-att-653574"></a></p>
 <p>While I personally haven&#8217;t found personalized homepages to be all that useful in days past, generally preferring the full web or app experience provided by the individual services themselves, I can also see where Backstitch could easily fill the void left by the departure of iGoogle and the like.</p>
 <p>Backstitch&#8217;s co-founders are based in the Detroit area and have previous experience in software development. However, they&#8217;re new to launching their own startup. <a target="_blank" href="http://backstit.ch/">Backstitch</a> is currently in bootstrap mode and available as a free beta service.</p>
+<p><em>Correction: Originally stated that iGoogle was shut down in July. Shutdown was announced in July but service will remain up until next November. </em></p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/aMxFwEzKfCc/">here</a>.
