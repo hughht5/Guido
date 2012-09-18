@@ -1,0 +1,12 @@
+{
+"title" : "SAP: The Client/Server Is Back And It Is Cloud",
+"date" : "Tue, 18 Sep 2012 05:20:42 +0000",
+"author" : "Alex Williams"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/08/sap-logo.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="SAP-Logo" title="SAP-Logo" style="float: left; margin: 0 10px 7px 0;" /><p>SAP is having a blogger and analyst event this week that is an education in how a big company can be one day exciting and another gives a reminder of how different they are compared to the startups of the world.</p>
+<p>That was pretty well summed up today when SAP&#8217;s Sethu Meenakshisundaram said the client/server is back and it is cloud. It&#8217;s such a curious analogy and a vexing one for most of the people I know and talk to every day. But on a practical level It shows how SAP is trying bridge two worlds by using the client/server metaphor as a comparison to today&#8217;s modern services that the company is trying to embrace.</p>
+<p>Meenakshisundaram said the client/server analogy to the cloud encompass dimensions such as communications, deployment and domain expertise. Cloud is a deployment model. Apps are deployed to the cloud as much as they are to on-premise servers. Cloud is a communications model driven by RESTful APIs.  And there are domain specific cloud environments.</p>
+<p>But, oh, how confusing it can be. It felt like the B.S. meter was at full tilt this morning or perhaps it was just muddled thinking. But then again, as <a target="_blank" href="http://redmonk.com/jgovernor/">James Governor</a> said, at least SAP is not making up some new term. </p>
+<p>What we are really seeing is a company trying to get an understanding of a new reality. It&#8217;s not just cloud versus client/server. It&#8217;s about what it means to be an enterprise software company in age when most developers are thinking about a new infrastructure and not what it compares to the ways of managing applications.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/U7aYrW7nn2I/">here</a>.
