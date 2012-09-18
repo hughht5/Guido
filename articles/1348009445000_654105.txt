@@ -6,12 +6,14 @@
 
 <img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/5172579458_fe3a1fc78c_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="18th Annual National Capital Barbecue Battle" title="18th Annual National Capital Barbecue Battle" style="float: left; margin: 0 10px 7px 0;" /><p>Today, the Google+ team shared some insight into some tweaks that it has made to the Hangouts experience over the last couple of months, plus some new initiatives.</p>
 <p>In a <a target="_blank" href="https://plus.google.com/106717946845088683921/posts/A1PMNKchcxQ">post on Google+</a>, Chee Chew of Google discussed these improvements, which include the ability to block people, set a Hangout to 18+ and change a Hangout to public while it&#8217;s in progress.  All of these features give you more awareness of your surroundings during any given chat on the platform.</p>
-<p>Here&#8217;s a bit of a breakdown of these features:</p>
+<p>This is about safety, Chew explains.</p>
+<p>Here&#8217;s a bit of a breakdown of these features, some of which have already been rolled out:</p>
 <p>Google+ Hangouts now inform you of when extended circles have been invited to a Hangout or when the Hangout has been switched to public:</p>
 <p><a href="http://techcrunch.com/2012/09/18/google-hangouts-now-let-you-know-exactly-who-is-coming-and-going/03hangouts-madepublic/" rel="attachment wp-att-654125"></a></p>
 <p>Also, you now will know when someone in your Hangout has blocked someone for being annoying, and you can then do the same if you wish:</p>
 <p><a href="http://techcrunch.com/2012/09/18/google-hangouts-now-let-you-know-exactly-who-is-coming-and-going/02hangouts-someoneelseblocked/" rel="attachment wp-att-654127"></a></p>
 <p>Finally, if you want to hang out with just adults, not necessarily doing &#8220;adult things&#8221; that are against Google TOS, you can now set a Hangout to 18+ mode:</p>
 <p><a href="http://techcrunch.com/2012/09/18/google-hangouts-now-let-you-know-exactly-who-is-coming-and-going/hangouts-modal/" rel="attachment wp-att-654131"></a></p>
-<p>These are nice additions to a platform that many are using for business and personal purposes. Of course, Google has signed a deal with the NFL and Hangouts are being used for fantasy football junkies everywhere.</p>
+<p>These are nice additions to a platform that many are using for business and personal purposes. Of course, Google has signed a deal with the NFL and <a target="_blank" href="http://thenextweb.com/google/2012/08/01/hangouts-breaks-out-of-google-will-power-nfl-com-fantasy-football-experience/">Hangouts are being used for fantasy football junkies everywhere</a>.</p>
+<p>[Photo credit: <a target="_blank" href="http://www.flickr.com/photos/kubina/5172579458/sizes/z/">Flickr</a>]</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/uHcXXUWkzZo/">here</a>.
