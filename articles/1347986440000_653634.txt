@@ -1,0 +1,12 @@
+{
+"title" : "Paris-Based Ventech Close To Closing €100M Fund To Invest In Europe And BRICs",
+"date" : "Tue, 18 Sep 2012 16:40:40 +0000",
+"author" : "Mike Butcher"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/screen-shot-2012-09-18-at-17-37-36.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-09-18 at 17.37.36" title="Screen Shot 2012-09-18 at 17.37.36" style="float: left; margin: 0 10px 7px 0;" /><p>Paris-based VC <a target="_blank" href="http://www.ventech.fr/site_dev/index.php">Ventech</a> is in the process of closing its fourth fund. Called Ventech Capital F, the new vehicle is aiming to be a €100 million fund ($130M). It&#8217;s raised 75% of the final target so far from the European Investment Fund, Natixis Private Equity, CDC Entreprises (which invests on behalf of FSI France Investissement), Malakoff Médéric, several entities of BPCE group, Pactinvest (Groupe SMABTP) as well as family offices.</p>
+<p>The new fund will target both France and the other European countries, but also neighboring countries experiencing high growth, such as Russia and Turkey. Ventech is also pretty interested in the BRIC nations. </p>
+<p>Its investing in the usual things (internet, media, e-commerce, mobile), but also SaaS, open source software, hardware and communications companies.</p>
+<p>Some of Ventech&#8217;s investments include: Cloakroom Collective Webedia, Viadeo, Withings, and Newsring.</p>
+<p>Ventech was founded nearly 15 years ago by Alain Caffi, Jean Bourcereau and Eric Huet. Claire Houry joined in 2008, when Ventech opened an office in China. The company currently manages over €400 million of assets.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/tVOopjAjcY0/">here</a>.
