@@ -1,5 +1,5 @@
 {
-"title" : "Yahoos Now Removing The ® From Their Logo. Is The Exclamation Mark Next?",
+"title" : "Yahoo!s Now Removing The ® From Their Logo. Is The Exclamation Mark Next?",
 "date" : "Tue, 18 Sep 2012 07:28:23 +0000",
 "author" : "Alexia Tsotsis"
 }
