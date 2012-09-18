@@ -4,7 +4,7 @@
 "author" : "Ingrid Lunden"
 }
 
-<p>Some consolidation afoot in online media: Dice Holdings, the career website owner, has announced that it has bought the online media business of Geeknet, which includes the high-profile tech websites Slashdot, SourceForge and Freecode.</p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/screen-shot-2012-09-18-at-12-23-19.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="dice.com logo" title="dice.com logo" style="float: left; margin: 0 10px 7px 0;" /><p>Some consolidation afoot in online media: Dice Holdings, the career website owner, has announced that it has bought the online media business of Geeknet, which includes the high-profile tech websites Slashdot, SourceForge and Freecode.</p>
 <p>Financial terms of the deal were not disclosed but it should not be small: Slashdot brings in 3.7 million uniques per month; Sourceforge has 40 million monthly unique visitors; and Freecode brings in 500,000 a month.</p>
 <p>More to come. Refresh for updates.</p>
 <blockquote><p>Dice Holdings, Inc. Acquires Online Media Business from Geeknet, Inc.</p>
