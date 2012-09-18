@@ -1,0 +1,26 @@
+{
+"title" : "DeployGate: Simple, Over-The-Air, Real-Time App Beta Testing Comes To Android",
+"date" : "Tue, 18 Sep 2012 13:07:53 +0000",
+"author" : "Serkan Toto"
+}
+
+<img width="100" height="35" src="http://tctechcrunch2011.files.wordpress.com/2012/09/deploygate.png?w=100&amp;h=35&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="deploygate" title="deploygate" style="float: left; margin: 0 10px 7px 0;" /><p>It&#8217;s no secret that developing and testing Android applications can <a href="http://techcrunch.com/2012/05/11/this-is-what-developing-for-android-looks-like/">be</a> <a href="http://techcrunch.com/2012/06/02/android-qa-testing-quality-assurance/">difficult</a>, but a newly launched solution called <a target="_blank" href="https://deploygate.com/">DeployGate</a> intends to take the pain out of part of the process. In a nutshell, DeployGate makes it possible for companies to distribute Android apps that are currently in development to team members over the air and monitor the performance.</p>
+<p>The service lets users upload unreleased Android apps to multiple devices by dragging and dropping them in the DeployGate dashboard, collect logs and reports, or push updates &#8211; again, all by using the network.</p>
+<p>The similarity to <a target="_blank" href="http://testflightapp.com/">TestFlight</a> seems to be obvious, but DeployGate offers a number of key features that sets it apart from the popular iOS app testing service.</p>
+<p>For example, DeployGate</p>
+<ul>
+<li>currently focuses on collaborative development for Android</li>
+<li>works in &#8220;real-time&#8221;</li>
+<li>doesn&#8217;t necessarily require an <a target="_blank" href="https://deploygate.com/docs">SDK</a></li>
+<li>doesn&#8217;t require device IDs</li>
+<li>specifically targets developers</li>
+</ul>
+<p>Further technical details can be found <a target="_blank" href="https://deploygate.com/docs">here</a> (the service is available in English and Japanese).</p>
+<p>While DeployGate is free to everyone who wants to try it, there are three different <a target="_blank" href="https://deploygate.com/pricing">price plans</a> for individual Android developers, small companies, and large enterprise projects.</p>
+<p>What&#8217;s interesting is that the service is coming out of a special unit recently set up by Tokyo-based <a target="_blank" href="http://mixi.co.jp/en/overview/">mixi</a>, operator of <a href="http://techcrunch.com/2008/07/20/japans-mixi-a-social-network-as-a-purely-local-phenomenon/">Japan&#8217;s largest real-identity social network</a> (26 million users).</p>
+<p>That unit, the so-called Innovation Center, is supposed to accelerate the creation of new, in-house businesses to expand mixi&#8217;s overall product portfolio. And DeployGate, as one of those new businesses, is thought to leverage the company&#8217;s experience with developing smartphone apps &#8211; similar to Amazon&#8217;s branching out of e-commerce with AWS.</p>
+<p>DeployGate was co-created by Kyosuke Inoue (whose <a href="http://techcrunch.com/2011/02/11/via-nfc-japanese-social-network-mixi-first-to-let-users-like-real-world-items/">NFC-based check-in service</a> for Mixi was covered by TechCrunch in 2011) and Yuki Fujisaki (who led development of Mixi&#8217;s <a target="_blank" href="https://play.google.com/store/apps/details?id=jp.mixi&amp;hl=en">Android client</a>).</p>
+<p><a href="http://techcrunch.com/2012/09/18/deploygate-simple-over-the-air-real-time-app-beta-testing-comes-to-android/deploygate-screen_01/" rel="attachment wp-att-653413"></a><a href="http://techcrunch.com/2012/09/18/deploygate-simple-over-the-air-real-time-app-beta-testing-comes-to-android/deploygate-screen-dashboard/" rel="attachment wp-att-653417"></a><a href="http://techcrunch.com/2012/09/18/deploygate-simple-over-the-air-real-time-app-beta-testing-comes-to-android/deploygate-screen-apps/" rel="attachment wp-att-653422"></a><a href="http://techcrunch.com/2012/09/18/deploygate-simple-over-the-air-real-time-app-beta-testing-comes-to-android/deploygate-screen-device/" rel="attachment wp-att-653424"></a></p>
+<p>Here&#8217;s the official DeployGate promo video:</p>
+<p><span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/09/18/deploygate-simple-over-the-air-real-time-app-beta-testing-comes-to-android/"></a></span></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/R3AV7CZqxdU/">here</a>.
