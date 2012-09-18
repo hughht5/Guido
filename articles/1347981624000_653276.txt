@@ -1,0 +1,15 @@
+{
+"title" : "Photo Fakery Tackled By FourMatch: Software That Tells You When The Camera Lies",
+"date" : "Tue, 18 Sep 2012 15:20:24 +0000",
+"author" : "Natasha Lomas"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/fourandsix_logo.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Fourandsix_Logo" title="Fourandsix_Logo" style="float: left; margin: 0 10px 7px 0;" /><p>Fourandsix Technologies has launched FourMatch: a software extension for Photoshop CS5/CS6 that analyses the authenticity of JPEG images.</p>
+<p>The software doesn&#8217;t analyse the image itself &#8212; those abilities will be coming in later tools &#8212; but rather sifts through the file metadata to determine whether it matches the original image capture.</p>
+<p>Playing around with the veracity of images &#8212; to make it look like you&#8217;re <a href="http://techcrunch.com/2012/08/28/talented-shirley-hornstein/">best buddies with Justin Timberlake</a>, say, or to <a target="_blank" href="http://thelede.blogs.nytimes.com/2008/07/10/in-an-iranian-image-a-missile-too-many/">add one more missile</a> than you actually have in your arsenal &#8212; has of course never been easier (although fake photos are pretty much as old as cameras, as Fourandsix&#8217;s fascinating <a target="_blank" href="http://www.fourandsix.com/photo-tampering-history/">Photo Tampering Gallery</a> underlines).</p>
+<p>The startup, which is currently self-funded, sees a market for its fake flagging software in law enforcement &#8212; combating crimes such as child exploitation &#8212; and for legal professionals.</p>
+<p>&#8220;Establishing the veracity of images allows law enforcement to focus its limited resources on investigating crimes against children on the Internet,&#8221; noted Michelle Collins, Vice President of the Exploited Children Division at the National Center for Missing &amp; Exploited Children, in a supporting statement.</p>
+<p>FourMatch is available immediately via the <a target="_blank" href="http://www.fourandsix.com/">company&#8217;s website</a> &#8211; and is being priced at $890. A company spokesman told me Fourandsix plans to develop a suite of products &#8212; including tools that will be able to flag up evidence of photo-editing or &#8220;subtle errors in realism&#8221;.</p>
+<p>Fourandsix was co-founded last year by Kevin Connor, the former VP of product management of  Adobe&#8217;s Photoshop team, and image forensics scientist Hany Farid who has been conducting research into image manipulation for around a decade.</p>
+<p>&nbsp;</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/48kMnjynIYM/">here</a>.
