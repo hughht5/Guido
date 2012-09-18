@@ -1,0 +1,12 @@
+{
+"title" : "Dropbox iOS Update Brings Twitter And Facebook Sharing, Support For AirPrint",
+"date" : "Tue, 18 Sep 2012 13:26:19 +0000",
+"author" : "Jordan Crook"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/screen-shot-2012-09-18-at-9-49-36-am.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen shot 2012-09-18 at 9.49.36 AM" title="Screen shot 2012-09-18 at 9.49.36 AM" style="float: left; margin: 0 10px 7px 0;" /><p>Dropbox has been busy. After adding <a href="http://techcrunch.com/2012/07/31/dropbox-admits-user-accounts-were-hijacked-adds-new-security-features/">new security features</a> in the wake of an accounts hijacking, and adding support for the <a href="http://techcrunch.com/2012/09/04/dropbox-gets-integrated-with-samsung-galaxy-camera-galaxy-note-ii/">Galaxy Camera and the Galaxy Note II</a>, the company has now released an update to its iOS app.</p>
+<p>Not too long ago, Dropbox added <a href="http://techcrunch.com/2012/08/29/dropbox-teams-with-vimeo-for-direct-video-uploads/">direct uploads to Vimeo</a>, and this time the company is stepping it up a notch adding support for Facebook and Twitter. </p>
+<p>Once content is in your Dropbox, all you have to do is choose from one of the potential social networks, which now includes two of the biggest in the world, and post the content onto your timeline. </p>
+<p>Dropbox has also integrated support for Facebook messages, just in case you&#8217;re sending a picture, video, etc. that&#8217;s only meant for a specific pair of eyes. </p>
+<p>Version 1.5.5 brings with it support for AirPrint as well, and the update is available now in the <a target="_blank" href="http://itunes.apple.com/us/app/dropbox/id327630330">Apple App Store</a>. </p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/be6iJZ-_cIQ/">here</a>.
