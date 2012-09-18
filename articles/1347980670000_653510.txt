@@ -1,5 +1,5 @@
 {
-"title" : "Alleged Leaked iPad Mini Pics Show Lightening Port, Odd Hole On The Back",
+"title" : "Alleged Leaked iPad Mini Pics Show Lightning Port, Odd Hole On The Back",
 "date" : "Tue, 18 Sep 2012 15:04:30 +0000",
 "author" : "Jordan Crook"
 }
