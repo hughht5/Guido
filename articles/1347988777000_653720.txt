@@ -4,7 +4,13 @@
 "author" : "Klint Finley"
 }
 
-<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2010/07/github-logo.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="github-logo" title="github-logo" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.personalweb.com/">Personal Web</a> and <a target="_blank" href="http://www.level3.com/">Level 3 Communications</a> have filed patent complaint against Rackspace for hosting GitHub. Documents embedded within.</p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2010/07/github-logo.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="github-logo" title="github-logo" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.personalweb.com/">PersonalWeb</a> and <a target="_blank" href="http://www.level3.com/">Level 3 Communications</a> have filed patent complaint against Rackspace for hosting GitHub. Documents embedded within.</p>
+<p>PersonalWeb is the main plaintiff in the case. Level3 and Personal Web purchased several patents from Kinetech and Digital Island in 2000 and each own a 50% undivided interest in the patents.</p>
+<p>PersonalWeb develops <a target="_blank" href="https://www.studypods.com/">StudyPods</a> a &#8220;social learning platform&#8221; that enables students to upload notes and collaborate. Students can upload assignments to StudyPod and the app will search for related notes and documents to help the student with their research. To do this it uses <a target="_blank" href="">natural language processing</a>, and the company cites many patents that it holds in this area. The PersonalWeb site says the company is also applying these patents to the enterprise.</p>
+<p>Here&#8217;s the complaint, via <a target="_blank" href="http://news.priorsmart.com/personalweb-technologies-v-rackspace-l6JD/#Complaint">PriorSmart</a>:</p>
+<p><a title="View PersonalWeb Technologies et. al. v. Rackspace et. al. on Scribd" target="_blank" href="http://www.scribd.com/doc/106190890" style="margin:12px auto 6px;font-family:Helvetica, Arial, Sans-serif;font-style:normal;font-variant:normal;font-weight:normal;font-size:14px;line-height:normal;font-size-adjust:none;font-stretch:normal;display:block;text-decoration:underline;">PersonalWeb Technologies et. al. v. Rackspace et. al.</a></p>
+<iframe class="scribd_iframe_embed" src="http://www.scribd.com/embeds/106190890/content?start_page=1&view_mode=&access_key=key-25bux91dn5xyee4v3bgt" data-auto-height="true" scrolling="no" id="scribd_106190890" width="100%" height="500" frameborder="0"></iframe>
+<div style="font-size:10px;text-align:center;width:100%"><a href="http://www.scribd.com/doc/106190890">View this document on Scribd</a></div>
 <p>The patents in question are:</p>
 <ul>
 <li><a target="_blank" href="http://www.google.com/patents/US5978791">Data processing system using substantially unique identifiers to identify data items, whereby identical data items.</a></li>
@@ -17,8 +23,4 @@
 <li><a target="_blank" href="http://www.google.com/patents/US8001096">Computer file system using content-dependent file identifiers</a></li>
 <li><a target="_blank" href="http://www.google.com/patents/US8099420">Accessing data in a data processing system</a></li>
 </ul>
-<p>Here&#8217;s the complaint, via <a target="_blank" href="http://news.priorsmart.com/personalweb-technologies-v-rackspace-l6JD/#Complaint">PriorSmart</a>:</p>
-<p><a title="View PersonalWeb Technologies et. al. v. Rackspace et. al. on Scribd" target="_blank" href="http://www.scribd.com/doc/106190890" style="margin:12px auto 6px;font-family:Helvetica, Arial, Sans-serif;font-style:normal;font-variant:normal;font-weight:normal;font-size:14px;line-height:normal;font-size-adjust:none;font-stretch:normal;display:block;text-decoration:underline;">PersonalWeb Technologies et. al. v. Rackspace et. al.</a></p>
-<iframe class="scribd_iframe_embed" src="http://www.scribd.com/embeds/106190890/content?start_page=1&view_mode=&access_key=key-25bux91dn5xyee4v3bgt" data-auto-height="true" scrolling="no" id="scribd_106190890" width="100%" height="500" frameborder="0"></iframe>
-<div style="font-size:10px;text-align:center;width:100%"><a href="http://www.scribd.com/doc/106190890">View this document on Scribd</a></div>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/CFaBxl-pKfs/">here</a>.
