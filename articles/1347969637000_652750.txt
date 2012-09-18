@@ -1,0 +1,12 @@
+{
+"title" : "Spigit Acquires Enterprise Social Business Intelligence Company Crowdcast",
+"date" : "Tue, 18 Sep 2012 12:00:37 +0000",
+"author" : "Leena Rao"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/crowdcast.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Crowdcast" title="Crowdcast" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.spigit.com/">Spigit</a>, the maker of collaborative innovation management software for enterprises, has acquired <a target="_blank" href="http://www.crowdcast.com/">Crowdcast</a>,  a provider of social business intelligence solutions. Crowdcast has raised <a target="_blank" href="http://www.crunchbase.com/company/crowdcast">$6 million</a> in funding. </p>
+<p>Crowdcast aims to help companies find out what their people really know about their businesses, in order to make better strategic leadership decisions. The company aggregates intelligence to deliver insights and forecasts related to current and future projects and initiatives. </p>
+<p>Crowdcast’s solutions, composed of a SaaS software platform, consulting and support services – aim to bridge the gap between traditional business intelligence and enterprise social network applications. The idea is for businesses to align their employees with the purpose of the company, bringing all their insights, plans and experience together in one place, all in order to create “insanely accurate” business predictions and outcomes.</p>
+<p>As part of the agreement, Spigit will add all of Crowdcast’s patents to its portfolio and add Crowdcast’s leadership team including Founder/CEO Mat Fogarty and Chief Scientist Leslie Fine to Spigit’s executive team.</p>
+<p>Spigit, which has raised <a target="_blank" href="http://www.crunchbase.com/company/spigit">$26 million</a> in funding, also uses leverages collective intelligence for businesses. The company markets products that allow organizations to tap the collective intelligence of its employees, partners and customers to help them gain insights about their business. Spigit&#8217;s clients include Overstock.com, Citi, Allstate, Nike, JP Morgan Chase, Ebay and Capgemini.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/Oc6exwMHlBE/">here</a>.
