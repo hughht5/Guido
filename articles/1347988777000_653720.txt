@@ -5,7 +5,6 @@
 }
 
 <img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2010/07/github-logo.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="github-logo" title="github-logo" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.personalweb.com/">Personal Web</a> and <a target="_blank" href="http://www.level3.com/">Level 3 Communications</a> have filed patent complaint against Rackspace for hosting GitHub. Documents embedded within.</p>
-<p>Here&#8217;s the complaint on Sribd, via <a target="_blank" href="http://news.priorsmart.com/personalweb-technologies-v-rackspace-l6JD/#Complaint">PriorSmart</a></p>
+<p>Here&#8217;s the complaint on Sribd, via <a target="_blank" href="http://news.priorsmart.com/personalweb-technologies-v-rackspace-l6JD/#Complaint">PriorSmart</a>:</p>
 <p><a title="View PersonalWeb Technologies et. al. v. Rackspace et. al. on Scribd" target="_blank" href="http://www.scribd.com/doc/106190890" style="margin:12px auto 6px;font-family:Helvetica, Arial, Sans-serif;font-style:normal;font-variant:normal;font-weight:normal;font-size:14px;line-height:normal;font-size-adjust:none;font-stretch:normal;display:block;text-decoration:underline;">PersonalWeb Technologies et. al. v. Rackspace et. al.</a></p>
-<p>Some content was stripped by our security filters, but is should be possible for one of your Editors to embed the content for you.</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/CFaBxl-pKfs/">here</a>.
