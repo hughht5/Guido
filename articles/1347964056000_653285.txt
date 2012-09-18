@@ -1,0 +1,14 @@
+{
+"title" : "Motorola Debuts Its First Intel Phone: The Speedy Razr i",
+"date" : "Tue, 18 Sep 2012 10:27:36 +0000",
+"author" : "Natasha Lomas"
+}
+
+<p><a href="http://techcrunch.com/2012/09/18/motorola-debuts-its-first-intel-phone-the-speedy-razr-i/razr_i_black_front_row/" rel="attachment wp-att-653290"></a>Motorola has unveiled its first Intel powered smartphone at an event in London today.</p>
+<p>The Razr i looks much like the <a href="http://techcrunch.com/2012/09/07/the-razr-m-motorolas-clever-answer-to-the-99-iphone-4s/">Razr M</a> announced in New York but includes an Intel Atom processor &#8212; still a rarity in smartphones. The Orange San Diego &#8212; Intel&#8217;s first foray into smartphones, in partnership with UK mobile network Orange &#8211; also launched in Europe, earlier this year.</p>
+<p>A third Intel-powered phone, the ZTE Grand X IN, is also due to arrive this month.</p>
+<p>Moto says the chip inside the Razr i can achieve speeds of 2GHz &#8212; making it faster on paper than high end rival devices such as the iPhone and Samsung Galaxy S3, although, being single-core, it&#8217;s arguably less suited to certain tasks like multitasking.</p>
+<p>Like the San Diego the Razr i includes a photo burst model that allows a continuous sequence of photos to be snapped &#8212; 10 in less than a second. Photo burst modes are not unique to Intel powered phones &#8212; both HTC and Samsung have added similar continuous shooting features to their phones this year.</p>
+<p>The Razi i also features a 4.3 inch Super AMOLED edge-to-edge display, and runs Android 4.0 (Ice Cream Sandwich) &#8212; but will get an upgrade to 4.1 (Jelly Bean), according to Motorola.</p>
+<p>The phone is due to land in Europe next month.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/fobNhRcnY8s/">here</a>.
