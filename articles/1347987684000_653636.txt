@@ -1,5 +1,5 @@
 {
-"title" : "RIM Licences Microsoft Tech For Bigger File Sizes On Flash Drives",
+"title" : "RIM Licenses Microsoft Tech For Bigger File Sizes On Flash Drives",
 "date" : "Tue, 18 Sep 2012 17:01:24 +0000",
 "author" : "Klint Finley"
 }
