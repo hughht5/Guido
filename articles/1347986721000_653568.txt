@@ -1,0 +1,17 @@
+{
+"title" : "Open Ocean Invests $1.3m To Push Crowdsourced Directory Truecaller’s Global Reach",
+"date" : "Tue, 18 Sep 2012 16:45:21 +0000",
+"author" : "Natasha Lomas"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/truecaller.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="truecaller" title="truecaller" style="float: left; margin: 0 10px 7px 0;" /><p>Open Ocean, the VC fund led by former MySQL and Nokia execs, is investing $1.3m in  Stockholm, Sweden-based startup Truecaller &#8212; maker of the crowdsourced phone directory app and online white pages service that let&#8217;s you look up unknown phone numbers and match them with names.</p>
+<p>The Series A funding comes from Open Ocean&#8217;s Fund Three fund which focuses on community and open source software ventures.</p>
+<p>&#8220;Truecaller is a perfect fit for Open Ocean Fund Three’s investment focus, developing a rapidly scalable business on the basis of a crowdsourcing strategy and high virality,” says Ralf Wahlsten Open Ocean Partner in a statement. &#8220;We believe that Truecaller is positioned to be the leading service in the global mobile white pages industry.&#8221;</p>
+<p>Truecaller offers a phone directory app on the Android, iPhone, BlackBerry, Symbian and Windows Phone mobile platforms, and also a free phone number search on <a target="_blank" href="http://www.truecaller.com/">its website.</a></p>
+<p>Truecaller said it intends to use the Series A funds to expand its footprint in &#8220;key markets&#8221; &#8212; specifically North America, Asia and the Middle East.</p>
+<p>&#8220;With the new funding and strong support from Open Ocean we will be able to further strengthen our expansion in key markets, and realize our vision to change the way people search and connect to each other on both a local and global level,&#8221; added Alan Mamedi, CEO of Truecaller, in a statement.</p>
+<p>The startup, which was founded in 2009, claims it&#8217;s experiencing exponential growth &#8212; which is pretty handy when your product leans on crowdsourced data to grow.</p>
+<p>Some of Truecaller&#8217;s directory data comes from users sharing the names and numbers in their contacts&#8217; books &#8212; though it stresses this is an entirely opt in process (you can also <a target="_blank" href="http://www.truecaller.com/unlist">unlist your number</a> from their database if it&#8217;s found its way in via the crowdsourced backdoor).</p>
+<p>The rest of the directory data comes from a more traditional route of partnering with white/yellow pages companies around the world. The advantage of using crowdsourcing as a directory data source is that it can offer better phone number look ups in countries where there are no reliable directory services to partner with, the company says on its blog. (<a target="_blank" href="http://www.truecaller.com/faq">It cites India as an example</a>.)</p>
+<p>Open Ocean&#8217;s other investments include SkySQL, WOT, MoSyn, Ironstar Helsinki and <a href="http://techcrunch.com/2011/12/01/open-ocean-invests-1-million-in-developer-of-the-zentyal-linux-small-business-server/">Zentyal</a>.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/6ZHvP2ElBvk/">here</a>.
