@@ -14,6 +14,13 @@
 <p>These big changes might explain <a href="http://techcrunch.com/2012/09/14/twitter-bug-randomly-swaps-out-avatars-for-some-accounts-profile-settings-now-disabled/">the recent issue</a> that the company had during its maintenance routine to fix photo uploads, when verified accounts started getting random profile images in place of their own. Perhaps a little bug introduced in preparation?</p>
 <p><a href="http://techcrunch.com/2012/09/18/twitter-announces-new-design-with-focus-on-profile-pages-ipad-update-on-the-today-show/3-twitter-twitter-on-twitter/" rel="attachment wp-att-653378"></a></p>
 <p>With a push towards creating a place on the web to serve as your &#8220;home&#8221;, Twitter is getting down to the nitty gritty with Facebook to fight for your eyeballs and clicks.</p>
+<p>If you want to upload your header photo, here you go:</p>
+<blockquote class='twitter-tweet' lang='en'><p>Oh, btw, to upload a header photo:
+Go here: <a href="https://twitter.com/settings/design"> twitter.com/settings/design</a>
+Scroll down to Header
+Upload an image
+Click &quot;Save changes&quot;
+Celebrate</p>&mdash; <br />Carolyn Penner (@cpen) <a href='http://twitter.com/#!/cpen/status/248041958998691840' data-datetime='2012-09-18T12:53:06+00:00'>September 18, 2012</a></blockquote>
 <p>One advantage that Twitter has? The <a target="_blank" href="http://blog.twitter.com/2012/09/expand-your-experience-new-twitter-for.html">iPad update</a> looks absolutely gorgeous:</p>
 <p><a href="http://techcrunch.com/2012/09/18/twitter-announces-new-design-with-focus-on-profile-pages-ipad-update-on-the-today-show/mzl-wmwubdlk-480x480-75/" rel="attachment wp-att-653364"></a></p>
 <p><a href="http://techcrunch.com/2012/09/18/twitter-announces-new-design-with-focus-on-profile-pages-ipad-update-on-the-today-show/mzl-gmsuhdlw-480x480-75/" rel="attachment wp-att-653365"></a></p>
