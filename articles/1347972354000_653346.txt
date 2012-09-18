@@ -1,0 +1,14 @@
+{
+"title" : "Skyscanner’s Mobile Apps Hit 10M Downloads, Letting Users Find Cheap Flights On The Go",
+"date" : "Tue, 18 Sep 2012 12:45:54 +0000",
+"author" : "Steve O'Hear"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/mzl-mzqbbwop-320x480-75.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="mzl.mzqbbwop.320x480-75" title="mzl.mzqbbwop.320x480-75" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.skyscanner.net/">Skyscanner</a> is somewhat of a Scottish success story. Founded in 2003, the travel search site, best known for its flight comparisons (though it&#8217;s branched out to include car hire and hotels), is <a target="_blank" href="http://www.scotsman.com/scotland-on-sunday/business/skyscanner-flying-high-as-it-hits-ten-million-app-download-milestone-1-2529485">reportedly</a> on track to achieve an annual turn over of close to £30m, nearing £10m in profit. That&#8217;s likely been bouyed by a recent <a target="_blank" href="http://www.skyscanner.net/news/articles/2012/08/013418-skyscanner-announces-partnership-with-chinas-number-one-search-engine.html">partnership</a> it signed with the Chinese search engine Baidu.</p>
+<p>And today, the company is announcing another impressive milestone: Its free mobile apps, which let users find cheap flights on the go and target iOS, Android, Windows Phone, and BlackBerry, have hit ten million downloads &#8212; running up a rate of one download every five seconds (someone in the PR department obviously did their homework).</p>
+<p>Available in over 30 languages, Skyscanner says that its mobile offering accounts for about a third of the 30 million monthly visits to its site, although in Asia this is more than 50%, perhaps reflecting the high mobile penetration and usage in the region.</p>
+<p>In addition, the most popular destination search for mobile users is the ‘Everywhere’ option which enables all destinations to be browsed in order of price &#8212; perhaps proof that the casualness of mobile and serendipitous discovery go really well together.</p>
+<p>Today also sees the Android version get a minor update: Users can now add flight searches to a widget to be displayed on the phone&#8217;s home screen to monitor price changes or destinations for a specific month or date. </p>
+<p>Meanwhile, according to a report in the Scottish newspaper, Scotland on Sunday, next up for Skyscanner is to integrate its flight search technology with the rail systems of emerging markets.</p>
+<p>The company is headquartered in Edinburgh, Scotland, along with a presence in Asia. However, it&#8217;s said to be eyeing up an office in the U.S., too.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/Ka20w86zLg8/">here</a>.
