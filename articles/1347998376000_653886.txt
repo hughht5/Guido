@@ -12,5 +12,5 @@
 <p>Those ads can lead to App Store pages where users can download something, or to mobile websites that might feature services, ecommerce, or brand promotions.</p>
 <p>The mobile ad network lets Facebook earns money on traffic to other apps and sites by leveraging its remarkably expansive and accurate user data set. It gives app developers and brands such a powerful way to reach specific audiences that they&#8217;ll be willing to pay more than if they advertised with a less accurate ad exchange directly.</p>
 <p>Facebook tells me &#8220;Right now we&#8217;re testing to see how these ads perform, whether people find them relevant They could be an interesting way to discover new mobile apps and see relevant ads off of Facebook.&#8221; The mobile ad network&#8217;s value to advertisers is that &#8220;With Facebook you have really great targeting. They&#8217;ll be able to reach people that are more likely to engage with the ads they see.&#8221;</p>
-<p>If users tap in, it could blossom into a big way for Facebook to make money without having to clutter its own apps with ads.</p>
+<p>If users tap in, Facebook could make money a lot more money on mobile without having to clutter its own apps with ads.</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/HjJ9BVJwBQI/">here</a>.
