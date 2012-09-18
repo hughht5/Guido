@@ -1,5 +1,5 @@
 {
-"title" : "Open Ocean Invests $1.3m To Push Crowdsourced Directory Truecaller’s Global Reach",
+"title" : "Open Ocean Invests $1.3M To Push Crowdsourced Directory Truecaller’s Global Reach",
 "date" : "Tue, 18 Sep 2012 16:45:21 +0000",
 "author" : "Natasha Lomas"
 }
