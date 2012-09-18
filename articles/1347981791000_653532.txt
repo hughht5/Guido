@@ -1,0 +1,10 @@
+{
+"title" : "MongoDB Maker 10Gen Closes Undisclosed Round From U.S. Intelligence Investors",
+"date" : "Tue, 18 Sep 2012 15:23:11 +0000",
+"author" : "Klint Finley"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/05/mongodb_logo.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="mongodb_logo" title="mongodb_logo" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://10gen.com">10gen</a>, the sponsor company of the open source NoSQL database <a target="_blank" href="http://mongodb.org">MongoDB</a>, today <a target="_blank" href="http://www.iqt.org/press/2012/10gen.html">announced</a> undisclosed investment from <a target="_blank" href="http://www.iqt.org/">In-Q-Tel</a>, a private fund that invests in technologies deemed beneficial to the U.S. intelligence community.</p>
+<p>10gen was last seen raising a <a href="http://techcrunch.com/2012/05/29/mongodb-developer-10gen-raises-42-million-round-led-by-new-enterprise-associates/">$42 million round led by New Enterprise Associates</a>. Prior to the In-Q-Tel investment the company had raised $73.4 million.</p>
+<p>Unsurprisingly, In-Q-Tel has <a target="_blank" href="http://www.iqt.org/portfolio/practices.html">taken an interest</a> in big data technology with investments in companies like <a target="_blank" href="http://cloudera.com">Cloudera</a>, one of the developers and supporters of <a target="_blank" href="http://hadoop.apache.org">Apache Hadoop</a>, and <a target="_blank" href="http://www.platfora.com/">Platfora</a>, a company aiming to make Hadoop easier to use. One of the fund&#8217;s <a target="_blank" href="http://www.iqt.org/press/2012/huddle.html">most recent investments</a> was in <a target="_blank" href="http://huddle.com">Huddle</a>, an enterprise collaboration company.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/GHuKx3bhfoE/">here</a>.
