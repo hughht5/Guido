@@ -1,5 +1,5 @@
 {
-"title" : "California And 11 States Now Allow Online Voter Registration",
+"title" : "California And 11 Other States Now Allow Online Voter Registration",
 "date" : "Wed, 19 Sep 2012 21:44:01 +0000",
 "author" : "Gregory Ferenstein"
 }
