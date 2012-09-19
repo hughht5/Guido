@@ -1,0 +1,12 @@
+{
+"title" : "Ustream’s Automatic Copyright Protection Just Killed The Salesforce Keynote Stream",
+"date" : "Wed, 19 Sep 2012 18:31:11 +0000",
+"author" : "Drew Olanoff"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/2keg1.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="2keg" title="2keg" style="float: left; margin: 0 10px 7px 0;" /><p>Here&#8217;s an example of awesome technology working, but potentially at the wrong time. The Salesforce/Dreamforce keynote was interrupted during its Ustream streaming due to copyright protection.</p>
+<blockquote class='twitter-tweet' lang='en'><p>Wow!!! Ustream&#039;s automatic copyright protection just killed the Salesforce Keynote during the Coke Spot!! <a href="http://twitter.com/search?q=%23df12" title="#df12">#df12</a> <a href="http://yfrog.com/ke2kegp"> yfrog.com/ke2kegp</a></p>&mdash; <br />Brian Walsh (@thepartycow) <a href='http://twitter.com/#!/thepartycow/status/248488314112466944' data-datetime='2012-09-19T18:26:45+00:00'>September 19, 2012</a></blockquote>
+<p>Have a look:</p>
+<p><a href="http://techcrunch.com/2012/09/19/ustreams-automatic-copyright-protection-just-killed-the-salesforce-keynote-stream/2keg/" rel="attachment wp-att-655071"></a></p>
+<p>Oopsy. But maybe not? Apparently, <a href="http://techcrunch.com/2012/09/03/ustream-apologizes-for-shutting-down-the-hugo-awards-livestream-says-it-will-recalibrate/">this has happened before</a>.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/qwyZlMW-zJA/">here</a>.

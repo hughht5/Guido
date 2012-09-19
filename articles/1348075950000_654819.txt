@@ -1,17 +1,19 @@
 {
-"title" : "Hold The Front Page (Til Later): Buffer Partners With News Curation Service Scoop.it",
+"title" : "Hold The Front Page (‘Til Later): Buffer Partners With News Curation Service Scoop.it",
 "date" : "Wed, 19 Sep 2012 17:32:30 +0000",
 "author" : "Steve O'Hear"
 }
 
 <img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/buffer-scoopit-horizontal.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="buffer-scoopit-horizontal" title="buffer-scoopit-horizontal" style="float: left; margin: 0 10px 7px 0;" /><p>Courtesy of a new partnership with <a target="_blank" href="http://www.bufferapp.com/">Buffer</a>, users of the &#8216;make-your-own-online-magazine&#8217;-styled service, <a target="_blank" href="http://www.scoop.it/">Scoop.it</a>, can now schedule social media updates at the same time as they curate their topic-based news. As is now traditional with just about every new Buffer integration, I&#8217;m told that the tie-in with Scoop.it was a much requested feature by users.</p>
 <p>Buffer CEO, Leo Widrich, writes breathlessly on the company&#8217;s <a target="_blank" href="http://blog.bufferapp.com/how-to-create-and-share-your-own-beautiful-online-newspaper-scoop-it-buffer-team-up">blog</a>:</p>
-<blockquote><p>As lots of you are already Scoop.it curators, many got in touch and asked, <strong>how about we can also Buffer whenever we scoop?</strong> Today, we are super excited to announce exactly that as we unveil the brand new Scoop.it and Buffer integration.</p></blockquote>
+<blockquote><p>As lots of you are already Scoop.it curators, many got in touch and asked, <strong>how about we can also Buffer whenever we scoop?</strong> Today, we are super excited to announce exactly that as we unveil the brand new Scoop.it and Buffer integration.</p>
+</blockquote>
 <p>The premise behind Buffer&#8217;s popular social media scheduling service &#8212; it recently hit a <a href="http://techcrunch.com/2012/04/24/buffer-10m-updates/">milestone</a> of 10M scheduled updates &#8212; is to enable users to time-shift or &#8216;buffer&#8217; their social media sharing on the likes of Facebook, LinkedIn and Twitter, so as to ensure that they aren&#8217;t overwhelming followers and friends with too many updates at once and, most crucially, that those updates get in front of an audience at the most optimum time.</p>
 <p>In addition to the partnership being announced today, Buffer already has around 30 similar third-party <a target="_blank" href="http://bufferapp.com/extras">integrations</a>, no doubt helped by an open API (see <a href="http://techcrunch.com/2012/08/01/social-media-manager-buffer-opens-api-to-developers-looks-to-become-widespread-sharing-standard/">TC coverage</a>), although the company says that Scoop.it is undoubtedly the biggest tie-in with a Web app so far.</p>
 <p>It&#8217;s also one that seems to make a lot of sense since the news curation service <a href="http://techcrunch.com/2011/12/16/curate-your-own-digital-magazine-with-scoop-it-for-iphone/">actively encourages social media sharing</a> on the articles that users include in their &#8216;magazines&#8217; &#8212; so why not kill two birds with one stone, as it were.</p>
 <p>As Widrich explains:</p>
-<blockquote><p>If you are reading an interesting article that you think is worth scooping, just hit the bookmarklet and also tick the boxes to share via your Buffer accounts&#8230;</p></blockquote>
+<blockquote><p>If you are reading an interesting article that you think is worth scooping, just hit the bookmarklet and also tick the boxes to share via your Buffer accounts&#8230;</p>
+</blockquote>
 <p>Meanwhile, Buffer says it has now amassed 300,000 users &#8212; though <em>only</em> 5,000 are <a target="_blank" href="http://bufferapp.com/awesome">paying</a> customers &#8212; and is seeing 20% month-on-month growth. That&#8217;s up from 180,000 registered users, in April this year.</p>
 <p>As a side note, the last time I wrote about Buffer, all the way back in May 2011, the startup was &#8220;celebrating&#8221; its 100,000th scheduled Tweet &#8212; so it&#8217;s undeniably come along way since then. (That original post still carries one of my favourite <a href="http://techcrunch.com/2011/05/03/buffer-schedules-100000-tweets-ill-tell-you-about-it-later/">headlines</a>, however.)</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/qDrWEJxK4Fw/">here</a>.
