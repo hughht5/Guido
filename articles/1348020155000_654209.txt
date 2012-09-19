@@ -1,0 +1,14 @@
+{
+"title" : "Blackstone Throws Down Just Over $2 Billion To Acquire Home Automation Giant Vivint",
+"date" : "Wed, 19 Sep 2012 02:02:35 +0000",
+"author" : "Rip Empson"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/forian1.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="ForIan1" title="ForIan1" style="float: left; margin: 0 10px 7px 0;" /><p>News broke tonight that <a target="_blank" href="http://www.blackstone.com/">The Blackstone Group</a>, which operates the second largest equity fund businesses in the world, has agreed to acquire home automation giant, <a target="_blank" href="http://www.vivint.com/">Vivint</a>, in a deal that&#8217;s worth just over $2 billion.</p>
+<p>Blackstone will be purchasing Vivint from Goldman Sachs, Jupiter Partners and Peterson Partners, the company&#8217;s current sponsors. The deal, which includes debt, will give the private equity firm more than a 50 percent stake in Vivint. As part of the deal Blackstone acquires Vivint Solar, which provides affordable solar power to residential customers and 2GIG Technologies, a developer of security and automation equipment.</p>
+<p>For those unfamiliar, Blackstone was founded in 1985 by Stephen Schwarzman and Pete Peterson, the former CEO of Lehman Brother and Secretary of Commerce under Richard Nixon. The company went public in 2007 and is today the second largest PE firm behind TPG.</p>
+<p>Founded in Utah in 1999, Vivint is one of the largest home automation companies in North America, providing home security, energy conservation and technology services to over 500K customers. In June, the company hit $30 million in recurring monthly revenue &#8212; an increase of 940 percent over five years &#8212; coinciding with an increase in its credit facility to $812 million. </p>
+<p>While Vivint has seen strong growth over the last few years and has been able to avoid serious acquisition talks as a result, Blackstone significantly increases its financial resources, which Vivint founder and CEO Todd Pedersen said will help it expand into international markets. </p>
+<p>Pederson said that Vivint has not suffered from the economic downturn as much as others in its market, it was still feeling the squeeze. &#8220;What impeded Vivint’s further growth was not a lack of ability, but capital restraints,&#8221; he told TechCrunch. &#8220;Our plans for continued growth required a different capital structure, and Blackstone was the perfect strategic partner to carry out Vivint’s vision for the future.&#8221;</p>
+<p>The acquisition will allow Vivint to expand its services into new international markets, specifically Australia, as the company looks to extend its influence beyond residential services into the automobile industry and the workplace.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/y67FhfCGz3c/">here</a>.
