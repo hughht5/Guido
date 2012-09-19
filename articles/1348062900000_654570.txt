@@ -1,0 +1,20 @@
+{
+"title" : "Heroku Enterprise For Java – A New Play In A Crowded Market",
+"date" : "Wed, 19 Sep 2012 13:55:00 +0000",
+"author" : "Alex Williams"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2010/12/heroku.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="heroku" title="heroku" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://heroku.com">Heroku</a> has added Java for a new enterprise focused service so companies and IT organizations can build and run Java applications in the cloud.</p>
+<p>In a press release, Heroku boasts it will allow companies to deploy mission-critical apps in minutes instead of months. That&#8217;s quite an assertion but the platform as a service (PaaS) market is showing the enterprise that developers need ways to quickly put up apps without always having to be managed through IT. Heroku Enterprise for Java is part of the Salesforce Platform &#8211; its play to offer development environments for social and mobile apps.</p>
+<p>Salesforce.com says Java is the most widely adopted language in the enterprise, with millions of Java developers building and maintaining Java applications worldwide. That&#8217;s true but Java&#8217;s role in the market has been bruised over the past few years, best highlighted by Oracle&#8217;s battle with Google. Still, Java has also shown its durability as illustrated in a <a target="_blank" href="http://redmonk.com/sogrady/2011/02/11/rise-and-fall-and-rise-of-java/">post last year</a> by RedMonk&#8217;s Steve O&#8217;Grady and his <a target="_blank" href="http://redmonk.com/sogrady/2012/09/12/language-rankings-9-12/">most recent post last week</a> which <a href="http://techcrunch.com/2012/09/12/javascript-tops-latest-programming-language-popularity-ranking-from-redmonk/">Klint Finley wrote about on TechCrunch</a></p>
+<p>Heroku is not alone. The PaaS market is crowded with Java-focused services and software offerings. Google App Engine is a Java-based PaaS environment as is CloudBees, Active State&#8217;s Stakkato, Red Hat&#8217;s OpenShift and VMware&#8217;s Cloud Foundry.</p>
+<p>Heroku&#8217;s move shows how platforms are becoming the new layer for enterprise app development. It&#8217;s not just Java that will gain adoption. The new trend is in multiple language support. Heroku fits in that category.</p>
+<p>Heroku Enterprise for Java will have the following:</p>
+<ul>
+<li>Support Java JDK and JVM, including new support for JDK 7 and latest JDK 8 builds. It also includes memcache for session management and horizontal scaling, and Postgres for relational data management.</li>
+<li>Separate environments for development and staging. Instant provisioning as a way for IT organizations to adopt rapid development methodologies.</li>
+<li>A continuous delivery framework in combination with Bamboo, Atlassian&#8217;s integration service. This will mean the automation of the application delivery process from code check-in to test builds, staging deploys and production promotion.</li>
+<li>Native Java Tools: Heroku Enterprise for Java will offer native support for Eclipse, the popular Java Integrated Developer Environment (IDE). With the Eclipse plug-in, developers can create and deploy Java applications directly within their IDE.</li>
+<li>Enterprise-Class Support: Access to technical resources with guaranteed service level agreements.</li>
+</ul>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/FLC_-VkztXo/">here</a>.
