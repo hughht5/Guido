@@ -1,0 +1,13 @@
+{
+"title" : "Makerbot Releases The $2,199 Replicator 2.0, A Leap Forward In Home 3D Printing",
+"date" : "Wed, 19 Sep 2012 19:00:09 +0000",
+"author" : "John Biggs"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/screen-shot-2012-09-19-at-11-16-57-pm.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-09-19 at 11.16.57 PM" title="Screen Shot 2012-09-19 at 11.16.57 PM" style="float: left; margin: 0 10px 7px 0;" />			<script type="text/javascript" src="http://pshared.5min.com/Scripts/PlayerSeed.js?sid=577&amp;width=640&amp;height=450&amp;colorPallet=%230A9600&amp;hasCompanion=false&amp;relatedMode=2&amp;videoControlDisplayColor=%23000000&amp;playList=517482024&amp;shuffle=0&amp;videoGroupID=133503&amp;autoStart=false&amp;playerActions=16407"></script>
+<p>Makerbot has just announced the Replicator 2.0, a brand new Makerbot Replicator with a larger build plate, coated metal chassis, and improved software as well as better print resolution. In short, this is the Makerbot all grown up.</p>
+<p>As you can see from the video, the new Replicator is completely rebuilt with new materials and a larger cavity that allows you to make projects of up to 410 cubic inches (11.2” L x 6.0” W x 6.1” H). It now supports 100-micron resolution and is optimized for PLA bioplastic.</p>
+<p>Makerbot closed a <a href="http://techcrunch.com/2011/08/23/makerbot-takes-10-million-in-funding-from-foundry-group-angels/">round of funding last year</a> and they&#8217;re putting it to good use. Besides the new Replicator, the company has opened their first retail space at <a target="_blank" href="https://maps.google.com.tw/maps?hl=en&amp;safe=off&amp;client=safari&amp;q=298+Mulberry+Street+new+york&amp;ie=UTF-8&amp;hq=&amp;hnear=0x89c2598f87872553:0x7430f8a8d5e024fe,298+Mulberry+St,+New+York,+NY+10012,+USA&amp;gl=tw&amp;ei=Ba9ZUMz6EKnemAWemIDICw&amp;ved=0CB4Q8gEwAA">998 Mulberry Street in New York</a>. We were given an exclusive look at the new device and I&#8217;m wildly impressed. The evolution is stunning and considering Makerbot didn&#8217;t have real retail product until last year I&#8217;m amazed at the growth.</p>
+<p>3D printing is the future, that&#8217;s sure. I&#8217;m just amazed that the future got to us so quickly. The Makerbot Replicator 2 will start at $2,199 and is available online and in the store.</p>
+<p><a target="_blank" href="http://www.makerbot.com/store">Product Page</a> </p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/eBD4QJoHjYg/">here</a>.
