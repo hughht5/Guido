@@ -1,0 +1,19 @@
+{
+"title" : "Bromium: Trapping Malware And Analyzing Attacks But Facing Limits, Too",
+"date" : "Wed, 19 Sep 2012 11:20:23 +0000",
+"author" : "Alex Williams"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/140607v2-max-250x250.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="140607v2-max-250x250" title="140607v2-max-250x250" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://bromium.com">Bromium</a> has released its first software product &#8212; a micro virtual machine (micro-vm) that traps malware and analyzes it for IT administrators to examine once an attack takes place.</p>
+<p>Bromium is a startup that is banking on disrupting the enterprise security market. Though it has the technical capabilities to isolate attacks, its weakness is in the breadth of the market it can cover. Bromium is hypervisor independent. It can run on Windows and Intel x86 chips. It does not run on Macs. It only runs on Internet Explorer 8 and 9.  It does not run on ARM architectures.</p>
+<p>Bromium, though, is having no problem getting investors to believe its story. The company has $35.7 million. In June, it raised $26.5 million in a Series B funding round from lead investor Highland Capital Partners, new investor Intel Capital, and existing investors Andreessen Horowitz and Ignition Ventures. The funding news coincided with its launch, which was preceded by 15 months in stealth mode. Its high-profile status can  be attributed to Simon Crosby, who led the virtualization and management division at Citrix before starting Bromium.</p>
+<p>Bromium&#8217;s service is designed to make malware and virus protection invisible to the user. Its micro-vm tracks people as they use the web. All the data from the website visit is contained. If someone clicks a bad link, the micro-vm will keep it until the IT administrator views and disposes of it. Micro-vms are automatically discarded when a user completes an untrusted task, such as navigating away from an untrusted web page in Internet Explorer.</p>
+<p style="text-align:center;"><a href="http://techcrunch.com/?attachment_id=654210" rel="attachment wp-att-654210"></a></p>
+<p>Downloads are treated the same way.  A micro-vm is created, and it just bounces in without being able to go anywhere.</p>
+<p style="text-align:center;"><a href="http://techcrunch.com/?attachment_id=654218" rel="attachment wp-att-654218"></a></p>
+<p>Bromium has also developed a way for IT administrators to analyze the data collected by the micro-vms.</p>
+<p><a href="http://techcrunch.com/?attachment_id=654240" rel="attachment wp-att-654240"></a></p>
+<p>Malware and virus detectors are vulnerable these days. Patching is less effective. End-point security is less effective. Bromium&#8217;s technology is rooted in the hardware. It is a native app. Though limited to EI, th company plans to extend its capabilities to other browsers.</p>
+<p>Bromium will compete against the Symantecs of the world and other anti-virus and data protection companies.</p>
+<p>Bromium has a real answer to the security threats any company faces. Bit its weakness is in that it can&#8217;t be used for Macs or mobile devices with ARM-based architectures. That will be a detriment, as more people use iPads and other mobile devices to do their work.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/yDCa_Qjepig/">here</a>.
