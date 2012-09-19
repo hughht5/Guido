@@ -1,5 +1,5 @@
 {
-"title" : "Salesforce Confirms Its Cloud Storage Box Killer: Chatterbox",
+"title" : "Salesforce Confirms Chatterbox, Its Own Cloud Storage Answer To Box (And Dropbox)",
 "date" : "Wed, 19 Sep 2012 12:52:03 +0000",
 "author" : "Ingrid Lunden"
 }
