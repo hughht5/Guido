@@ -1,0 +1,14 @@
+{
+"title" : "T-Mobile USA Names John Legere As New Chief Executive Officer",
+"date" : "Wed, 19 Sep 2012 12:55:52 +0000",
+"author" : "Jordan Crook"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/legere.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Global Crossing CEO John Legere." title="Global Crossing CEO John Legere." style="float: left; margin: 0 10px 7px 0;" /><p>T-Mobile USA has just <a target="_blank" href="http://www.4-traders.com/news/John-Legere-Named-as-Chief-Executive-Officer-of-T-Mobile-USA--15205497/">announced</a> that John Legere, who has been in the U.S. and global telecommunications industry for 32 years, will take over as CEO of the company. </p>
+<p>The change is effective September 22, at which point Legere will take over for Jim Alling, who has been serving as interim CEO since June. </p>
+<p>Alling will return to his usual position of Chief Operating Officer. </p>
+<p>Some of Mr. Legere&#8217;s greatest professional achievements include holding the position of CEO at Global Crossing, where the company maintained steady network operations of the first integrated global IP-based network, and leading AT&amp;T&#8217;s Asia group. </p>
+<p>Here&#8217;s what Rene Obermann, CEO of parente company Deutsche Telekom, had to say: </p>
+<blockquote><p>John is a talented and proven executive who brings a successful track record of leading and operating consumer- and business-focused telecommunications and technology companies. As T-Mobile moves forward with its strategic initiatives to improve its market position, including expanding its network coverage and initiating LTE service, John has obviously the right skillset to lead the business into the future. John&#8217;s experience in the telecommunication and technology industries at Global Crossing and Dell will enhance T-Mobile&#8217;s ability to deliver superior mobile experiences for our customers as the Company continues to strengthen its business. I am delighted to welcome John to T-Mobile and look forward to working with him to make T-Mobile a stronger competitor.</p></blockquote>
+<p>It has been a rough year for T-Mobile, after the government <a href="http://techcrunch.com/2011/12/19/att-tmobile-merger-dead/">blocked</a> its acquisition to AT&amp;T. But perhaps a change in leadership will turn that around. </p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/5uMijhaFKXE/">here</a>.
