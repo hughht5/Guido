@@ -1,5 +1,5 @@
 {
-"title" : "comScore: 4 Out Of 5 Smartphone Owners Use Device To Shop; Amazon Most Popular Mobile Retailer",
+"title" : "comScore: 4 Out Of 5 Smartphone Owners Use Device To Shop; Amazon Is The Most Popular Mobile Retailer",
 "date" : "Wed, 19 Sep 2012 18:53:45 +0000",
 "author" : "Leena Rao"
 }
