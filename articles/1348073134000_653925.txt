@@ -1,0 +1,10 @@
+{
+"title" : "iOS 6 Is Now Available: Here’s What Features Your iDevice Gets",
+"date" : "Wed, 19 Sep 2012 16:45:34 +0000",
+"author" : "Darrell Etherington"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/ios-6.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="ios-6" title="ios-6" style="float: left; margin: 0 10px 7px 0;" /><p>Apple has pushed iOS 6 live, meaning you can update now, either by visiting Settings &gt; General &gt; Software Update on your iPhone 3GS or later, iPod touch 4th gen or later, or iPad, or by plugging into iTunes and checking for updates. iOS 6 offers a <a title="Apple’s iOS 6 Available September 19: Facebook, Maps, Passbook, Photo Sharing, Siri And More" href="http://techcrunch.com/2012/09/12/apples-ios-6-facebook-maps-passbook-photo-sharing-siri-and-more/">long list of new features</a>, including some highlights like system-wide Facebook integration, Apple&#8217;s new Passbook app, a much more generally useful Siri, and many more besides.</p>
+<p>But while iOS 6 offers a lot of new stuff, not everyone will get it. There are certain device-specific features, so we&#8217;ve prepared this handy chart with some of the key features of the new mobile OS to help you navigate what is and isn&#8217;t available from iOS 6, depending on what kind of device you happen to have (or have on the way, in the case of the iPhone 5 or 5th gen iPod touch). Be patient if you aren&#8217;t seeing it yet, we&#8217;re hearing that Apple&#8217;s servers may be slammed but that it is indeed live.</p>
+<p><a href="http://techcrunch.com/2012/09/19/ios-6-is-now-available-heres-what-features-your-idevice-gets/ios6-chart5/" rel="attachment wp-att-654299"></a></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/PoufFpLyss0/">here</a>.

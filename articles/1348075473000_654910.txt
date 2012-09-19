@@ -1,0 +1,14 @@
+{
+"title" : "Marc Benioff Highlights Man, Machines, And Social Networks In Dreamforce Keynote",
+"date" : "Wed, 19 Sep 2012 17:24:33 +0000",
+"author" : "Alex Williams"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/07/marc-benioff1.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="marc-benioff" title="marc-benioff" style="float: left; margin: 0 10px 7px 0;" /><p>A theme is emerging in Marc Benioff&#8217;s keynote: Man, machines, and social networks are part of the next evolution in technology and compare to the movements of the past 40 years dating back to the mainframe.</p>
+<p>The talk began with a video that featured a woman who tells her car she wants to go to work. It showed a man using an immersive environment and gestures to command a network of automated operations.</p>
+<p>Benioff can&#8217;t go too far. He showed how the office changes with the use of social technologies. But he used that as a springboard to discuss how companies such as General Electric are thinking most about how to connect machines and people into a social network.</p>
+<p><a href="http://techcrunch.com/2012/09/19/marc-benioff-highlights-man-machines-and-social-networks-in-dreamforce-keynote/connectedmachines/" rel="attachment wp-att-654954"></a></p>
+<p>Machines are getting their own social networks. They are connecting. They are making friends. They are liking each other when a machine in their network shares an issue.</p>
+<p>VMware showed at VMworld how Socialcast activity streams can be used to <a href="http://techcrunch.com/2012/09/01/how-machines-will-use-social-networks-to-gain-identity-develop-relationships-and-make-friends/">connect hosts and virtual machines in a data center</a>.</p>
+<p>Here&#8217;s the switch we are seeing. We are starting to see how society will some day interact more with software than people. Everything will be a node. That future is emerging now as we see how the cloud is being used to direct machines. Like the self-driving car Benioff featured in his keynote this morning.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/pH5R-S1KR3Y/">here</a>.

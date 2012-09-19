@@ -1,0 +1,14 @@
+{
+"title" : "Meet The HTC 8S, A Crappy Mid-Range Windows Phone Device No One Will Buy",
+"date" : "Wed, 19 Sep 2012 15:40:57 +0000",
+"author" : "Matt Burns"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/wp8s3viewsblue.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="wp8s3viewsblue" title="wp8s3viewsblue" style="float: left; margin: 0 10px 7px 0;" /><p>HTC just revealed its family of Windows Phone 8 devices and HTC says the mid-range 8S model is aimed squarely at the general consumer. But it&#8217;s missing a lot of features. Apparently the general consumer wants last year&#8217;s phone repackaged and sold as new.</p>
+<p>The 8S is a large step down from <a href="http://techcrunch.com/2012/09/19/htc-8x-windows-phon/">HTC&#8217;s 8X hero device</a> (and Nokia&#8217;s new handsets) and depending on the price, could have a hard time gaining sales. Hell, I&#8217;m not sure carriers could even give away this phone for free.</p>
+<p>The 8S uses a 4-inch paltry WVGA screen that&#8217;s thankfully protected by Gorilla Glass. Under the hood rests a dual-core S4 SoC running at 1GHz backed by 512MB of RAM &#8212; specs that even by Windows Phone standards are very sub-par. The phone also packs just 4GB of storage but includes a microSD card slot for easy expansion. There is no front-facing camera and the rear facing one is only 5MP and is limited to 720p video capture (likely to make upselling to the 8X a bit easier).</p>
+<p>No word if the 8S packs LTE.</p>
+<p>The 8S is a bit bulky, too, and measures in at 10.28mm thick. That makes it the thickest Windows Phone 8 device announced to date.</p>
+<p>Compared to the 8S&#8217; closest competitor, <a href="http://techcrunch.com/2012/09/05/nokia-debuts-the-4-3-lumia-820-5mp-camera-1-5ghz-dual-core-s4-processor-8gb-of-storage/">the Nokia 820</a>, the HTC 8S looks like a phone from last year. It features a much slower CPU, fewer connectivity options, a smaller screen (but is still thicker), and, at least to me, the 8S is rather fugly.</p>
+<p>HTC of course failed to announced the price of the 8S today. It will hit carriers in early November where it will likely sit on the shelves, gathering dust as consumers opt for the Nokia 820 or the HTC 8X or the iPhone 5. I mean the iPhone 4S is only $99 now and the iPhone 4 is free, come on.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/rsLKgIbkkrw/">here</a>.

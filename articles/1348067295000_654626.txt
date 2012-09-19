@@ -1,0 +1,10 @@
+{
+"title" : "Live From HTC’s New York Press Event!",
+"date" : "Wed, 19 Sep 2012 15:08:15 +0000",
+"author" : "Jordan Crook"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/p1010294.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="P1010294" title="P1010294" style="float: left; margin: 0 10px 7px 0;" /><p>Here we are, in New York City, prepping for <a href="http://techcrunch.com/2012/09/04/htc-schedules-september-19th-event-expect-windows-8-devices/">HTC&#8217;s New York press event</a>. Three phones are expected, all of which will run the very capable Windows Phone 8 OS. The invitation gave nothing away, simply asking us to &#8220;see what&#8217;s next.&#8221; And that we will.</p>
+<p>The lights are dim, with random barcode-esque graphics running across the screen. Perhaps that&#8217;s a hint toward some NFC? Maybe? We&#8217;ll have to wait and see.</p>
+<p>Without any further ado, let&#8217;s get it <a target="_blank" href="http://www.youtube.com/watch?v=hrcT3qtd6Uc">on and poppin&#8217;</a>.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/-7NtrQ90REg/">here</a>.

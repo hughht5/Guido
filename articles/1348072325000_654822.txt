@@ -1,0 +1,14 @@
+{
+"title" : "Hands-On With The Windows Phone 8S: Beauty Is Only Skin Deep",
+"date" : "Wed, 19 Sep 2012 16:32:05 +0000",
+"author" : "Jordan Crook"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/scaled-img_9239.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="scaled.IMG_9239" title="scaled.IMG_9239" style="float: left; margin: 0 10px 7px 0;" /><p>The <a href="http://techcrunch.com/2012/09/19/meet-the-htc-8s-a-crappy-mid-range-windows-phone-device-no-one-will-buy/">Windows Phone 8S</a> isn&#8217;t necessarily the most impressive of HTC&#8217;s latest line-up, being baby brother to the 4.3-inch 8X and all. It&#8217;s design, on the other hand, looks and feels great. HTC has a knack for using an unibody design and the right materials to make an excellent <em>feeling</em> phone, and the 8S is certainly at the right size for almost anyone to use it with one hand.</p>
+<p>The 4-inch WVGA display is relatively crappy. But I&#8217;m quite fond of the color flavors this little bad boy comes in: black/white, grey/yellow, red/orange, and blue/purple. The grey/yellow combo and blue/purple in particular really catch the eye, and I see this phone gaining some serious popularity among teens.</p>
+<p>In terms of usability, HTC&#8217;s making it quite difficult to get our hands on these things. I did notice, though, that Windows Phone 8 is as snappy as I&#8217;d expected running on the devices, even with the phone&#8217;s 1GHz SoC. I expect that may change once you load more content onto the device, yet you can&#8217;t have much content&#8211; there&#8217;s only 4GB of internal storage.</p>
+<p>The camera on the 8S is pretty behind the times, especially considering the dedicated imaging chip on the 8X. Impressive as it is that the camera lies flush against the backside of the phone, it&#8217;s only a 5-megapixel shooter with 720p video capture, and that is clear in photos. There is no front-facing camera.</p>
+<p>The 8S is also more bulky than big brother, supposedly to fit in all those components with less overall real estate. It&#8217;s also lacking the same dedicated amplifier that can be found in the 8X, making it the same mediocre Beats Audio that we&#8217;ve seen from HTC for quite a while.</p>
+<p>It&#8217;s a fine phone, but nothing I&#8217;d write home about.</p>
+<a href="http://techcrunch.com/2012/09/19/hands-on-with-the-windows-phone-8s-beauty-is-only-skin-deep/#gallery-654822-2-slideshow">Click to view slideshow.</a>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/Ea1XuBSMhcw/">here</a>.

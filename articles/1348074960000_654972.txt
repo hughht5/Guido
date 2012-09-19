@@ -1,0 +1,61 @@
+{
+"title" : "Apple Rolls Out OS X 10.8.2, Brings Facebook To Mountain Lion",
+"date" : "Wed, 19 Sep 2012 17:16:00 +0000",
+"author" : "Darrell Etherington"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/07/facebooklogo.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="facebooklogo" title="facebooklogo" style="float: left; margin: 0 10px 7px 0;" /><p>Apple introduced an update to OS X alongside the iOS 6 update today, version 10.8.2. It offers Facebook integration, allowing  users to sign in with their Facebook integration at the system level and share links and photos directly from the OS, as well as see Facebook information in the Contacts apps and receive Facebook notifications in Notification Center.</p>
+<p>Other additions include Game Center updates that allow for Facebook friend recommendations, Like button for Game Center games, Power Nap for older MacBook Air devices (late 2010), Passbook integration with Mail and Safari on Mac to devices running iOS 6, and more. You can get the update by checkin in the App Store on OS X under the &#8220;Updates&#8221; tab.  For a full list of updates, check out the release notes below:</p>
+<blockquote><p>This update is recommended for all OS X Mountain Lion users, and includes new features and fixes:</p>
+<p><strong>Facebook</strong></p>
+<ul>
+<li>Single sign on for Facebook</li>
+<li>Adds Facebook as an option when sharing links and photos</li>
+<li>See Facebook friends&#8217; contact information and profile pictures in Contacts</li>
+<li>Facebook notifications now appear in Notification Center</li>
+</ul>
+<p><strong>Game Center</strong></p>
+<ul>
+<li>Share scores to Facebook, Twitter, Mail, or Messages</li>
+<li>Facebook friends are included in Game Center friend recommendations</li>
+<li>Added Facebook &#8220;Like&#8221; button for games</li>
+<li>Challenge friends to beat your score or achievement</li>
+</ul>
+<p><strong>Other new features</strong></p>
+<ul>
+<li>Adds <a target="_blank" href="http://support.apple.com/kb/HT5394">Power Nap</a> support for MacBook Air (Late 2010)</li>
+<li>iMessages sent to your phone number now appear in Messages on your Mac*</li>
+<li>You can now add passes to Passbook (on your iPhone or iPod touch) from Safari and Mail on your Mac*</li>
+<li>FaceTime can now receive calls sent to your phone number*</li>
+<li>New shared Reminders lists</li>
+<li>New sort options allow you to sort notes by title, the date you edited them, and when you created them</li>
+<li>Dictation now supports additional languages: Mandarin, Cantonese, Spanish, Korean, Canadian English, Canadian French, and Italian</li>
+<li>Dictionary app now includes a French definition dictionary</li>
+<li>Sina Weibo profile photos can now be added to Contacts</li>
+</ul>
+<p><em>* Requires iOS 6</em></p>
+<p><strong><br />
+General fixes</strong></p>
+<p>The OS X Mountain Lion v10.8.2 update also includes general operating system fixes that improve the stability, compatibility and security of your Mac, including the following fixes:</p>
+<ul>
+<li>Adds an option to discard the changes in the original document when choosing Save As</li>
+<li>Unsent drafts are now opened automatically when launching Mail</li>
+<li>Receive Twitter notifications for mentions and replies from anyone</li>
+<li>URLs are shortened when sending tweets from Notification Center</li>
+<li>Notifications are disabled when AirPlay Mirroring is being used</li>
+<li>Adds SSL support for Google searches from the Smart Search Field in Safari</li>
+<li>Adds a new preference to have Safari launch with previously open webpages</li>
+<li>Resolves an issue that may cause the &#8220;Enable Autodiscover&#8221; checkbox to always remain checked</li>
+<li>Enables access to the Mac App Store when Parental Controls are enabled</li>
+<li>Support for @icloud.com email addresses</li>
+<li>Resolves a video issue with some VGA projectors when connected to certain Mac notebooks</li>
+<li>Addresses an issue that may prevent Active Directory accounts from being locked out</li>
+<li>Resolves an issue that may cause the policy banner to re-appear prior to logging in</li>
+<li>Improvements to SMB</li>
+<li>Addresses an issue with NIS users when auto-login is enabled</li>
+<li>Addresses an issue in which the Keychain may not be accessible</li>
+<li>Ability to pre-authenticate a FileVault protected system</li>
+<li>Addresses an issue that may cause Xsan to not automatically start after migrating from Mac OS X Snow Leopard</li>
+</ul>
+</blockquote>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/GxLKotR7K_Q/">here</a>.

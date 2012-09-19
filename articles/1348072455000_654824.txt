@@ -1,0 +1,16 @@
+{
+"title" : "Hands-On With The HTC Windows Phone 8X: Yet Another Flagship Windows Phone 8 Device",
+"date" : "Wed, 19 Sep 2012 16:34:15 +0000",
+"author" : "Romain Dillet"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/img_9229.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="IMG_9229" title="IMG_9229" style="float: left; margin: 0 10px 7px 0;" /><p>Today at <a href="http://techcrunch.com/2012/09/19/live-from-htcs-new-york-press-event/">HTC&#8217;s press conference</a>, the company introduced two new phones. The <a href="http://techcrunch.com/2012/09/19/htc-8x-windows-phon/">Windows Phone 8X</a> is the bigger brother, the flagship device. With a 4.3-inch display and competitive specs, it is no surprise that the device looks bulky.</p>
+<p>The real killer feature seems to be the 2.1-megapixel front facing camera that is capable of recording 1080p movies with an f/2.0 lens. Yet, looking at the pictures on the 720p screen is not the best way to judge of their quality.</p>
+<p>Similarly to the Lumia-branded Nokia devices, the phones come in multiple vibrant colors in a unibody plastic casing. There is a headphone port at the top and a micro-USB port at the bottom. The screen looked good, albeit a bit dark in the current configuration, but the bezel was still large and made the phone appear very tall.</p>
+<p>The Beats brand on the back is as much a marketing argument as a real feature. It just indicates that there is a dedicated sound chip inside the device for the speaker and the headphone port. We did not try that feature.</p>
+<p>The camera is on par with the HTC One phones that came out over the past few months. When it comes to traditional specifications, the device comes with a super LCD2 display with Gorilla glass running at 720p, as well as a dual-core Snapdragon S4 processor clocked at 1.5GHz. There is 16GB of internal memory, and no microSD slot. Nothing was said about the battery.</p>
+<p>In fact, HTC did not allow us to put our hands on the device. Phones were fixed on a table with a passcode that prevented us from actually <em>using</em> them. A nice HTC employee that was not supposed to show the device had an HTC Windows Phone 8X in his pocket. Without him, we couldn&#8217;t have been able to give first impressions. This is not a proper way to do a &#8220;hands-on&#8221; area.</p>
+<p>The operating system is probably the main selling point for this device, but Nokia devices look more attractive and compete directly with the 8X. The Lumia 820 will have the same display size.</p>
+<p>The device is expected to come out for AT&amp;T, Verizon and T-Mobile in the U.S. and for 150 carriers in the world in early November, right after the release of Windows Phone 8.</p>
+<a href="http://techcrunch.com/2012/09/19/hands-on-with-the-htc-windows-phone-8x-yet-another-flagship-windows-phone-8-device/#gallery-654824-1-slideshow">Click to view slideshow.</a>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/0bWORNzAgE0/">here</a>.

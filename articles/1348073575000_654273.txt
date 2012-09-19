@@ -1,0 +1,18 @@
+{
+"title" : "If I Were Google, I Wouldn’t Release A Native iOS 6 Maps App For Six Months",
+"date" : "Wed, 19 Sep 2012 16:52:55 +0000",
+"author" : "Drew Olanoff"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/256540145_f6cf6eae77_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="256540145_f6cf6eae77_z" title="256540145_f6cf6eae77_z" style="float: left; margin: 0 10px 7px 0;" /><p>So, <a href="http://techcrunch.com/2012/09/19/ios-6-review-the-highs-the-lows-and-everything-in-between/">iOS 6 is upon us</a> and people are going to start getting their <a href="http://techcrunch.com/2012/09/18/iphone-5-review/">new iPhones</a> this week, as well. What they&#8217;ll soon (maybe) realize is that <a href="http://techcrunch.com/2012/09/13/apple-maps-google-maps-ios-6-user-experience/">Maps for iOS is no longer powered by Google</a>. And it sucks something fierce. And yes I&#8217;m using iOS 6 GM.</p>
+<p>I&#8217;m not going to go into tons of technical detail as to why this is, but let me just say that when consumers are used to an experience for, oh, five years, and you all of a sudden change it, people are going to be angry or confused. I&#8217;m betting on both happening with the Maps app.</p>
+<p>Apple decided to build its own and no longer work with Google, which has a world-class Maps product. That&#8217;s cool, and it&#8217;s Apple&#8217;s decision to make. However, when you think about those consumers, the decision seems odd. Sure, there&#8217;s a lot of data to be had with your location, and Apple wants to own it. Right on, fine. But the best-of-class experience, which Apple loves to tout, is simply not there with Maps.</p>
+<blockquote class='twitter-tweet' lang='en'><p>The no-show for a Google Maps app in the App Store ahead of iOS 6 is puzzling. You&#8217;ve got about 28 minutes, Google!</p>&mdash; <br />Martin Bryant (@MartinSFP) <a href='http://twitter.com/#!/MartinSFP/status/248459567497895936' data-datetime='2012-09-19T16:32:31+00:00'>September 19, 2012</a></blockquote>
+<p>If I were Google, I wouldn&#8217;t launch a native Maps app for iOS 6 for at least six months, and here&#8217;s why:</p>
+<p>Let consumers experience what a really bad map experience is like and let them get angry at their beloved Apple. Let Apple explain why their Map App isn&#8217;t up to snuff yet, and that it takes time and talent to make something absolutely wonderful. Let the consumers ask Apple why they kicked the experience that they were used to for five years out of the phone completely.</p>
+<p>And then&#8230;after a few months, let Google swoop in and save the day with a mind-boggling and amazing iOS 6 native Maps app. Would Apple even allow that, or will it break out its &#8220;core functionality detector&#8221;?</p>
+<p>That&#8217;s exactly what I would do if I were Google. But I&#8217;m not. Apple, you really shouldn&#8217;t mess with things that work. I hope that the next version of Maps on iOS 6 is magnificent. Otherwise, your move Google. Until then, you can use the <a target="_blank" href="http://maps.google.com">mobile version</a> in Safari.</p>
+<p><strong>UPDATE:</strong> Google has given me the following, obviously ambiguous, statement on the situation:</p>
+<blockquote><p>We believe Google Maps are the most comprehensive, accurate and easy-to-use maps in the world. Our goal is to make Google Maps available to everyone who wants to use it, regardless of device, browser, or operating system.</p></blockquote>
+<p>Stay tuned, folks.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/nbIAkPL7cro/">here</a>.
