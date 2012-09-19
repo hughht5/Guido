@@ -1,0 +1,11 @@
+{
+"title" : "Charlie O’Donnell’s Brooklyn Bridge Ventures Raises $3.5M",
+"date" : "Wed, 19 Sep 2012 13:52:27 +0000",
+"author" : "Leena Rao"
+}
+
+<img width="100" height="64" src="http://tctechcrunch2011.files.wordpress.com/2012/09/brooklyn-bridge-ventures.jpg?w=100&amp;h=64&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Brooklyn Bridge Ventures" title="Brooklyn Bridge Ventures" style="float: left; margin: 0 10px 7px 0;" /><p>As we <a href="http://techcrunch.com/2012/01/17/former-first-round-capital-vc-charlie-odonnell-launches-new-brooklyn-based-venture-firm/">reported earlier</a> this year, VC Charlie O’Donnell, who has worked as at both First Round Capital and Union Square Ventures, launched his own venture firm, New York-based <a target="_blank" href="http://www.brooklynbridgeventures.com/">Brooklyn Bridge Ventures.</a> Today, O&#8217;Donnell is announcing his first close of $3.5 million in LP commitments. </p>
+<p>The funding was anchored by Two Sigma Ventures and KEC holdings (led by Jeff Citron). Individuals who also participated include partners from First Round Capital and Wilson Sonsini, Wiley and Allison Cerilli, David Rose, Tom  Wisniewski, Chad Stoller, and Ramesh Haridas, among others.</p>
+<p>Brooklyn Bridge Ventures is making investments in early and seed stage technology companies in the “Greater Brooklyn Area” (which includes Manhattan and other boroughs) across a variety of information technology sectors. The fund will also be looking to lead or co-lead seed rounds.</p>
+<p>Previously, O’Donnell worked at Union Square Ventures and at First Round Capital, where he sourced First Round’s Investment in GroupMe, which sold to Skype in 2011. Other deals that O’Donnell has worked on for First Round include Refinery29, chloe + isabel, Backupify, SinglePlatform, Salescrunch and Docracy.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/6zRnNyb5ZVg/">here</a>.
