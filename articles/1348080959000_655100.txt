@@ -1,0 +1,17 @@
+{
+"title" : "Take Public Transportation? Here’s What To Expect From The Maps App On iOS 6",
+"date" : "Wed, 19 Sep 2012 18:55:59 +0000",
+"author" : "Drew Olanoff"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/2384092706_70a89e5a76_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="2384092706_70a89e5a76_z" title="2384092706_70a89e5a76_z" style="float: left; margin: 0 10px 7px 0;" /><p>As you know, <a href="http://techcrunch.com/2012/09/19/ios-6-review-the-highs-the-lows-and-everything-in-between/">Apple has released iOS 6 widely</a>, and I&#8217;m <a href="http://techcrunch.com/2012/09/19/if-i-were-google-i-wouldnt-release-a-native-ios-6-maps-app-for-six-months/">not too stoked about the new Maps application</a>. I&#8217;ve been using it for a few months thanks to the developer version, and my experience has been maddening. Why? Because I take public transportation. A lot.</p>
+<p>If you&#8217;re someone, like me, who lives in a metropolitan area like San Francisco or New York, then you know that schedules for public transit are your lifeblood. The experience needs to be fast and accurate, otherwise you&#8217;re stuck sitting around, and that blows.</p>
+<p>Apple has decided to leave public transportation to third party apps, which is a really bad user experience in my opinion.  If you take public transportation and will be using iOS 6, here&#8217;s what you can expect now that Google Maps has been yanked:</p>
+<p>First, put in your address as usual, then select public transportation as your option:</p>
+<p><a href="http://techcrunch.com/2012/09/19/take-public-transportation-heres-what-to-expect-from-the-maps-app-on-ios-6/photo-1-44/" rel="attachment wp-att-655115"></a> <a href="http://techcrunch.com/2012/09/19/take-public-transportation-heres-what-to-expect-from-the-maps-app-on-ios-6/photo-2-33/" rel="attachment wp-att-655116"></a></p>
+<p>Um, ok.</p>
+<p>Then, you&#8217;re tossed to a list of third-party transit apps, which is empty if you don&#8217;t have any. Luckily, I did. I select it, and then&#8230;.</p>
+<p><a href="http://techcrunch.com/2012/09/19/take-public-transportation-heres-what-to-expect-from-the-maps-app-on-ios-6/photo-3-25/" rel="attachment wp-att-655120"></a> <a href="http://techcrunch.com/2012/09/19/take-public-transportation-heres-what-to-expect-from-the-maps-app-on-ios-6/photo-4-16/" rel="attachment wp-att-655122"></a></p>
+<p>Yeah, forget that shit. Take something that&#8217;s fast and convenient and turn it into a mess by adding the extra steps of downloading new apps from people I don&#8217;t know, and then having to tap them and open them separately. Nice work, Apple.</p>
+<p>[Photo credit: <a target="_blank" href="http://www.flickr.com/photos/raver_mikey/2384092706/">Flickr</a>]</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/Wi750FYQiKM/">here</a>.
