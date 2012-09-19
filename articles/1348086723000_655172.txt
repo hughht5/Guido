@@ -1,0 +1,13 @@
+{
+"title" : "Adobe Misses, Q3 Revenue Up 7 Percent To $1.08B",
+"date" : "Wed, 19 Sep 2012 20:32:03 +0000",
+"author" : "Leena Rao"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/adobe.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Adobe" title="Adobe" style="float: left; margin: 0 10px 7px 0;" /><p>Adobe Systems reported <a target="_blank" href="http://www.businesswire.com/news/home/20120919006781/en/Adobe-Reports-Quarter-Fiscal-2012-Financial-Results">third quarter earnings</a>, missing analyst expectations. Adobe&#8217;s revenue came in at $1.08 billion, up 7 percent from the same quarter last year(analysts expected sales of $1.1 billion). Earnings were $0.58 on a non-GAAP basis ($0.40 on a GAAP-basis), which is inline with what Wall Street expected. </p>
+<p>Operating income was $278.3 million and net income was $201.4 million on a GAAP-basis . Operating income was $391.8 million and net income was $291.2 million on a non-GAAP basis. Cash flow from operations was $263.3 million for the quarter.</p>
+<p>“Customers globally are adopting our new Creative Cloud subscription offering more quickly than we projected,&#8221; said Shantanu Narayen, president and CEO of Adobe, in a release. &#8220;We are the leader in the fast-growing Digital Marketing category with 40 percent year-over-year Digital Marketing Suite revenue growth this quarter.”</p>
+<p>Adobe says Creative Cloud paid subscriptions grew to approximately 200,000 in the third quarter, exceeding targets for the company. The company&#8217;s Digital Marketing Suite achieved record quarterly revenue with 40 percent year-over-year growth. The company also said that as Adobe customers migrate from a legacy Creative Suite perpetual licensing model to new Creative Cloud subscriptions, revenue is recognized over time as opposed to at the time of purchase. This resulted in approximately $29 million more perpetual revenue than expected to Creative Cloud.</p>
+<p>In addition, the effect of currency impacted Q3 revenue negatively by approximately $9 million. Adjusting for these amounts in Adobe’s reported results would have enabled the Company to achieve third quarter revenue towards the high-end of its targeted range.</p>
+<p>For the fourth quarter of fiscal 2012, Adobe is targeting revenue of $1.075 billion to $1.125 billion, and earnings of $0.53 to $0.58 on a non-GAAP basis. </p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/jJ4_MwSn21c/">here</a>.
