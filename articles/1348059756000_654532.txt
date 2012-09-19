@@ -1,0 +1,11 @@
+{
+"title" : "Salesforce.com Sets Up Next Big Battle With Facebook Style Identity For The Enterprise",
+"date" : "Wed, 19 Sep 2012 13:02:36 +0000",
+"author" : "Alex Williams"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2009/06/identity.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Image (1) identity.png for post 72977" title="Image (1) identity.png for post 72977" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://salesforce.com">Salesforce.com</a> is setting up the next big battle in the market with a new service they are calling Facebook style identity for the enterprise.</p>
+<p>The new service, which Marc Benioff first discussed on stage at <a href="http://techcrunch.com/2012/09/11/salesforce-wants-to-kill-asana-box-and-okta-ceo-benioff-says-its-not-about-the-hunger-games/">Disrupt San Francisco 2012</a>, is being called a single, social, trusted identity in the cloud across all enterprise apps.</p>
+<p>The next big battle in the enterprise will center on identity. <a target="_blank" href="http://okta.com">Okta</a> has established a foothold in the market with its cloud-based identity service. It has a major partnership with Workday. Okta CEO Todd McKinnon said to me last month that the bigger the company, the bigger the identity issue becomes. Every employee will need to have some way to validate who they are, especially as companies open up further to the explosion of apps that are being developed.</p>
+<p>Salesforce.com sees the opportunity in offering a service that they say is as easy to use as Facebook. They say their new service allows for pre-integration across apps, so users can seamlessly access all of their apps with a single log-in. It will integrate &#8220;social identity,&#8221; meaning it will allow apps across multiple platforms to push important information through its Chatter platform into one centralized feed. Salesforce.com will also offer centralized identity and access management. IT administrators will be able to centrally manage apps and users through automated, highly flexible provisioning and de-provisioning workflows on the Salesforce Platform.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/_Us_TunmwrM/">here</a>.
