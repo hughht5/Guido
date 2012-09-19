@@ -13,5 +13,7 @@
 <p>Then, you&#8217;re tossed to a list of third-party transit apps, which is empty if you don&#8217;t have any. Luckily, I did. I select it, and then&#8230;.</p>
 <p><a href="http://techcrunch.com/2012/09/19/take-public-transportation-heres-what-to-expect-from-the-maps-app-on-ios-6/photo-3-25/" rel="attachment wp-att-655120"></a> <a href="http://techcrunch.com/2012/09/19/take-public-transportation-heres-what-to-expect-from-the-maps-app-on-ios-6/photo-4-16/" rel="attachment wp-att-655122"></a></p>
 <p>Yeah, forget that shit. Take something that&#8217;s fast and convenient and turn it into a mess by adding the extra steps of downloading new apps from people I don&#8217;t know, and then having to tap them and open them separately. Good Job, Good Effort, Apple.</p>
+<p><b>UPDATE:</b> To be fair to Transit App, a third-party option that I have, they&#8217;re having hosting issues. However, this illustrates my point perfectly.</p>
+<blockquote class='twitter-tweet' lang='en'><p>What a great time for our hosting provider to go down. Sorry about that guys, we&#039;re as pissed as you are.</p>&mdash; <br />The Transit App (@thetransitapp) <a href='http://twitter.com/#!/thetransitapp/status/248503498369556481' data-datetime='2012-09-19T19:27:05+00:00'>September 19, 2012</a></blockquote>
 <p>[Photo credit: <a target="_blank" href="http://www.flickr.com/photos/raver_mikey/2384092706/">Flickr</a>]</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/Wi750FYQiKM/">here</a>.
