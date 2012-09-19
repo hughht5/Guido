@@ -1,0 +1,21 @@
+{
+"title" : "Europe’s Carpooling.com Adds Push Notifications, PayPal Payment In New Android App, Ahead Of U.S. Launch",
+"date" : "Wed, 19 Sep 2012 14:46:01 +0000",
+"author" : "Natasha Lomas"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/uk_street2.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Carpooling.com" title="Carpooling.com" style="float: left; margin: 0 10px 7px 0;" /><p>Munich, Germany-based company, <a target="_blank" href="http://www.crunchbase.com/company/carpooling-com">Carpooling.com</a>, whose ride-sharing service helps shift more than a million people around Europe each month, has launched a new Android app &#8212; adding a PayPal payment option and a push notifications messaging system, to make it easier for drivers and potential passengers to contact each other, among other new features.</p>
+<p>The company has also announced that collectively its Android and iOS apps have now been downloaded more than 550,000 times.</p>
+<p>The full list of new features in the Android app (which replaces a previous Android app) is as follows:</p>
+<ul>
+<li>Online booking is now available on all destinations (allowing passengers to book a seat in someone&#8217;s car the same way they would book a flight or train ticket). This also gives the user access to additional information such as user ratings, pictures, type of car etc.</li>
+<li> New messaging system for intuitive, real-time dialogue between drivers and passengers. The &#8216;push&#8217; notification system aims to ensure you never miss a booking request or message.</li>
+<li>Visible meeting points on Google Maps &#8212; users can check exactly where the ride starts and ends.</li>
+<li>Online payment with Paypal now also an option for further convenience and security.</li>
+</ul>
+<p>The ride-sharing space is a very crowded one &#8212; with the likes of <a target="_blank" href="http://www.crunchbase.com/company/blablacar">BlaBlaCar</a>, <a href="http://techcrunch.com/2012/06/26/sidecar/">Sidecar </a>and <a target="_blank" href="http://www.crunchbase.com/company/zimride">Zimride</a> (to name a few) also cashing in on spare seats in moving vehicles, not to mention car-sharing rental services such as <a href="http://techcrunch.com/tag/zipcar/">Zipcar</a> &#8212; but <a target="_blank" href="http://www.carpooling.com/">Carpooling.com</a> tells TechCrunch it sees its biggest competitors as train and bus companies.</p>
+<p>&#8220;The majority of our rides are inter-city or even inter-country,&#8221; says a company spokeswoman. &#8220;Carpooling is often much more affordable and convenient than getting the train but the challenge is to make sure that we&#8217;re always growing the number of rides so the user can always find the route and time they are looking for. Ideally, we want carpooling to become as easy and as precise as checking the bus or train schedule.&#8221;</p>
+<p>Currently Carpooling.com users have daily access to more than 650,000 &#8220;travel opportunities&#8221; &#8212; aka potential rides &#8212; but the company plans to expand its service internationally to grow the number of possible journeys. At present it covers 45 countries, all located in Europe.</p>
+<p>Notably it&#8217;s preparing to launch in the U.S. &#8212; having<a href="http://techcrunch.com/2012/07/26/carpooling-daimler-carwars/"> picked up $10m in Series C funding from Daimler</a> back in July to fund the international expansion.</p>
+<p>The company describes a U.S. launch as its &#8220;next big step&#8221; &#8212; and says it&#8217;s aiming to launch Stateside at the end of the year.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/G2OpbGH6zog/">here</a>.
