@@ -1,0 +1,22 @@
+{
+"title" : "Facebook Hid Your Real Email Address, Change It Back Before Your Friends iOS 6 Contact Sync",
+"date" : "Wed, 19 Sep 2012 18:15:01 +0000",
+"author" : "Josh Constine"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/facebook-email.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Facebook Email" title="Facebook Email" style="float: left; margin: 0 10px 7px 0;" /><p>Millions of people are downloading iOS 6 right now, and many will use the Facebook contact sync feature to pull in photos and current phone numbers. But rather than your real email address they&#8217;re going to pull in hundreds of <a href="http://techcrunch.com/2012/04/13/facebook-one-ups-google-with-a-kind-of-facebook-your-fb-email-timeline-names-are-now-linked-up/">@facebook.com addresses</a>. These addresses don&#8217;t actually deliver to your email, but instead to your Facebook Messages Inbox.</p>
+<p>Why? Because with little notice, <a href="http://techcrunch.com/2012/06/25/facebook-email-address/">Facebook changed everyone&#8217;s email address visibility settings in June</a> to hide the Gmail or other addresses we purposefully shared with friends, leaving just our @facebook.com addresses. If you don&#8217;t want to miss out on email from friends, here&#8217;s how you undo Facebook&#8217;s change.</p>
+<p>To make sure friends can see and contact sync the email addresses you want:</p>
+<p>1. Visit your profile and click the “About ” link on the left side below your cover.</p>
+<p></p>
+<p>2. In the bottom right click “Edit” in the Contact Info section</p>
+<p></p>
+<p>3. In the top right, toggle “Hidden from Timeline” to “Shown on Timeline” for any personal email addresses you want people to see</p>
+<p></p>
+<p>4. Select exactly who you want to see that email address with the privacy control just to the left of the visibility toggle</p>
+<p>5. Consider hiding your <a target="_blank" href="http://www.facebook.com/help/?faq=224049364288051#How-do-I-use-my-@facebook.com-email-address?">@facebook.com address</a> if you don’t want emails coming to your Facebook Messages inbox</p>
+<p>With this completed, you&#8217;ll be sharing your real email addresses with the people you want to give access, and anyone who syncs their iOS 6 contacts will get the right email address.</p>
+<p>I talked to Facebook yesterday and it admitted &#8220;we could have done more than we did&#8221; to notify and educate people about the change. The little box alerting people to the change was buried inside the About page where few people saw it. &#8220;That was something we could have done a little bit better.&#8221;</p>
+<p>But an apology like that is not sufficient. Adding new visibility controls that override user privacy controls without proper notice is totally unacceptable.</p>
+<p>Hopefully enough people are outraged like me and will tell their friends to undo the damage done by Facebook&#8217;s meddling. If we can negate any benefit Facebook would get from altering what we share with friends without our permission, it will be less likely to make these invasive changes in the future.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/Zj7RZiU28lo/">here</a>.

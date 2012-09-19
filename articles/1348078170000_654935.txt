@@ -1,5 +1,5 @@
 {
-"title" : "A Peak At Facebook’s Insanely Awesome Monitoring Tool Claspin",
+"title" : "A Peek At Facebook’s Insanely Awesome Monitoring Tool Claspin",
 "date" : "Wed, 19 Sep 2012 18:09:30 +0000",
 "author" : "Klint Finley"
 }
