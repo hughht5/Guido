@@ -12,5 +12,5 @@
 <p>For you enterprise junkies, I&#8217;m sure that it&#8217;ll be fixed immediately, otherwise Benioff will go off on someone.</p>
 <p><a href="http://techcrunch.com/2012/09/19/ustreams-automatic-copyright-protection-just-killed-the-salesforce-keynote-stream/photo-3-26/" rel="attachment wp-att-655156"></a><b>UPDATE:</b> So Ustream scared the crap out of me by popping into TechCrunch HQ (they&#8217;re on the third floor of our building), to deliver this statement, via PR Manager, Tony Riggins:</p>
 <blockquote><p>I want to let you know in regards to the Salesforce Keynote Ustream broadcast that this time period to be hidden off of their Ustream channel was pre-planned, approved and instructed by Salesforce. </p></blockquote>
-<p>I have no idea why Salesforce would do this, but Ustream clearly needs to fix their error messages. At least Ustream gave me a tour and some candy.</p>
+<p>I have no idea why Salesforce would do this, but Ustream clearly needs to fix their error messages. Also, Salesforce should have told their viewers this. But hey, at least Ustream gave me a tour and some candy.</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/qwyZlMW-zJA/">here</a>.
