@@ -1,0 +1,12 @@
+{
+"title" : "TuneUp Doesn’t Just Clean Up Your Music Library — Now It Provides Lyrics, Too",
+"date" : "Wed, 19 Sep 2012 21:07:47 +0000",
+"author" : "Anthony Ha"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/tuneup-logo.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="tuneup logo" title="tuneup logo" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.tuneupmedia.com">TuneUp</a>, the iTunes plug-in that improves your music library by fixing mislabeled songs, adding missing cover art, and the like, is introducing a fun new feature today — the ability to view the lyrics of whatever song you&#8217;re playing.</p>
+<p>It&#8217;s not like you couldn&#8217;t <a target="_blank" href="http://www.google.com">find the lyrics on your own</a>, but this should be pretty convenient, especially if you&#8217;re already using TuneUp. (The plug-in now has more than 10 million registered users.) The company&#8217;s online marketing manager Joe Frabotta tells me today&#8217;s launch is part of a larger company effort to focus on engagement. In other words, TuneUp doesn&#8217;t just want to be a music utility that works behind the scenes, but also something people actively use &#8220;to further explore and connect with the music they love.&#8221;</p>
+<p>So starting now, if you open TuneUp, the plug-in will update. Once it&#8217;s updated, just start playing a song, open the Tuniverse tab, and you&#8217;ll see the lyrics. Those lyrics are pulled from Gracenote, like the ones presented in <a href="http://techcrunch.com/2012/04/19/tuneup-mobile/">TuneUp&#8217;s free smartphone app</a>.</p>
+<p><a href="http://techcrunch.com/2012/09/19/tuneup-lyrics/tuneup-lyrics/" rel="attachment wp-att-655198"></a></p>
+<p>However, to see full song lyrics, you actually need to be a paying TuneUp customer. If you&#8217;re on a trial plan, you&#8217;ll just see a preview of four to six lines. And hey, if that sounds tempting, TuneUp is also offering a discount for TechCrunch readers. <a target="_blank" href="https://www.tuneupmedia.com/webapp/Store/products?p[20]=1&amp;promo_code=TCLYRICS">Click on this link</a> and you&#8217;ll automatically get 25 percent off. (The plug-in normally costs $39.95 per year or $49.95 for a one-time purchase.)</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/pNcDGeePnHs/">here</a>.
