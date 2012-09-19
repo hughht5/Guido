@@ -15,4 +15,5 @@
 <p><strong>UPDATE:</strong> Google has given me the following, obviously ambiguous, statement on the situation:</p>
 <blockquote><p>We believe Google Maps are the most comprehensive, accurate and easy-to-use maps in the world. Our goal is to make Google Maps available to everyone who wants to use it, regardless of device, browser, or operating system.</p></blockquote>
 <p>Stay tuned, folks.</p>
+<p><b>UPDATE 2:</b> Yeah, <a href="http://techcrunch.com/2012/09/19/take-public-transportation-heres-what-to-expect-from-the-maps-app-on-ios-6/">this isn&#8217;t going so well</a>, Apple.</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/nbIAkPL7cro/">here</a>.
