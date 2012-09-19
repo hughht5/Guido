@@ -1,0 +1,26 @@
+{
+"title" : "Big Win For Amazon, B&N In Europe: Apple, Four Big Publishers Terminate Their Agency Deal",
+"date" : "Wed, 19 Sep 2012 10:30:26 +0000",
+"author" : "Ingrid Lunden"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/07/screen-shot-2012-07-03-at-17-22-10.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="ibookstore" title="ibookstore" style="float: left; margin: 0 10px 7px 0;" /><p>Some development in the e-book price war being played out in Europe &#8212; and an indirect victory for Amazon and any other retailer not called Apple in the process: the European Commission has <a target="_blank" href="http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2012:283:0007:0009:EN:PDF">announced</a> that Apple and the four big publishers Hachette, Macmillan, HarperCollins and Simon &amp; Schuster have offered to drop their agency pricing agreement for e-books sold in Europe &#8212; although the five still &#8220;do not agree&#8221; with the European Commission&#8217;s preliminary assessment that those agreements were anticompetitive in the first place.</p>
+<p>This will mean that Apple will not get preferential discount pricing on books &#8212; and that other resellers like Amazon will be allowed to continue to sell books at discounts. As <a target="_blank" href="http://www.reuters.com/article/2012/09/19/apple-ebooks-idUSL5E8KJ6M120120919?type=marketsNews">Reuters</a> points out, the move follows a similar settlement in the U.S. earlier this year. One publisher left out of the notice in name today is Penguin, although there is indirect reference made to it in the document (embedded below).</p>
+<p>This is a crucial development as the tablet and e-reader markets continue to heat up in Europe. Amazon is now launching its Kindle Fire tablet in the region, as well as several new Kindle e-readers. At the same time, Barnes &amp; Noble is forging ahead with its Nook plans in Europe, and Tesco has recently purchased an e-book reseller to ramp up its presence in the market. Apple&#8217;s iPad continues to lead in tablets but there are many nipping at its feet.</p>
+<p>The full document explaining Apple and the publishers&#8217; offer is embedded below but the basic details are as follows:</p>
+<ul>
+<li><strong>The publishers and Apple are terminating their &#8220;agency&#8221; agreement for e-books sold in the EU</strong>. This gave Apple preferred pricing on books sold via its iBookstore. Athough Penguin is not mentioned, the doc notes: &#8220;Apple will also notify another major international e-book publisher that such publisher may immediately terminate its agency agree­ment&#8230; In the event this publisher does not provide Apple with notice of termination, then Apple will terminate the agreement in line with the conditions laid down therein.&#8221;</li>
+</ul>
+<ul>
+<li>The publishers are renegotiating their agreements with booksellers (other than Apple: meaning Amazon, Tesco, and hundreds of smaller companies) and terminating older ones that may have limited their ability to discount books.</li>
+</ul>
+<ul>
+<li>Publishers will not interfere in any discounting practices by resellers for two years. Caveat is that those discounts can not undercut what a publisher pays to the retailers for one year: &#8220;However, as regards agency agreements, the aggregate value of the price discounts or promotions offered by any retailer should not exceed the aggregate amount equal to the total commissions the publisher pays to that retailer over a 12-month period in connection with the sale of its e-books to consumers.</li>
+</ul>
+<ul>
+<li>No more shenanigans like this for five years (supposedly the idea is that by then the market will be big enough to handle it?): &#8220;For a period of five years: (i) the Four Publishers will not enter into any agreement relating to the sale of e-books within the EEA that contains a price MFN clause as defined in the Four Publishers&#8217; commitments; and (ii) Apple will not enter into any agreement relating to the sale of e-books in the EEA that contains a retail price MFN clause as defined in Apple&#8217;s commitments.&#8221; And similarly: &#8220;Apple will inform any publisher with which it has an e-book agency agreement that it will not enforce a retail price MFN clause in any such agreement for a period of five years.&#8221;</li>
+</ul>
+<p>We are reaching out to Penguin for further comment &#8212; specifically why it&#8217;s not mentioned in the announcement &#8212; and will update as we learn more.</p>
+<iframe class="scribd_iframe_embed" src="http://www.scribd.com/embeds/106343544/content?start_page=1&view_mode=&access_key=key-1x35oz7z1z4kn494e3on" data-auto-height="true" scrolling="no" id="scribd_106343544" width="100%" height="500" frameborder="0"></iframe>
+<div style="font-size:10px;text-align:center;width:100%"><a href="http://www.scribd.com/doc/106343544">View this document on Scribd</a></div>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/kO0Z34TxLrQ/">here</a>.
