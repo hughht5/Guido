@@ -6,6 +6,9 @@
 
 <p>I&#8217;ve never been a fan of animated avatars on any service, let alone Twitter. I am an avid user of the web client, and I cannot stand seeing things flash before my eyes along with 140 characters, but maybe I&#8217;m just a jerk.</p>
 <p>Twitter apparently didn&#8217;t like them either, and <a target="_blank" href="http://www.buzzfeed.com/jwherrman/rip-animated-twitter-avatars">according to BuzzFeed</a>, you can no longer use an animated GIF as an avatar on the service. RIP, weird flashing things.</p>
+<p>This is what BuzzFeed shared on the matter:</p>
+<blockquote><p>My avatar still moves. New uploads, however, do not. The animated GIF avatar isn&#8217;t quite dead, but it appears to have been sentenced to death.</p>
+<p>This was a long time coming. Animated GIFs don&#8217;t display in most Twitter apps, including the official clients for iPhone, Android and Mac OS. They do display in Tweetdeck and on Twitter&#8217;s website, but they&#8217;ve been officially unsupported for years, according to Twitter&#8217;s support pages.</p></blockquote>
 <p>Twitter users are losing their damn mind:</p>
 <blockquote class='twitter-tweet' lang='en'><p>So you can no longer upload GIF. Images as avatars? ;A;
 IT WON&#039;T ALLOW MEH!
