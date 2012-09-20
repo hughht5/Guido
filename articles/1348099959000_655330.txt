@@ -1,5 +1,5 @@
 {
-"title" : "Users Report Annoying (Possibly Fixed) WiFi Bug In iOS 6",
+"title" : "Users Report Annoying (Apparently Fixed) WiFi Bug In iOS 6",
 "date" : "Thu, 20 Sep 2012 00:12:39 +0000",
 "author" : "Anthony Ha"
 }
