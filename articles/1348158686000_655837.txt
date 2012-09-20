@@ -1,5 +1,5 @@
 {
-"title" : "Taptu’s Acqusition By MediaFed Hints At Smart Move To Put The Heat On Flipboard And The Rest",
+"title" : "Taptu’s Acquisition By MediaFed Hints At Smart Move To Put The Heat On Flipboard And The Rest",
 "date" : "Thu, 20 Sep 2012 16:31:26 +0000",
 "author" : "Mike Butcher"
 }
