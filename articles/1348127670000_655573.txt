@@ -1,0 +1,17 @@
+{
+"title" : "‘Visual Twitter’ Site Tiny Post Uses Bots To Test User Engagement, Gets Called Out",
+"date" : "Thu, 20 Sep 2012 07:54:30 +0000",
+"author" : "Ingrid Lunden"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/amanda-good.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="amanda good" title="amanda good" style="float: left; margin: 0 10px 7px 0;" /><p>Lesson for social networking startups: Don&#8217;t mess around with your early adopters. <a target="_blank" href="http://tinypost.co">Tiny Post</a>, the 500 Startups company that lets users post photos with short messages attached to them (<a target="_blank" href="https://angel.co/tiny-post">like a visual Twitter</a>), has been called out by one of its users for putting bots on the network to follow legitimate people on the site. To its immense credit, the minute we alerted the company to this, co-founder Dick Brouwer admitted that he was doing this, to test user engagement, and said he would take down the bots immediately.</p>
+<p>The bots were first picked up by David Lee, founder of iOS and social web app developer <a target="_blank" href="http://gpapps.com/">GP Apps</a>, who <a target="_blank" href="http://heydave.org/post//dear-tiny-post-please-stop-the-shady-practices">wrote about it on his own blog</a>. There he notes that he&#8217;d signed up for Tiny Post 10 months ago but never had much use for it. But quite recently, he&#8217;d started to pick up followers out of the blue. He&#8217;d noticed some similarities in the profiles &#8212; examples below &#8212; and started to get suspicious.</p>
+<p>He then crossposted his findings to <a target="_blank" href="http://news.ycombinator.com/item?id=4546722">Hacker News</a>. That HN post has been picking up a lot of response &#8212; including others noting the same problem with bot followers, others coming to Tiny Post&#8217;s defense, and others describing how annoying bots creep into sites without the involvement to the sites themselves (a story in its own right. Hi, Twitter.)</p>
+<p>So we did the natural thing journalists do: we reached out to Tiny Post for a response. Dick Brouwer, juggling two newborns (one being an actual human; the other being Tiny Post), tells us this:</p>
+<blockquote><p>Oh dear, this is not what I intended to happen. Yes, we have been testing with 20 users to figure out what likes/follows can do to user engagement. It was intended as an effort to learn how important these social dynamics are to Tiny Post and what makes some users very sticky, and others not. It was never my intention to come off as shady or spammy (I&#8217;m never a fan when that happens to me as a user). I&#8217;ll email Dave right away.</p>
+<p>Clearly this wasn&#8217;t the right way to learn more about our users; I just suspended all engagement.</p></blockquote>
+<p>So: bye-bye bots &#8212; for this time, at least.</p>
+<p>Tiny Post, which debuted at Tiny Reviews, rebranded itself at the <a href="http://techcrunch.com/2012/08/31/tiny-post/">end of August</a>, when it added some new features, including placing text on to pictures, to take advantage of the fact that it was picking up a lot of people using the site to create memes &#8212; which, unlike bots, are one of the funner side-effects of the social media revolution.</p>
+<p></p>
+<p></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/HDS1G_bhyho/">here</a>.
