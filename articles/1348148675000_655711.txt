@@ -1,5 +1,5 @@
 {
-"title" : "Trulia Shares Pop 30 Percent On First Trade, Valued At $470 Million",
+"title" : "Real Estate Site Trulia Sees Shares Pop 30 Percent On First Trade, Valued At $470 Million",
 "date" : "Thu, 20 Sep 2012 13:44:35 +0000",
 "author" : "Leena Rao"
 }
