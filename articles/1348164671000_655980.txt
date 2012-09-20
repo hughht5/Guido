@@ -1,0 +1,11 @@
+{
+"title" : "News App News360 Announces Publisher Program With The Atlantic, Chicago Tribune, And Others",
+"date" : "Thu, 20 Sep 2012 18:11:11 +0000",
+"author" : "Anthony Ha"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/news360.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="news360" title="news360" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.news360app.com">News360</a>, a startup <a href="http://techcrunch.com/2011/08/10/personalized-news-aggregation-news360-launches-version-20/">promising a personalized newsreading experience</a>, just announced <a target="_blank" href="http://news360app.com/publishers.html">its beta publisher program</a>, where it works directly with publishers to create a custom, branded experience in the app.</p>
+<p>The initial partners include The Atlantic, Chicago Tribune, FOX Sports, GigaOM, Popular Science-publisher Bonnier Corp, and 25 others. Content from these publishers was already making it into the app, but this program allows them to take more control over the experience. The company says its publisher partners will also get additional promotion in the relevant section of News360.</p>
+<p>The program is invitation-only for now, and there&#8217;s no charge to publishers. News360 isn&#8217;t making any money at all at this point. A spokesperson tells me that the startup is basically following a threefold plan. First, create a beautiful product, which CEO Roman Karachinsky thinks the team has done. Second, he needs to recruit publishers, which is what&#8217;s happening now. Early next year, the company will start working on monetization, with what <a target="_blank" href="http://news360app.com/publishers.html">its website</a> describes as &#8220;a fresh take on the traditional publisher revenue model.&#8221;</p>
+<p>News360 <a href="http://techcrunch.com/2012/07/10/news360-ipad/">launched a redesigned version of the app</a> back in July, and since then it says the number of articles read in the app has doubled, and it&#8217;s now serving 10 million stories per month to 1.5 million users.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/bqQyxPxW7Hs/">here</a>.
