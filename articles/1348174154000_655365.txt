@@ -1,0 +1,28 @@
+{
+"title" : "Facebook Points Brands To 12 Top B2Bs With “Strategic” Preferred Marketing Developer Distinction",
+"date" : "Thu, 20 Sep 2012 20:49:14 +0000",
+"author" : "Josh Constine"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/facebook-spmd.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Facebook SPMD" title="Facebook SPMD" style="float: left; margin: 0 10px 7px 0;" /><p>Today Facebook awarded the 12 best social marketing tool and service providers with a new &#8220;Strategic Preferred Marketing Developer&#8221; distinction. The exclusive sPMD list will help brands sort through the 300 B2Bs in <a target="_blank" href="http://developers.facebook.com/preferredmarketingdevelopers/directory/">Facebook&#8217;s PMD directory</a>, and <a href="http://techcrunch.com/2012/04/18/facebook-preferred-marketing-developer/">find trusted Facebook Page and Ads optimization providers</a>.</p>
+<p>Each member gets a seat on the sPMD council, early access to Facebook products, and extra support from Facebook&#8217;s teams, making it a lucrative distinction.</p>
+<p>Here&#8217;s the full list of companies admitted to the Strategic Preferred Marketing Developer club and the services they offer is:</p>
+<ul>
+<li>Adobe (Ads, Apps, Insights, Pages)</li>
+<li>AdParlor (Ads, Insights)</li>
+<li>Alchemy Social / Techlightenment (Ads, Apps)</li>
+<li>Brand Networks (Ads, Apps, Pages,)</li>
+<li>Glow (Ads)</li>
+<li>GraphEffect (Ads, Insights, Pages)</li>
+<li>Kenshoo (Ads)</li>
+<li>Nanigans (Ads)</li>
+<li>Salesforce (Ads, Insights Pages)</li>
+<li>SocialCode (Ads)</li>
+<li>Spruce Media (Ads)</li>
+<li>77 Agency (Ads, Insights, Pages)</li>
+</ul>
+<p>Being on the sPMD should help these companies find more clients. The seat on the sPMD Council, similar to Facebook&#8217;s <a target="_blank" href="http://www.insidefacebook.com/2011/06/23/facebook-forms-client-ad-council-to-seek-advertiser-feedback/">ads Client Council</a> and <a href="http://techcrunch.com/2012/06/18/facebook-creative-council/">ads agency Creative Council</a>, will let them give input on the direction of Facebook&#8217;s marketing products and APIs.</p>
+<p>Early access to Facebook alpha and beta products means sPMDs well get first crack at offering and mastering new marketing opportunities to their clients. And the &#8220;level of support that&#8217;s greater than we&#8217;ve given in the past&#8221; that Facebook tells me sPMDs will get means their products are less likely to break or stay broken when Facebook makes changes.</p>
+<p>The SPMD could also become a list of companies that might get acquired by big companies trying to break into social marketing, the way Salesforce did buy buying Buddy Media. GraphEffect and Nanigans are two I think have high chances of being bought. Facebook will re-evaluate the list every six months and consider adding more companies.</p>
+<p>While there&#8217;s plenty of advantages for those admitted, a big reason behind the launch of the SPMD is to make sure huge advertisers are getting premier service. That was the point of the <a href="http://techcrunch.com/2012/04/18/facebook-preferred-marketing-developer/">original PMD,</a> which excluded shady companies. But as the list grew it became harder for clients to discover the cream of the crop. The SPMD will help Facebook lead those with money to spend to services who can inspire them to spend even more.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/0rlB0pN7Mfs/">here</a>.
