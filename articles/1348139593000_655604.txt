@@ -1,0 +1,12 @@
+{
+"title" : "Baxter The Worker Robot Puts In The Hours So You Don’t Have To",
+"date" : "Thu, 20 Sep 2012 11:13:13 +0000",
+"author" : "John Biggs"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/rethink_350px.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="rethink_350px" title="rethink_350px" style="float: left; margin: 0 10px 7px 0;" /><span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/09/20/baxter-the-worker-robot-puts-in-the-hours-so-you-dont-have-to/"></a></span>
+<p>While I doubt this guy will replace the Homer Simpsons of the world, <a target="_blank" href="http://rethinkrobotics.com/index.php/products/">Baxter by Boston-based Rethink Robotics</a> is a robot that could definitely give the average button pushers a run for their money. The $22,000 robot essentially does chores. You tell it to stand in a room and watch something or to pack boxes and, with some programming, it can get the job done. Then you move Baxter to the next task &#8211; and the next &#8211; until he forms a union.</p>
+<p>Baxter does simple tasks like machine tending, loading and unloading, and finishing operations. The people who once did the repetitive work Baxter does can simply teach Baxter to help (or replace) them in a few minutes. As one wag notes on Youtube, &#8220;$22,000. One year of mediocre pay for a human but no taxes, health insurance, HR overhead, parking﻿ spots&#8230;&#8221;</p>
+<p>The robot looks wildly friendly, with big bright eyes on an LCD face and two jolly, candy-apple-colored arms that move things around. He has two grippers, an electric parallel gripper and a vacuum cup, and can be trained simply by &#8220;showing&#8221; him what to do.</p>
+<p>As <a target="_blank" href="http://www.roboticsbusinessreview.com/article/meet_baxter_rethink_robotics_next_gen_robot?utm_source=rbr_WeeklyPromo&amp;utm_medium=email">one user notes</a>, &#8220;We roll up to a factory, and 45 minutes after we arrive, the robot is on the floor doing useful work.” Considering Baxter is a multi-purpose robot, doesn&#8217;t ever get sick, and can be trained and retrained by anyone, I think the dawning of a post-human industrial age might just be upon us. I just hope Baxter meets a nice Roomba at the office and maybe gets a chance to settle down. His soulless eyes seem a little sad.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/Oo5AlVn7bzQ/">here</a>.
