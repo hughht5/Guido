@@ -1,5 +1,5 @@
 {
-"title" : "Stack Exchange Links Up With USTPO For Community-Based Prior Art Forum AskPatents.com",
+"title" : "Stack Exchange Links Up With USTPO For Community Patent Project AskPatents.com For Prior Art",
 "date" : "Thu, 20 Sep 2012 15:41:14 +0000",
 "author" : "Ingrid Lunden"
 }
