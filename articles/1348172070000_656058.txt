@@ -1,0 +1,15 @@
+{
+"title" : "Authentication Flaw Allows Hackers To Easily Crack Oracle Database",
+"date" : "Thu, 20 Sep 2012 20:14:30 +0000",
+"author" : "Alex Williams"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/07/oraclelogo.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="oraclelogo" title="oraclelogo" style="float: left; margin: 0 10px 7px 0;" /><p>Hackers have exploited a gaping identity flaw that allows them to easily crack Oracle databases. The flaw allows anyone to do a brute force attack and access the data. A researcher presented the findings of the proof of concept attack at a security conference today in Argentina.</p>
+<p>The flaw allows anyone with access to a user name and name to exploit Oracle&#8217;s authentication protocol. According to <a target="_blank" href="http://www.darkreading.com/authentication/167901072/security/application-security/240007643/attack-easily-cracks-oracle-database-passwords.html">Dark Reading,</a> researcher Martinez Fayo and his team first reported the bug to Oracle in May 2010. Oracle fixed it in mid-2011.</p>
+<p>Dark Reading:</p>
+<blockquote><p>&#8220;But they never fixed the current version, so the current 11.1 and 11.2 versions are still vulnerable,&#8221; Martinez Fayo says, and Oracle has no plans to fix the flaws for version 11.1.</p></blockquote>
+<p>The flaw comes down to a an information leak that comes in the initial authentication handshake. There is  no &#8220;man-in-the-middle&#8221; required. Security experts are recommending that IT administrators develop workarounds for the flaw.</p>
+<p>Oracle has had several major security flaws discovered in recent months. This latest attack is striking due to its exploitation of the authentication protocol. Hackers can easily get to people&#8217;s data.</p>
+<p><a target="_blank" href="http://en.wikipedia.org/wiki/Man-in-the-middle_attack">Man-in-the-middle attacks</a> can wreak havoc, as impersonators can hack multiple accounts by impersonating users.</p>
+<p>Salesforce.com announced a single sign-on for all enterprise apps at Dreamforce this week. These identity platforms will become increasingly important.  Oracle&#8217;s flaw shows how much we need better protections so our data is safe.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/od91xsxGDiI/">here</a>.
