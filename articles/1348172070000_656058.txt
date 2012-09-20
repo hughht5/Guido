@@ -1,5 +1,5 @@
 {
-"title" : "Authentication Flaw Allows Hackers To Easily Crack Oracle Database",
+"title" : "Authentication Flaw Allows Hackers To Easily Crack Oracle Databases",
 "date" : "Thu, 20 Sep 2012 20:14:30 +0000",
 "author" : "Alex Williams"
 }
