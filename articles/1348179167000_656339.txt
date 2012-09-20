@@ -4,7 +4,7 @@
 "author" : "Drew Olanoff"
 }
 
-<p>So today, <a href="http://techcrunch.com/2012/09/20/ifttt-is-the-latest-service-to-be-affected-by-twitters-api-constraints-will-remove-triggers/">IFTTT sent out an email to users</a> letting them know that they&#8217;d be dropping support for certain services due to Twitter&#8217;s API restrictions. That&#8217;s a correct statement, but the timing is very odd.</p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/4800474846_de409f6495_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="4800474846_de409f6495_z" title="4800474846_de409f6495_z" style="float: left; margin: 0 10px 7px 0;" /><p>So today, <a href="http://techcrunch.com/2012/09/20/ifttt-is-the-latest-service-to-be-affected-by-twitters-api-constraints-will-remove-triggers/">IFTTT sent out an email to users</a> letting them know that they&#8217;d be dropping support for certain services due to Twitter&#8217;s API restrictions. That&#8217;s a correct statement, but the timing is very odd.</p>
 <p>Here&#8217;s why:</p>
 <p>After looking at <a target="_blank" href="https://dev.twitter.com/terms/api-terms/diff">this handy page</a>, which shows the changes that happened with the latest Twitter API update and Terms of Service, version 1.1, I found that the &#8220;cloud hosting&#8221; reason that IFTTT points to in its email is unchanged.  That means that the company has been in violation of Twitter&#8217;s API for quite a few months.</p>
 <p>Have a look:</p>
@@ -12,5 +12,7 @@
 <p>Here&#8217;s what it says:</p>
 <blockquote><p>You may export or extract non-programmatic, GUI-driven Twitter Content as a PDF or spreadsheet by using &#8220;save as&#8221; or similar functionality. Exporting Twitter Content to a datastore as a service or other cloud based service, however, is not permitted.</p></blockquote>
 <p>I can&#8217;t find out whether Twitter had reached out to IFTTT in the past about this, since I cannot get a statement from either company, but let&#8217;s get one thing straight, this move has nothing to do with Twitter&#8217;s new API changes, which I have felt strongly about, when it comes to constraining its usage.</p>
+<p>In this case, it seems like IFTTT didn&#8217;t want to change its ways to play by the rules, but I&#8217;d like to hear it directly from them.</p>
 <p>Facts are facts, and these are the facts.</p>
+<p>[Photo credit: <a target="_blank" href="http://www.flickr.com/photos/nolarisingproject/4800474846/">Flickr</a>]</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/vg_wp0FJqDU/">here</a>.
