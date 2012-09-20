@@ -1,5 +1,5 @@
 {
-"title" : "An Offer You Can’t Refuse? Facebook Adds Barcodes, New Ad Buying Requirement To Its Offers Coupon Product",
+"title" : "An Offer You Can’t Refuse? Facebook Adds Barcodes, New Ad-Buy Rider To Its Offers Coupon Product",
 "date" : "Thu, 20 Sep 2012 13:00:34 +0000",
 "author" : "Ingrid Lunden"
 }
