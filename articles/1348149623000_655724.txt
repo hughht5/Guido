@@ -1,0 +1,14 @@
+{
+"title" : "Pinterest Nabs Amazon Vet Jon Jenkins To Be Its New Head Of Engineering",
+"date" : "Thu, 20 Sep 2012 14:00:23 +0000",
+"author" : "Colleen Taylor"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/photo.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="photo" title="photo" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.pinterest.com">Pinterest</a> may have had its start several years back led by <a target="_blank" href="http://tech.fortune.cnn.com/2012/03/22/pinterest-silbermann-photo-sharing/">three non-technical co-founders</a>, but the company is showing that it&#8217;s serious about being an engineering powerhouse.</p>
+<p>Pinterest, which recently moved into <a href="http://techcrunch.com/2012/07/09/its-official-pinterest-mayor-ed-lee-confirm-move-to-san-francisco-lee-opens-pinterest-acct-in-celebration/">its new headquarters</a> in the heart of San Francisco, has hired Jon Jenkins to be its new head of engineering. </p>
+<p>Jenkins, 40, comes to Pinterest from Amazon, where he worked for the past eight years as an engineering lead. Most recently at Amazon, Jenkins led up the team responsible for the <a target="_blank" href="http://amazonsilk.wordpress.com/">Silk browser</a> on the <a href="http://techcrunch.com/2012/09/11/the-kindle-fire-hd-is-amazons-lean-mean-content-selling-machine/">Kindle Fire</a>. He&#8217;s also worked as a director of developer tools, director of platform analysis, and director of website platform. </p>
+<p>A company spokesperson tells me that Pinterest&#8217;s employee count is now at around 70 staff.</p>
+<p>Here&#8217;s what Pinterest says Jenkins will focus on in his new role: </p>
+<blockquote><p>
+&#8220;Jon will tackle the technical challenges of developing Pinterest into an even more useful and robust discovery tool for users and connecting millions of Pinterest users to the their interests and inspirations. Specifically, he will be responsible for leading the engineering team in its continued development of the website, managing and scaling the infrastructure that supports the service, and growing the overall technical team behind Pinterest.&#8221;</p></blockquote>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/W3QMSbi09Ow/">here</a>.
