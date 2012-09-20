@@ -1,5 +1,5 @@
 {
-"title" : "IFTTT Is The Latest Service To Be Affected By Twitter’s API Constraints, Will Remove Triggers",
+"title" : "IFTTT To Remove Twitter Triggers Due To API Constraints, Your Recipes Are Baked",
 "date" : "Thu, 20 Sep 2012 20:58:53 +0000",
 "author" : "Drew Olanoff"
 }
