@@ -5,7 +5,7 @@
 }
 
 <img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/facebook-spmd.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Facebook SPMD" title="Facebook SPMD" style="float: left; margin: 0 10px 7px 0;" /><p>Today Facebook awarded the 12 best social marketing tool and service providers with a new &#8220;Strategic Preferred Marketing Developer&#8221; distinction. The exclusive sPMD list will help brands sort through the 300 B2Bs in <a target="_blank" href="http://developers.facebook.com/preferredmarketingdevelopers/directory/">Facebook&#8217;s PMD directory</a>, and <a href="http://techcrunch.com/2012/04/18/facebook-preferred-marketing-developer/">find trusted Facebook Page and Ads optimization providers</a>.</p>
-<p>Facebook&#8217;s VP of Biz and Marketing Partnerships David Fischer announced the sPMD today at the Dreamforce conference run by Salesforce, who&#8217;s part of the sPMD club. Each member gets a seat on the sPMD council, early access to Facebook products, and extra support from Facebook&#8217;s teams, making it a lucrative distinction.</p>
+<p>Facebook&#8217;s VP of Biz and Marketing Partnerships David Fischer announced the sPMD today at the Dreamforce conference run by <a target="_blank" href="http://www.buddymedia.com/newsroom/2012/09/salesforce-marketing-cloud-named-strategic-preferred-marketing-developer-by-facebook/">Salesforce, who&#8217;s part of the sPMD club</a>. Each member gets a seat on the sPMD council, early access to Facebook products, and extra support from Facebook&#8217;s teams, making it a lucrative distinction.</p>
 <p>Here&#8217;s the full list of companies admitted to the Strategic Preferred Marketing Developer club and the services they offer is:</p>
 <ul>
 <li>Adobe (Ads, Apps, Insights, Pages)</li>
@@ -15,7 +15,7 @@
 <li>Glow (Ads)</li>
 <li>GraphEffect (Ads, Insights, Pages)</li>
 <li>Kenshoo (Ads)</li>
-<li>Nanigans (Ads)</li>
+<li><a target="_blank" href="http://www.nanigans.com/2012/09/20/facebook-names-nanigans-strategic-preferred-marketing-developer/">Nanigans</a> (Ads)</li>
 <li>Salesforce (Ads, Insights Pages)</li>
 <li>SocialCode (Ads)</li>
 <li>Spruce Media (Ads)</li>
