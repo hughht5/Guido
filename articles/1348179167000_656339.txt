@@ -13,6 +13,6 @@
 <blockquote><p>You may export or extract non-programmatic, GUI-driven Twitter Content as a PDF or spreadsheet by using &#8220;save as&#8221; or similar functionality. Exporting Twitter Content to a datastore as a service or other cloud based service, however, is not permitted.</p></blockquote>
 <p>I can&#8217;t find out whether Twitter had reached out to IFTTT in the past about this, since I cannot get a statement from either company, but let&#8217;s get one thing straight, this move has nothing to do with Twitter&#8217;s new API changes, which I have felt strongly about, when it comes to constraining its usage.</p>
 <p>In this case, it seems like IFTTT didn&#8217;t want to change its ways to play by the rules, but I&#8217;d like to hear it directly from them.</p>
-<p>Facts are facts, and these are the facts.</p>
+<p>Facts are facts, and these are the facts. While this may be a &#8220;new&#8221; Twitter when it comes to enforcing rules, this is not a case of a new rule affecting a company. Someone is in the wrong here, and it&#8217;s not Twitter.</p>
 <p>[Photo credit: <a target="_blank" href="http://www.flickr.com/photos/nolarisingproject/4800474846/">Flickr</a>]</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/vg_wp0FJqDU/">here</a>.
