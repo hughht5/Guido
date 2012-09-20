@@ -12,5 +12,5 @@
 <p><strong>Facebook For Android Improved, Too</strong></p>
 <p>While most of today&#8217;s updates are focused on Facebook Messenger, the <a target="_blank" href="https://play.google.com/store/apps/details?id=com.facebook.katana">main Android application</a> is also getting a refresh in order to mirror these same changes to the messaging component within its own interface. For example, it too, will feature the new SMS-like design for messages. There&#8217;s also a new button in the upper-right of the News Feed that will show who is able to chat, and when sending a message, the app will display who&#8217;s active so you&#8217;ll know whether or not your friend is likely to reply soon.</p>
 <p>Facebook says the app has also been made more secure and stable, having addressed various bugs like the errors some users received during multi-photo uploads, with device starts and push notifications.</p>
-<p>Both apps should be in Google Play now.</p>
+<p>Both app updates should be <a target="_blank" href="https://play.google.com/store/apps/developer?id=Facebook">in Google Play</a> now.</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/CT0XOzJzFJs/">here</a>.
