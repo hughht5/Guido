@@ -1,0 +1,11 @@
+{
+"title" : "Users Report Annoying WiFi Bug In iOS 6",
+"date" : "Thu, 20 Sep 2012 00:12:39 +0000",
+"author" : "Anthony Ha"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/ios-6-bug.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="ios 6 bug" title="ios 6 bug" style="float: left; margin: 0 10px 7px 0;" /><p>It looks like there&#8217;s been another bug in today&#8217;s launch of iOS 6. We&#8217;ve been getting multiple tips stating iOS 6 is causing a bug with users&#8217; WiFi several hours after it&#8217;s installed, and there are also <a target="_blank" href="https://twitter.com/jonsagara/status/248560781468237824/photo/1">tweets</a> and <a target="_blank" href="https://discussions.apple.com/thread/4310121?start=0&amp;tstart=0">a long discussion thread on the Apple website</a> to that effect as well.</p>
+<p>Heck, it&#8217;s already getting to the point where people are <a target="_blank" href="https://twitter.com/panzer/status/248574677008650240">making</a> <a target="_blank" href="https://twitter.com/panzer/status/248566988123807744">jokes</a>.</p>
+<p>Here&#8217;s what the basic pattern seems to be: The WiFi works all right at first, but then you&#8217;re eventually booted off. If you try to get on again, it looks like you&#8217;ve connected, but then you&#8217;re redirected to a login/404 page on the Apple website. Someone named &#8220;tylerc&#8221; on Twitter offers <a target="_blank" href="https://twitter.com/tylerc/status/248566702625923072">this explanation</a>: &#8220;Turns out iOS checks http://www.apple.com/library/test/success.html … to make sure WiFi doesn&#8217;t require login, but that page was 404&#8242;ing, so, disaster. Crazy!&#8221;</p>
+<p>When I checked this out myself, I noticed that I had been disconnected from the TechCrunch office WiFi, but once I got on again, I didn&#8217;t have any problems. TechCrunch&#8217;s Drew Olanoff had a similar experience. It also looks like Apple page in question is up again, so the issue may be resolved.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/-Pu-bMymXH0/">here</a>.
