@@ -14,7 +14,7 @@
 <p>I can&#8217;t find out whether Twitter had reached out to IFTTT in the past about this, since I cannot get a statement from either company, but let&#8217;s get one thing straight, this move has nothing to do with Twitter&#8217;s new API changes, which I have felt strongly about, when it comes to constraining its usage.</p>
 <p>In this case, it seems like IFTTT didn&#8217;t want to change its ways to play by the rules, but I&#8217;d like to hear it directly from them.</p>
 <p>Facts are facts, and these are the facts. While this may be a &#8220;new&#8221; Twitter when it comes to enforcing rules, this is not a case of a new rule affecting a company. Someone is in the wrong here, and it&#8217;s not Twitter.</p>
-<p>While I wait for a response from IFTTT on whether Twitter had reached out to them months ago about this, please enjoy fine piece of art is via <a target="_blank" href="https://twitter.com/vibhu/status/248925670040825857">Vibhu Norby</a>:</p>
+<p>While I wait for a response from IFTTT on whether Twitter had reached out to them months ago about this, please enjoy fine piece of art via <a target="_blank" href="https://twitter.com/vibhu/status/248925670040825857">Vibhu Norby</a>:</p>
 <p><a href="http://techcrunch.com/2012/09/20/ifttt-has-actually-been-in-violation-of-twitters-api-for-months-todays-move-unrelated-to-1-1/ifttttwitter/" rel="attachment wp-att-656443"></a></p>
 <p>[Photo credit: <a target="_blank" href="http://www.flickr.com/photos/nolarisingproject/4800474846/">Flickr</a>]</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/vg_wp0FJqDU/">here</a>.

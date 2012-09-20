@@ -1,0 +1,14 @@
+{
+"title" : "Clawing At Referral Traffic, Twitter Pecks At You To Chirp Tweets To Facebook",
+"date" : "Thu, 20 Sep 2012 23:32:38 +0000",
+"author" : "Ingrid Lunden"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/screen-shot-2012-09-20-at-23-27-07.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="twitter facebook callout" title="twitter facebook callout" style="float: left; margin: 0 10px 7px 0;" /><p>Twitter may be <a href="http://techcrunch.com/2012/09/20/ifttt-has-actually-been-in-violation-of-twitters-api-for-months-todays-move-unrelated-to-1-1/">slowly closing the window</a> for how some third parties can use its river of Tweets, but Twitter is also cherry picking others that might prove useful for its own traffic. And it&#8217;s using a pretty prominent call-out box to do it. This evening, I noticed on the homepage of my Twitter account, in the place where you would normally see your profile and Tweet window, a new box: &#8220;Send Tweets to Facebook,&#8221; said the call-out. &#8220;Share your Tweets with your friends on Facebook.&#8221; A button takes you to your profile page to enable that to happen.</p>
+<p>My colleague Drew told me it suddenly appeared for him, too. And it <a target="_blank" href="https://twitter.com/i/#!/search/realtime/'send%20tweets%20to%20facebook'">looks like others are seeing the same note as well</a> (none too happily, it seems).</p>
+<p>&nbsp;</p>
+<p></p>
+<p>We know, we know: the ability to send Tweets to Facebook is not new. And you may have even at some point seen this the callout panel in the past for things you haven&#8217;t done yet to your Twitter account, such as uploading a profile image, or finding your Gmail contacts.</p>
+<p>But it looks like the Facebook feature may be getting a bit more attention from Twitter right now.</p>
+<p>Reached for comment, Twitter declined to confirm whether that is the case, but in a week where we&#8217;ve seen the launch of iOS 6, the launch of a new Twitter app, and a whole bunch of Facebook updates, perhaps Twitter thought it would be a good time to get people to try out some new functionality &#8212; and maybe pick up a little referral traffic in the process, Facebook being an important driver of referral traffic for other sites (<a target="_blank" href="http://www.journalism.org/analysis_report/facebook_becoming_increasingly_important">specifically media</a>) for a while now.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/GbTehCKFXCI/">here</a>.
