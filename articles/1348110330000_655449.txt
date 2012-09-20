@@ -1,0 +1,16 @@
+{
+"title" : "The iOS 6 Maps App Takes To Twitter To Assuage Your Cartographic Grief",
+"date" : "Thu, 20 Sep 2012 03:05:30 +0000",
+"author" : "John Biggs"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/tumblr_lrfvoyabzu1qja5lgo1_500.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="tumblr_lrfvoyAbZU1qja5lgo1_500" title="tumblr_lrfvoyAbZU1qja5lgo1_500" style="float: left; margin: 0 10px 7px 0;" /><p>Over the past day or so the vituperation against the iOS 6 Maps app AKA the Maps app that makes you wish you were running Android has been rising on the blogsphere? Why? Well the app is kind of wonky, it doesn&#8217;t have StreetView, and it looks and feels like a twee designers vision of a ratty road atlas &#8211; hard to read yet surprisingly calming.</p>
+<p>A new Twitter account <a target="_blank" href="https://twitter.com/iOS6maps">@iOS6maps</a> is offering a bit of levity by Tweeting out things that we can assume the Apple Maps team would say.</p>
+<p></p>
+<p><br />
+</p>
+<p>Sadly, not everyone gets the joke:</p>
+<blockquote class='twitter-tweet'><p>Really apple?disgusting &quot;@<a href="https://twitter.com/iOS6maps">iOS6maps</a>: we left out transit directions because only losers take public transport. All iPhone owners drive BMWs&mdash; <br />fadjri mohammad (@fadjri) <a href='http://twitter.com/#!/fadjri/status/248596372549431296' data-datetime='2012-09-20T01:36:08+00:00'>September 20, 2012</a></p></blockquote>
+<p>I am honestly not a huge fan of the new Maps either &#8211; turn by turn directions can sometimes go painfully awry and many of the complaint are valid. It&#8217;s nice to see a bit levity here.</p>
+<p>UPDATE &#8211; Just before I published this, Twitter suspended the account. It really warms the heart to see a vanguard of interaction and free speech come down this hard on a parody account. Watch out, <a target="_blank" href="http://twitter.com//niceryanlawler">@niceryanlawler</a>. You&#8217;re next.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/uhDESJp5L9c/">here</a>.
