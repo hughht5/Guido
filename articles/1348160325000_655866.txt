@@ -1,5 +1,5 @@
 {
-"title" : "Sorry Amazon, Walmart Is Done Selling Your E-Readers Once And For All",
+"title" : "Sorry Amazon, Walmart Is Done Selling Your E-Readers For You",
 "date" : "Thu, 20 Sep 2012 16:58:45 +0000",
 "author" : "Chris Velazco"
 }
