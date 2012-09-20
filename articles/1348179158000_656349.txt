@@ -1,0 +1,22 @@
+{
+"title" : "Looxcie’s Newest Wearable Camera Finally Makes The Leap To HD",
+"date" : "Thu, 20 Sep 2012 22:12:38 +0000",
+"author" : "Chris Velazco"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/looxciehd.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="looxciehd" title="looxciehd" style="float: left; margin: 0 10px 7px 0;" /><p>For reasons I&#8217;ve never been able to discern, some people really seem to get a kick out of sharing every bit of banal minutia that peppers their daily lives. </p>
+<p>Should you happen to fall into that category (and if so, <em>why?</em>), you may be glad to know that the folks at <a target="_blank" href="http://www.looxcie.com">Looxcie</a> have just announced the Looxcie HD, a new addition to its long-running series of super-portable video cameras.</p>
+<p>The basics remain the same as just about every other Looxcie model before it &#8212; the HD can connect to iOS and Android smartphones (running the companion app, naturally) via Bluetooth, and can transfer recorded video snippets to them for easier distribution. As the name suggests, the biggest new addition for the dedicated lifecasters among you is the ability to record video in full 1080p, a far cry from the 480p video that its predecessors were capable of capturing. Also new to the package is the inclusion of a Wi-Fi radio, as well as improved low-light performance for when those late night raves just beg to be captured on video.</p>
+<p>A recent update to the service saw the addition of <a href="http://techcrunch.com/2012/08/28/looxcies-lifecasting-mobile-apps-graduate-from-beta-with-nifty-facebook-integration-in-tow/">live broadcasting to Facebook</a> and other Looxcie users, but the video quality for live streaming takes a hit &#8212; resolution still tops out at 480p for that, but that&#8217;s arguably a small price to pay when you get to live-stream your daring trip through the mall food court. C&#8217;est la vie, I suppose.</p>
+<p>What really leaps out at me is just how big the Looxcie HD is compared to its forebears. While previous iterations of the Looxcie hardware were small enough to fit only somewhat cumbersomely on a person&#8217;s ear, the new HD model is (sadly) just big enough to make that unfeasible. Still, there are some upsides to be found: the newly-designed enclosure is weather-resistant, and it houses a larger battery (1200mAh, to be precise) than the model that came before it. The HD is actually more reminiscent of devices like the GoPro series these days, but that&#8217;s hardly a bad thing unless you were <em>really</em> keen on strapping one of these to your head.</p>
+<p>If the concept of sticking a camera on your baseball cap and taking on the world has piqued your interest, the Looxcie HD is now up for preorder &#8212; prices start at $279, and jumps pretty quickly depending on the mount package that catches your eye.</p>
+
+<a href='http://techcrunch.com/2012/09/20/looxcie-hd-wearable-camera/looxciehd/' title='looxciehd'></a>
+<a href='http://techcrunch.com/2012/09/20/looxcie-hd-wearable-camera/looxciehd1/' title='looxciehd1'></a>
+<a href='http://techcrunch.com/2012/09/20/looxcie-hd-wearable-camera/looxciehd2/' title='looxciehd2'></a>
+<a href='http://techcrunch.com/2012/09/20/looxcie-hd-wearable-camera/looxciehd3/' title='looxciehd3'></a>
+<a href='http://techcrunch.com/2012/09/20/looxcie-hd-wearable-camera/looxciehd4/' title='looxciehd4'></a>
+<a href='http://techcrunch.com/2012/09/20/looxcie-hd-wearable-camera/looxciehd5/' title='looxciehd5'></a>
+<a href='http://techcrunch.com/2012/09/20/looxcie-hd-wearable-camera/looxciehd6/' title='looxciehd6'></a>
+
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/Std1f2U6x4k/">here</a>.
