@@ -1,5 +1,5 @@
 {
-"title" : "Woz Watch: Steve Wozniak Waiting For One Of The First iPhone 5′s in Australia",
+"title" : "Woz Watch: Steve Wozniak Waiting For One Of The First iPhone 5′s In Australia",
 "date" : "Thu, 20 Sep 2012 19:31:23 +0000",
 "author" : "Jon Orlin"
 }
