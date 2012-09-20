@@ -1,0 +1,12 @@
+{
+"title" : "Everyme Has A New Project: Origami, A Private Sharing Service For Families",
+"date" : "Thu, 20 Sep 2012 17:02:33 +0000",
+"author" : "Anthony Ha"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/origami-logo.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="origami logo" title="origami logo" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.everyme.com">Everyme</a>, the Y Combinator-backed startup offering <a href="http://techcrunch.com/2012/04/10/everyme-launch/">an app for sharing content with private social circles</a>, is announcing today a new product called <a target="_blank" href="http://www.origami.com">Origami</a>, which customizes the private sharing concept for a specific group — families.</p>
+<p>Co-founder and CEO Oliver Cameron says the startup isn&#8217;t abandoning the Everyme product. In fact, it <a target="_blank" href="https://play.google.com/store/apps/details?id=com.everyme.mobile.android&amp;hl=en">just launched a version for Android tablets</a>. However, Cameron says the team will be focusing on Origami for the next few months before turning its attention back to Everyme — with just six people, trying to work on both apps concurrently would be a strain. (He&#8217;s also hoping to hire more people. After all, Everyme just <a href="http://techcrunch.com/2012/08/31/everyme-tencent/">raised funding from Tencent and others</a>.) He adds that if Origami turns into an enormous hit, then it might not make sense to continue supporting Everyme.</p>
+<p>So why build a family-specific product? The response to Everyme suggested that there was real interest in private sharing from families, Cameron says, but he felt that use case &#8220;deserves it&#8217;s own product.&#8221; Origami isn&#8217;t launching today, just looking for testers, so Cameron is a bit cagey about the product details, but he suggests that he&#8217;s found a solution to one of the big challenges facing a product like this — convincing non tech-savvy users to sign up.</p>
+<p>Cameron also says that many of the existing family-focused services are &#8220;terrible, terrible products.&#8221;</p>
+<p>if you&#8217;re interested in testing the Origami product, <a target="_blank" href="https://origami.com/techcrunch">you can sign up here</a>. (It&#8217;s a special page for TechCrunch readers.)</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/ox7gtx-rVzs/">here</a>.
