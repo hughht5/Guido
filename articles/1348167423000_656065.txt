@@ -1,8 +1,9 @@
 {
-"title" : "iOS 6 Already On 15% Of Device 24 Hours After Release",
+"title" : "iOS 6 Already On 15% Of Device 24 Hours After Release, Compared To 20% After 5 Days For iOS 5",
 "date" : "Thu, 20 Sep 2012 18:57:03 +0000",
 "author" : "Darrell Etherington"
 }
 
 <img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/ios6-adoption.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="ios6-adoption" title="ios6-adoption" style="float: left; margin: 0 10px 7px 0;" /><p>A new report just released by ad network and data analytics firm <a target="_blank" href="http://chitika.com/about">Chitika</a> says that Apple&#8217;s iOS 6 has already been adopted by 15% of eligible iPhone, iPod touch and iPad users, just 24 hours after the operating system&#8217;s release. The over-the-air nature of the update no doubt helped with that rate of adoption. Chitika also notes that the rate is much higher than Google experienced with its Jelly Bean update, which was on only 1.5% of devices after two full months.</p>
+<p>The quick adoption curve was a likely outcome, given that Apple experienced <a href="http://techcrunch.com/2012/09/20/apples-ios-6-causes-massive-traffic-spike-signals-high-early-adoption-despite-maps-issues/" title="Apple’s iOS 6 Causes Massive Traffic Spike, Signals High Early Adoption Despite Maps Issues">massive increases in web traffic</a> alongside the release. Another comparison point: iOS 5 took around <a target="_blank" href="http://insights.chitika.com/2011/ios5-breaks-into-the-market-with-record-numbers/">five days to account for just over 20 percent of overall iOS traffic</a> on Chitika&#8217;s network.</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/Z2ARc0yohSg/">here</a>.
