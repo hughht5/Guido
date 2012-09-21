@@ -1,0 +1,12 @@
+{
+"title" : "RIM CEO Apologizes For Yet Another BlackBerry Outage, Details How Many Users Affected",
+"date" : "Fri, 21 Sep 2012 16:25:01 +0000",
+"author" : "Natasha Lomas"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/sadberry11.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="sadberry1" title="sadberry1" style="float: left; margin: 0 10px 7px 0;" /><p>Thorsten Heins, RIM&#8217;s President and CEO, has put out a statement apologising for <a href="http://techcrunch.com/2012/09/21/blackberry-outage-strikes-emea-on-iphone-5-launch-day-ouch-thats-gotta-hurt/">the network outage</a> that struck BlackBerry users in Europe, the Middle East and Africa this morning.</p>
+<p>Heins revealed the service outage lasted up to three hours and that up to six per cent of the company&#8217;s user base were affected.</p>
+<p>Here&#8217;s the statement in full</p>
+<blockquote><p>&#8220;I want to apologize to those BlackBerry customers in Europe and Africa who experienced an impact in their quality of service earlier this morning. The BlackBerry service is now fully restored and I can report that no data or messages were lost. Up to 6 per cent of our user base may have been impacted. Preliminary analysis suggests that those customers may have experienced a maximum delay of 3 hours in the delivery and reception of their messages. We are conducting a full technical analysis of this quality of service issue and will report as soon as it concludes. I again want to apologize to those customers who were impacted today.&#8221;</p></blockquote>
+<p>Refresh for updates&#8230;</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/1Gs6aQVfZ-s/">here</a>.
