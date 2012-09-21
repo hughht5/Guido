@@ -1,5 +1,5 @@
 {
-"title" : "BlackBerry Outage Strikes EMEA On iPhone 5 Launch Day: Ouch — That’s Gotta Hurt (Updated)",
+"title" : "BlackBerry Outage Strikes EMEA On iPhone 5 Launch Day: Ouch — That’s Gotta Hurt",
 "date" : "Fri, 21 Sep 2012 10:34:48 +0000",
 "author" : "Natasha Lomas"
 }
@@ -13,5 +13,4 @@
 <p>After last year&#8217;s network blackout RIM said it would be performing &#8220;root cause analysis&#8221; to determine why its back-up didn&#8217;t perform as expected, and auditing its network infrastructure to find out why it took so long to recover.</p>
 <p>Developing&#8230;</p>
 <p><strong>Update: </strong>A spokeswoman for RIM has told TechCrunch that BlackBerry services have been restored &#8212; and provided the following statement: &#8220;Our apologies to any customers impacted by the BlackBerry service issue today. We can confirm that services have been restored and are now operating normally.&#8221;</p>
-<p><strong>Update: </strong>RIM CEO and President, Thorsten Heins, has now issued the following statement &#8212; including details on the scope of the outage: &#8220;I want to apologize to those BlackBerry customers in Europe and Africa who experienced an impact in their quality of service earlier this morning. The BlackBerry service is now fully restored and I can report that no data or messages were lost. Up to 6 per cent of our user base may have been impacted. Preliminary analysis suggests that those customers may have experienced a maximum delay of 3 hours in the delivery and reception of their messages. We are conducting a full technical analysis of this quality of service issue and will report as soon as it concludes. I again want to apologize to those customers who were impacted today.&#8221;</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/5eT3SL4hmrQ/">here</a>.
