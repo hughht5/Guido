@@ -15,6 +15,8 @@
 <p><strong>Update</strong>: And here&#8217;s a Facebook spokesperson&#8217;s positive response to the DPC report:</p>
 <blockquote><p>&#8220;As our regulator in Europe, the Irish Office of the Data Protection Commissioner is constantly working with us to ensure that we keep improving on the high standards of control that we have built into our existing tools.</p>
 <p>&#8220;This audit is part of an ongoing process of oversight, and we are pleased that, as the Data Protection Commissioner said, the latest announcement is confirmation that we are not only compliant with European data protection law but we have gone beyond some of their initial recommendations and are fully committed to best practice in data protection compliance.&#8221;</p></blockquote>
+<p>He also notes that FB will be revisiting facial recognition when it figures out how to square it with the regulators:</p>
+<blockquote><p>&#8220;It’s worth us reiterating that once we have a agreed an approach on the best way to notify and educate users with the DPC, we hope to bring back this useful tool.&#8221;</p></blockquote>
 <iframe class="scribd_iframe_embed" src="http://www.scribd.com/embeds/106560877/content?start_page=1&view_mode=&access_key=key-88lko4xgjw0wbyykbf9" data-auto-height="true" scrolling="no" id="scribd_106560877" width="100%" height="500" frameborder="0"></iframe>
 <div style="font-size:10px;text-align:center;width:100%"><a href="http://www.scribd.com/doc/106560877">View this document on Scribd</a></div>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/SXBY4cUOixk/">here</a>.
