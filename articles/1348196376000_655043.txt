@@ -1,0 +1,13 @@
+{
+"title" : "Space Time Insight: Analyzing Data From Sensors, Power Grids and Weather Feeds",
+"date" : "Fri, 21 Sep 2012 02:59:36 +0000",
+"author" : "Alex Williams"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/sti1.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="sti" title="sti" style="float: left; margin: 0 10px 7px 0;" /><p>Earlier this week, <a target="_blank" href="http://www.spacetimeinsight.com/">Space-Time Insight</a>  raised $14 million to further develop its geospatial and visual analytics software.</p>
+<p>The Series B round brings STI&#8217;s total to $t16 million. <a target="_blank" href="http://www.enertechcapital.com/">EnerTech Capital</a>, <a target="_blank" href="http://novusenergypartners.com/">Novus Energy Partners</a>, and ClearSky Power &amp; Technology Fund, join existing investors, <a target="_blank" href="http://www.opuscapitalventures.com/">Opus Capital Ventures</a> and <a target="_blank" href="http://startupfarms.com/">Start Up Farms International (SUFI)</a>, in this round of financing.</p>
+<p>STI takes disparate data sets to create models for real-time analysis. Its primary customers are in the energy and utility markets. Data from internl systems is combined with data from sensors and meters. Other data may include weather feeds that it can add to the model to provide real-time analysis.</p>
+<p>Just think of all the data that flows across the energy grid. TSI shows the data from that energy on maps and visual displays. Its value is evident in the energy market but you can see how it could be of use in other industries that have billions in assets over widely distributed regions. </p>
+<p>STI is the kind of company that reminds me of the work IBM is doing with the deployment of data networks across public infrastructure such as Washington D.C&#8217;s municipal water system. </p>
+<p>Increasingly we are seeing how the Internet of Things is becoming embedded into our infrastructure. STI represents a new generation of companies that will derive intelligence by analyzing the data from the machines that are part of the way we live and work.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/rVFRX1PvKBA/">here</a>.
