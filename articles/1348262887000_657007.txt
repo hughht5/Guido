@@ -1,5 +1,5 @@
 {
-"title" : "You Might Be Able To Download All Your Tweets By End Of The Year",
+"title" : "You Might Be Able To Download Your Tweets By The End Of The Year",
 "date" : "Fri, 21 Sep 2012 21:28:07 +0000",
 "author" : "Gregory Ferenstein"
 }
