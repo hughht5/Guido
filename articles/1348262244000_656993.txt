@@ -1,0 +1,13 @@
+{
+"title" : "Twitter’s Dick Costolo Wants You (And IFFFT) To Stop Blaming Twitter’s API Changes For Everything",
+"date" : "Fri, 21 Sep 2012 21:17:24 +0000",
+"author" : "Anthony Ha"
+}
+
+<p>Twitter CEO Dick Costolo, who was <a target="_blank" href="http://ona12.journalists.org/sessions/keynote-conversation-dick-costolo-and-emily-bell/">speaking today at the Online News Association conference and awards</a>, was asked to respond to the controversy over Twitter&#8217;s recent API changes, particularly the news yesterday that aggregation and discovery startup <a href="http://techcrunch.com/2012/09/20/ifttt-is-the-latest-service-to-be-affected-by-twitters-api-constraints-will-remove-triggers/">IFTTT was removing certain features</a>.</p>
+<p>Costolo&#8217;s response? First, he said he didn&#8217;t want to be &#8220;flip,&#8221;. Then he said, flippantly, &#8220;It&#8217;s become a little bit of, &#8216;I didn&#8217;t get my homework done because Twitter changed their API.&#8217;&#8221; In fact, he said the changes at IFTTT had &#8220;absolutely nothing to do with any changes of our API.&#8221;</p>
+<p>We went into these issues in an earlier post, where wrote that <a href="http://techcrunch.com/2012/09/20/ifttt-has-actually-been-in-violation-of-twitters-api-for-months-todays-move-unrelated-to-1-1/">IFTTT appears to have been in violation for Twitter&#8217;s API for months</a>.</p>
+<p>Beyond the specific details of the IFTTT situation, Costolo was also asked if Twitter could have done a better job communicating the  API changes, which have certainly prompted their share of criticism.</p>
+<p>&#8220;If there are people who think we&#8217;ve done a bad job of communicating these changes and why we&#8217;ve made them, then it doesn&#8217;t matter whether I think we&#8217;ve done a good job,&#8221; he said. (In other words, if people think Twitter has done a bad job communicating, then it has probably done a bad job communicating.)</p>
+<p>At the same time, he pushed back against some of the criticism, including Anil Dash&#8217;s attempt to lay out how Twitter&#8217;s announcement should have been worded. Costolo said that Twitter did reach out to a number of developers ahead of the announcement for feedback, and Dash&#8217;s &#8220;rewritten post doesn&#8217;t communicate a bunch of things that developers said they carte about.&#8221; Costolo argued that &#8220;these things are always more complex than they sound&#8221; and he doesn&#8217;t intend to throw someone &#8220;under the bus&#8221; because the blog post was controversial.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/P-H57FUetiU/">here</a>.
