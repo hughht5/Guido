@@ -1,0 +1,12 @@
+{
+"title" : "YouTube Testing Feature To Quiz You While You’re Watching A Video",
+"date" : "Fri, 21 Sep 2012 01:30:19 +0000",
+"author" : "Anthony Ha"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/youtube-questions.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="youtube questions" title="youtube questions" style="float: left; margin: 0 10px 7px 0;" /><p>YouTube videos may soon be getting a little more interactive. There&#8217;s now <a target="_blank" href="http://www.youtube.com/video_questions_beta">a page on the YouTube website</a> describing a feature called &#8220;Video Questions Editor Beta,&#8221; which was <a target="_blank" href="http://www.websonic.nl/nieuws/youtube-video-questions-editor-beta-42855">spotted by the Dutch tech site WebSonic.nl</a>.</p>
+<p>The page itself is pretty bare-bones, but it describes the feature as a way for &#8220;multiple questions to be displayed on top of your video during playback that a viewer can answer.&#8221; So video producers can add an interactive element to their content — imagine adding little quizzes to an educational video, or introducing product questions to a video ad.</p>
+<p>I actually managed to sign-up my (pretty much nonexistent) YouTube account for the beta, and you can see the question editor above. It&#8217;s pretty straightforward — you just enter the question you want to ask, the point in the video when it should appear, and the answers that a viewer can choose from. You can also identify one of the answers as the correct one, and offer a hint if the viewers guess incorrectly. Afterwards, you can view a summary of the answers on your analytics page.</p>
+<p>The beta page does caution that this really is just something YouTube is testing: &#8220;There is no plan for long-term support of the feature and may be removed at any time without prior notification.&#8221; I&#8217;ve emailed the company for comment and will update if I hear back.</p>
+<p>[<em>Thanks to WebSonic's Michel Wester for the heads up.</em>]</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/KMZDpx-eRnY/">here</a>.
