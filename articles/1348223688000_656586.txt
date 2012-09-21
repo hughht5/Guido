@@ -12,4 +12,5 @@
 <p>Vodafone did confirm the outage started around 6AM (BST). It also provided the following statement:  &#8221;We are aware that some customers are experiencing problems using BlackBerry services such as email, internet and BBM in Europe, Middle East and Africa.  RIM are working on fixing this as a priority and we are in regular communication with them.  We expect updates shortly.&#8221;</p>
 <p>After last year&#8217;s network blackout RIM said it would be performing &#8220;root cause analysis&#8221; to determine why its back-up didn&#8217;t perform as expected, and auditing its network infrastructure to find out why it took so long to recover.</p>
 <p>Developing&#8230;</p>
+<p><strong>Update: </strong>A spokeswoman for RIM has told TechCrunch that BlackBerry services have been restored &#8212; and provided the following statement: &#8220;Our apologies to any customers impacted by the BlackBerry service issue today. We can confirm that services have been restored and are now operating normally.&#8221;</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/5eT3SL4hmrQ/">here</a>.
