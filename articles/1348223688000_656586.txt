@@ -1,0 +1,15 @@
+{
+"title" : "BlackBerry Outage Strikes EMEA On iPhone 5 Launch Day: Ouch — That’s Gotta Hurt",
+"date" : "Fri, 21 Sep 2012 10:34:48 +0000",
+"author" : "Natasha Lomas"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/sadberry1.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="sadberry1" title="sadberry1" style="float: left; margin: 0 10px 7px 0;" /><p>A network outage has struck BlackBerry users in the EMEA region this morning &#8212; on, irony of ironies, iPhone 5 launch day &#8212; affecting BBM, email and internet but not voice or text.  Fall is a troublesome season for the company which experienced <a href="http://techcrunch.com/2011/10/13/blackberry-service-is-restored-as-rim-co-ceos-field-questions/">the largest outage in its network&#8217;s history</a> last October, causing then co-CEO Mike Lazaridis <a target="_blank" href="http://www.youtube.com/watch?v=zQ1esvGae_s">to appear on YouTube</a> in person to present an excruciating autocue apology for letting customers down (a video that appears to have since been removed).</p>
+<p>RIM confirmed the outage in <a target="_blank" href="https://twitter.com/UK_BlackBerry/status/249070151272628224">a tweet</a> this morning, noting: &#8220;Some users in Europe, Middle East &amp; Africa are experiencing issues with their BlackBerry service&#8221;. A follow up tweet added: &#8220;We are investigating and apologise for any inconvenience.&#8221;</p>
+<p>At the time of writing RIM was unable to provide specific details of the cause of the outage, which TechCrunch understands is still ongoing.</p>
+<p>&#8220;We are currently experiencing a BlackBerry service issue impacting some users in Europe, Middle East &amp; Africa. All relevant support teams are working to resolve the issue. We apologize to any customers who may be affected,&#8221; it said in a statement.</p>
+<p>U.K. newspaper, <a target="_blank" href="http://www.telegraph.co.uk/technology/blackberry/9557505/Vodafone-customers-suffer-BlackBerry-blackout.html">The Telegraph</a>, reported the outage as affecting only Vodafone customers &#8212; but the carrier was unable to confirm this.</p>
+<p>Vodafone did confirm the outage started around 6AM (BST). It also provided the following statement:  &#8221;We are aware that some customers are experiencing problems using BlackBerry services such as email, internet and BBM in Europe, Middle East and Africa.  RIM are working on fixing this as a priority and we are in regular communication with them.  We expect updates shortly.&#8221;</p>
+<p>Developing&#8230;</p>
+<p>&nbsp;</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/5eT3SL4hmrQ/">here</a>.
