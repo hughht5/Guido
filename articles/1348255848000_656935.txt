@@ -4,7 +4,7 @@
 "author" : "Mg Siegler"
 }
 
-<p>For the rest of today, every story you read in TechCrunch&#8217;s main news river will contain words.</p>
+<p>For the rest of today, every story you read in TechCrunch&#8217;s main news river will contain words<a target="_blank" href="http://venturebeat.com/2012/09/21/welcome-to-venturebeats-reporting-driven-friday/">.</a></p>
 <p>This is an experiment, and it’s probably less of a risk than it might look. Words have always been central to TechCrunch&#8217;s approach. In fact, a huge number of our stories on any given day already include original words. Our word people call sources, check facts, and get words said to them for a large proportion of our stories.</p>
 <p>But like most other tech news sites, we also use words for stories that other sites have used, sometimes without adding words of our own. We figure there are words you want to know about and which we can add some perspective on, even if we haven’t done the wording ourselves. The trouble is that sometimes it’s hard to find the words, so you, the reader, don’t necessarily know what’s original to us.</p>
 <p>Today, we’re going to refrain from doing that. Every story in our news feed today will include words we’ve done ourselves.</p>
