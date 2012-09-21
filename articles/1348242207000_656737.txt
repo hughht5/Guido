@@ -1,0 +1,33 @@
+{
+"title" : "TechCrunch’s Picks From The ERA Demo Day In New York",
+"date" : "Fri, 21 Sep 2012 15:43:27 +0000",
+"author" : "Jordan Crook"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/era.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="era" title="era" style="float: left; margin: 0 10px 7px 0;" /><p>We&#8217;re here at the ERA Demo Day in New York City, set to bring you the latest and greatest new startups to launch out of the program. In case you&#8217;re unfamiliar, ERA stands for Entrepreneurs&#8217; Roundtable Accelerator, and it&#8217;s a relatively new incubator compared to Y Combinator and 500 Startups.</p>
+<p>The companies presenting are all quite different, but after meeting with a few of them and seeing them on stage, we&#8217;ve selected a few of our favorites for your reading pleasure.</p>
+<p>Without any further ado, these are TechCrunch&#8217;s picks from the 2012 Summer ERA Demo Day:</p>
+<h3>Jetaport</h3>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/09/jetaport-logo-final_high-res-white-back.jpeg" rel="lightbox[656737]"></a>Jetaport wants to make a trip with your friends less of a hassle. The main idea is that you log in, add your friends through Facebook, and begin planning your next vacation. Through a partnership with Expedia, the site lets users book their trips, which are then available for everyone in the group to see. Each user has their own itinerary, and members of the group are notified when plans change or ideas are thrown out.</p>
+<p>The company is currently in prototype phase, as they&#8217;re working on revamping the user interface, and will launch a closed beta in the next three to four weeks. In the meantime, they&#8217;re working on raising $500,000.</p>
+<p>Jetaport is currently taking invitation requests <a target="_blank" href="https://jetaport.com/">here</a>.</p>
+<h3>HealthyChic</h3>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/09/screen-shot-2012-09-21-at-11-56-42-am.png" rel="lightbox[656737]"></a>HealthyChic is to Yoga what Fab.com is to design. The service aims to be your one-stop ecommerce shop for all things Yoga. The brands are curated by 20 different Yoga ambassadors, including Master Yoga instructors and even Heidi Klum&#8217;s Yoga instructor, who help choose which products and brands might be most appealing to Yogis while shopping. Products on the site range from clothing, to nutritional supplies, to wellness accessories and inspirational braceletes, and even include various gadgets like pedometers.</p>
+<p>The company is bootstrapped and seed funded by ERA, with over 150 vendors signed up on the platform. HealthyChic is looking to raise a $1 million round following today&#8217;s launch. You can access the site <a target="_blank" href="http://www.healthychic.com/">here</a>.</p>
+
+<a href='http://techcrunch.com/?attachment_id=656749' title='healthychic2'></a>
+<a href='http://techcrunch.com/?attachment_id=656750' title='healthychicscreen1'></a>
+
+<h3>MXHero</h3>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/09/screen-shot-2012-09-21-at-11-57-30-am.png" rel="lightbox[656737]"></a>MXHero wants to fix email, specifically for the enterprise. It&#8217;s a SaaS product, that essentially infiltrates your email to let you do things you didn&#8217;t quite think were possible on such an ancient — yes, ancient — platform. You can send emails of any size to anyone, manage email signatures based on your email directory, and track attachments, allowing you see when someone&#8217;s opened up your doc or jpg.</p>
+<p>Users can also send a reply timeout, reminding senders when emails haven&#8217;t been responded to in a certain period of time. And you can block the use of BCC, to boot. The service is live now and can be found <a target="_blank" href="http://www.mxhero.com/">here</a>.</p>
+
+<a href='http://techcrunch.com/?attachment_id=656764' title='GappsFootersTitleBig'></a>
+<a href='http://techcrunch.com/?attachment_id=656765' title='mxheroAttach'></a>
+
+<h3>Bizodo</h3>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/09/bizodo.png" rel="lightbox[656737]"></a>Bizodo is a bit like Dropbox on steroids. The service essentially lets you update any Word doc or PDF and automatically convert that document to a dynamic web document. From there, users can send it back and forth between the two of them, or forward along to a client or what have you. But that&#8217;s not the good part. The service actually lets you eSign documents and complete forms, essentially leaving what&#8217;s left of the printer age in the dust.</p>
+<p>Bizodo raised a seed round of $475,000 before joining ERA. The site can be found <a target="_blank" href="http://bizodo.com/">here</a>.</p>
+<span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/09/21/techcrunchs-picks-from-the-era-demo-day-in-new-york/"></a></span>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/09/eralogo.jpg" rel="lightbox[656737]"></a></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/PqhbcOUv8aE/">here</a>.
