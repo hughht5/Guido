@@ -1,0 +1,17 @@
+{
+"title" : "Great Mobile Apps Are Remote Controls For Real Life",
+"date" : "Fri, 21 Sep 2012 17:00:21 +0000",
+"author" : "Matt Cohler"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/remote1.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="remote" title="remote" style="float: left; margin: 0 10px 7px 0;" /><p><strong>Editor&#8217;s note:</strong> <em>Matt Cohler is a General Partner at <a title="Benchmark Capital" target="_blank" href="http://www.crunchbase.com/financial-organization/benchmark-capital">Benchmark Capital</a>. He’s responsible for identifying investment opportunities in Internet-related companies in addition to working closely with companies across the firm’s portfolio. You can follow him on Twitter <a target="_blank" href="https://twitter.com/mattcohler">here</a>. </em></p>
+<p>I wrote a <a target="_blank" href="http://www.quora.com/Matt-Cohler/Mobile/Mobile-is-here-at-last">Quora post</a> the other day saying that mobile is just now becoming the most important platform and that winners and patterns are just starting to emerge.</p>
+<p>As I mentioned recently in an interview with Michael Arrington at <a href="http://techcrunch.com/2012/09/11/benchmarks-matt-cohler-no-new-investments-in-2012/">TechCrunch Disrupt</a>, one of the patterns that&#8217;s emerging in mobile is this: <strong>Great mobile apps act like push-button remote controls for real life.</strong></p>
+<p>Check out this television remote control. Doesn&#8217;t it remind you of how a user interacts with a mobile smartphone?</p>
+<p><a href="http://techcrunch.com/?attachment_id=656740" rel="attachment wp-att-656740"></a></p>
+<p>Two important elements of a remote control are that the user only needs to push a button to make something happen and that the user can easily and fully use the device with just one hand.</p>
+<p>These same two elements are present in great mobile apps. But while traditional remote controls only have the power to change the channel, mobile devices have the power to make things happen in the real world. Great mobile apps are like magical remote controls for life: push a button and something amazing happens in the user&#8217;s world.</p>
+<p>Some great examples of this are Instagram, GrubHub, and Uber, companies in which Benchmark was an early investor. Instagram enables you to create and share a beautiful photo&#8230;just by pushing a button. GrubHub enables you to order dinner and have it show up at your door&#8230;just by pushing a button. Uber enables you to have a car come pick you up and take you anywhere you want to go&#8230;<a target="_blank" href="http://37signals.com/svn/posts/3246-ubers-magic-a-ride-not-a-transaction">just by pushing a button</a>.</p>
+<p>When an app enables a user to push a button and make something amazing happen in the world, and when that app is designed well enough to let the user create that magic with just one hand, then something really interesting is going on.</p>
+<p><em>A version of this post originally appeared on Quora.</em></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/ddY3pukcMhE/">here</a>.

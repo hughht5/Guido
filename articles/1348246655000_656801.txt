@@ -1,5 +1,5 @@
 {
-"title" : "Meet CrunchScroll, A One Stop Shop For All Things TechCrunch Powered By RebelMouse",
+"title" : "Meet CrunchScroll, A One-Stop Shop For All Things TechCrunch Powered By RebelMouse",
 "date" : "Fri, 21 Sep 2012 16:57:35 +0000",
 "author" : "Drew Olanoff"
 }
