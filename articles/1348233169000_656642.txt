@@ -1,0 +1,19 @@
+{
+"title" : "Chinese Ecommerce Giant Alibaba Spins Off Aliyun Mobile OS Team, Puts $200m In Their Pockets",
+"date" : "Fri, 21 Sep 2012 13:12:49 +0000",
+"author" : "Natasha Lomas"
+}
+
+<img width="100" height="50" src="http://tctechcrunch2011.files.wordpress.com/2011/12/alibaba.png?w=100&amp;h=50&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="alibaba" title="alibaba" style="float: left; margin: 0 10px 7px 0;" /><p>Chinese web and eCommerce giant Alibaba will spin off the team developing Aliyun, its first mobile OS, <a target="_blank" href="http://uk.reuters.com/article/2012/09/21/uk-alibaba-aliyun-idUKBRE88K05Q20120921">Reuters is reporting</a>.</p>
+<p>This is the OS that Google claims is an inappropriate fork of Android (a fork too far?). Mountain View&#8217;s main beef is that Aliyun is incompatible with Android but could easily be compatible, although you&#8217;re skating on pretty thin ice when you&#8217;re apparently a fully paid up member of the open source club &#8212; more on all the various <a href="http://techcrunch.com/2012/09/14/alibaba-vp-in-response-to-google-smackdown-will-someone-please-ask-google-to-define-android/">ins and outs here</a>.</p>
+<p>News of the spin off came in an internal memo sent yesterday by Alibaba CEO Jack Ma. <a target="_blank" href="http://www.techinasia.com/alibaba-spins-off-aliyun-invests-200-million/">TechInAsia</a> obtained the memo which follows in full.</p>
+<p>Ma&#8217;s talk of strengthening Aliyun&#8217;s &#8220;talent base, technology, and infrastructure&#8221; is interesting in light of the Google fracas. Whether it means Aliyun will try to fork even further away from Android, or snuggle closer to ensure compatibility is unclear.</p>
+<p>We&#8217;ve reached out to Alibaba for an official comment and will update if we hear more.</p>
+<blockquote><p>After two years of hard work mixed with trials, we have seen significant progress in the Aliyun OS business. We have built a strong team and also gained recognition from our business partners. To better safeguard the healthy growth of Aliyun OS business and further implement the [Alibaba] Group’s Aliyun wireless strategy, we need to make adjustments  in terms of talent, organizational structure and the Group’s resource allocation.</p>
+<p>The management is making the following decisions:</p>
+<p>1. The Aliyun OS business will spin off from Alibaba Cloud Computing [Alicloud/Aliyun] as an independent operation.</p>
+<p>2. Jonathan Lu [Lu Zhaoxi] will be appointed chief data officer and president of the Aliyun OS business; Wang Jian will be appointed chairman and chief technology officer of the Aliyun OS business and will continue to serve concurrently as chief technology officer of Alibaba Group.</p>
+<p>3. The company will invest US$200 million into the Aliyun OS business, to strengthen its talent base, technology, and infrastructure.</p>
+<p>Fellow Aliren [Alibaba employees], the company has a lot to strive for and a long way to go. Thank you to everyone that has made contributions to the development of Aliyun OS. I believe that the Aliyun OS business will be better than ever with all your support.</p></blockquote>
+<p><strong>Update: </strong>Alibaba has confirmed the memo is genuine but is not making an official comment on the move at this time.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/Vx99woWvMMk/">here</a>.
