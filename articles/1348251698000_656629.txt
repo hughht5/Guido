@@ -1,5 +1,5 @@
 {
-"title" : "The Best Apps Optimized And Ready For Your New iPhone 5",
+"title" : "The Best Apps Optimized And Ready For Your New iPhone 5: Evernote, Tweetbot, Tiny Tower And More",
 "date" : "Fri, 21 Sep 2012 18:21:38 +0000",
 "author" : "Darrell Etherington"
 }
