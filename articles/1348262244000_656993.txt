@@ -1,5 +1,5 @@
 {
-"title" : "Twitter’s Dick Costolo Wants You (And IFFFT) To Stop Blaming Twitter’s API Changes For Everything",
+"title" : "Twitter’s Dick Costolo Wants You (And IFTTT) To Stop Blaming Twitter’s API Changes For Everything",
 "date" : "Fri, 21 Sep 2012 21:17:24 +0000",
 "author" : "Anthony Ha"
 }
