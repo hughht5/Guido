@@ -1,0 +1,14 @@
+{
+"title" : "Welcome To TechCrunch’s Words-Driven Friday",
+"date" : "Fri, 21 Sep 2012 19:30:48 +0000",
+"author" : "Mg Siegler"
+}
+
+<p>For the rest of today, every story you read in TechCrunch&#8217;s main news river will contain words.</p>
+<p>This is an experiment, and it’s probably less of a risk than it might look. Words have always been central to TechCrunch&#8217;s approach. In fact, a huge number of our stories on any given day already include original words. Our word people call sources, check facts, and get words said to them for a large proportion of our stories.</p>
+<p>But like most other tech news sites, we also use words for stories that other sites have used, sometimes without adding words of our own. We figure there are words you want to know about and which we can add some perspective on, even if we haven’t done the wording ourselves. The trouble is that sometimes it’s hard to find the words, so you, the reader, don’t necessarily know what’s original to us.</p>
+<p>Today, we’re going to refrain from doing that. Every story in our news feed today will include words we’ve done ourselves.</p>
+<p>That doesn’t mean every word here today will be a not-previously-worded, totally-new-to-the-world scoop of words. (Though I hope many of them are!) What it does mean is that if we publish a word here, you can trust that we’ve done some footwork, we’ve picked up the phone and sent emails, we’ve talked to people, and we’re not just rephrasing and analyzing someone else’s word collection.</p>
+<p>If you’ve got a word you think we should use, as always, let us know.</p>
+<p>And please let me know what you think of our experiment.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/gfpx1lmZrXw/">here</a>.
