@@ -1,5 +1,5 @@
 {
-"title" : "Former ‘MunchOnMe’ Team Launches Caviar, A Curated ‘Seamless’",
+"title" : "Former ‘MunchOnMe’ Team, Launches Caviar, A Curated ‘Seamless’",
 "date" : "Thu, 20 Sep 2012 23:06:49 +0000",
 "author" : "Alexia Tsotsis"
 }
