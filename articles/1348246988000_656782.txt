@@ -15,7 +15,4 @@
 <p><em>We&#8217;ve reached out to Pandora to confirm whether it&#8217;s aware of the problem and what the plan is to address this. We&#8217;ll update if/when we hear back. </em></p>
 <p><strong>UPDATE</strong>  andora has responded saying a fix is in the works, but downplays the vulnerability by calling it a &#8220;hypothetical&#8221; scenario. For what it&#8217;s worth, we stole a password off our own computer today using the hack but that probably doesn&#8217;t count. </p>
 <blockquote><p>The security issue reported yesterday relates to the hypothetical scenario where a hacker must first take control of a user&#8217;s personal computer and then use that access to extract that particular user&#8217;s Pandora password. Our engineering team is taking steps to address this vulnerability. At no time were passwords compromised at the Pandora server, network, or cloud level.</p></blockquote>
-<p>UPDATE 2: Pandora has now also sent the following statement below.</p>
-<blockquote><p>Pandora always encrypts passwords on the network using SSL. On the Pandora servers passwords are never recorded, instead they are salted and hashed using bcrypt and the resulting one way hash is recorded. These are industry best practices and they ensure that hackers cannot access Pandora passwords via intrusion into the Pandora datacenters or network.
-</p></blockquote>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/cu4CpGqZO-A/">here</a>.
