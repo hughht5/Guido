@@ -1,5 +1,5 @@
 {
-"title" : "Apple’s $707M, U.S. Sales Ban Filing Against Samsung Underscores One Of Apple’s Biggest Concerns",
+"title" : "Apple’s $707M, U.S. Sales Ban Filings Against Samsung Underscore One Of Apple’s Biggest Concerns",
 "date" : "Sat, 22 Sep 2012 18:07:08 +0000",
 "author" : "Ingrid Lunden"
 }
