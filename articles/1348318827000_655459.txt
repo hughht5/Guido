@@ -1,5 +1,5 @@
 {
-"title" : "You’re Welcome, Google. (But It’s Insane That You Patented That.)",
+"title" : "Google Granted Pseudonym Patent (You’re Welcome. And, What Is Wrong With You)",
 "date" : "Sat, 22 Sep 2012 13:00:27 +0000",
 "author" : "Jon Evans"
 }
