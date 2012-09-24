@@ -1,0 +1,10 @@
+{
+"title" : "… Reports A Popular Business Newspaper",
+"date" : "Mon, 24 Sep 2012 19:04:08 +0000",
+"author" : "Alexia Tsotsis"
+}
+
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/09/screen-shot-2012-09-24-at-11-57-26-am.png" rel="lightbox[658434]"></a></p>
+<blockquote><p>&#8220;But this month, the 40-year-old was a featured speaker at a popular tech conference in San Francisco along with the founders of Twitter Inc. and new <a target="_blank" href="http://online.wsj.com/public/quotes/main.html?type=djn&amp;symbol=YHOO">Yahoo</a> Inc. <a target="_blank" href="http://online.wsj.com/public/quotes/main.html?type=djn&amp;symbol=YHOO?mod=inlineTicker">YHOO +1.18%</a>CEO Marissa Mayer.&#8221;</p></blockquote>
+<p><a target="_blank" href="http://online.wsj.com/article/SB10000872396390444433504577652173691389822.html?mod=ITP_AHED">Heh</a>. Sigh.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/2nphHu-ita0/">here</a>.

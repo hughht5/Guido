@@ -1,0 +1,35 @@
+{
+"title" : "Announcing The CrunchBase Developer Portal And API Access Keys",
+"date" : "Mon, 24 Sep 2012 19:03:36 +0000",
+"author" : "Vineet Thanedar"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/crunchbase-api41.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="crunchbase developer portal" title="crunchbase developer portal" style="float: left; margin: 0 10px 7px 0;" /><p>Three weeks ago, we <a href="http://techcrunch.com/2012/08/30/towards-a-more-robust-and-powerful-crunchbase-api/">had announced</a> that <a target="_blank" href="http://www.crunchbase.com">CrunchBase</a> has partnered with <a target="_blank" href="http://www.mashery.com">Mashery</a> to move the CrunchBase API to a managed solution. At the time, we simply cutover the API calls to their proxy servers. Over the past three weeks, we have been monitoring the API usage and were quite frankly blown away by the volume of calls to the API. The API numbers average nearly 100K calls per hour! Today, we are ready to announce the CrunchBase developer portal and a transition plan to help migrate third party developers over to registering their applications. </p>
+<p>We have now opened up a dedicated portal at <a target="_blank" href="http://developer.crunchbase.com/">http://developer.crunchbase.com</a>. The portal offers improved <a target="_blank" href="http://developer.crunchbase.com/docs">documentation</a> including <a target="_blank" href="http://developer.crunchbase.com/io-docs">IO Docs</a>, a <a target="_blank" href="http://developer.crunchbase.com/forum">forum</a> for developers to ask questions, identify bugs, and make API requests. In addition to this, we&#8217;d like developers to start registering their applications and use an API key. As with any API, we&#8217;d like to prevent abuse, allocate and scale resources more efficiently, and potentially offer custom endpoints of the CrunchBase API in the future. Our target date to have all CrunchBase applications use access keys is December 1st, 2012 &#8212; approximately two months from now. To get there in the least intrusive (to your application) and effective manner, here is our migration plan:</p>
+<h4>Access Keys Required From December 1, 2012</h4>
+<p><strong>Unregistered (using no access key) Applications Throttling</strong></p>
+<p>Starting today, all unregistered calls will fall under the &#8216;Unregistered&#8217; bucket. A rate limit of aggregate 100K calls per hour will be instituted on this bucket. This means the sum total of all calls in this bucket will be capped, not per application. This rate limit will decrease by 10K calls/hour for every week thereafter. </p>
+<p>Essentially on 9/24 (i.e., today), the aggregate call volume for all unregistered apps is capped at 100K/hour. On 10/1, this will be capped at 90K/hour, on 10/8 to 80K/hour, and so forth until December 1st, when this limit will effectively drop to 0. </p>
+<p><strong>What happens if my app hits the rate ceiling?</strong> If a call from your unregistered app is made once the aggregate cap (across all apps) is reached for the hour, your app will receive a 403 response as shown below. </p>
+<p style="font-family:'Courier New', monospace;">This application has exceeded the hourly rate limit. API calls are being made without an access key. Your application must start using access keys by December 1, 2012 in order to continue using the API. Please register for free at http://developer.crunchbase.com/member/register and start using access keys to avoid being rate limited. More details at http://developer.crunchbase.com/.
+</p>
+<p>If you start seeing failures in your app, please check your server logs for this message. To protect against this, simply register for a key (see the section below) and use it in every call.</p>
+<p><strong>Registered Applications</strong></p>
+<p>If you register your existing (or new) application and start appending the access key in every call to the API, you will <strong>_not_</strong> be throttled/rate limited. We therefore highly encourage you to <a target="_blank" href="http://developer.crunchbase.com/member/register">register</a> as soon as possible to create your developer account and start using keys. <strong>Registration is free</strong>.</p>
+<p>The API calls will remain the same except that you will need to append the access key in every call. Example below:</p>
+<p><code>http://api.crunchbase.com/v/1/company/facebook.js?api_key=(your_acess_key)</code></p>
+<h4>Summary Of Changes</h4>
+<p>To summarize, these are the changes coming to the CrunchBase API</p>
+<ul>
+<li> on December 1st, 2012, required use of access key for every endpoint and application</li>
+<li> unregistered applications to be throttled at aggregate call volume of 100K calls/hour, progressively degraded by 10K calls/week, and effectively dropping to 0 on 12/1/2012</li>
+<li> no rate limiting for registered applications </li>
+</ul>
+<h4>Quick Start Guide</h4>
+<p>Here is a quick start guide to the portal and to help you migrate your application to using an API key:</p>
+<p>Register &mdash; <a target="_blank" href="http://developer.crunchbase.com/member/register">http://developer.crunchbase.com/member/register</a><br />
+Documentation &mdash; <a target="_blank" href="http://developer.crunchbase.com/docs">http://developer.crunchbase.com/docs</a><br />
+Interactive IO DOcs &mdash; <a target="_blank" href="http://developer.crunchbase.com/io-docs">http://developer.crunchbase.com/io-docs</a><br />
+Developer Forum &mdash; <a target="_blank" href="http://developer.crunchbase.com/forum">http://developer.crunchbase.com/forum</a></p>
+<p>We value our developer community and have thought about this transition carefully. If you have any feedback, please leave it in the comments below.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/JrtYIRlqhzY/">here</a>.
