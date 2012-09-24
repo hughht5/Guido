@@ -6,8 +6,7 @@
 
 <img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/2406126656_6752cf7f46_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="2406126656_6752cf7f46_z" title="2406126656_6752cf7f46_z" style="float: left; margin: 0 10px 7px 0;" /><p>Ok, folks, dust off your old web browsers, because Myspace is teasing a brand new design! Yes, the Justin Timberlake-backed whatever-it-is-now has slapped a new coat of paint on something that has already been sold and pushed to the side of the road.</p>
 <p>Here&#8217;s a video demo of what to expect, since you clearly log in daily just to see what&#8217;s new:</p>
-<p><div class='embed-vimeo' style='text-align:center;'><iframe src='http://player.vimeo.com/video/50071857' width='520' height='325' frameborder='0'></iframe></div>
-<p><a target="_blank" href="http://vimeo.com/50071857">The new Myspace</a> from <a target="_blank" href="http://vimeo.com/myspace">Myspace</a> on <a target="_blank" href="http://vimeo.com">Vimeo</a>.</p>
+<div class='embed-vimeo' style='text-align:center;'><iframe src='http://player.vimeo.com/video/50071857' width='520' height='325' frameborder='0'></iframe></div>
 <p>It looks like Pinterest. Ugh.</p>
 <p>It&#8217;s not that I&#8217;m not supportive of iteration, a great comeback story or people in general, it&#8217;s that this ship has sailed. More than once. And far, far away.</p>
 <p>Getting people to try new things is super difficult, but getting people to circle back to a dead wagon is nearly impossible. For reasons.</p>
