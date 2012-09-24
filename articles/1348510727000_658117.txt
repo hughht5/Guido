@@ -1,5 +1,5 @@
 {
-"title" : "SkySQL Releases Tool For Deploying And Scaling Databases to Amazon Web Services",
+"title" : "SkySQL Releases Tool For Deploying And Scaling Databases To Amazon Web Services",
 "date" : "Mon, 24 Sep 2012 18:18:47 +0000",
 "author" : "Alex Williams"
 }
