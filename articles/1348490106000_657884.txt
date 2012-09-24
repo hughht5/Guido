@@ -1,0 +1,9 @@
+{
+"title" : "iPhone 5 Sells Over 5M In Opening Weekend, Limited Only By Device Supply",
+"date" : "Mon, 24 Sep 2012 12:35:06 +0000",
+"author" : "Darrell Etherington"
+}
+
+<p>Apple broke records again opening weekend, with the iPhone 5 selling <a target="_blank" href="http://www.apple.com/pr/library/2012/09/24iPhone-5-First-Weekend-Sales-Top-Five-Million.html">more than 5M in its first three days</a>, compared to 4M for the iPhone 4S.</p>
+<p><em>Developing&#8230;</em></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/dcycAgNi2JE/">here</a>.
