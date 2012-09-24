@@ -1,0 +1,15 @@
+{
+"title" : "Google Maps App Hacked Onto iPhone 3GS Running iOS 6",
+"date" : "Mon, 24 Sep 2012 14:12:14 +0000",
+"author" : "Jordan Crook"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/screen-shot-2012-09-24-at-10-16-08-am.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen shot 2012-09-24 at 10.16.08 AM" title="Screen shot 2012-09-24 at 10.16.08 AM" style="float: left; margin: 0 10px 7px 0;" /><span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/09/24/google-maps-app-hacked-onto-iphone-3gs-running-ios-6/"></a></span>
+<p>Remember that one time you downloaded iOS 6? You were so excited about features like Panorama and&#8230; well, Maps. There was nothing else to be all that excited about, at least from a Christmas-morning, I-can&#8217;t-wait-to-play point of view. And then, you opened up Apple Maps to find that your childhood home didn&#8217;t really look like your childhood home at all, but a flat, f&amp;#(ked up version of your childhood home, and that you were actually two blocks east of where you thought you were, despite the street signs that told you otherwise?</p>
+<p>Those were good times.</p>
+<p>Do you remember the moment you realized that you don&#8217;t have access to Google Maps anymore, when you silently lifted your eyes to the heavens and thought, &#8220;What have I done?&#8221; Hacker Ryan Petrich felt the same way, and he&#8217;s here to help rescue us, &#8220;coaxing&#8221; iOS 5 Google Maps onto a jailbroken iPhone running iOS 6.</p>
+<p>According to <a target="_blank" href="https://twitter.com/rpetrich/status/249802824567881728">a tweet</a>, and the YouTube video (above), Petrich has the old version of Google Maps working, yet says it&#8217;s still &#8220;crashy&#8221; and he isn&#8217;t ready to share the method quite yet. To get iOS 5 Google Maps running on an iOS 6 device, it must first be jailbroken. Luckily, the iPhone 5 has already <a href="http://techcrunch.com/2012/09/22/iphone-5-jailbroken-according-to-ios-hacker-chpwn/">been spotted running Cydia</a>.</p>
+<p>No word on when Petrich might be ready to share his secret recipe, but there is hope, my friends. And with the way Apple Maps have been performing, the homebrew/unlocker crowd may get quite a bit bigger in the near future. That is, if Apple fails in <a href="http://techcrunch.com/2012/09/23/source-apple-aggressively-recruiting-ex-google-maps-staff-to-build-out-ios-maps/">poaching Google Maps staffers</a>.</p>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/09/applevsgooglemaps.jpg" rel="lightbox[657905]"></a></p>
+<p>[via <a target="_blank" href="http://www.trustedreviews.com/news/apple-ios-6-can-be-hacked-to-run-google-maps-app?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+TRV+%28TrustedReviews+Site-wide+Feed%29">TrustedReviews</a>]</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/o5wlrFaqAsY/">here</a>.
