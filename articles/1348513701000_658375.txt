@@ -1,0 +1,19 @@
+{
+"title" : "Google Announces Its Third Code-In Contest For High School Students, Starts November 26",
+"date" : "Mon, 24 Sep 2012 19:08:21 +0000",
+"author" : "Frederic Lardinois"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/gci-2012-b.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="GCI-2012-b" title="GCI-2012-b" style="float: left; margin: 0 10px 7px 0;" /><p>Google today <a target="_blank" href="http://google-opensource.blogspot.com/2012/09/google-code-in-contest-for-high-school.html">announced</a> that its third <a target="_blank" href="http://www.google-melange.com/gci/homepage/google/gci2012">Code-in contest</a> for high school students will start on <a target="_blank" href="http://www.google-melange.com/gci/events/google/gci2012">November 26</a>. The contest, which aims to introduce 13-17 year old pre-university students to open source software development, will run from November to mid January and the 20 grand prize winners (and one of their parents or legal guardians) will get a trip to Mountain View to explore the Google campus and meet with Google employees.</p>
+<p>The Code-in program will feature a number of tasks related to existing open source projects, all of which have experience mentoring students through Google&#8217;s <a target="_blank" href="http://code.google.com/soc/">Summer of Code</a> program for college students.</p>
+<p>Here are some of the tasks that students will be asked to complete:</p>
+<ol>
+<li><strong>Code</strong>: Tasks related to writing or refactoring code</li>
+<li><strong>Documentation/Training</strong>: Tasks related to creating/editing documents and helping others learn more</li>
+<li><strong>Outreach/Research Tasks</strong> related to community management, outreach/marketing or studying problems and recommending solutions</li>
+<li><strong>Quality Assurance</strong>: Tasks related to testing and ensuring code is of high quality</li>
+<li><strong>User Interface</strong>: Tasks related to user experience research or user interface design and interaction</li>
+</ol>
+<p>The students will earn a point for each task they complete (and even those who only complete three tasks will get a t-shirt). Each participating organization will name two grand prize winners.</p>
+<p>Compared to other student outreach programs like Google&#8217;s own Summer of code or Microsoft&#8217;s <a target="_blank" href="http://www.imaginecup.com/">Imagine Cup</a>, Code-in is still relatively small (though to be fair those are aimed at college students). Over the last two years, Google says, 904 students from 65 countries participated in the program. For high school students interested in coding, this is definitely a good opportunity to get some real-world experience and also to start making connections and learning more about the sponsor organizations, which probably won&#8217;t hurt them if they want to apply for the Summer of Code program once they are in college.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/pfTfl4nwV_o/">here</a>.
