@@ -5,7 +5,7 @@
 }
 
 <img width="100" height="50" src="http://tctechcrunch2011.files.wordpress.com/2012/09/butterfly.gif?w=100&amp;h=50&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="butterfly" title="butterfly" style="float: left; margin: 0 10px 7px 0;" /><p>IBM has acquired<a target="_blank" href="http://www.butterflysoftware.net/"> Butterfly Software</a>, a privately held data analysis and migration software company headquartered in Maidenhead, England. Financial terms were not disclosed.</p>
-<p>Butterfly&#8217;s main feature is its ability to migrate data center infrastructures. According to the company website, it focuses on lowering the cost and risk of maintaining legacy storage and backup &amp; recovery environments. This allows companies to consolidate enterprise data and analyze it for strategic purposes.</p>
+<p>Butterfly&#8217;s main capability is its ability to migrate data center infrastructures. According to the company website, it focuses on lowering the cost and risk of maintaining legacy storage and backup &amp; recovery environments. This allows companies to consolidate enterprise data and analyze it for strategic purposes.</p>
 <p>IBM has staked its claim in the analytics market. This acquisition plays to that strategy.</p>
 <p>The news follows IBM&#8217;s$1.3 billion acquisition last month of Kenexa, which helps companies cull vast amounts of data to make decisions and study trends.</p>
 <p>IBM plans to continue its acquisition strategy for analytics companies. Its goal is to generate $16 billion from business analytics by 2015.</p>
