@@ -1,5 +1,5 @@
 {
-"title" : "The Advertising (In)Effect: Rankings For Top Tablet Ads Exclude Bestselling iPad. Changing Tides Ahead?",
+"title" : "The Advertising (In)Effect: Rankings For Top Tablet Ads Exclude Bestseller iPad. Changing Tides Ahead?",
 "date" : "Mon, 24 Sep 2012 14:17:27 +0000",
 "author" : "Ingrid Lunden"
 }
