@@ -1,0 +1,9 @@
+{
+"title" : "Video: iPhone 5 Vs. iPhone 4S Side-By-Side Performance Tests",
+"date" : "Mon, 24 Sep 2012 18:34:43 +0000",
+"author" : "Darrell Etherington"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/iphone5-vs-iphone4s1.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="iPhone5-vs-iPhone4S" title="iPhone5-vs-iPhone4S" style="float: left; margin: 0 10px 7px 0;" /><p>			<script type="text/javascript" src="http://pshared.5min.com/Scripts/PlayerSeed.js?sid=577&amp;width=640&amp;height=450&amp;colorPallet=%230A9600&amp;hasCompanion=false&amp;relatedMode=2&amp;videoControlDisplayColor=%23000000&amp;playList=517488199&amp;shuffle=0&amp;videoGroupID=133503&amp;autoStart=false&amp;playerActions=16407"></script><br />
+Want to see exactly how the <a title="The iPhone 5′s Greatest Inside Story: Chipmaking Maturation For Apple" href="http://techcrunch.com/2012/09/18/the-iphone-5s-greatest-inside-story-chipmaking-maturation-for-apple/">iPhone 5&#8242;s speedy new A6 processor</a> compares to the now-somewhat-pokey iPhone 4S A5 chip? I shot a side-by-side comparison shot of the two devices executing a number of tasks, including simple stuff like opening webpages and Facebook, to more processor intensive tasks like exporting a 1o second 1080p HD video in iMovie. Check it out, the iPhone 5 seems to edge the older phone in just about every area, but to varying degrees. The iPhone 4S is the white one on the left, by the way, and the iPhone 5 is in black on the right.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/7XN8HlfZ70A/">here</a>.
