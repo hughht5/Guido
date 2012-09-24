@@ -1,0 +1,13 @@
+{
+"title" : "PETA Foots The Bill For Virtual Frog Dissection Software In India",
+"date" : "Mon, 24 Sep 2012 11:08:42 +0000",
+"author" : "Natasha Lomas"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/frog-dissection.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="frog-dissection" title="frog-dissection" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.peta.org.uk/">PETA</a>, People for the Ethical Treatment of Animals, is offering to sponsor software that lets students poke around the innards of frogs &#8212; without actually, you know, poking around the innards of frogs. The offer is being made to schools and colleges in India that agree to give students a choice of cutting into real or virtual frog flesh &#8212; or indeed replacing traditional dissection with other &#8220;humane&#8221; alternatives.</p>
+<p>The software in question &#8212; <a target="_blank" href="http://www.frogvirtualdissection.com/">Frog Dissection</a> &#8212; is made by Emantras, the company PETA is tying up with for the Indian initiative, and is priced at between $2.99 and $4.99 in the U.S. but will be offered free to classrooms in India that agree to offer non-animal dissection alternatives.</p>
+<p>PETA says it&#8217;s targeting India for the free software as a follow up to recommendations by the country&#8217;s <a target="_blank" href="http://www.ugc.ac.in/">University Grants Commission</a> (UGC) that animal dissection and experimentation should be phased out of labs over the long term. The UGC also recommends software alternatives to dissection should be developed.</p>
+<p>&#8220;Countless frogs and other animals are killed for dissection, even though non-animal methods for teaching biology are far superior,&#8221; noted PETA India Science Policy Adviser, Dr Chaitanya Koduri, in a statement. &#8220;PETA India is eager to help universities and schools take the lead in teaching biology using humane, modern methods.&#8221;</p>
+<p>Emantras&#8217; software is available for PCs, Macs, iPads and interactive whiteboards. Key features are said to include &#8220;vivid&#8221; 3D imaging&#8221;, step-by-step dissection instructions, detailed info on frogs&#8217; organs and &#8220;accurate simulation of the wet lab dissection procedure&#8221;.</p>
+<p>&nbsp;</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/fzLNvEJPkIk/">here</a>.
