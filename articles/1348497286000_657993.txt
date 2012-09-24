@@ -1,0 +1,24 @@
+{
+"title" : "TechCrunch Italy – Join Us In Rome On Thursday For An Italian CrunchUp",
+"date" : "Mon, 24 Sep 2012 14:34:46 +0000",
+"author" : "Mike Butcher"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/tcitaly.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="tcitaly" title="tcitaly" style="float: left; margin: 0 10px 7px 0;" /><p>Well, it started with a conversation. I&#8217;d never run a TechCrunch Meetup or &#8216;CrunchUp&#8217; in Italy, so I asked my contacts there, where and when should we do one? Little did I realise the tsunami I&#8217;d unleash. It seems the tech scene in Italy has been growing fast recently. I don&#8217;t know all the reasons why just yet (we&#8217;ll leave the economists to speculate perhaps), but a simple CrunchUp planned for Rome this week has since become <a href="http://techcrunch.com/2012/07/12/techcrunch-italy-an-event-to-showcase-italian-startups-globally/">TechCrunch Italy</a>. So, ok, we&#8217;ll just go with that. My friends at <a target="_blank" href="http://Populis.com">Populis</a> and <a target="_blank" href="http://www.mindthebridge.org/">Mind The Bridge Foundation</a> have put together a great event this Thursday. We have some great <a target="_blank" href="http://www.techcrunch-italy.com/speaker/">speakers</a>, a great <a target="_blank" href="http://www.techcrunch-italy.com/agenda/">agenda</a>, a startup <a target="_blank" href="http://www.techcrunch-italy.com/startup/">showcase</a>, an amazing <a target="_blank" href="http://www.techcrunch-italy.com/venue/">venue</a> (modelled on Shakespeare&#8217;s Globe Theatre) and some great <a target="_blank" href="http://www.techcrunch-italy.com/sponsors/">sponsors</a>. We will be showcasing the best of the best Italian startups during the event.</p>
+<p>Here&#8217;s just <em>some</em> of our speakers:</p>
+<p>Jon Bradford, Ignite100<br />
+Mitchell Baker, Mozilla Foundation<br />
+Shakil Khan, Path<br />
+Alec Ross, Office of Secretary of State Hillary Clinton<br />
+Kathryn Fink, Meetup<br />
+Riccardo Zacconi, King.com<br />
+Mauro Del Rio, Buongiorno!<br />
+Paulo Ainio, Virgilio &amp; Banzai<br />
+Luca Ascani, Populis<br />
+Roberto Bonanmzinga, Balderton<br />
+Marco Marinucci, Mind the Bridge<br />
+Zaryn Dentzel, Tuenti<br />
+Giovanni Alemanno, Mayor of Rome</p>
+<p>Thanks again to our sponsors:<br />
+Populis, Mind the bridge, Vodafone, Dnsee, Miscrosoft BizSpark, Alliance H-Farm, Capital Partners, Provincia Roma, United States American Embassy, Bansai, Bizup, sister, Papounti, illy, Moleskine, TopIX, Portolano Cavallo, MusicMatch, Applix</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/QbRwaI5QZMo/">here</a>.

@@ -1,0 +1,11 @@
+{
+"title" : "LinkedIn Debuts Endorsements As A Lightweight Way To Recommend A Professional Contact’s Skills",
+"date" : "Mon, 24 Sep 2012 14:30:40 +0000",
+"author" : "Leena Rao"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/linkedin-blog-1.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="LinkedIn Blog-1" title="LinkedIn Blog-1" style="float: left; margin: 0 10px 7px 0;" /><p>Professional social network LinkedIn has allowed you to write recommendations for contacts for some time now, but usually these involve actually writing out a recommendation that can posted on a contact&#8217;s profile. Today the network is <a target="_blank" href="http://blog.linkedin.com/2012/09/24/introducing-endorsements-give-kudos-with-just-one-click/">introducing</a> a more lightweight way to recommend people and specifically, their skills, called Endorsements.</p>
+<p>On the top of a connection’s profile, you’ll see recommended endorsements for them. You can suggest additional skills as well. You can also endorse contacts from the new Skills &amp; Expertise section that showcases these endorsements. And LinkedIn will notify you via email and on LinkedIn whenever you are endorsed.</p>
+<p>You can also accept any new skills recommended by your peers that you may not have thought to include on your profile. Or you can add a new skill to your profile page.</p>
+<p>This additional obviously makes recommending people a little bit easier, and you can recommend specific skills for people. Of course, this also adds more data to the network, so that anyone can see who has been recommended highly for a specific skill.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/RSAY8NHN0uo/">here</a>.

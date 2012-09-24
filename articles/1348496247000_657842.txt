@@ -1,5 +1,5 @@
 {
-"title" : "The Advertising (In)Effect: Rankings For Top Tablet Ads Exclude Bestselling iPad. A Sign Of Changing Tides Ahead?",
+"title" : "The Advertising (In)Effect: Rankings For Top Tablet Ads Exclude Bestselling iPad. Changing Tides Ahead?",
 "date" : "Mon, 24 Sep 2012 14:17:27 +0000",
 "author" : "Ingrid Lunden"
 }
@@ -21,7 +21,6 @@
 <p>That ad also gave Apple its biggest &#8220;change score&#8221; of 670, but that, too, was some way behind the lowest change score in the top-10.</p>
 <p>This points to a potential turning of the tides for Apple, says Ace Metrix. &#8220;The key to the success of these ads is the demonstration of new, exciting features that consumers have never seen before. For example, Samsung demonstrates multi-tasking, use of a stylus, etc.—all contributors to big &#8216;Change&#8217; scores, a critical Ace Metrix indicator that consumers’ opinions are changing about a brand,&#8221; writes Peter Daboll, CEO.</p>
 <p>But dont&#8217; go thinking that being absent in ads has a clear inverse variation with a product&#8217;s success. The Nook tablet from Barnes &amp; Noble, is also absent from the top ad rankings, with its most successful ad, from May, achieving an Ace Score of only 582. The Nook currently only has a 9% market share among U.S. tablet owners, according to the ONA.</p>
-<p>&nbsp;</p>
 <p><strong>About Ace Metrix</strong></p>
 <p>Ace Metrix® is the new standard in television and video analytics, dedicated to delivering better, faster, and more cost-effective solutions for evaluating video advertising within competitive context. Through the Ace Metrix LIVE™ platform, companies can now access timely, actionable data wherever, whenever they need to, enabling real-time advertising campaign optimization. Combining leading edge technology and patent pending methodology, Ace Metrix is revolutionizing the way marketers measure themselves and their competitive landscape. The company is privately held and is backed by leading venture capital firms and industry leaders including.</p>
 <p>Follow Ace Metrix on Twitter for sustained insight: @Ace_Metrix.</p>
