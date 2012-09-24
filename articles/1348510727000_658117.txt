@@ -1,0 +1,12 @@
+{
+"title" : "SkySQL Releases Tool For Deploying And Scaling Databases to Amazon Web Services",
+"date" : "Mon, 24 Sep 2012 18:18:47 +0000",
+"author" : "Alex Williams"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/skysql.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="skysql" title="skysql" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://skysql.com">SkySQL</a> released its first version of a configuration tool for deploying databases to a cloud environment. To start, the company will offer its configuration tool for use on Amazon Web Services (AWS). It will later extend its service to other cloud and bare metal environments.</p>
+<p>The SkySQL service is meant for database administrators, but in particular has the end user in mind who may lack the technical skills to deploy enterprise database environments to a cloud environment. With the service, an IT manager can use an administrative console to manage instances, isolate and reconfigure individual nodes on the network, and back up and restore. Those are sophisticated capabilities that would otherwise require deeper database administrative skills to perform.</p>
+<p>The service is compliant with the three most used MySQL distributions, namely MariaDB, MySQL database and Percona Server.</p>
+<p>CEO Patrik Sallner makes the point that MySQL is growing up. It is used more for business apps that require high levels of performance. With more sophisticated use cases, companies have more specialized requirements that in-house communities may not have the capability to offer. Companies like SkySQL can provide service level agreements and the latest performance optimization technologies that go beyond what can be done in-house. In line with that, SkySQL is seeking to provide a service that models after Red Hat. It will also offer a free service that is available to use on AWS.</p>
+<p>SkySQL has raised $4 million in Series A funding from a number of investors, including OnCorps, Finnish Industry Investment Ltd., Spintop Ventures and Open Ocean Capital.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/n-STx_0Fj94/">here</a>.
