@@ -1,0 +1,18 @@
+{
+"title" : "Meet The ReadyCase: The Frankenstein Of iPhone Cases, Plus Extra Stabby Bits",
+"date" : "Mon, 24 Sep 2012 14:25:16 +0000",
+"author" : "Darrell Etherington"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/readycase.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="readycase" title="readycase" style="float: left; margin: 0 10px 7px 0;" /><p>Apple&#8217;s iPhone 5 was bound to shake up the accessory market, as it always does. That means new cases, with new features. One new one debuting on crowdfunding platform Indiegogo today called the <a target="_blank" href="http://www.indiegogo.com/TheReadyCase">ReadyCase</a> packs more features than I think any I&#8217;ve ever seen, all into a low-profile design that actually only adds 3mm of thickness, and will ship in both iPhone 4S and iPhone 5 versions.</p>
+<p>So what do you get with ReadyCase? Here&#8217;s a list:</p>
+<ol>
+<li>Two kickstands, for both portrait and landscape orientation.</li>
+<li>An interchangeable lens ring for macro, fisheye and wide-angle conversion lenses.</li>
+<li>An 8GB or 16GB USB flash drive.</li>
+<li>A multi-tool, complete with standard and serrated knife blades, a flathead screwdriver and bottle opener, available in either black or silver.</li>
+<li>A headphone clip.</li>
+</ol>
+<p>The case is made from a durable composite material that&#8217;s supposed to be pretty rugged, and the best part is that it doesn&#8217;t add bulk. There&#8217;s actually an opening on the back, though, so it&#8217;s not like it&#8217;s an Otterbox or anything and <a title="#ScratchGate: iPhone 5 Owners Are Discovering Aluminum Is Softer Than Glass" href="http://techcrunch.com/2012/09/24/657820/">scratches are still a possibility</a>, but for the survivalist, outdoorsy-type who also wants to carry important documents and media around on a readily available flash drive, this thing looks to be the tops.</p>
+<p>ReadyCase&#8217;s creators are looking for $15,000 to get production off the ground, and cases start at a $40 pledge (note that lens sets are only included when you get into higher amounts) for an 8GB pre-order. As an added bonus, all cases ship with both iPhone 4S and iPhone 5 versions included, so those on the verge of upgrading or not sure yet which one they&#8217;ll be getting are covered.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/Hl-fTcqu7ds/">here</a>.
