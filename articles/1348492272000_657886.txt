@@ -1,0 +1,16 @@
+{
+"title" : "Ad Tech Company eXelate Raises $12M C Round Led By NewSpring Capital",
+"date" : "Mon, 24 Sep 2012 13:11:12 +0000",
+"author" : "Steve O'Hear"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/1657v12-max-250x250.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="1657v12-max-250x250" title="1657v12-max-250x250" style="float: left; margin: 0 10px 7px 0;" /><p>Ad tech company <a target="_blank" href="http://exelate.com">eXelate</a>, a provider of data and analytics so that advertisers can know more about who to target and how, has announced that its raised a $12 million C round, led by <a target="_blank" href="http://www.crunchbase.com/financial-organization/newspring-capital">NewSpring Capital</a> with participation from existing investors Carmel Ventures, Menlo Ventures and Trident Capital. The new capital brings the total raised by eXelate to $32 million, following its <a href="http://techcrunch.com/2010/08/03/exelate-funding/">$15 million B round</a> in 2010.</p>
+<p>The company says that the additional funding will be used for U.S. and international expansion and to further develop its product line in ad data and analytics. It&#8217;s not ruling out &#8220;complementary acquisitions&#8221;, either.</p>
+<p>Meanwhile, Glenn T. Rieger, General Partner of Philadelphia-based NewSpring Capital, joins eXelate&#8217;s Board of Directors.</p>
+<p>A sort of BIG data play for advertisers, eXelate taps into demographic and purchase intent information for over 400M online unique visitors worldwide, garnered from its offline partners and by directly measuring online behavior. Via this data and its engine, it claims to be able to provide a full-circle suite of data and analytics, enabling advertisers to work out who they should be targeting, how to target them, and a way of measuring the success of those targeted campaigns. Rinse and repeat.</p>
+<p>Or to use eXelate&#8217;s own jargon-laden words:</p>
+<blockquote><p>The company leverages this cloud plus its unique modeling algorithms to build proprietary services for agencies and advertisers seeking to gain insight on prospects, deliver relevant marketing messages and measure digital advertising effectiveness.</p></blockquote>
+<p>Okay, we get it.</p>
+<p>To that end, eXelate says it&#8217;s seen +300% revenue growth two years in a row &#8212; whatever that means &#8212; validating its product and business model.</p>
+<p>The company was founded in 2007 and has offices in New York, Chicago, San Francisco, London, Paris and Tel Aviv.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/_R7FxuutnSw/">here</a>.
