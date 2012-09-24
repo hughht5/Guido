@@ -4,10 +4,10 @@
 "author" : "Klint Finley"
 }
 
-<img width="100" height="66" src="http://tctechcrunch2011.files.wordpress.com/2011/10/factual-logo.png?w=100&amp;h=66&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="factual-logo" title="factual-logo" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.factual.com/">Factual</a> is a company that provides open data sets for developers, most notably its location data sets and APIs. The company just announced that it has added thousands of new locations to its U.S. point of interest sets, for a total of over 22 million places in the U.S and 62 million places around the world. </p>
+<img width="100" height="66" src="http://tctechcrunch2011.files.wordpress.com/2011/10/factual-logo.png?w=100&amp;h=66&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="factual-logo" title="factual-logo" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.factual.com/">Factual</a> is a company that provides open data sets for developers, most notably its location data sets and APIs. The company just announced that it has added thousands of new locations to its U.S. point of interest sets, for a total of more than 22 million places in the U.S and 62 million places around the world.</p>
 <p>But with all these places, how might developers filter through these to make sure the results are relevant for their apps? Well, Factual also announced a new feature: Place Rank, which will enable developers to sort query results by relevance.</p>
-<p>The <a target="_blank" href="http://developer.factual.com/display/docs/Places+API+-+Global+Place+Attributes">documentation</a> for Place Rank explains: </p>
-<blockquote><p>Factual Place Rank is a relative approximation of the place&#8217;s significance according to its electronic footprint; it is supported as sort option by default.  The rank itself is not available as a value in the API or download.</p></blockquote>
+<p>The <a target="_blank" href="http://developer.factual.com/display/docs/Places+API+-+Global+Place+Attributes">documentation</a> for Place Rank explains:</p>
+<blockquote><p>Factual Place Rank is a relative approximation of the place&#8217;s significance according to its electronic footprint; it is supported as a sort option by default. The rank itself is not available as a value in the API or download.</p></blockquote>
 <p>In other words it will be a bit like Google search results &#8212; the results are ordered by ranking, but you can&#8217;t see what those rankings are or how they&#8217;re determined.</p>
 <p>The new location data just added includes:</p>
 <ul>
@@ -15,7 +15,7 @@
 <li>25,00 new U.S. transport hubs (airports, rail stations and a handful of ports)</li>
 <li>190,000 new U.S. ATM locations.</li>
 </ul>
-<p>The company has also added over 50 new categories for organizing the places, and support for treating local and national chains differently than other businesses. So far it can reliably recognize 100 chains (listed <a target="_blank" href="http://www.factual.com/data/t/chains">here</a>) and there is experimental support for 800 more.</p>
-<p>Rather than risk breaking old applications, the expanded U.S. data set is actually being released a new, separate data set.</p>
+<p>The company has also added more than 50 new categories for organizing the places, as well as support for treating local and national chains differently than other businesses. So far it can reliably recognize 100 chains (listed <a target="_blank" href="http://www.factual.com/data/t/chains">here</a>), and there is experimental support for 800 more.</p>
+<p>Rather than risk breaking old applications, the expanded U.S. data set is actually being released as a new, separate data set.</p>
 <p>Factual was <a href="http://techcrunch.com/2009/10/13/factual-applied-semantics-co-founder-launches-a-repository-for-open-data/">founded in 2007</a> by Gil Elbaz, the co-founder of Applied Semantics, which Google acquired for its AdSense technology. Factual <a href="http://techcrunch.com/2010/12/08/factual-25-million/">raised a $25 million series A</a> led by Andreessen Horowitz and Index Ventures in 2010.</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/5xWvOnJSbe0/">here</a>.
