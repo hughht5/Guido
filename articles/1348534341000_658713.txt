@@ -1,0 +1,22 @@
+{
+"title" : "SevOne: The Dismal And Hopeful State Of Data Center Performance",
+"date" : "Tue, 25 Sep 2012 00:52:21 +0000",
+"author" : "Alex Williams"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/datacenter.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="datacenter" title="datacenter" style="float: left; margin: 0 10px 7px 0;" /><p>The data center is a mess. They consist of old physical networks, endless snarls of cables and storage boxes the size of refrigerators that stand in contrast to the comparable elegant world of the web.</p>
+<p>We love the web. The data centers &#8230; not so much.</p>
+<p>But a new study by <a target="_blank" href="http://sevone.com">SevOne</a> gives a bit of hope by illustrating that the new way we think of data may make life a bit better for those hardy souls who spend their days toiling between the rows of machines inside the walls of the enterprise data center.</p>
+<p>The results of the study point to the sad state of affairs that data center admins face:</p>
+<ul>
+<li> 90 percent of those surveyed say they do not have confidence in themselves to find problems before end users are impacted.</li>
+<li>30 percent of the respondents say they do not have a way to proactively detect problems. And that means people only find out about critical problems when end users complain.</li>
+<li>40 percent, experience critical issues one to five times each month. About 19 percent experience critical issues five to 10 times each month. And here&#8217;s the biggie: 12 percent do not know how many critical issues they have each month.</li>
+</ul>
+<p>Data is the answer. CA, HP, IBM &#8212; the tools they sell are on-premise offerings that 80 percent of the respondents say they don&#8217;t like. Maintenance costs, scalability issues, complex usability, and a lack of real-time reporting are sited as the problems with their existing performance management systems.</p>
+<p>SevOne is in the performance-management space so obviously the survey serves their purposes. It is one of a group of companies such as Cloud Physics that I will watch closely over the next few months. Both provide the capability to measure data from the machines in the data center. SevOne does it through P2P networking and big data clusters to help companies do real-time management of their massive infrastructures.</p>
+<p>Legacy providers are often ill-fitted to monitoring big data, thousands of mobile devices and the new massive loads on networks. In legacy environments, it may require a network administrator to look at several servers to get data for monitoring.</p>
+<p>So in some respects it may be tough to be an IT manager these days, but the future doesn&#8217;t look so bad. Data centers are streamlining, rapidly replacing the old with the new. It&#8217;s only time before performance gets better. The new data economy will demand it.</p>
+<p>You can see more of the survey results on the SevOne website.</p>
+<p>[Image: <a target="_blank" href="http://greenmonk.net/2011/02/09/power-assure-automates-the-reduction-of-data-center-power-consumption/">Tom Raftery</a>)</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/U8TIiFVRHWg/">here</a>.
