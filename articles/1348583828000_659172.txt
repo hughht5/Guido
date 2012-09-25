@@ -1,5 +1,5 @@
 {
-"title" : "Apple SVP Responds To #ScratchGate Claims Via Email",
+"title" : "Apple’s Schiller on #ScratchGate: Aluminium Scratching Is Normal",
 "date" : "Tue, 25 Sep 2012 14:37:08 +0000",
 "author" : "Darrell Etherington"
 }
