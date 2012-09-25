@@ -1,0 +1,12 @@
+{
+"title" : "NYPD Launches ‘Anti-Apple Picking Campaign’ To Protect iPhone Owners From Thefts",
+"date" : "Tue, 25 Sep 2012 18:39:42 +0000",
+"author" : "Romain Dillet"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/nypd1.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="NYPD" title="NYPD" style="float: left; margin: 0 10px 7px 0;" /><p>As the iPhone 5 went on sale <a href="http://techcrunch.com/2012/09/22/check-out-highlights-from-our-live-coverage-of-the-iphone-5-launch-tctv/">last Friday</a>, the impressive number of stolen Apple products in New York City should continue to grow. So far this year, the NYPD statistics state that 11,447 devices were reported as stolen to the police department — an increase of 40 percent year over year, representing 3,280 additional thefts. It has launched an initiative called the &#8220;Anti-Apple Picking Campaign&#8221; in order to turn the tide.</p>
+<p>Even more impressive, the recent increase of Apple thefts has affected the overall number of crimes in the city. With a 4 percent increase in serious crimes, the police is now tracking Apple devices separately from other stolen objects.</p>
+<p>Without judging thieves&#8217; smartphone and tablet preferences, the natural tendency to steal Apple products could be attributed to the high resell value.</p>
+<p>That is why the NYPD &#8220;Operation ID&#8221; program allows buyers to register their devices so that the police can find their owners in case of thefts. On Friday, officers were stationed in 21 Apple, Verizon and AT&amp;T stores and accepted registration forms.</p>
+<p>On those forms, the NYPD specifically advises iPhone owners to activate Find my iPhone in the settings. Finally, even though Apple offers free engraving for the iPad and some iPod models, consumers can also bring their devices to the closest police station in order to engrave a uniquely identifiable serial number prefixed by the letters &#8220;NYC&#8221;, bringing engraving to the iPhone for the first time ever — although you don&#8217;t chose what will be engraved.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/0FHZJlyXdRU/">here</a>.
