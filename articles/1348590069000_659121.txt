@@ -1,0 +1,17 @@
+{
+"title" : "Qvivo Raises $1M From SingTel For Media Cloud To Store And Watch Movies",
+"date" : "Tue, 25 Sep 2012 16:21:09 +0000",
+"author" : "Alex Williams"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/press_screen_movies.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="press_screen_movies" title="press_screen_movies" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://qvivo.com">Qvivo</a> has raised $1 million from SingTel Group&#8217;s corporate venture capital fund for a media-only cloud that people can use to store and watch movies and television shows, as well as and listen to music available in its library. The Singapore-based company will use the funding to build out its service and white label program for telecommunications providers, media companies, and others.</p>
+<p>The company, founded by two former Electronic Arts executives, offers unlimited cloud storage that can be synced across multiple desktop and mobile devices. The service is available as a desktop app for free. Users drag and drop media files and links directly onto the browser to then stream to any device with the Qvivo app installed. To stream on the web, the subscription cost is $1.99 per month. It is $2.99 per month for streaming offline and syncing to mobile devices.</p>
+<p><a href="http://techcrunch.com/2012/09/25/qvivo-raises-1m-from-singtel-for-media-cloud-to-store-and-watch-movies/qvivo/" rel="attachment wp-att-659274"></a></p>
+<p>The syncing is most compelling. It means you can stop watching a movie on your desktop, and later switch to your iPad while out on the road. Qvivo is available on Mac and PC desktops, iPhone and iPads. They are working on an Android app. Consoles will be added in 2013. Qvivo will start with Roku, Boxee, and Google TV apps.</p>
+<p>Co-Founder Liam McCallum said Qvivo can offer the unlimited service because it only allows media files in its cloud. Other services, such as Dropbox, allow any kind of file, which means there can be any kind of media, spread sheet, presentation and more. For example, iCloud&#8217;s maximum storage is 50 gigabytes.</p>
+<p>&#8220;We are not a general service,&#8221; McCallum said.</p>
+<p>McCallum said the service uses a hashing algorithm similar to Dropbox. That allows for faster access to the media file if the service already has it on the Qvivo cloud. As more people add more movies, the service gets faster. Qvivo uses Google&#8217;s cloud storage, Amazon Web Services and multiple CDN providers for its cloud service.</p>
+<p>Qvivo started as a media library, similar to Boxee or Windows media. As a cloud service it can offer white label programs to services such as regional telecommunications companies and media companies.</p>
+<p>SingTel is a great investor for Qvivo. McCallum said they do not have a distribution deal with the telecom provider but you can bet the framework is there to make that happen.</p>
+<p>Qvivo is a service with lots of potential. I do think they need to improve the user interface. It can be difficult to tell if the media has actually uploaded. Search still looks like it is in development. But otherwise the service shows that media clouds are here to stay, with the market greatly enhanced by the mass appeal of mobile devices for watching movies and television shows.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/4gBZQklyDls/">here</a>.
