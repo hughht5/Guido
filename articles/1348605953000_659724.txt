@@ -1,5 +1,5 @@
 {
-"title" : "Better SDKs -> Wall Street Shutting The Fuck Up: Facebook’s Mobile Platform Monetization Equation",
+"title" : "Better SDKs = Wall Street Shutting The Fuck Up: Facebook’s Mobile Platform Monetization Equation",
 "date" : "Tue, 25 Sep 2012 20:45:53 +0000",
 "author" : "Josh Constine"
 }
