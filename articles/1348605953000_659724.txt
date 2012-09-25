@@ -4,14 +4,14 @@
 "author" : "Josh Constine"
 }
 
-<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/facebook-ios-sdk-05-pm-copy.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Facebook iOS SDK.05 PM copy" title="Facebook iOS SDK.05 PM copy" style="float: left; margin: 0 10px 7px 0;" /><p>Facebook has <a target="_blank" href="https://developers.facebook.com/blog/post/2012/09/25/facebook-sdk-for-ios-and-the-ios-6-facebook-integration/">just released</a> the <a target="_blank" href="https://developers.facebook.com/ios/">Facebook SDK 3.1 for iOS</a> which lets app developers on its platform to take advantage of single sign-on through native login and other features from the social network getting baked into iOS 6. The new SDK lets app developer prep their Facebook mobile apps for iPhone 5&#8242;s screen size, native sharing &#8220;sheets&#8221;, ready-to-use UI elements, and a new ad analytics beta.</p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/facebook-ios-sdk-05-pm-copy.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Facebook iOS SDK.05 PM copy" title="Facebook iOS SDK.05 PM copy" style="float: left; margin: 0 10px 7px 0;" /><p>Facebook has <a target="_blank" href="https://developers.facebook.com/blog/post/2012/09/25/facebook-sdk-for-ios-and-the-ios-6-facebook-integration/">just released</a> the <a target="_blank" href="https://developers.facebook.com/ios/">Facebook SDK 3.1 for iOS</a> which lets app developers on its platform to take advantage of single sign-on through native login and other features from the social network getting baked into iOS 6. The new SDK lets app developers prep their Facebook mobile apps for iPhone 5&#8242;s screen size, native sharing &#8220;sheets&#8221;, ready-to-use UI elements, and a new ad analytics beta. Native login is big because it lets third-party apps avoid having to ask for a user&#8217;s Facebook email and password.</p>
 <p>If Facebook can give mobile developers the best possible tools to build on its platform, the ecosystem of apps that send it content will thrive and Facebook will be able to monetize that in-feed content with mobile ads.</p>
 <p>Here&#8217;s the full list of features SDK 3.1 offers iOS developers:</p>
 <ul>
-<li><strong>Native Facebook Login</strong></li>
-<li><strong>Native Sharing Sheets</strong></li>
-<li><strong>Native, ready-to-use UI controls including Friend Picker, Places Picker, profile picture control, and login control</strong>s</li>
-<li><strong>Facebook Login support across iOS versions:</strong></li>
+<li><strong>Native Facebook Login</strong> -Users login to Facebook once through the settings page and then can instantly give Facebook data permissions to apps without entering their email and password</li>
+<li><strong>Native Sharing Sheets</strong> &#8211; Apps can populate overlaid sharing sheets to let their users post to Facebook with minimum interruption to their experience</li>
+<li><strong>Native, ready-to-use UI controls including Friend Picker, Places Picker, profile picture control, and login control</strong>s &#8211; Lets apps integrate advanced Facebook features easily</li>
+<li><strong>Facebook Login support across iOS versions </strong>- Helps developers make sure their app works on old iOS builds</li>
 <li><strong>Easy session management</strong></li>
 <li><strong>Improved API support</strong></li>
 <li><strong>Ad analytics (Beta)</strong></li>
