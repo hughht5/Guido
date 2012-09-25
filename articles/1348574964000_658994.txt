@@ -1,0 +1,8 @@
+{
+"title" : "Lytro Expands Retail Presence, To Be Available Next Month From Amazon, Target, And Best Buy",
+"date" : "Tue, 25 Sep 2012 12:09:24 +0000",
+"author" : "Matt Burns"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/03/lytro-1.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="lytro (1)" title="lytro (1)" style="float: left; margin: 0 10px 7px 0;" /><p>The Lytro camera is a marvel of imaging technology and it will soon be a whole lot easier to buy. Starting in early October, the novel camera is hitting Amazon.com, BestBuy.com and Target.com, along with select international CityTarget stores. The camera was previously only available from the company&#8217;s website, Lytro.com.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/W-LHgoGlGOo/">here</a>.
