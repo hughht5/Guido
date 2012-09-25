@@ -1,5 +1,5 @@
 {
-"title" : "The Game Genome Product Finds Games You’ll Most Likely Enjoy",
+"title" : "The Game Genome Project Finds Games You’ll Most Likely Enjoy",
 "date" : "Tue, 25 Sep 2012 19:34:07 +0000",
 "author" : "John Biggs"
 }
@@ -10,7 +10,7 @@
 <p>The company bootstrapped $500,000 so far. They&#8217;re planning on a full launch in October.</p>
 <p>&#8220;We&#8217;ve tagged almost 10,000 games in Android, each game has on average 15-20 traits, which is much better than the 2-3 category descriptors currently available in most app stores,&#8221; said Neranjan Bissoon, company representative.<br />
 <br />
-&#8220;It’s a new trait-based mobile game discovery tool. Instead of wasting time looking for games based on generic keywords or stale top lists, search using a combination of traits such as “3D Graphics + Play By Tilting + Fast Game Play”.  You get a variety of games that are more tailored to what you actually want.&#8221;</p>
+&#8220;It’s a new trait-based mobile game discovery tool. Instead of wasting time looking for games based on generic keywords or stale top lists, search using a combination of traits such as “3D Graphics + Play By Tilting + Fast Game Play”. You get a variety of games that are more tailored to what you actually want.&#8221;</p>
 <p>The team says that this is just the start. After games, they plan on creating genomes for apps as well, allowing folks who love certain things &#8211; mind mapping, writing, etc. &#8211; to find things they might enjoy.</p>
 <p>&#8220;If we can win the trust of users in games, we can then move forward to apps and other mobile content thereby disrupting the current way people discover content on their mobile phone,&#8221; said Bissoon.</p>
 <p>He included a video, below, which I present without comment.</p>
