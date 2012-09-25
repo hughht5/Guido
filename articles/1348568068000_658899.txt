@@ -1,0 +1,30 @@
+{
+"title" : "Gambitious Brings Hybrid Crowdfunding To Video Games: Now Accepting Fan Donations And Equity",
+"date" : "Tue, 25 Sep 2012 10:14:28 +0000",
+"author" : "Natasha Lomas"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/screen-shot-2012-09-25-at-10-55-12.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-09-25 at 10.55.12" title="Screen Shot 2012-09-25 at 10.55.12" style="float: left; margin: 0 10px 7px 0;" /><p>Crowdfunding is so hot right now, and not just the big, sprawling platforms like <a target="_blank" href="http://www.crunchbase.com/company/kickstarter">Kickstarter</a> and <a href="http://techcrunch.com/2012/06/06/indiegogo-funding-15-million-crowdfunding/">Indiegogo</a> but the proliferation of more focused/specialised funding platforms that aim to serve a particular niche. Recent examples include <a href="http://techcrunch.com/2012/07/11/medstartr-launch/">MedStartr</a>, crowdfunding for healthcare startups; <a href="http://techcrunch.com/2012/08/20/ipo-vc-angel-fundersclub/">FundersClub</a> which actually gives you equity for your startup investments (not just a set of stickers); and <a href="http://techcrunch.com/2012/06/03/appsplit-is-crowdfunding-for-apps/">Appsplit</a>, a crowdfunding for apps. You get the picture. Anyway, the latest crowdsourcing platform to join the fray is <a target="_blank" href="http://www.gambitious.com/">Gambitious</a> &#8212; and the particular crowdfunding furrow it&#8217;s aiming to plough is video games.</p>
+<p>Gambitious claims to be the first crowdfunding platform exclusively dedicated to the games industry. The funding model it&#8217;s introducing is a hybrid one &#8212; which means games developers can ask for either fan pledges/donations and/or, in the European Union, request equity investments. Gambitious says it anticipates being able to open up equity investments to the U.S. next year &#8212; following the <a href="http://techcrunch.com/2012/04/05/with-jobs-act-becoming-law-crowdfunding-platforms-look-to-create-self-regulatory-body/">passing into law of the JOBS Act</a>.</p>
+<p>The company requires developers to submit a detailed business and marketing plan to qualify for inclusion on Gambitious (developers still retain their IP). Then, if the game reaches its investment goal and turns a profit, any equity investors will receive dividends based on their initial investments.</p>
+<p>&#8220;Crowdfunding is causing a great seismic shift in how projects get funded, however, there are risks of crash-and-burn due to unfulfilled projects and unfinished games,&#8221; said Gambitious CEO Paul Hanraets in a statement. &#8220;Unlike other crowdfunding platforms, Gambitious is designed specifically for the video game industry and ups the ante of developer credibility, investor engagement and development cycle understanding.&#8221;</p>
+<p>&#8220;It is time to move from the wild, wild, west of crowdfunding to a more professional model,&#8221; added Gambitious Co-Founder Mike Wilson in a statement. &#8221;Crowdfunding is the best thing to happen to indies since shareware in the 90&#8242;s and Gambitious is a transformational way of funding the video game market &#8212; legitimizing, protecting, and maximizing the opportunity for all that want a stake in the game.&#8221;</p>
+<p>The platform has launched with seven new projects asking for funds &#8212; from a mix of indie developers and veteran game designers. The seven are:</p>
+<div>
+<ul>
+<li><em>Candy Kids </em>by Abstraction Games, The Netherlands</li>
+<li><em>Cosmic DJ</em> by Gl33k, USA</li>
+<li><em>Mushroom Men</em> by Red Fly Studio, USA</li>
+<li><em>Piratoons </em>by Fishing Cactus, Belgium</li>
+<li><em>Super Micro Heroes</em> by Mutant Games, Spain</li>
+<li><em>Tink</em> by Mimimi Productions, Germany</li>
+<li><em>Train Fever</em> by Urban Games, Switzerland</li>
+</ul>
+<p>Upcoming projects include:</p>
+<ul>
+<li><em>Earth No More </em>by 3D Realms, USA</li>
+<li><em>Pantzer Pets by Gamundo</em>, The Netherlands</li>
+<li><em>Stronghold Crusaders 2</em> by Firefly Studios, England</li>
+</ul>
+</div>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/8ObUjdqmpmo/">here</a>.
