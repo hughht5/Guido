@@ -1,0 +1,10 @@
+{
+"title" : "Packers Player Generates 150K Retweets While Going Off On NFL Refs",
+"date" : "Tue, 25 Sep 2012 18:40:09 +0000",
+"author" : "Drew Olanoff"
+}
+
+<p><a target="_blank" href="http://blog.twitter.com/2012/09/nfl-week-3-onlyontwitter-edition.html">According to Twitter</a>, the Monday Night Football game last night caused quite a stir in the Twitterverse. One player in particular caused a fuss with his very angry tweets about the replacement refs in the NFL.</p>
+<blockquote><p>Last night during #MNF, Twitter conversation went into overdrive, when the @seahawks went head-to-head with the @packers at Qwest Field. Players and fans flocked to Twitter to share their opinions on what happened in the game’s final seconds. The now-infamous final play of the game generated more than one million Tweets (and used a fair amount of colorful language — consider this your disclaimer). </p>
+<p>One of the most vocal was @packers guard @TJLang70, whose series of blunt Tweets generated more than 150,000 retweets between them</p></blockquote>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/lTLNAkV3gG8/">here</a>.
