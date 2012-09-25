@@ -4,8 +4,7 @@
 "author" : "Alex Williams"
 }
 
-<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/datacenter.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="datacenter" title="datacenter" style="float: left; margin: 0 10px 7px 0;" /><p>The data center is a mess. They consist of old physical networks, endless snarls of cables and storage boxes the size of refrigerators that stand in contrast to the comparable elegant world of the web.</p>
-<p>We love the web. The data centers &#8230; not so much.</p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/datacenter.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="datacenter" title="datacenter" style="float: left; margin: 0 10px 7px 0;" /><p>The data center is a mess. They consist of old physical networks, endless snarls of cables and storage boxes the size of refrigerators that stand in contrast to the comparable elegant world of the web. We love the web. The data centers &#8230; not so much.</p>
 <p>But a new study by <a target="_blank" href="http://sevone.com">SevOne</a> gives a bit of hope by illustrating that the new way we think of data may make life a bit better for those hardy souls who spend their days toiling between the rows of machines inside the walls of the enterprise data center.</p>
 <p>The results of the study point to the sad state of affairs that data center admins face:</p>
 <ul>
