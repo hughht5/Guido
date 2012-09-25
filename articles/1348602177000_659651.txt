@@ -1,11 +1,11 @@
 {
-"title" : "New “Always On” Foursquare Setting Lets You Know Where Your Friends Are At All Times",
+"title" : "New “Always On” Foursquare Notification Setting Lets You Know Where Your Friends Are At All Times",
 "date" : "Tue, 25 Sep 2012 19:42:57 +0000",
 "author" : "Drew Olanoff"
 }
 
-<p>Foursquare wants you to keep in touch with your friends, thats why it has released a new notification setting for the system.</p>
-<p>Here&#8217;s what the company said today:</p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/6332617253_3b1c2cf752_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="6332617253_3b1c2cf752_z" title="6332617253_3b1c2cf752_z" style="float: left; margin: 0 10px 7px 0;" /><p>Foursquare wants you to keep in touch with your friends, thats why it has released a new notification setting for the system.</p>
+<p>Here&#8217;s what the <a target="_blank" href="http://blog.foursquare.com/2012/09/25/keep-up-with-close-friends-no-matter-how-far-they-roam-with-new-notification-settings/">company said today</a>:</p>
 <blockquote><p>Have friends or family that live in another city, state, or country? Now you can choose to receive notifications when they check in, even if they’re not nearby or you have all check-in notifications turned off. Is your spouse traveling for work? See when he or she arrives at the airport safely. Friends visiting Iceland for a week? Easily keep up with their glacier-climbing, fermented-shark eating adventures.</p></blockquote>
 <p><a href="http://techcrunch.com/2012/09/25/new-always-on-foursquare-setting-lets-you-know-where-your-friends-are-at-all-times/screen-shot-2012-09-25-at-3-30-13-pm/" rel="attachment wp-att-659656"></a></p>
 <p>The setting itself can be found on your friend&#8217;s profile on foursquare.com. I&#8217;d be careful with how many people you add this &#8220;Always On&#8221; setting for, because you could get nailed with a zillion notifications quickly if your buddies move around a lot.</p>

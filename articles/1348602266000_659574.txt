@@ -1,0 +1,17 @@
+{
+"title" : "TechCrunch’s YouTube Channel Hits 10 Million Video Views",
+"date" : "Tue, 25 Sep 2012 19:44:26 +0000",
+"author" : "Jon Orlin"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/youtube-10million.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="youtube 10million" title="youtube 10million" style="float: left; margin: 0 10px 7px 0;" /><p>OK, we are not at <a target="_blank" href="http://www.youtube.com/watch?v=9bZkp7q19f0">Gangnam Style</a> or <a target="_blank" href="http://www.youtube.com/watch?v=fWNaR-rxAic">Call Me Maybe</a> viewing levels.  Those videos have more than 274 million and 269 million views, respectively, on YouTube.  </p>
+<p>But today, <a target="_blank" href="http://www.youtube.com/techcrunch">TechCrunch&#8217;s YouTube</a> channel passed its own milestone: 10 Million Views.  Michael Arrington wrote the <a href="http://techcrunch.com/2005/06/11/technorati-new-improved/">first post</a> on TechCrunch on June 11st, 2005.  Less than two months later, obviously recognizing that video was going to be important, he had signed up for a YouTube channel.</p>
+<p>We&#8217;ve just completed a re-fresh and re-design of our <a target="_blank" href="http://www.youtube.com/techcrunch">YouTube page</a> and have started feeding it with our TCTV videos, after a short hiatus.  We&#8217;ve got more than 2500 videos available, plus featured playlists for our shows like <a target="_blank" href="http://www.youtube.com/playlist?list=PLHRxVckaE8dawZGx5QRttMt19X-lN7K4t">TC Cribs</a> and events such as <a target="_blank" href="http://www.youtube.com/playlist?list=PLHRxVckaE8daTWvm6ZJcP9nPYCKd1NY5p">Disrupt</a>.  Our recent <a target="_blank" href="http://www.youtube.com/watch?v=o2wPzjH2xwA&amp;list=UUCjyq_K1Xwfg8Lndy7lKMpA&amp;index=0&amp;feature=plcp">Mark Zuckerberg interview</a> is now featured on our YouTube home page.</p>
+<p>You can join our 14,181 YouTube subscribers by signing up <a target="_blank" href="http://www.youtube.com/redirect?q=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dtechcrunch&amp;event=imagemapurl&amp;usg=aL0a07-3A7xJj45RI6HZWsMcJ20=">here</a>.</p>
+<p>Here&#8217;s a look at our all-time top three videos:</p>
+<span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/09/25/techcrunchs-youtube-channel-hits-10-million-video-views/"></a></span>
+<span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/09/25/techcrunchs-youtube-channel-hits-10-million-video-views/"></a></span>
+<span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/09/25/techcrunchs-youtube-channel-hits-10-million-video-views/"></a></span>
+<p>If you are wondering about that last William Shatner video, you can learn why he loves TechCrunch <a href="http://techcrunch.com/2008/08/14/confirmed-william-shatner-loves-techcrunch/">here</a>.</p>
+<p>We will still use the AOL On player for TechCrunch videos on our site, but we are glad to have our videos available on the YouTube network as well.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/zfGzdooFS44/">here</a>.
