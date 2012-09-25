@@ -1,5 +1,5 @@
 {
-"title" : "Packers Player Generates 150K Retweets While Going Off On NFL Refs To Support 1M Total Tweets",
+"title" : "Packers Player Generates 150K Retweets Hating On NFL Refs, 1M Tweets Generated In Total",
 "date" : "Tue, 25 Sep 2012 18:40:09 +0000",
 "author" : "Drew Olanoff"
 }
