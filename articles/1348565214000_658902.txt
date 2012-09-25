@@ -1,5 +1,5 @@
 {
-"title" : "HuffingtonPost Launches Italian Edition, 9 Months After Announcing It. UK Now Has 4.1M Monthly Users",
+"title" : "HuffingtonPost Launches Italian Edition, 9 Months After Announcing. Says UK Tops 4.1M Monthly Uniques",
 "date" : "Tue, 25 Sep 2012 09:26:54 +0000",
 "author" : "Ingrid Lunden"
 }
