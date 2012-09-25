@@ -1,5 +1,5 @@
 {
-"title" : "RIM Renews Its Vow To Keyboards",
+"title" : "RIM Renews Its Vow To Keep The Keyboard",
 "date" : "Tue, 25 Sep 2012 15:59:43 +0000",
 "author" : "Jordan Crook"
 }
