@@ -1,5 +1,5 @@
 {
-"title" : "Social CRM Company Capillary Technologies Raises $15.5M From Sequoia, Qualcomm And Others",
+"title" : "Social CRM Company Capillary Technologies Raises $15.5M From Sequoia, Norwest & Qualcomm",
 "date" : "Tue, 25 Sep 2012 17:04:37 +0000",
 "author" : "Sarah Perez"
 }
