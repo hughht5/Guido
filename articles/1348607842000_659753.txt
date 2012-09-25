@@ -1,0 +1,9 @@
+{
+"title" : "Instagram Gets Updated For iPhone 5′s 4-inch Screen And iOS 6",
+"date" : "Tue, 25 Sep 2012 21:17:22 +0000",
+"author" : "Darrell Etherington"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/04/instagram-logo.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="instagram logo" title="instagram logo" style="float: left; margin: 0 10px 7px 0;" /><p>The new big happy Facebook family is certainly on the ball with iPhone 5, delivering and update not only for its own app, but also <a target="_blank" href="http://itunes.apple.com/us/app/id389801252?mt=8&amp;src=af&amp;s=143455&amp;ign-mpt=uo%3D6">one for new subsidiary Instagram</a> designed to work on the new iPhone and iOS 6. The update now ensures that you&#8217;ll be able to check out your photos using the iPhone 5&#8242;s full 4-inches of glory.</p>
+<p>Use of the larger screen doesn&#8217;t bring any major interface changes to the table: you&#8217;ll just see more of your feed at once. Would&#8217;ve been nice to see some additional use of the extra space, but at least the app, which is all about a pleasant viewing experience, isn&#8217;t letterboxed anymore. You&#8217;ll also get a new onboarding process for new users, useful if you&#8217;re just picking it up for the first time, as well as better password recovery options. It&#8217;s available now as a free update from the App Store.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/BR4HWkzLzhw/">here</a>.
