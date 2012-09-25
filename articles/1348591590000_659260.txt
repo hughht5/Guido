@@ -4,7 +4,7 @@
 "author" : "Matt Burns"
 }
 
-<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/1.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="1" title="1" style="float: left; margin: 0 10px 7px 0;" /><p>Disregard the buggy presentation. RIM and Facebook revealed the BlackBerry 10 Facebook application today at BlackBerry Jam. This native app looks and feels very similar to its iOS and Android counterparts. The hidden menu on the right, large photos on the mobile wall &#8212; it&#8217;s seemingly all there, just as expected.</p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/1.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="1" title="1" style="float: left; margin: 0 10px 7px 0;" /><p>Disregard the buggy presentation. RIM and Facebook revealed the BlackBerry 10 Facebook application today at BlackBerry Jam. This native app looks and feels very similar to its iOS and Android counterparts. The hidden menu on the left, large photos on the mobile wall &#8212; it&#8217;s seemingly all there, just as expected.</p>
 <p>However, RIM was unable to show off the upcoming app in detail. First, the app crashed. Then it appeared the device stopped exporting the video signal to the external display. And then the app failed to update. But it&#8217;s Facebook! On BlackBerry 10!</p>
 <p>The Facebook app will be available at launch with Blackberry 10. Hopefully it will be less buggy at that time.</p>
 <p>Like previous BlackBerry operating systems, Facebook is also baked right into BB10. Facebook messages and notification show up in BB10&#8242;s main messaging pane.</p>
