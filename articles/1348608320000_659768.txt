@@ -1,12 +1,14 @@
 {
-"title" : "Twitter Announces New “People You May Know” Email Newsletter",
+"title" : "Twitter Announces “People You May Know” Email Newsletter",
 "date" : "Tue, 25 Sep 2012 21:25:20 +0000",
 "author" : "Drew Olanoff"
 }
 
-<p>Twitter has announced a new email newsletter initiative, hoping that you&#8217;ll find people that you might already know on the service and then come back to interact.</p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/3860849660_79a2387689_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="3860849660_79a2387689_z" title="3860849660_79a2387689_z" style="float: left; margin: 0 10px 7px 0;" /><p>Twitter has announced a new email newsletter initiative, hoping that you&#8217;ll find people that you might already know on the service and then come back to interact.</p>
 <p>Here&#8217;s what <a target="_blank" href="http://blog.twitter.com/2012/09/people-you-may-know.html">Twitter had to say</a>:</p>
 <blockquote><p>This weekly email highlights a handful of people you may know who use Twitter. You can choose to follow any of the suggested people and you can find more people you may know on twitter.com. Suggestions are based on signals like who your friends follow and the contact information imported by people you know. For example, if several people you know follow someone, you may also know them and want to follow them too. There’s no telling who you might find on Twitter, so open this weekly message for an ongoing source of great accounts to follow.</p></blockquote>
 <p><a href="http://techcrunch.com/2012/09/25/twitter-announces-new-people-you-may-know-email-newsletter/pymk-email-screenshot-1/" rel="attachment wp-att-659773"></a></p>
+<p>This is something you can already do based on your email contacts, but I suppose that it wasn&#8217;t picking up enough traction. Email is definitely a way to bring people back if they&#8217;re dormant, though.</p>
 <p>If this isn&#8217;t your bag, you can go into your account settings and shut these off. As usual with Twitter, this is now a default email that will hit your inbox.</p>
+<p>[Photo credit: <a target="_blank" href="http://www.flickr.com/photos/topgold/3860849660/sizes/z/">Flickr</a>]</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/oiSG-6-Zv80/">here</a>.
