@@ -1,11 +1,13 @@
 {
-"title" : "Eric Schmidt: Google Hasn’t Submitted A Native Google Maps App To Apple",
+"title" : "Eric Schmidt: Google Hasn’t Submitted A Native Google Maps App To Apple (Yet)",
 "date" : "Tue, 25 Sep 2012 07:12:22 +0000",
 "author" : "Drew Olanoff"
 }
 
 <p>According to Reuters, Google Chairman Eric Schmidt told a crowd of reporters that the company has not submitted a native Google Maps app to Apple as of yet.</p>
 <p>He stated that Google and Apple do talk &#8220;daily&#8221;, however.</p>
+<blockquote><p>&#8220;We have not done anything yet,&#8221; Google Executive Chairman Eric Schmidt told a small group of reporters during a visit to Tokyo.</p>
+<p>&#8220;We&#8217;ve been talking with (Apple) for a long time. We talk to them every day,&#8221; he added.</p></blockquote>
 <p>h/t <a target="_blank" href="http://thenextweb.com/insider/2012/09/25/google-hasnt-submitted-maps-app-app-store-yet/?awesm=tnw.to_b5Dm&amp;utm_source=Twitter&amp;utm_campaign=social%20media&amp;utm_medium=Spreadus">TNW</a></p>
 <p><em>This is developing.</em></p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/IpooXk2ixvY/">here</a>.
