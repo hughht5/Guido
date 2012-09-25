@@ -1,5 +1,5 @@
 {
-"title" : "With Network-Wide Product Upgrades, Vox Media Moves Into The Publishing Playoffs",
+"title" : "With SB Nation United, Vox Media Moves Into The Publishing Playoffs",
 "date" : "Tue, 25 Sep 2012 13:46:57 +0000",
 "author" : "Eric Eldon"
 }
