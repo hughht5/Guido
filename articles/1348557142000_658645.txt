@@ -4,7 +4,7 @@
 "author" : "Drew Olanoff"
 }
 
-<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/2235120304_4a15755d2b_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="2235120304_4a15755d2b_z" title="2235120304_4a15755d2b_z" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.reuters.com/article/2012/09/25/us-google-iphone-idUSBRE88O07U20120925">According to Reuters</a>, Google Executive Chairman Eric Schmidt told a group of reporters in Japan that the company has not submitted a native Google Maps app to Apple as of yet.</p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/2235120304_4a15755d2b_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="2235120304_4a15755d2b_z" title="2235120304_4a15755d2b_z" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.reuters.com/article/2012/09/25/us-google-iphone-idUSBRE88O07U20120925">According to Reuters</a>, Google Executive Chairman Eric Schmidt told a group of reporters in Japan that the company, in essence, has not submitted a native Google Maps app to Apple as of yet.</p>
 <p>He stated that Google and Apple do talk &#8220;daily&#8221;, however.</p>
 <p>Just what the two companies talk about daily is anyone&#8217;s guess. There could be software and hardware discussions, legal back and forth, hello&#8217;s from old friends or discussions about search, maps and more. From reading Schmidt&#8217;s quotes, he doesn&#8217;t seem to be in a hurry on anything:</p>
 <blockquote><p>We have not done anything yet.</p></blockquote>
