@@ -14,5 +14,5 @@
 <p>The team says that this is just the start. After games, they plan on creating genomes for apps as well, allowing folks who love certain things &#8211; mind mapping, writing, etc. &#8211; to find things they might enjoy.</p>
 <p>&#8220;If we can win the trust of users in games, we can then move forward to apps and other mobile content thereby disrupting the current way people discover content on their mobile phone,&#8221; said Bissoon.</p>
 <p>He included a video, below, which I present without comment.</p>
-<span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/09/25/the-game-genome-product-finds-games-youll-most-likely-enjoy/"></a></span>
+<span class='embed-youtube' style='text-align:center; display: block;'><iframe class='youtube-player' type='text/html' width='640' height='390' src='http://www.youtube.com/embed/bd_Gwydw0f0?version=3&#038;rel=1&#038;fs=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' frameborder='0'></iframe></span>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/7AiRxCbNrwk/">here</a>.
