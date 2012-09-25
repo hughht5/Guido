@@ -1,5 +1,5 @@
 {
-"title" : "New “Always On” Foursquare Notification Setting Lets You Know Where Your Friends Are At All Times",
+"title" : "New “Always On” Foursquare Notification Setting Lets You Know Where Your Friends Are",
 "date" : "Tue, 25 Sep 2012 19:42:57 +0000",
 "author" : "Drew Olanoff"
 }
