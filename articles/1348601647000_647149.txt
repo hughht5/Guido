@@ -1,0 +1,18 @@
+{
+"title" : "The Game Genome Product Finds Games You’ll Most Likely Enjoy",
+"date" : "Tue, 25 Sep 2012 19:34:07 +0000",
+"author" : "John Biggs"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/screen-shot-2012-09-25-at-3-32-39-pm.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-09-25 at 3.32.39 PM" title="Screen Shot 2012-09-25 at 3.32.39 PM" style="float: left; margin: 0 10px 7px 0;" /><p>Finding the right game for your Android device can be hard. Are you a tower defense kind of guy or are you in the mood for a Bejeweled clone? Do you like zombies? The military? Fart apps?</p>
+<p>Thankfully, there&#8217;s the <a target="_blank" href="http://www.gamegenomeproject.com">GameGenomeProject</a>, a discovery engine that helps you find games that match your mood. The system is fairly simple right now &#8211; there are only four characteristics to choose from including one for &#8220;Undead&#8221; &#8211; but the idea of a Pandora for games is pretty compelling.</p>
+<p>Founded by Anu Nigam and Roberto Fonti, the system is obviously about app discovery and purchase. However, these guys are pretty skilled at roping in users. Nigam was part of hi5.com and BuzzBox while Fonti is also working one something called the Best Apps Market, an app market that, as the name suggests, focuses on best apps.</p>
+<p>The company bootstrapped $500,000 so far. They&#8217;re planning on a full launch in October.</p>
+<p>&#8220;We&#8217;ve tagged almost 10,000 games in Android, each game has on average 15-20 traits, which is much better than the 2-3 category descriptors currently available in most app stores,&#8221; said Neranjan Bissoon, company representative.<br />
+<br />
+&#8220;It’s a new trait-based mobile game discovery tool. Instead of wasting time looking for games based on generic keywords or stale top lists, search using a combination of traits such as “3D Graphics + Play By Tilting + Fast Game Play”.  You get a variety of games that are more tailored to what you actually want.&#8221;</p>
+<p>The team says that this is just the start. After games, they plan on creating genomes for apps as well, allowing folks who love certain things &#8211; mind mapping, writing, etc. &#8211; to find things they might enjoy.</p>
+<p>&#8220;If we can win the trust of users in games, we can then move forward to apps and other mobile content thereby disrupting the current way people discover content on their mobile phone,&#8221; said Bissoon.</p>
+<p>He included a video, below, which I present without comment.</p>
+<span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/09/25/the-game-genome-product-finds-games-youll-most-likely-enjoy/"></a></span>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/7AiRxCbNrwk/">here</a>.
