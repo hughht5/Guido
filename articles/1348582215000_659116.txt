@@ -1,5 +1,5 @@
 {
-"title" : "The Twelve South HiRise Looks Like A Mac Pro Mini, Is Actually A iMac Stand And Storage Locker",
+"title" : "The Twelve South HiRise Looks Like A Mac Pro Mini, Is Actually An iMac Stand And Storage Locker",
 "date" : "Tue, 25 Sep 2012 14:10:15 +0000",
 "author" : "Matt Burns"
 }
