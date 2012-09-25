@@ -1,0 +1,12 @@
+{
+"title" : "MIT Hacks Kinect Laser For A Wearable Map Generator For Firefighters",
+"date" : "Tue, 25 Sep 2012 18:55:38 +0000",
+"author" : "Gregory Ferenstein"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/wearable-sensor_6.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="wearable-sensor_6" title="wearable-sensor_6" style="float: left; margin: 0 10px 7px 0;" /><p>When most of us play video games, our greatest accomplishment is the mound of Cheetos dust we can collect in a single sitting. At MIT, researchers have hacked the Microsoft Kinect&#8217;s laser <a target="_blank" href="http://gizmodo.com/5946184/chest-sensor-produces-instant-floor-plans-for-emergency-personnel">into a wearable chest sensor</a> that creates a floor-plan as the user moves throughout a building. The immediate use case, <a target="_blank" href="http://web.mit.edu/newsoffice/2012/automatic-building-mapping-0924.html">reports MIT News</a>, is for emergency personal who could benefit from a real-time map as they explore unfamiliar buildings. Even better, the system memorizes where the wearer has been, so it could alert firefighters if they are accidentally backtracking or need to find a their original way out.</p>
+<p>Mapping data is collected by a chest-bound laser that sweeps for terrain and walls in 270-degrees around the wearer as he or she moves about a room. &#8220;Every few meters&#8221; a camera collects hundreds of visual images on colors, contours, and shapes to augment the laser&#8217;s mapping. An accelerometer keeps track of where the user is looking and moving, and a barometer gages the floor level by micro-changes in air-pressure.</p>
+<p>Check out MIT&#8217;s video below to see the experimental device in action:</p>
+<span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/09/25/mit-hacks-kinect-laser-for-a-wearable-map-generator-for-firefighters/"></a></span>
+<p>Via <a target="_blank" href="http://gizmodo.com/5946184/chest-sensor-produces-instant-floor-plans-for-emergency-personnel">Gizmodo</a> Via <a target="_blank" href="http://www.ubergizmo.com/2012/09/wearable-sensors-map-out-surroundings-in-real-time/?utm_source=mainrss">Ubergizmo</a></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/b-CH-w-U9uo/">here</a>.
