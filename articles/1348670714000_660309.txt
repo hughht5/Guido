@@ -1,0 +1,11 @@
+{
+"title" : "Electronic Arts Buys Online Gaming Development Studio ESN",
+"date" : "Wed, 26 Sep 2012 14:45:14 +0000",
+"author" : "Ingrid Lunden"
+}
+
+<p>EA continues to beef up its cloud-based gaming offerings. Today it was announced that it is buying ESN, developers of the Planet web-based games framework, for an undisclosed sum. The two had already been working together, namely on <a target="_blank" href="http://battlelog.battlefield.com/bf3/gate/">Battlelog</a>, an online component for Battlefield 3. The news was announced on <a target="_blank" href="http://www.esn.me/news/read/20/ea-acquires-esn/">ESN&#8217;s blog</a>.</p>
+<p>&#8220;We couldn’t be more excited about this opportunity and the team is looking forward to focus all of its energy on DICE, Battlelog and the Battlefield series,&#8221; the company&#8217;s founders write.</p>
+<p>It also notes that it is on the lookout to hire more developers. </p>
+<p>More to come.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/4dcEY11mcj8/">here</a>.
