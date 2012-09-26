@@ -1,5 +1,5 @@
 {
-"title" : "The iPhone 5′s Camera Is Faulty, Shows A Purple Haze",
+"title" : "The iPhone 5′s Camera Is Faulty, Shows Purple Haze When Light Source Is Just Out Of Frame",
 "date" : "Wed, 26 Sep 2012 17:53:28 +0000",
 "author" : "Jordan Crook"
 }
