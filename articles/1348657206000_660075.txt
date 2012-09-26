@@ -1,0 +1,12 @@
+{
+"title" : "Google Play Store Hits 25 Billion App Downloads, Kicks Off Five Day App Sale To Celebrate",
+"date" : "Wed, 26 Sep 2012 11:00:06 +0000",
+"author" : "Chris Velazco"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/25-billion-graph.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="infographic_19" title="infographic_19" style="float: left; margin: 0 10px 7px 0;" /><p>Well, that didn&#8217;t take too long &#8212; Google has just announced that it now has another app-related milestone under its proverbial belt. According to a new post on the official Google blog, the Google Play Store has crossed 25 billion app downloads; in case you&#8217;re the type to keep track of these things, the news comes just six months after Apple&#8217;s App Store hit that same milestone.</p>
+<p>As usual, Google has chosen to commemorate the occasion with a slew of app discounts to push that number of downloads even higher for the next five days. According to a post on Google&#8217;s official blog, titles from developers Gameloft, Electronic Arts, Rovio, runtastic, Full Fat (just to name a few) will be among those being sold for a scant $0.25 starting later today.</p>
+<p>If the announcement sounds a bit familiar, it&#8217;s probably because Google has been awfully vociferous about its Play Store momentum lately. Sergey Brin&#8217;s stunning mid-air Glass demo may have stolen the show, but Google offered up some interesting Google Play Store statistics back at Google I/O &#8212; at the time, the company revealed that the Google Play Store had hit 20 billion installs, and saw over 1.5 billion app downloads per month. </p>
+<p>That&#8217;s a pretty solid jump from the roughly 1 billion downloads per month the Google Play Store saw back in late April/early May when it crossed the 15 billion download barrier, and at this point there&#8217;s no sign of that download momentum faltering any time soon. </p>
+<p><em>Developing&#8230;</em></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/s_Nvmw2XUn4/">here</a>.
