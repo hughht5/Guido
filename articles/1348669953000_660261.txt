@@ -1,0 +1,11 @@
+{
+"title" : "Final Build Of Windows Phone 8 Demoed",
+"date" : "Wed, 26 Sep 2012 14:32:33 +0000",
+"author" : "Peter Ha"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/06/photo-9.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="photo (9)" title="photo (9)" style="float: left; margin: 0 10px 7px 0;" /><p>To date, Microsoft has kept hands on time with its <a href="http://techcrunch.com/tag/windows-phone-8/">Windows Phone 8</a> devices to a minimum (read: you can look but don&#8217;t touch) and until recently, a finalized build of the SDK has been limited to only a handful of developers. A leaked SDK of said build, however, has been floating around as of late and <a target="_blank" href="http://www.wpcentral.com/windows-phone-8-os-walkthrough-finalized-emulator-and-sdk">WP Central</a> posted the following video of what it says is not a thorough walkthrough of the upcoming OS but covers &#8220;things we noticed immediately.&#8221;</p>
+<span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/09/26/final-build-of-windows-phone-8-demoed/"></a></span>
+<p>At first glance, it doesn&#8217;t reveal anything that hasn&#8217;t already been seen, talked about or currently present in Windows Phone 7+ but as WPC points it, it could mean that Microsoft is keeping a few things under wraps until the OS is ready for launch. Or there isn&#8217;t anything else left to show. Which, if true, begs the question of why Microsoft is holding back the launch of Windows Phone 8 nearly a month after Apple&#8217;s latest handset and mobile OS will have launched.</p>
+<p>It obviously has more to do with the launch of Windows 8 at the end of October but conventional wisdom would suggest that&#8217;s a bonehead move. </p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/loI8Otruy_0/">here</a>.
