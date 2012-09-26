@@ -9,8 +9,7 @@
 <blockquote><p><em>We would like to assure our customers that the recent security issue concerning the GALAXY S III </em><em>has already been resolved through a software update. </em><em>We recommend all GALAXY S III customers to download the latest software update, which can be done </em><em>quickly and easily via the Over-The-Air (OTA) service.</em></p></blockquote>
 <p>Handsets vulnerable to the exploit also included the Galaxy S II series, the Galaxy S Advance, Galaxy Beam, and Galaxy Ace.</p>
 <p>We&#8217;re asking Samsung to confirm whether it has released patches for all affected handsets.</p>
-<p>The flaw can also be triggered by scanning a malicious QR code.</p>
-<p>The problem apparently lies with how Samsung&#8217;s TouchWiz dialer handles USSD codes, and also how the stock browser handles the &#8220;tel:&#8221; protocol handler.</p>
-<p>The flaw came to light at a recent security conference in Argentina, demoed by Technical University Berlin researcher Ravi Borgaonkar.</p>
+<p>The problem apparently lies with how Samsung&#8217;s TouchWiz dialer handles USSD codes, and also how the stock browser handles the &#8220;tel:&#8221; protocol handler. As well as dodgy links, it can also be triggered by scanning a malicious QR code.</p>
+<p>The vulnerability came to light at a recent security conference in Argentina, demoed by Technical University Berlin researcher Ravi Borgaonkar.</p>
 <span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/09/26/samsung-speedily-plugs-remote-wipe-flaw-urges-galaxy-siii-owners-to-update/"></a></span>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/RxZWs8t0dhw/">here</a>.
