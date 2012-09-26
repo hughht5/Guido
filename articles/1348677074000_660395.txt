@@ -1,0 +1,38 @@
+{
+"title" : "Mozilla And The National Science Foundation Challenge Developers To Build “Apps From The Future”",
+"date" : "Wed, 26 Sep 2012 16:31:14 +0000",
+"author" : "Frederic Lardinois"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/ignite_apps_challenge.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="ignite_apps_challenge" title="ignite_apps_challenge" style="float: left; margin: 0 10px 7px 0;" /><p>In June, Mozilla and the National Science Foundation (NSF) <a href="http://techcrunch.com/2012/06/13/white-house-launches-us-ignite-for-next-gen-broadband-apps-partners-with-mozilla-for-500k-competition/">announced</a> the <a target="_blank" href="https://mozillaignite.org/">Mozilla Ignite</a> challenge. During the first phase of this $500,000 challenge, the two organizations invited anybody to submit ideas for applications that could make use of ultra-fast next-generation networks. These ideas had to be related to education, healthcare, public safety and clean energy to transportation, workforce development and advanced manufacturing. Today, Mozilla and the NSF <a target="_blank" href="https://blog.mozilla.org/blog/2012/09/26/ignite/">announced</a> the eight winning ideas and launched the second phase of the program, which focuses on putting these ideas into reality.</p>
+<div class='embed-vimeo' style='text-align:center;'><iframe src='http://player.vimeo.com/video/46589415' width='640' height='360' frameborder='0'></iframe></div>
+<p>Here are the <a target="_blank" href="https://blog.mozilla.org/blog/2012/09/26/ignite/">winning ideas</a>:</p>
+<ul>
+<li><a target="_blank" href="https://mozillaignite.org/ideas/212/"><strong>Real-Time Emergency Response Observation and Supervision</strong></a> <em><br />
+Jeremy Cooperstock, Shared Reality Lab, McGill University</em><br />
+<strong>This app saves lives</strong>. The goal: arm firefighters, rescue workers and first-responders with powerful new real-time data and communications. Combining live, high-quality video from multiple feeds with real-time sensor data — like heat and smoke levels — could dramatically improve decision-making and coordination.</li>
+<li><a target="_blank" href="https://mozillaignite.org/ideas/323/"><strong>Real-time 3D Interactive Telepresence</strong></a><em><br />
+Andor Salga, Seneca College, author of XBPointStream<br />
+</em><strong>A giant leap beyond video-conferencing</strong>. This app proposes using 3D Kinect sensors for two-way, three-dimensional “tele-presence,” allowing doctors to gain a real-time views of their patients, or let teachers to teach remote classes in 3D.</li>
+<li><a target="_blank" href="https://mozillaignite.org/ideas/313/"><strong>Remote Process Control Using a Reliable, Real-Time Protocol</strong></a><em><br />
+George Adams, Purdue University</em><br />
+<strong>Reliable, super-fast remote control</strong>. Gigabit networks can provide new ways of controlling processes from afar, allowing engineers, artists, and experimenters to remotely control advanced manufacturing processes like 3D printing — regardless of how close they are to the means of production.</li>
+<li><a target="_blank" href="https://mozillaignite.org/ideas/117/"><strong>Long-Term Monitoring and Crisis Management System</strong></a><em><br />
+Amr Ali, Biomedical Engineer and Dmitri Boulanov, Software Engineer, Boston University 2010</em><br />
+<strong>Ubiquitous sensors plus high-speed networks can revolutionize healthcare</strong>. This app would allow you and your doctor to aggregate and analyze your health data in real-time, detecting and preventing potential crises before they occur.</li>
+<li><a target="_blank" href="https://mozillaignite.org/ideas/215/"><strong>High Quality Open Source Web Conferencing</strong></a><em><br />
+Fred Dixon, BigBlueButton </em><br />
+<strong>Combining high-speed networks with new web standards like HTML5 and WebRTC</strong>. The result: a robust remote classroom experience and high-quality education for any student equipped with a simple web browser, no matter where they’re located.</li>
+<li><a target="_blank" href="https://mozillaignite.org/ideas/103/"><strong>Kinect Health 3D</strong></a><em><br />
+Bob Summers, graduate of Virginia Tech and MIT<br />
+</em><strong>Helping users get in shape with peers</strong> — from the convenience of their living rooms, using real-time 3D scans of participants plus high speed computing resources in the cloud to monitor and share their progress over time.</li>
+<li><a target="_blank" href="https://mozillaignite.org/ideas/242/"><strong>Smart Streets for Smart Cars</strong></a><em><br />
+Eric Endlich and Julian Valencia, EndlichStudios</em><br />
+<strong>Cars are getting smarter, so why shouldn’t streets?</strong> From traffic lights that dynamically respond to changes in traffic, to street lamps that automatically dim to save energy, to roads that communicate real-time traffic updates and emergency broadcasts to drivers.</li>
+<li><a target="_blank" href="https://mozillaignite.org/ideas/245/"><strong>The Rashomon Project: “Multi-Perspective Chronology”</strong></a><em><br />
+Camille Crittenden, Data and Democracy Initiative at CITRIS, UC Berkeley<br />
+</em><strong>Using social video improve our understanding of complex events</strong>. Rashomon would allow visitors to study an event from multiple perspectives, zooming in on particular moments to examine sequences in detail.</li>
+</ul>
+<p>At this point, developers can still submit completely new proposals, but Mozilla and the NSF are also looking for developers to build prototypes of these winning ideas. Developers can win part of the remaining $485,000 for their winning proposals and prototypes. Winners will also receive additional funding and access to the NSF&#8217;s <a target="_blank" href="http://www.geni.net/">Global Environment for Network Innovation</a> test-bed network. You have until October 25th to <a target="_blank" href="https://mozillaignite.org/accounts/login/?next=/apps/add/">apply for this second round</a>. After this round, there will be two additional development rounds, too.</p>
+<p><a href="http://techcrunch.com/2012/09/26/mozilla-and-the-national-science-foundation-challenge-developers-to-build-apps-from-the-future/mozilla-ignite-future-apps/" rel="attachment wp-att-660402"></a></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/D87KQ7nQyK4/">here</a>.
