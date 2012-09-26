@@ -1,5 +1,5 @@
 {
-"title" : "Samsung’s Mobile Chief To Meet Google’s Schmidt — Apple Patents Battle On The Agenda?",
+"title" : "Samsung’s Mobile Chief To Meet Google’s Schmidt — Apple Patents Battle On The Agenda",
 "date" : "Wed, 26 Sep 2012 10:58:45 +0000",
 "author" : "Natasha Lomas"
 }
