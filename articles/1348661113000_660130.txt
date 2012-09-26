@@ -1,0 +1,13 @@
+{
+"title" : "M:Metrix Co-founder Seamus McAteer Launches Metaresolver, Promising Clean Data For Mobile Ads",
+"date" : "Wed, 26 Sep 2012 12:05:13 +0000",
+"author" : "Anthony Ha"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/metaresolver-logo.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="metaresolver logo" title="metaresolver logo" style="float: left; margin: 0 10px 7px 0;" /><p>Mobile ad startup <a target="_blank" href="http://www.metaresolver.com">Metaresolver</a> is launching today, and like a number of other companies that have launched in recent months, it&#8217;s tackling what its founders see as the big problems holding back mobile ads — accurate audience targeting.</p>
+<p>The company was founded by Seamus McAteer, the co-founder of comScore-acquired mobile metrics startup M:Metrics, and Mike Rowehl, the first engineer at AdMob. It spun out of Churn Labs, the startup generator that was created by Rowehl and AdMob founder Omar Hamoui — in fact, Rowehl and Hamoui&#8217;s decisions to focus full-time on specific startups <a href="http://techcrunch.com/2012/05/31/churn-lab-shut-down/">led to Churn&#8217;s shutdown</a>.</p>
+<p>McAteer tells me Metaresolver isn&#8217;t trying to create divide the audience into segments like <a href="http://techcrunch.com/2012/09/24/admobius-launch-series-a/">the just-launched AdMobius</a>, but instead working on the step before that. The startup works with digital agencies to provide &#8220;clean, trustworthy data&#8221; that can serve as &#8220;the foundation&#8221; for smarter media buying. </p>
+<p>Every ad impression already comes with some significant data, McAteer says, including the viewer&#8217;s latitude-longitude and device, but McAteer says it&#8217;s often inaccurate.</p>
+<p>&#8220;At least somewhere between 10 and 15 percent of the time, that data is categorically incorrect,&#8221; he says. &#8220;There are a lot of lat longs resolving to a corn field in Kansas. A lot of vetting needs to be done with the data.&#8221;</p>
+<p>Earlier this year, Metaresolver raised a seed round led by Baseline Ventures and Harrison Metal Capital, with participation from Lerer Ventures, Eniac Ventures and iHatch Management. (Metaresolver&#8217;s CrunchBase profile says it was a $1.85 million, but I&#8217;m still trying to confirm that number with the company.) The company says it has been working with beta customers since May.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/4hm3mBvKzjM/">here</a>.
