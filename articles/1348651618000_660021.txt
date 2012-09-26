@@ -11,5 +11,5 @@
 <p>We&#8217;re asking Samsung to confirm whether it has released patches for all affected handsets.</p>
 <p>The problem apparently lies with how Samsung&#8217;s TouchWiz dialer handles USSD codes, and also how the stock browser handles the &#8220;tel:&#8221; protocol handler. As well as dodgy links, it can also be triggered by scanning a malicious QR code.</p>
 <p>The vulnerability came to light at a recent security conference in Argentina, demoed by Technical University Berlin researcher Ravi Borgaonkar.</p>
-<span class='embed-youtube' style='text-align:center; display: block;'><iframe class='youtube-player' type='text/html' width='640' height='480' src='http://www.youtube.com/embed/Q2-0B04HPhs?version=3&#038;rel=1&#038;fs=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' frameborder='0'></iframe></span>
+<span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/09/26/samsung-speedily-plugs-remote-wipe-flaw-urges-galaxy-siii-owners-to-update/"></a></span>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/RxZWs8t0dhw/">here</a>.
