@@ -1,0 +1,11 @@
+{
+"title" : "Watch out, RIAA: Kim Dotcom Is Back And Teasing Megaupload’s Upcoming Music Service, Megabox",
+"date" : "Wed, 26 Sep 2012 14:51:58 +0000",
+"author" : "Matt Burns"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/megabox.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="megabox" title="megabox" style="float: left; margin: 0 10px 7px 0;" /><span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/09/26/watch-out-riaa-kim-dotcom-is-back-and-teasing-megauploads-upcoming-music-service-megabox/"></a></span>
+<p>Megaupload will not be stopped. After a dramatic take-down followed by an anticlimactic trial, Kim Dotcom is quickly rebuilding the Megaupload empire. <a target="_blank" href="http://torrentfreak.com/megaupload-readies-for-comeback-code-90-done-120923/">TorrentFreak recently detailed</a> the relaunch, stating the coding is nearly done, the servers are ordered and Kim Dotcom is prepared to come back with a vengeance. </p>
+<p>Now Kim Dotcom released the video above teasing the launch of Megabox. This is Megaupload&#8217;s long-talked about music locker service and perhaps <a href="http://techcrunch.com/2012/01/24/was-megaupload-targeted-because-of-its-upcoming-megabox-digital-jukebox-service/">the reason Dotcom was targeted so harshly</a>. &#8220;This is what they don&#8217;t want you to have. Unchaining artists and fans. Megabox is coming soon,&#8221; says the YouTube description. And if the little LEGO Android statue shown is any indication, Megabox is likely built heavily for mobile. </p>
+<p>Dotcom previously revealed that Megabox will allow artists to sell music directly to fans, keeping 90% of the profits. It&#8217;s unclear if that&#8217;s still the case, but it&#8217;s probably a safe bet that Dotcom and the rest of the Megaupload world are prepping Megabox to be the anti-RIAA and as pro-artist/fans as possible. And that&#8217;s awesome.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/lcFRTF-WGlk/">here</a>.

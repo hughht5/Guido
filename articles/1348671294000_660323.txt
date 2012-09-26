@@ -1,0 +1,12 @@
+{
+"title" : "Cisco Acquires Wi-Fi Location Data Analytics Startup ThinkSmart",
+"date" : "Wed, 26 Sep 2012 14:54:54 +0000",
+"author" : "Leena Rao"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/think.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="think" title="think" style="float: left; margin: 0 10px 7px 0;" /><p>Cisco has made an interesting acquisition today, <a target="_blank" href="http://blogs.cisco.com/news/cisco-acquires-thinksmart-technologies/">announcing</a> the purchase of ThinkSmart Technologies, a company that delivers location data analysis using Wi-Fi technology. Financial terms of the deal were not disclosed.</p>
+<p>ThinkSmart&#8217;s technology enhances a wireless network infrastructure with location analytics for service provider and enterprise customers. The startup&#8217;s location analytics collects information on movement within a venue including time of day, traffic patterns and dwell times. Cisco says that this information then allows enterprises and venue operators improve the customer experience by identifying appropriate staffing levels, reducing wait times, optimizing business processes, and improving customer flows.</p>
+<p>Thus also seems like a talent acquisition for Cisco as well. The ThinkSmart team has doctorate degrees with expertise in computer science, mathematics, data mining, clustering, pattern recognition, optimization, and complex event processing. ThinkSmart was initially incubated at Ireland&#8217;s University College Cork (UCC).</p>
+<p>Cisco says that with consumers using more mobile devices, ThinkSmart’s network and Wi-Fi location analytics capabilities can help the customer Wi-Fi experience in public venues such as retail locations, hotels and airports</p>
+<p>ThinkSmart will join Cisco’s Wireless Networking Group and will be integrated into the Cisco Mobility Services Engine.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/VdAaqjDGK78/">here</a>.
