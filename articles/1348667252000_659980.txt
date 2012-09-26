@@ -1,5 +1,5 @@
 {
-"title" : "A Sneak Peak At The New Yahoo Home Page Redesign?",
+"title" : "A Sneak Peek At The New Yahoo Home Page Redesign?",
 "date" : "Wed, 26 Sep 2012 13:47:32 +0000",
 "author" : "Jon Orlin"
 }
