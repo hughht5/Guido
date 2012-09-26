@@ -1,5 +1,5 @@
 {
-"title" : "After Squatting At AOL For 2 Months, Eric Simons Launches Claco, The “GitHub For Teachers”",
+"title" : "After Squatting At AOL For 2 Months, Eric Simons Launches Claco, A Collaboration Network For Teachers",
 "date" : "Wed, 26 Sep 2012 21:08:13 +0000",
 "author" : "Rip Empson"
 }
