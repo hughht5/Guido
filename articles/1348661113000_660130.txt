@@ -1,10 +1,10 @@
 {
-"title" : "M:Metrix Co-founder Seamus McAteer Launches Metaresolver, Promising Clean Data For Mobile Ads",
+"title" : "M:Metrics Co-founder Seamus McAteer Launches Metaresolver, Promising Clean Data For Mobile Ads",
 "date" : "Wed, 26 Sep 2012 12:05:13 +0000",
 "author" : "Anthony Ha"
 }
 
-<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/metaresolver-logo.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="metaresolver logo" title="metaresolver logo" style="float: left; margin: 0 10px 7px 0;" /><p>Mobile ad startup <a target="_blank" href="http://www.metaresolver.com">Metaresolver</a> is launching today, and like a number of other companies that have launched in recent months, it&#8217;s tackling what its founders see as the big problems holding back mobile ads — accurate audience targeting.</p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/metaresolver-logo.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="metaresolver logo" title="metaresolver logo" style="float: left; margin: 0 10px 7px 0;" /><p>Mobile advertising startup <a target="_blank" href="http://www.metaresolver.com">Metaresolver</a> is launching today, and like a number of other companies emerging in recent months, it&#8217;s tackling what its founders see as the big problem holding back mobile ads — accurate audience targeting.</p>
 <p>The company was founded by Seamus McAteer, the co-founder of comScore-acquired mobile metrics startup M:Metrics, and Mike Rowehl, the first engineer at AdMob. It spun out of Churn Labs, the startup generator that was created by Rowehl and AdMob founder Omar Hamoui — in fact, Rowehl and Hamoui&#8217;s decisions to focus full-time on specific startups <a href="http://techcrunch.com/2012/05/31/churn-lab-shut-down/">led to Churn&#8217;s shutdown</a>.</p>
 <p>McAteer tells me Metaresolver isn&#8217;t trying to create divide the audience into segments like <a href="http://techcrunch.com/2012/09/24/admobius-launch-series-a/">the just-launched AdMobius</a>, but instead working on the step before that. The startup works with digital agencies to provide &#8220;clean, trustworthy data&#8221; that can serve as &#8220;the foundation&#8221; for smarter media buying. </p>
 <p>Every ad impression already comes with some significant data, McAteer says, including the viewer&#8217;s latitude-longitude and device, but McAteer says it&#8217;s often inaccurate.</p>
