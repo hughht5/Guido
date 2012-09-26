@@ -1,0 +1,19 @@
+{
+"title" : "A Sneak Peak At The New Yahoo Home Page Redesign?",
+"date" : "Wed, 26 Sep 2012 13:47:32 +0000",
+"author" : "Jon Orlin"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/yahoo-logo.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="yahoo-logo" title="yahoo-logo" style="float: left; margin: 0 10px 7px 0;" /><p>TechCrunch has obtained a secret copy of what may be a mockup for the new <a target="_blank" href="http://www.crunchbase.com/company/yahoo">Yahoo</a> <a target="_blank" href="http://www.yahoo.com/">home page</a>. Yesterday, Yahoo&#8217;s new CEO <a target="_blank" href="http://www.crunchbase.com/person/marissa-mayer">Marissa Mayer</a> shared her broad vision for the future of the Internet company with employees.  </p>
+<p>According to <a target="_blank" href="http://allthingsd.com/20120925/mayer-to-yahoos-at-not-so-radical-confab-personalization-mobile-rule-of-100-million-and-most-of-all-the-four-cs/">AllThingsD</a>, Mayer didn&#8217;t share specific plans for fixing search and email or an &#8220;in-process and dramatic home page redesign.&#8221; While ATD reporter Kara Swisher seems to have the phones at Yahoo bugged, and perhaps a @yahoo-inc.com email address, she hasn&#8217;t been able to get a peak at the redesign.  Yahoo has also been cracking down on leaks, but that didn&#8217;t stop us.</p>
+<p>Click on the image below to open the screenshot in a new window:</p>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/09/yahoo-new-home-page.png" rel="attachment wp-att-659982" rel="lightbox[659980]"></a></p>
+<p>Yes, the new home page looks a lot like the home page of Google,  Mayer&#8217;s former employer.  In fact Mayer, who was Google employee number 20, oversaw the famous clean, plain white search home page at Google.  We&#8217;ve also heard that she was responsible for the longest time with no changes on that home page. So the new Yahoo home page mockup is not that surprising.</p>
+<p>Mayer has been borrowing many ideas from her years at Google including a focus on product and data, <a href="http://techcrunch.com/2012/08/17/marissa-mayers-30-days-in/">free food</a> in the cafeteria, and weekly &#8220;FYI&#8221; meetings like Google&#8217;s &#8220;TGIF&#8221; meetings.  She is also approving all company hires, just like the Google co-founders.</p>
+<p>Mayer has already removed some ads from the home page <a target="_blank" href="http://allthingsd.com/20120923/what-will-marissa-do-mayer-set-to-reveal-her-strategy-to-troops-this-week-in-an-act-of-radical-transparency-internal-memo/">according to AllThingsD</a>. But this new ad-free home page design is a surprise and a risk since the Yahoo home page generates substantial ad revenue for the company.</p>
+<p>The new home page features links for key areas that Yahoo plans to double-down on, including Search, Mobile, and Social.  It also has links to the <a target="_blank" href="http://allthingsd.com/20120925/mayer-to-yahoos-at-not-so-radical-confab-personalization-mobile-rule-of-100-million-and-most-of-all-the-four-cs/">reported</a> 4 C&#8217;s that are part of Mayer&#8217;s goals for talent at Yahoo: culture, company goals, calibration, and compensation.</p>
+<p>If you are not logged in, Yahoo&#8217;s home page first top nav button is &#8220;You!&#8221;, similar to Google&#8217;s &#8220;+You.&#8221;</p>
+<p>Note also that Yahoo is dropping the ® symbol from their logo, which was <a href="http://techcrunch.com/2012/09/18/yahooligans/">first reported</a> by TechCrunch earlier this month.  But, not the ! symbol.</p>
+<p>Hopefully, Mayer also has a good sense of humor.  I&#8217;ve heard she has a good laugh.</p>
+<p>Special thanks to Google Chrome&#8217;s developer tools for making this post possible.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/u5KCvP9aNMU/">here</a>.
