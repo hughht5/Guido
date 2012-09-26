@@ -1,5 +1,5 @@
 {
-"title" : "Tibco Joins Box On Tibbr 4, Updated With Klout-Style Enterprise Services",
+"title" : "Box On Tibco Tibbr 4, Updated With Klout-Style Enterprise Services",
 "date" : "Wed, 26 Sep 2012 17:15:12 +0000",
 "author" : "Alex Williams"
 }
