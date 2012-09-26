@@ -1,0 +1,13 @@
+{
+"title" : "Customer Experience Management And Analytics SaaS Company Medallia Raises $35M From Sequoia",
+"date" : "Wed, 26 Sep 2012 12:55:42 +0000",
+"author" : "Leena Rao"
+}
+
+<img width="100" height="46" src="http://tctechcrunch2011.files.wordpress.com/2012/09/medallia.png?w=100&amp;h=46&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="medallia" title="medallia" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.medallia.com/">Medallia</a>, an enterprise company that offers customer experience management software, has <a target="_blank" href="http://www.marketwatch.com/story/customer-experience-software-leader-medallia-announces-35-million-investment-from-sequoia-capital-2012-09-26">raised $35 million</a> from Sequoia Capital. Sequoia partner Doug Leone be joining the company&#8217;s board of directors.</p>
+<p>Medallia leverages technology like text analytics, data mining and visualization to help companies track how they are doing with customers on a day-to-day and even minute-by-minute basis. Further, Medallia allows companies to act on that feedback continuously (and track the outcomes).</p>
+<p>The company measures customer feedback through all channels (web-based, phone, call center, SMS, social, mobile). Medallia offers tailored solutions for specific sectors and channels, including Social Feedback for Hospitality and Mobile Feedback. For example, Medallia Social Feedback for Hospitality, which launched just ten months ago, is used by more than 10,000 hotels worldwide to collect, analyze, and respond to social reviews.</p>
+<p>&#8220;More and more companies are realizing that gathering and responding to customer feedback in real time is a major competitive advantage,&#8221; said Leone in a release. &#8220;When we began to search for tools to help companies improve their customers&#8217; experience, it quickly became clear that Medallia has the best product, the best team, and the most satisfied users in the industry.&#8221;</p>
+<p>In 2011 alone, Medallia sent more than 160 million survey invitations and received over 30 million completed customer surveys. More than 100 brands including Four Seasons, Honeywell, Best Western, Verizon, Sony EU, Sephora, and Toyota Financial Services currently use Medallia&#8217;s customer experience platform.</p>
+<p>The funding will be used to further develop Medallia&#8217;s SaaS customer experience platform</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/JGREGhWuXHE/">here</a>.
