@@ -1,5 +1,5 @@
 {
-"title" : "The Apple iOS 6 Maps Fiasco Clarified In 3 Minutes",
+"title" : "The Apple iOS 6 Maps Fiasco Explained In 3 Minutes",
 "date" : "Wed, 26 Sep 2012 21:17:00 +0000",
 "author" : "Jordan Crook"
 }
