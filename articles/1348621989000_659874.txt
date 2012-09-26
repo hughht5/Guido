@@ -1,0 +1,13 @@
+{
+"title" : "Scott McNealy: The World Lacks A Major Corporate Sponsor For Open Source",
+"date" : "Wed, 26 Sep 2012 01:13:09 +0000",
+"author" : "Alex Williams"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/scott_mcnealy.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="scott_mcnealy" title="scott_mcnealy" style="float: left; margin: 0 10px 7px 0;" /><p>I sat down with<a target="_blank" href="http://en.wikipedia.org/wiki/Scott_McNealy"> Scott McNealy</a> today after he spoke on a panel here at <a target="_blank" href="http://tucon.tibco.com/">TUCON</a>, the <a target="_blank" href="http://tibco.com">Tibco</a> annual conference here in Las Vegas.</p>
+<p>McNealy covers a lot of topics. He discusses his new startup <a target="_blank" href="http://www.wayin.com/">WayIn</a> that provides a corporate social media experience. He jokingly says Larry (Ellison) never calls, referring to Oracle, which acquired Sun Microsystems, the company he co-founded.</p>
+<p>Later in the interview we got into the topic of open source. That&#8217;s where it gets interesting. He says the tech world no longer has a major corporate supporter for open source. Further, purchasing agents and IT managers are not quantifying the &#8220;barrier to exit.&#8221; He means that IT is not taking into account what the true cost of total ownership is when they buy from a product company that sells proprietary technology.</p>
+<blockquote><p>I think people need to think about the lifecycle of technology products.</p></blockquote>
+<p>McNealy is so right on. His remarks should give pause to anyone considering buying a closed technology product especially in this time when the vendor marketing band is pushing customers to invest in entirely new infrastructures and a host of products and services with such long-term implications.</p>
+			<script type="text/javascript" src="http://pshared.5min.com/Scripts/PlayerSeed.js?sid=577&amp;width=640&amp;height=450&amp;colorPallet=%230A9600&amp;hasCompanion=false&amp;relatedMode=2&amp;videoControlDisplayColor=%23000000&amp;playList=517489461&amp;shuffle=0&amp;videoGroupID=133503&amp;autoStart=false&amp;playerActions=16407"></script>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/hNWMHh2JMX4/">here</a>.
