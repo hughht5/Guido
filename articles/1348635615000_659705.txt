@@ -1,0 +1,62 @@
+{
+"title" : "Hands-On With B&N’s 7″ Nook HD, 9″ Nook HD+: The Fire HD Better Watch Its Back",
+"date" : "Wed, 26 Sep 2012 05:00:15 +0000",
+"author" : "Jordan Crook"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/6.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="6" title="6" style="float: left; margin: 0 10px 7px 0;" /><p>B&amp;N is making some big strides in the land of digital, and though these new tablets aren&#8217;t the most gorgeous slates I&#8217;ve ever seen, they do have what it takes to be contenders against <a href="http://techcrunch.com/2012/09/11/fly-or-die-amazon-kindle-fire-hd/">the Fire HD</a>, <em>if</em> reading is your first priority with a tablet.</p>
+<p>Barnes &amp; Noble, the world&#8217;s largest seller of physical books, is yet again trailing in the footsteps of Amazon with High-Def iterations of their tablet, the Nook. In case you missed it, Amazon just recently launched the Fire HD, in both 7-inch and 8.9-inch flavors. Yes, this announcement is very familiar, but that&#8217;s not to say it doesn&#8217;t have value.</p>
+<p>So let&#8217;s get started.</p>
+<h3>Display</h3>
+<p>The first thing you&#8217;ll notice about the new Nook tablets is their displays. Both employ the same technology that&#8217;s made Nook displays great for the past two years, eliminating the air gap between the touch surface and the LCD display. But to take it a step further, B&amp;N has bumped up the resolution to be on par with a Retina display.</p>
+<p>The 7-inch Nook HD, which has undergone a bit of a facelift, has a 1440&#215;900 resolution display, totaling 243 pixels per inch at a 3:2 aspect ratio. The laminated display offers 80 degree viewing angles, which is true even in bright outdoor light thanks to the 400 nits of brightness.</p>
+<p>The 9-inch Nook HD+, which is meant to compete more with the 8.9-inch Fire HD than the iPad, has a 1920&#215;1200 resolution display, offering up 256 pixels per inch at a 16:10 aspect ratio. In both cases, this is about as crisp as I&#8217;ve ever seen a magazine, a page of a book, or a catalog.</p>
+<p>We matched it up against the new Fire HD in both video and text tests, and in both cases the Nook HD was noticeably brighter than the Fire HD.</p>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/09/13.jpeg" rel="lightbox[659705]"></a></p>
+<h3>Design/Hardware</h3>
+<p>As I mentioned before, the 7-inch Nook HD looks quite a bit different than the original iteration, while its 9-inch counterpart actually shares almost all the same design language as the original Nook (instead of a triangular hole in the bottom corner, there&#8217;s a circular hole).</p>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/09/10.jpeg" rel="lightbox[659705]"></a>The Nook HD has a bit more of a raised bezel than the previous model, which B&amp;N refers to as a thumb rest. However, the total width of the device is still noticeably thinner (10mm) than the Fire HD, making it easier to hold in the hand. It weighs just 315g, and almost feels cheap because of how light it is, though that probably isn&#8217;t aided much by the plasticky, glossy finish on the front side of the tablet. On the other hand, the 7-inch tablet is much thicker than the Fire HD.</p>
+<p>The tablet is powered by a 1.3GHz dual-core OMAP 4470 processor, though the battery has been kept the same size from the earlier generation model. Still, B&amp;N promises 10.5 hours of reading and 9 hours of video playback in 720p. That sounds like a fib, right? I thought so, too, but the company says they&#8217;ve retooled their software to be far more efficient, making up for all the processing power needed by that dense resolution and upgraded processor. It comes in 8GB and 16GB configurations.</p>
+<p>The Nook HD is available in &#8220;Snow&#8221; and &#8220;Smoke,&#8221; otherwise known as &#8220;white&#8221; and &#8220;gray&#8221;.</p>
+<p>The 9-inch Nook HD+ looks much like the original Nook tablet, which I&#8217;ve already said. It has the same dark grey bezels, loop-holed corner, and soft touch back panel. I feel that B&amp;N may have a bit more trouble selling this one. True, it&#8217;s about 20 percent lighter than the iPad, at 515g, and it has plenty of internal storage and whatnot, but it&#8217;s slightly boring.</p>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/09/1.jpeg" rel="lightbox[659705]"></a></p>
+<p>There are still no cameras (though there probably shouldn&#8217;t be) and, like little brother, it feels almost too light to be a solid, well-built device. At the same time, the display is quite beautiful, and reading books to the kids at night or paging through a magazine would certainly be quite pleasant on this tablet.</p>
+<p>The same dual-core OMAP 4470 processor is clocked up for this tablet, running at 1.5GHz. It comes in the original slate color (just like the first Nook), in 16GB and 32GB models, though both the Nook HD and Nook HD+ support an SD card up to 64GB. Oh, and the operating system and UI account for about 3GB of storage, which makes that expandable memory a must.</p>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/09/12.jpeg" rel="lightbox[659705]"></a>For both tablets, Barnes &amp; Noble is selling an adapter that offers HDMI out, letting you push your video content to the big screen. As expected, they both support Bluetooth and have WiFi connectivity, as well.</p>
+<h3>Software</h3>
+<p>B&amp;N didn&#8217;t have the software finalized during our briefing, so it&#8217;s not quite fair for me to make hard and fast judgements on performance. I did, however, get to peek some cool new features that may be enticing.</p>
+<p>For one, the new Nooks now have personal profiles, which is similar to the Fire HD&#8217;s parental controls. Parents can keep content divided among members of the family, and give older kids the ability to buy content or surf the web while younger ones can simply read their books, watch appropriate video content, or play their games.</p>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/09/5.jpeg" rel="lightbox[659705]"></a>The email program now supports Exchange, allowing you to view documents and PowerPoint presentations, and the company has also added &#8220;Nook Channels.&#8221; This is essentially content recommendations on steroids. The Nook takes into account your reading habits, purchasing decisions, and how you got to those decisions, to offer you various &#8220;channels&#8221; you might like to browse through.</p>
+<p>There&#8217;s also a new tab in the upper right corner called &#8220;Nook Today.&#8221; This brings you the weather, a single recommendation for your day (whether it&#8217;s a book, movie, or magazine), and an easy read. By that I mean, the Nook will scrape a popular article from the day to make it readable in three minutes or so, letting you have a nice escape during your lunch break or subway trip without having to delve into the next chapter of your book.</p>
+<p>As we <a href="http://techcrunch.com/2012/09/25/barnes-noble-announces-nook-video-apps-launching-this-fall/">reported yesterday</a>, B&amp;N has introduced Nook Video, which is a cloud service that streams digital video content to your device. You can purchase and rent video in both SD and HD, which, for the 9-inch model, is 1080p.</p>
+<p>The new Nooks are also bringing with them support for Catalogs — over 100 vendors are creating digital catalogs for Nook users — which have interactive hotspots that let you read up on a certain chair in a Pottery Barn catalog or a particular sweater in a J.Crew catalog.</p>
+<p>And with that, the Scrapbook feature only makes sense. Scrapbooking allows users to &#8220;rip&#8221; out a page, using a two-finger swipe downwards, to save that particular page to various Scrapbooks. You can save your favorite pictures, articles, and catalog pages to Scrapbooks of your choosing to save for later, and each keeps the same level of interactivity as it did to begin with.</p>
+<h3>Price And Availability</h3>
+<p>Both the Nook HD and Nook HD+ are available for pre-order today in both the U.S. and the U.K., with shipping to begin in late October. Barnes &amp; Noble wouldn&#8217;t be any more forthcoming than that on shipping, but it seems like everything&#8217;s on track.</p>
+<p>Here&#8217;s your pricing:</p>
+<ul>
+<li>7-inch Nook HD 8GB: $199</li>
+<li>7-inch Nook HD 16GB: $229</li>
+<li>9-inch Nook HD+ 16GB: $269</li>
+<li>9-inch Nook HD+ 32GB: $299</li>
+</ul>
+<h3>Conclusion</h3>
+<p>Without being able to test the battery life and final-build performance myself, it&#8217;s hard to recommend these tablets fully. But based on what I saw — the display, the new features, and the sheer comfort in the hand — it&#8217;s hard to push you fine readers away from these new offerings. Especially at these price points.</p>
+<p>My only concern is the B&amp;N ecosystem, which is far from that of Amazon or Apple. But if you like to read, the Nook HD or HD+ may be just what you&#8217;re looking for.</p>
+
+<a href='http://techcrunch.com/2012/09/25/hands-on-with-bns-7-nook-hd-9-nook-hd-the-fire-hd-better-watch-its-back/1-172/' title='1'></a>
+<a href='http://techcrunch.com/2012/09/25/hands-on-with-bns-7-nook-hd-9-nook-hd-the-fire-hd-better-watch-its-back/2-149/' title='2'></a>
+<a href='http://techcrunch.com/2012/09/25/hands-on-with-bns-7-nook-hd-9-nook-hd-the-fire-hd-better-watch-its-back/3-108/' title='3'></a>
+<a href='http://techcrunch.com/2012/09/25/hands-on-with-bns-7-nook-hd-9-nook-hd-the-fire-hd-better-watch-its-back/4-64/' title='4'></a>
+<a href='http://techcrunch.com/2012/09/25/hands-on-with-bns-7-nook-hd-9-nook-hd-the-fire-hd-better-watch-its-back/5-45/' title='5'></a>
+<a href='http://techcrunch.com/2012/09/25/hands-on-with-bns-7-nook-hd-9-nook-hd-the-fire-hd-better-watch-its-back/6-35/' title='6'></a>
+<a href='http://techcrunch.com/2012/09/25/hands-on-with-bns-7-nook-hd-9-nook-hd-the-fire-hd-better-watch-its-back/7-33/' title='7'></a>
+<a href='http://techcrunch.com/2012/09/25/hands-on-with-bns-7-nook-hd-9-nook-hd-the-fire-hd-better-watch-its-back/8-22/' title='8'></a>
+<a href='http://techcrunch.com/2012/09/25/hands-on-with-bns-7-nook-hd-9-nook-hd-the-fire-hd-better-watch-its-back/9-14/' title='9'></a>
+<a href='http://techcrunch.com/2012/09/25/hands-on-with-bns-7-nook-hd-9-nook-hd-the-fire-hd-better-watch-its-back/10-16/' title='10'></a>
+<a href='http://techcrunch.com/2012/09/25/hands-on-with-bns-7-nook-hd-9-nook-hd-the-fire-hd-better-watch-its-back/11-43/' title='11'></a>
+<a href='http://techcrunch.com/2012/09/25/hands-on-with-bns-7-nook-hd-9-nook-hd-the-fire-hd-better-watch-its-back/12-12/' title='12'></a>
+<a href='http://techcrunch.com/2012/09/25/hands-on-with-bns-7-nook-hd-9-nook-hd-the-fire-hd-better-watch-its-back/13-7/' title='13'></a>
+<a href='http://techcrunch.com/2012/09/25/hands-on-with-bns-7-nook-hd-9-nook-hd-the-fire-hd-better-watch-its-back/photo-99/' title='photo'></a>
+
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/vF_q1bGzynQ/">here</a>.
