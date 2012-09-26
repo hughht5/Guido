@@ -1,0 +1,14 @@
+{
+"title" : "HootSuite’s Conversations Adds Real-Time Chat To Its Social Media Mgmt Dashboard",
+"date" : "Wed, 26 Sep 2012 12:59:40 +0000",
+"author" : "Ingrid Lunden"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/03/picture-4.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="hootsuite logo" title="hootsuite logo" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.hootsuite.com">HootSuite</a> has carved out a position as a popular way for businesses to manage their social media profiles on sites like Twitter, Facebook and LinkedIn, but in its quest to become more of a one-stop &#8220;dashboard&#8221; for all social media interactions, it is adding a new feature: Conversations, a real-time messaging service, which goes live today and is available in a beta version for all three tiers of HootSuite&#8217;s 5-million user customer base &#8212; free, Pro and Enterprise.</p>
+<p>HootSuite says that it is the first social media management system to offer a real-time instant messaging service &#8212; although companies like Salesforce, with its Chatter messaging service &#8212; may have some issues with that claim.</p>
+<p>Conversations, HootSuite says, is built on top of its <a target="_blank" href="http://hootsuite.com/features/teams">Teams</a> product, which lets businesses divide up their HootSuite account holders into different product/operational groups to better respond to interactions. This makes sense &#8212; building it to allow for interactions within and between teams will make the product far more useful than if it was an unrestricted river of information, a la Twitter.</p>
+<p>&#8220;Conversations is built on top of HootSuite Teams which helps visualize the organizational structure of work groups in your business. Conversations will increase efficiency between teams or departments and ultimately improve ROI,&#8221; said <a target="_blank" href="http://twitter.com/invoker">Ryan Holmes</a>, CEO of HootSuite in a statement.</p>
+<p>Conversations will not let HootSuite users bring in outside consumers into its chat forum (yet?) but it will mean that those workers who do use HootSuite will be able to quickly confer, within the dashboard and not needing to resort to another app, to get answers on how to, say, respond to a customer&#8217;s tweet, or work on &#8220;approved messaging.&#8221;</p>
+<p>But because HootSuite realizes that there are already probably a number of other IM solutions being used by HootSuiters already, it&#8217;s making it easy to import contacts from Google and Yahoo address books. Integration with Skype and MSN &#8212; two other popular IM tools &#8212; are not there at launch.</p>
+<p>&nbsp;</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/6q6cascpAdc/">here</a>.
