@@ -1,0 +1,11 @@
+{
+"title" : "Details Of Sharp’s Emergency Plan Emerge: The Company May Withdraw Solar Panel Unit From US, UK",
+"date" : "Wed, 26 Sep 2012 23:48:45 +0000",
+"author" : "Matt Burns"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2010/07/sharp-logo-br.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Image (1) sharp-logo-br.jpeg for post 168046" title="Image (1) sharp-logo-br.jpeg for post 168046" style="float: left; margin: 0 10px 7px 0;" /><p>Times are tough at Sharp and the 100-year old company is desperate to turn things around. A Japanese news outlet revealed yesterday that massive layoffs are looming, and Sharp plans to relieve itself of several overseas ventures and manufacturing facilities. </p>
+<p><a target="_blank" href="http://www.reuters.com/article/2012/09/26/us-sharp-plan-solar-idUSBRE88P1U120120926?feedType=RSS&amp;feedName=technologyNews&amp;utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+reuters%2FtechnologyNews+%28Reuters+Technology+News%29">Reuters is reporting</a> that part of the plan could be to shrink its solar panel business, closing assembly units in the US and Europe. It would also consolidate several Japanese production facilities into just one site. </p>
+<p>Sharp previously revealed it would layoff 2,000 workers in early October. Then, just yesterday<a href="http://techcrunch.com/2012/09/25/sharp-to-axe-11000-workers-sell-off-assets-in-desperate-bid-to-return-to-profitability/"></a>, Kyodo News received documents detailing as many as 11,000 jobs could be eliminated as the company attempts to return to profitability by April 2013. The company is expected to sell off various assets &#8212; likely these solar panel facilities &#8212; as well as offload its subsidiary and shares in Toshiba Corp.</p>
+<p>But don&#8217;t worry about the people at the top. The former CEO is now heading up the emergency management committee.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/svkli_vdkYw/">here</a>.
