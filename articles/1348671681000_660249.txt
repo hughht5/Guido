@@ -1,0 +1,17 @@
+{
+"title" : "Podium Pro Helps You Go All Zig Ziglar Up In The Theatre",
+"date" : "Wed, 26 Sep 2012 15:01:21 +0000",
+"author" : "John Biggs"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/screen-shot-2012-09-26-at-10-43-16-am.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-09-26 at 10.43.16 AM" title="Screen Shot 2012-09-26 at 10.43.16 AM" style="float: left; margin: 0 10px 7px 0;" /><p>What do you get when you put a Navy SEAL, a pastor, and a graphic designer in the same room? While I&#8217;d wager you&#8217;d get some pretty badass Jesus comics out of the collaboration, what you really get is <a target="_blank" href="http://podiumproapp.com/">Podium Pro</a>, an app that helps speakers of all persuasions give better presentations.</p>
+<p>The free app lets you view speakers notes while giving presentations. While this doesn&#8217;t seem like rocket science, folks are usually forced to futz around in Pages or Keynote on the iPad to attend to speakers notes, which can get frustrating. In fact, Podium Pro is an entire system, allowing you to video your performance, keep presentations in a remote Dropbox folder, and even time your presentations.</p>
+<p>It works on iOS.</p>
+<p>Sean Evangelista (the SEAL) and his partners Steve Swisher and Ron Hudson built the app with the help of <a target="_blank" href="http://HatchNorfolk.com">HatchNorfolk.com</a>, an incubator in Norfolk, Virginia. The incubator gave them a $10,000 convertible note for development. The app comes in lite and <a target="_blank" href="http://itunes.apple.com/us/app/podium-pro/id553231810?mt=8">full versions</a>. The full version is $2.99.</p>
+<p>The founders tried many alternative ways to present their sermons and other public speaking engagements. However, there was never anything they could really use without getting hung up by the vagaries of various word processors and viewers. Most important, a &#8220;Present Mode&#8221; turns off all notifications and keyboards, ensuring you don&#8217;t get distracted.</p>
+<p>&#8220;Our apps give speakers the custom notes they have been asking for. They don&#8217;t have to settle for using PDF readers or word processors,&#8221; said Evangelista. &#8220;Word processors suck for giving talks from because when you touch the iPad screen, menu&#8217;s and keyboards invariably pop-up on you blocking your notes.&#8221;</p>
+<p>The team is also working on a method to receive tweets and other messages from viewers right in the application, thereby improving the whole &#8220;Do you have any questions?&#8221; period of most presentations when people stare blankly into space.</p>
+<p></p>
+<p>&#8220;Software is supposed to make our lives easier, not more complex,&#8221; said Evangelista. After suffering head trauma in an attack in Afghanistan, he decided that he would be best served by an app that helped him and his slightly limited cognitive ability. Thus Podium Pro was born. &#8220;We are currently not seeking funding. I want to gain significant traction, test our hypothesis on the features we think people want against what they actually want.&#8221; With this app, Evangelista and his team hope that they&#8217;ve nailed the equation.</p>
+<span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/09/26/podium-pro-helps-you-go-all-zig-ziglar-up-in-the-theatre/"></a></span>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/a3ohdkMKPSI/">here</a>.
