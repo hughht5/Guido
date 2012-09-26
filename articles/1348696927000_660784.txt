@@ -1,0 +1,13 @@
+{
+"title" : "Andreessen Horowitz Hires Former D.C. Mayor Adrian Fenty To Be Its Newest Special Advisor",
+"date" : "Wed, 26 Sep 2012 22:02:07 +0000",
+"author" : "Colleen Taylor"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/adrian-fenty.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Adrian Fenty" title="Adrian Fenty" style="float: left; margin: 0 10px 7px 0;" /><p>Andreessen Horowitz is announcing this afternoon that Adrian Fenty, the 41-year-old political star best for his turn as the Mayor of Washington, D.C. from 2007 to 2011, will be joining the venture capital firm in the role of &#8220;special advisor.&#8221;</p>
+<p>This is the second person join Andreessen Horowitz as a special advisor: Last year, former Harvard president and U.S. Treasury Secretary Larry Summers <a href="http://techcrunch.com/2011/06/29/larry-summers-joins-andreessen-horowitz-as-special-advisor/">entered the venture capital world in the same role</a>.</p>
+<p>In a phone interview today, Andreessen Horowitz partner Margit Wennmachers and Fenty said that the role will be a part-time position, with Fenty splitting his time between D.C. and Silicon Valley. </p>
+<p>Fenty is well-known for making <a target="_blank" href="http://en.wikipedia.org/wiki/Adrian_Fenty#D.C._mayor_.282007.E2.80.9311.29">major changes to the D.C. public education system</a> during his tenure as mayor, so he will be working a lot with the education technology startups in Andreessen Horowitz&#8217;s portfolio, Wennmachers said: </p>
+<blockquote><p>&#8220;He&#8217;s a disruptive thinker and he&#8217;s got a track record to prove it. We don&#8217;t shy away from controversy, and we like that this guy knows how to shake up the status quo.&#8221;</p></blockquote>
+<p>Though the worlds of venture capital and electoral politics don&#8217;t always overlap, Fenty said that there are certainly parallels between the two roles. &#8220;As a mayor you have a lot of districts you work with, and every day is different,&#8221; he said, noting that the same could be said for VCs who work with different startups. However, the pace will likely be a bit quicker here than in the political realm. &#8220;I believe that change should happen fast and in big ways, and that&#8217;s the tech industry.&#8221;</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/qKrR30BJy0s/">here</a>.
