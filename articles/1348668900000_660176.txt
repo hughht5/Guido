@@ -1,0 +1,17 @@
+{
+"title" : "Charger Not Included: U.K. Carrier O2 To Sell HTC Phone With USB Cable But No Plug",
+"date" : "Wed, 26 Sep 2012 14:15:00 +0000",
+"author" : "Natasha Lomas"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2010/01/chargers.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Image (1) chargers.jpg for post 135452" title="Image (1) chargers.jpg for post 135452" style="float: left; margin: 0 10px 7px 0;" /><p>Peer into the drawers of the average gadget addict and you&#8217;re sure to find a tangled mess of unused chargers gathering dust. Mobile phones are a prime offender in creating redundant gadget junk, with new models released every few months to drive upgrades. Indeed, U.K. carrier O2 calculates there are now more than 100 million unused phone chargers languishing in Brits&#8217; drawers &#8212; which is why it says it&#8217;s decided to sell a smartphone without a charger in the box.</p>
+<p>&#8220;The environmental cost of multiple and redundant chargers is enormous and I believe that, as the mobile phone has become more prevalent, we as retailers and manufacturers have an ever-greater responsibility to be a more sustainable industry,&#8221; said O2 UK CEO Ronan Dunne in a statement.</p>
+<p>O2 reckons the time is right to introduce a charger-less phone because the majority of phone sales are upgrades &#8212; rather than people buying their very first mobile phone.</p>
+<p>It also notes that wide adoption of USB within phones means most chargers are interchangeable. Even Sony has stopped making <a target="_blank" href="http://cdn.shopify.com/s/files/1/0162/5128/products/340l_large.jpg?890">crazy proprietary chargers</a>. (Apple, of course, <a href="http://techcrunch.com/2012/09/12/apples-new-lightning-connector-what-it-does-and-doesnt-change/">has not</a>.) The European Commission&#8217;s push to create a <a target="_blank" href="http://ec.europa.eu/enterprise/magazine/articles/single-market/article_10942_en.htm">universal phone charger standard</a> has been the underlying driving force behind charger compatibility over the past few years. The rise of Google&#8217;s Android platform has also helped push Micro USB ports into more and more handsets.</p>
+<p>The charger-less phone heading for O2&#8242;s shelves will be made by HTC. It will include a Micro USB port and will also come with a Micro-USB to USB cable in the box &#8212; presumably to ensure the select few phone buyers who don&#8217;t actually have a compatible charger lying around at home could still juice it up by plugging the cable into their computer.</p>
+<p>There are no further details on the specs of the phone as yet &#8212; O2 says it will be releasing more details over the coming weeks.</p>
+<p>The carrier added it wants to sell &#8220;more and more&#8221; phones without chargers in future, and said it&#8217;s also hopeful other mobile companies will follow its (charger-less) lead.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/GqHBIi_kxTE/">here</a>.
