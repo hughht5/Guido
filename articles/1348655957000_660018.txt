@@ -1,0 +1,15 @@
+{
+"title" : "From Wired To Wireless: Enterprise Wi-Fi Provider Xirrus Raises $23.5M Series E To Ride BYOD Wave",
+"date" : "Wed, 26 Sep 2012 10:39:17 +0000",
+"author" : "Natasha Lomas"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/xirrus_logo_2.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="xirrus_logo_2" title="xirrus_logo_2" style="float: left; margin: 0 10px 7px 0;" /><p>Enterprise Wi-Fi provider Xirrus has raised $23.5 million in a Series E financing round aimed at accelerating its global sales growth by pushing into Europe and Asia-Pac. It also plans to use the funds to develop new products.</p>
+<p>The Series E round was led by existing investors August Capital, Canaan Partners, InterWest Partners, QuestMark Partners, and US Venture Partners.</p>
+<p>&#8220;With this newest round of funding, we are able to develop new markets in Europe and Asia Pacific,&#8221; said Shane Buckley, CEO of Xirrus, in a statement. &#8220;We are 100% focused on extending our leadership in delivering wired performance for the new age of wireless-based BYOD and rich-media applications.&#8221;</p>
+<p>Xirrus believes it&#8217;s well placed to take advantage of the BYOD (bring your own device) trend that&#8217;s driving demand for mobile devices and apps in businesses &#8212; thereby increasing the need for robust and secure enterprise Wi-Fi networks capable of dealing with the device influx.</p>
+<p>The company&#8217;s technology includes <a target="_blank" href="http://www.xirrus.com/products/wireless-arrays.aspx">Wi-Fi Arrays</a> that each include between two and 16 radios, a high-gain directional antenna, onboard multi-gigabit switch, controller, firewall, threat sensor and a spectrum analyzer to improve coverage and performance.</p>
+<p>Xirrus claims its kit supports up to four times more coverage, and eight times more bandwidth and capacity than &#8220;conventional AP technology&#8221;. The result? Souped up wireless networks capable of providing businesses with wire-like performance.</p>
+<p>&#8220;The global enterprise market for WLAN continues to see double digit growth as organizations grapple with the reality that wireless is becoming the defacto access layer,&#8221; said Steve Krausz, General Partner at US Venture Partners, in a supporting statement. &#8221;Xirrus, with its innovative Wireless Array technology and rapidly growing partner programs, is well positioned to lead the industry as it evolves from wired to wireless access.&#8221;</p>
+<p>&#8220;Wireless has gone from being a &#8216;nice to have&#8217; overlay technology to the primary connection,&#8221; added Zeus Karravala, Founder and Principal Analyst at ZK Research, in a statement. &#8220;Wireless networks can be every bit as fast and secure as wired networks.  But IT leaders must be laser focused on delivering the needed performance that gives users a rock-solid wireless experience.&#8221;</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/vyoagJMMbpk/">here</a>.
