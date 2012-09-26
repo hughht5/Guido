@@ -1,0 +1,12 @@
+{
+"title" : "YouTube Rolls Out Android Update, Offers More Features, New UI To Froyo And Gingerbread Devices",
+"date" : "Wed, 26 Sep 2012 23:30:02 +0000",
+"author" : "Matt Burns"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/youtube.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="youtube" title="youtube" style="float: left; margin: 0 10px 7px 0;" /><p>Froyo and Gingerbread might be the Windows 98 and XP of the Android world, but Google has not given up on the aging, but still very popular platforms. The latest YouTube app serves up new features and a different UI to devices running older installs. And for good reason, too. </p>
+<p>Android&#8217;s update scheme often older hardware running older software. Gingerbread, released 2010, accounts for over half of all Android devices with a 57.5% market share among the Android versions. Froyo comes in third with 14% as Ice Cream Sandwich accounts for 20.9%. But now, this update finally provides 71.5% Android devices with the latest YouTube UI.</p>
+<p>The new app also allows users to add videos to their YouTube TV queue from their mobile device &#8212; like a watch later option for those using YouTube TV. </p>
+<p>The release notes also notes that there are more channels available from Channel Store but fails to details exactly what&#8217;s new.</p>
+<p>Get the update from the Google Play app or <a target="_blank" href="https://play.google.com/store/apps/details?id=com.google.android.youtube&amp;hl=en">web interface</a>.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/uHbDHRPFns0/">here</a>.
