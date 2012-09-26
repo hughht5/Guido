@@ -1,0 +1,12 @@
+{
+"title" : "Samsung Speedily Plugs Remote Wipe Flaw, Urges Galaxy SIII Owners To Update",
+"date" : "Wed, 26 Sep 2012 09:26:58 +0000",
+"author" : "Natasha Lomas"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2011/08/samsung-logo.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="samsung-logo" title="samsung-logo" style="float: left; margin: 0 10px 7px 0;" /><p>Yesterday we reported that select <a href="http://techcrunch.com/2012/09/25/got-touchwiz-some-samsung-smartphones-can-be-totally-wiped-by-clicking-a-link/">Samsung handsets running its TouchWiz UI were affected by a flaw</a> that could allow them to be remote wiped after clicking on a malicious link. Samsung has confirmed it has patched the flaw for its flagship Galaxy SIII handset.</p>
+<p>Here&#8217;s the official statement:</p>
+<blockquote><p><em>We would like to assure our customers that the recent security issue concerning the GALAXY S III </em><em>has already been resolved through a software update. </em><em>We recommend all GALAXY S III customers to download the latest software update, which can be done </em><em>quickly and easily via the Over-The-Air (OTA) service.</em></p></blockquote>
+<p>Handsets vulnerable to the exploit also included the Galaxy S II series, the Galaxy S Advance, Galaxy Beam, and Galaxy Ace.</p>
+<p>We&#8217;re asking Samsung to confirm whether it has released patches for all affected handsets.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/RxZWs8t0dhw/">here</a>.
