@@ -1,5 +1,5 @@
 {
-"title" : "Cut The Rope-Makers ZeptoLab Score A Deal To Come To Kids’ Meals Near You",
+"title" : "Cut The Rope-Maker ZeptoLab Score A Deal To Come To Kids’ Meals Near You",
 "date" : "Thu, 27 Sep 2012 18:13:45 +0000",
 "author" : "Kim-Mai Cutler"
 }
