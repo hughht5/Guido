@@ -1,7 +1,7 @@
 {
 "title" : "Airbnb Is Raising A Big Third Round, Aiming For A Valuation North Of $2B",
 "date" : "Thu, 27 Sep 2012 00:31:26 +0000",
-"author" : "Alexia Tsotsis"
+"author" : "Alexia Tsotsis and Eric Eldon"
 }
 
 <img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/screen-shot-2012-09-26-at-5-26-14-pm.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-09-26 at 5.26.14 PM" title="Screen Shot 2012-09-26 at 5.26.14 PM" style="float: left; margin: 0 10px 7px 0;" /><p>It&#8217;s the darling of &#8220;sharing economy&#8221; startups, <a target="_blank" href="http://paulgraham.com/swan.html">Y Combinator</a> and a <a target="_blank" href="http://www.crunchbase.com/company/airbnb">good portion</a> of Silicon Valley&#8217;s top investors, and a symbol of consumer web startups moving beyond entertainment to solve real life problems. Now we&#8217;re hearing short-term room-renting site Airbnb is also something else &#8212; one of the very few name-brand startups raising a massive new round of funding these days.</p>
