@@ -5,9 +5,10 @@
 }
 
 <img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/04/lg-logo.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="LG-logo" title="LG-logo" style="float: left; margin: 0 10px 7px 0;" /><p>LG has filed a patent infringement lawsuit against fellow South Korean electronics giant Samsung over the latter&#8217;s use of advanced OLED display technology in smartphones and tablets, the <a target="_blank" href="http://online.wsj.com/article/SB10000872396390443507204578021572847519276.html">Wall Street Journal</a> is reporting.</p>
-<p>Devices accused of infringing LG&#8217;s patents include Samsung&#8217;s latest flagship smartphone, the Galaxy SIII, along with the Galaxy Note phablet and the Galaxy Tab 7.7 tablet.</p>
 <p>The paper reports that alleged patent infringements include the design of OLED panels, driver circuitry and device design, and says LG intends to seek damages and a permanent injunction against the sale of accused devices in South Korea.</p>
+<p>Devices accused of infringing LG&#8217;s patents include Samsung&#8217;s latest flagship smartphone, the Galaxy SIII, along with the Galaxy Note phablet and the Galaxy Tab 7.7 tablet.</p>
 <p>&#8220;This lawsuit has been filed both to enforce LG Display&#8217;s intellectual property rights and promote fair competition,&#8221; LG Display is quoted as saying.</p>
 <p>We&#8217;ve reached out to Samsung for comment and will update with any response.</p>
-<p>More to come&#8230;</p>
+<p>Earlier this month <a target="_blank" href="http://www.oled-info.com/samsung-sues-lg-display-over-oled-technology-leak">Samsung filed its own legal complaint against LG</a> over OLED technology &#8212; reportedly accusing LG Display of stealing a number of its display technologies and also passing information to a third party.</p>
+<p>The legal skirmishes between the two South Korean rivals don&#8217;t end there. Earlier this week LG filed an injunction against some of Samsung&#8217;s refrigerator adverts, complaining they include false claims of superior capacity than LG&#8217;s refrigerators, the <a target="_blank" href="http://www.koreatimes.co.kr/www/news/tech/2012/09/129_120746.html">Korea Times</a> reports.</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/I6TauyIxSKk/">here</a>.
