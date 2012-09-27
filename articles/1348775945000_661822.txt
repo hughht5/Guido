@@ -1,5 +1,5 @@
 {
-"title" : "From Socks To Starbucks: Facebook Enters Ecommerce With ‘Gifts’ That Lets You Buy 100s Of Products For Friends",
+"title" : "From Socks To Starbucks: Facebook Turns Ecommerce Social With ‘Gifts’ That Lets You Easily Buy For Friends",
 "date" : "Thu, 27 Sep 2012 19:59:05 +0000",
 "author" : "Josh Constine"
 }
