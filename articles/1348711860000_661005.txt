@@ -1,0 +1,12 @@
+{
+"title" : "Errand Outsourcing Startup Exec Tests Out A Faster, More Expensive Cleaning Service",
+"date" : "Thu, 27 Sep 2012 02:11:00 +0000",
+"author" : "Anthony Ha"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/exec-cleaning.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="exec cleaning" title="exec cleaning" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.iamexec.com">Exec</a>, a <a href="http://techcrunch.com/2012/05/31/exec-the-mobile-app-for-errands-adds-messaging-oh-and-sam-altman-led-their-round/">startup that allows you to instantly hire local workers to perform basic jobs</a>, is testing out a new version of its cleaning service. In the future, cleaning with Exec should be a higher quality, faster experience, and it will come with a higher price tag to match.</p>
+<p>Until now, everything in Exec came at a standard price of $25 per hour. For the new cleaning service, the per-hour rate has more than doubled to $65. That doesn&#8217;t mean you&#8217;ll actually pay twice as much — Exec is now sending two people to do the job, so it should take less time.</p>
+<p>Co-founder Justin Kan (formerly the Justin of Justin.tv) tells me this is very much an experiment. Cleaning is one of Exec&#8217;s most popular services, and he says the company noticed that it was doing a lot of work behind-the-scenes to improve the experience. So the team decided to go all out, asking itself, &#8220;If we could make this the best possible experience, what would we do?&#8221; The answer involves Exec-trained cleaners, eco-friendly cleaning supplies from the company, key pick-up and drop-off, and laundry service.</p>
+<p>Exec is currently <a target="_blank" href="https://iamexec.com/cleaning">beta testing the system here</a>. It plans to phase out the old cleaning system, and during the transition period, it&#8217;s only charging $50 per hour.</p>
+<p>If Exec is willing to break away from the $25 per hour model for cleaning, can we expect it to do the same in other areas? Kan says that for the &#8220;near future&#8221;, he only plans to apply this model to cleaning: &#8220;I like to take things one step at a time.&#8221; But eventually, he says it&#8217;s possible that Exec might start offering improved or &#8220;streamlined&#8221; experiences, and charging more for them.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/QO4CtxxPU1s/">here</a>.
