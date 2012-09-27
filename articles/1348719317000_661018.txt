@@ -1,0 +1,14 @@
+{
+"title" : "Hoover’s Founder Launches Online Health Care Concierge Service, First Stop Health",
+"date" : "Thu, 27 Sep 2012 04:15:17 +0000",
+"author" : "Leena Rao"
+}
+
+<img width="100" height="57" src="http://tctechcrunch2011.files.wordpress.com/2012/09/fsh_home.jpg?w=100&amp;h=57&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="fsh_home.jpg" title="fsh_home.jpg" style="float: left; margin: 0 10px 7px 0;" /><p>Hoover&#8217;s co-founder Patrick Spain has launched a new venture today, aiming to provide an online, subscription health care service to the U.S. <a target="_blank" href="https://www.fshealth.com/">First Stop Health</a> provides individuals and families immediate, 24/7 phone access to its more than 250 on-call physicians.</p>
+<p>The service also delivers access to health care advocates, electronic health records, tools and information resources that help patients better manage their health care.</p>
+<p>The idea behind First Stop Health is that it could help avoid waiting for hours in an ER only to be told you could have cured an ailment with Tylenol or another over the counter medicine. Alternatively, the site provides a resource where you could get a second opinion on a medical issue from a certified specialist. You pay a monthly or yearly subscription fee and you&#8217;ll receive 24-7 access to a physician for any medical question.</p>
+<p>And First Stop health also provides a WebMD-like online database of medical information. You can also research symptoms, conditions and treatments and find doctors and medical facilities using search tools and a database of 780,000 physicians and 8,000 facilities.</p>
+<p>Premium Memberships to First Stop Health range from $240 per year for individuals with infrequent medical needs to $600 annually for families that need more regular access to First Stop Health physicians and health care advocates. All Premium Memberships include unlimited calls to physicians for advice and information.</p>
+<p>Depending on which level of Premium Membership members select, patient can also access health care advocates for help with navigating complex issues such as understanding insurance (policies, payments, treatment coverage, etc.).</p>
+<p><a href="http://techcrunch.com/?attachment_id=661024" rel="attachment wp-att-661024"></a></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/byAeYJCgfzo/">here</a>.
