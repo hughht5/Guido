@@ -1,0 +1,12 @@
+{
+"title" : "Murdoch Finally Invites The Google Spiders To Search London Times",
+"date" : "Thu, 27 Sep 2012 18:59:25 +0000",
+"author" : "John Biggs"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/trapdoor-spider.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Trapdoor Spider" title="Trapdoor Spider" style="float: left; margin: 0 10px 7px 0;" /><p>Back in 2009, Rupert Murdoch closed the London Times down with a paywall, preventing even Google from perusing the stories contained within. Approximately 200,000 subscribers later (or 130,751 if you&#8217;re to believe <a target="_blank" href="http://paidcontent.org/2012/09/26/timesunblockssearch/">PaidContent</a>), the experiment was clearly a failure. Now Murdoch is opening up the paper to search engines, although they will only get two lines of each story, thereby ensuring Google is full of ledes but no meat.</p>
+<p><a target="_blank" href="http://www.techdirt.com/articles/20120926/07125920516.shtml">TechDirt</a> notes that the Times will still be a paid subscription and that the content will still live behind a paywall. However, now that consumers can be made aware of stories behind that wall, in whatever truncated form, perhaps that subscriber number will rise.</p>
+<p>As I wrote <a href="http://techcrunch.com/2010/07/08/the-paywall-get-used-to-it/">two years ago</a>, the paywall &#8211; or, more precisely, micro-transactions &#8211; will become more prevalent. However, the news business is a hard nut. The world wants reams of content for free and many news organizations are willing to give it to them &#8211; for a price. Being stuck behind any paywall, be it the London Times, the WSJ&#8217;s iron gates, or a misguided interstitial on a small town paper, is a detriment to the writers who labor behind it. While I don&#8217;t want to say something as hippy-dippy as &#8220;News wants to be free,&#8221; a newsperson&#8217;s career &#8211; and the readers&#8217; benefit &#8211; comes from news being readily accessible.</p>
+<p>Maybe Murdoch will build his own Myspace-themed search engine (Mying?) and let folks find whole stories that way. In honesty, I wouldn&#8217;t put it past them.</p>
+<p>Image <a target="_blank" href="http://spiderindex.blogspot.com/">via SpiderIndex</a></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/NbEDbt2p2kg/">here</a>.
