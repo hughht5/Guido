@@ -21,5 +21,5 @@
 </ol>
 <p></p>
 <p>Karma co-founder Lee Linden didn&#8217;t deny that Facebook Gifts has the potential to compete with big ecommerce sites. &#8220;our goal is to make this the best way to send a gift&#8221;. Watching the demo, I was very impressed. The way Gifts assesses the profile of the recipient and recommends relevant gifts could be huge help to people who like giving but hate shopping.</p>
-<p>&nbsp;</p>
+<p>The product takes advantage of Facebook&#8217;s expansive social graph to solve a major problem with gift giving: not knowing the shipping address of the recipient. By popping them recipient with notification asking them to choose an existing stored address or add a new one right when the gift is bought, there&#8217;s no guess work on the part of the sender.</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/HQksa7nOdRM/">here</a>.
