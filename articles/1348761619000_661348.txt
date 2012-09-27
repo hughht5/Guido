@@ -1,5 +1,5 @@
 {
-"title" : "Airbnb Mobile Traffic Soars As Its iOS App Passes 1 Million Downloads",
+"title" : "Airbnb Mobile Traffic Soars As Its iOS App Passes 1 Million Downloads, Accounts For 26% Of All Traffic",
 "date" : "Thu, 27 Sep 2012 16:00:19 +0000",
 "author" : "Ryan Lawler"
 }
