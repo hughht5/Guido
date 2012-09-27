@@ -1,0 +1,9 @@
+{
+"title" : "Watch Google’s Eric Schmidt Dance Gangnam Style",
+"date" : "Thu, 27 Sep 2012 15:12:43 +0000",
+"author" : "Matt Burns"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/359682-schmidt-gagnam.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="359682-schmidt-gagnam" title="359682-schmidt-gagnam" style="float: left; margin: 0 10px 7px 0;" /><span class='embed-youtube' style='text-align:center; display: block;'><iframe class='youtube-player' type='text/html' width='640' height='390' src='http://www.youtube.com/embed/s-EWailoPoQ?version=3&#038;rel=1&#038;fs=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' frameborder='0'></iframe></span>
+<p>Yep. <a target="_blank" href="http://www.pcmag.com/article2/0,2817,2410256,00.asp?utm_source=loopinsight.com&amp;utm_medium=referral&amp;utm_campaign=Feed%3A+loopinsight%2FKqJb+%28The+Loop%29">This really happened</a> on <a href="http://techcrunch.com/2012/09/27/googles-eric-schmidt-talks-apple-partnership-samsung-and-patent-problems/">a recent Asian business trip</a> to help launch the Nexus 7. Good for Schmidt. Homeboy knows how to have fun. Next up, Steve Ballmer doing the Macarena.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/9QqzInTa2Jg/">here</a>.
