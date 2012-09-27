@@ -5,7 +5,7 @@
 }
 
 <img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/facebook-gifts.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Facebook Gifts" title="Facebook Gifts" style="float: left; margin: 0 10px 7px 0;" /><p>Facebook today launches Facebook Gifts, its first ecommerce product that lets it earn a percentage of sales when you use it to buy friends real gifts for their birthday, wedding, or other special occasions. Starbucks, Uber cabs, Warby Parker glasses and products from over 100 other partners can be purchased over desktop or mobile for friends who&#8217;ll receive them as digital gift cards or physical shipments.</p>
-<p>Facebook Gifts, the rebirth of gift app Karma Facebook acquired in May, is rolling out to select U.S. users today. The rest of the country will get it soon, and Facebook is mulling over a international launch of Gifts that could pull buyers away from Amazon, eBay, Etsy, and other shopping sites.</p>
+<p>Facebook Gifts, the rebirth of <a href="http://techcrunch.com/2012/05/18/facebook-acquires-karma/">gift app Karma Facebook acquired in May</a>, is rolling out to select U.S. users today. The rest of the country will get it soon, and Facebook is mulling over a international launch of Gifts that could pull buyers away from Amazon, eBay, Etsy, and other shopping sites.</p>
 <p>Here&#8217;s how Facebook Gifts works:</p>
 <ol>
 <li>You see recommendations on your home page of friends celebrating special occasions</li>
@@ -20,5 +20,6 @@
 <li>If it&#8217;s a physical product, it&#8217;s packed in a Facebook bag and sent by its manufacturer to the recipient.</li>
 </ol>
 <p></p>
+<p>Karma co-founder Lee Linden didn&#8217;t deny that Facebook Gifts has the potential to compete with big ecommerce sites. &#8220;our goal is to make this the best way to send a gift&#8221;</p>
 <p>&nbsp;</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/HQksa7nOdRM/">here</a>.
