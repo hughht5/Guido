@@ -1,0 +1,18 @@
+{
+"title" : "Rovio’s Bad Piggies Goes Live In The App Store: Build Bridges, Don’t Burn Them",
+"date" : "Thu, 27 Sep 2012 12:32:07 +0000",
+"author" : "Jordan Crook"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/screen-shot-2012-09-27-at-9-00-56-am.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen shot 2012-09-27 at 9.00.56 AM" title="Screen shot 2012-09-27 at 9.00.56 AM" style="float: left; margin: 0 10px 7px 0;" /><p>Angry Birds is now a household name. Even Rovio (the company responsible for the ultra-successful bird-flinging app) is a logo as familiar as EAs. But today we&#8217;ll have to add another bit of vocabulary to our repetoire. Prepare yourselves: Bad Piggies has arrived. </p>
+<p>We&#8217;ve known about <a href="http://techcrunch.com/2012/09/04/bad-piggies-rovios-next-game-will-let-you-play-as-the-pigs-launches-september-27/">Bad Piggies for a while</a>, but only a lucky few have actually played the game. Quite a bit hinges on it. As you justly may have forgotten, Amazing Alex (Rovio&#8217;s <em>other</em> game) hasn&#8217;t exactly made a splash. According to <a target="_blank" href="http://www.reuters.com/article/2012/09/26/net-us-angrybirds-piggies-idUSBRE88P0XG20120926">Finnish analyst firm Alekstra</a>, Rovio&#8217;s revenue is dropping like a rock as of late. </p>
+<p>In response, Ville Heijari (VP Franchise Development) had this to say:</p>
+<p>&#8220;Rovio today is highly diversified among games, consumer goods, and other entertainment areas.  Throughout 2012, we have had a seen very healthy growth across our whole business, and we are not dependent on any single revenue stream.&#8221;</p>
+<p>But let&#8217;s not focus too much on the negative &mdash; today is Bad Piggies&#8217; birthday, and it&#8217;s cause for celebration. After all, it&#8217;s the first time that we&#8217;ll be empathizing with the long-time antagonists. </p>
+<p>The game is still very much based around physics, like Angry Birds and Cut The Rope. However, there&#8217;s no destruction here. Instead, your goal is get the Bad Piggies from point A on a map to Point B. </p>
+<p>You do this by constructing various contraptions &mdash; vehicles, really &mdash; that help the Piggies travel. Remember, pigs can&#8217;t <em>actually</em> fly, despite the information to the contrary. </p>
+<p>As you travel through the map, you grab various collectibles (essentially the equivalent of eggs in Angry Birds) and are scored based on the three-star system. </p>
+<p>The same things that made Angry Birds a huge success are present here in the piggie version. You can complete levels relatively quickly, it&#8217;s isn&#8217;t all that hard to beat the levels, yet it&#8217;s still a mentally challenging game in terms of physics. </p>
+<p>The game is available now in the <a target="_blank" href="http://itunes.apple.com/us/app/bad-piggies/id533451786?mt=8">Apple App Store</a> and <a target="_blank" href="https://play.google.com/store/apps/details?id=com.rovio.BadPiggies">Google Play</a> for $.99. Here&#8217;s hoping the birds don&#8217;t get angrier as these pigs try to steal the show.</p>
+<a href="http://techcrunch.com/2012/09/27/rovios-bad-piggies-goes-live-in-the-app-store-build-bridges-dont-burn-them/#gallery-660893-1-slideshow">Click to view slideshow.</a>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/kTblabao5NU/">here</a>.
