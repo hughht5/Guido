@@ -21,16 +21,16 @@
 <h4>How Facebook Gifts Works</h4>
 <p></p>
 <ol>
-<li>You see recommendations on the &#8220;Birthdays and Life Events&#8221; section of your home page of friends celebrating special occasions</li>
-<li>Select one an choose a product to buy for them. You can choose the style/size/flavor or leave it up to them</li>
+<li>You see recommendations on the &#8220;Birthdays and Life Events&#8221; section of your home page of friends celebrating special occasions, or in the Gifts tab of the wall post composer on the Timelines of friends on desktop and mobile.</li>
+<li>Select one an choose a product to buy for them. You can choose the style/size/flavor or leave it up to them.</li>
 <li>Write a personal message and choose to share the gift privately or on the friend&#8217;s wall.</li>
 <li>You can choose to pay immediately, or later before the gift is shipped.</li>
-<li>The recipient gets notified of their gift on Facebook desktop on mobile</li>
-<li>They and their friends can see the wrapped gift on the wall or news feed</li>
+<li>The recipient gets notified of their gift on Facebook desktop on mobile.</li>
+<li>They and their friends can see the wrapped gift on the wall or news feed.</li>
 <li>The recipient unwraps the gift, sees what they&#8217;ve been sent, and can select styles or other options and enter their shipping address. If they don&#8217;t like their gift they can secretly swap it for a similarly priced on.</li>
-<li>Friends see news feed and Timeline stories about the gift, and can Like or comment</li>
-<li>The sender gets notified as the gift is unwrapped, the card is read, and the gift is shipped</li>
-<li>If it&#8217;s a digital gift like a $5 Starbucks credit or free Uber ride, they instantly get it on their phone and can redeem it in the store or the company&#8217;s app</li>
+<li>Friends see news feed and Timeline stories about the gift, and can Like or comment.</li>
+<li>The sender gets notified as the gift is unwrapped, the card is read, and the gift is shipped.</li>
+<li>If it&#8217;s a digital gift like a $5 Starbucks credit or free Uber ride, they instantly get it on their phone and can redeem it in the store or the company&#8217;s app.</li>
 <li>If it&#8217;s a physical product, it&#8217;s packed in a Facebook bag and sent by its manufacturer to the recipient.</li>
 </ol>
 <p></p>
