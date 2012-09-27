@@ -1,0 +1,11 @@
+{
+"title" : "Pew Pew Pew! iPhone 5 Destroyed By Lasers [Video]",
+"date" : "Thu, 27 Sep 2012 14:06:30 +0000",
+"author" : "John Biggs"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/laseriphone.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="laseriphone" title="laseriphone" style="float: left; margin: 0 10px 7px 0;" /><span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/09/27/pew-pew-pew-iphone-5-destroyed-by-lasers-video/"></a></span>
+<p>I&#8217;ve avoided posting videos of people shooting the iPhone with bullets, dropping iPhones into squirrel pens, and ingesting and then excreting iPhones because I think such videos are wasteful and pointless. But this video is a little too cool not to post.</p>
+<p>It shows 6 Watts of pure <a target="_blank" href="http://www.wickedlasers.com/">WickedLasers</a> fun being pointed at the center of an <a href="http://techcrunch.com/tag/iphone">iPhone</a> 5 screen and then, to add insult to injury, they drop a superhot flashlight onto the screen, essentially destroying the LCD. Arguably, this is the worst waste of an iPhone possible, but I do really like lasers.</p>
+<p>We&#8217;ve looked at <a href="http://techcrunch.com/tag/wickedlasers/">WickedLasers</a> quite a bit over the years and barring their tendency to cause permanent eye damage and/or blindness I find their products to be pretty cool, especially now that they&#8217;ve proven that the iPhone has no external defenses and can be destroyed by shooting photon torpedoes down a small exhaust port.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/8Ijc2cmWw1E/">here</a>.
