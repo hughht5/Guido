@@ -1,0 +1,11 @@
+{
+"title" : "Wild Rumor: Google/Asus Prepping $99 Nexus 7 iPad Mini Killer For 2012 Release",
+"date" : "Thu, 27 Sep 2012 16:55:22 +0000",
+"author" : "Matt Burns"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/saltgrains.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="saltgrains" title="saltgrains" style="float: left; margin: 0 10px 7px 0;" /><p>And from left field comes a wild rumor. Digitimes is <a target="_blank" href="http://www.digitimes.com/news/a20120926PD232.html">reporting today</a>, citing unnamed sources, that Google and Asus are preparing the next generation of Nexus 7 tablets. There are two versions on tap: A $199 and $99 version. These tabs are reportedly scheduled for a late 2012 release as a counter to Apple&#8217;s expected 7.85-inch iPad mini.</p>
+<p>Additional details are nonexistent. There is no word on specs. But judging by the recent release of the Kindle Fire HD and Nook Tablet HD, it&#8217;s probably safe to assume the $199 version will feature a high-resolution display. And, likewise, the $99 version could have specs similar to that of the current Nexus 7. Google might be more willing to take a loss on hardware now that <a href="http://techcrunch.com/2012/09/26/google-play-store-25-billion-app-downloads/">Google Play is taking off</a>.</p>
+<p>These models, once again, if they are real, will be answers to the smaller, less expensive iPad Apple is expected to announce this Fall. The recent success of the Google Play store shows that the company is in a different position than it was previously. Like Amazon with the Kindle Fire, the Nexus 7 is quickly turning into a hardware portal for its content store. If Google Play is a roaring success, it could effectively subsidize the price of these tablets, allowing Google to sell them below cost.</p>
+<p>Still, at this point, take this report with plenty of sodium. Digitimes is not the most reliable source for these sorts of things. But still, there&#8217;s a hint of logic here. A $99 Nexus 7 tablet is not that far-fetched.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/BJhSjo0LCLA/">here</a>.
