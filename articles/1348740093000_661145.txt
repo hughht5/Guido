@@ -1,5 +1,5 @@
 {
-"title" : "EU To Charge Microsoft Over Browser Compliance Breach",
+"title" : "EU To Charge Microsoft Over Browser Compliance Breach, Still In Talks With Google Over Search",
 "date" : "Thu, 27 Sep 2012 10:01:33 +0000",
 "author" : "Natasha Lomas"
 }
@@ -8,9 +8,11 @@
 <p>The <a target="_blank" href="http://europa.eu/rapid/pressReleasesAction.do?reference=IP/12/800&amp;format=HTML&amp;aged=0&amp;language=EN&amp;guiLanguage=en">EU opened an investigation into the case back in July</a>, to determine whether Microsoft had kept the commitments it made under the antitrust ruling which stipulated users should be offered a choice of browsers to ensure a more level playing field for competitors to Microsoft&#8217;s Internet Explorer browser.</p>
 <p>At the time of the investigation Microsoft conceded it had &#8220;fallen short&#8221; of the ruling &#8212; a mea culpa flagged up by  EU Competition Commissioner Joaquin Almunia in the latest comments on the case.</p>
 <p>&#8220;The next step is to open a formal proceeding into the company&#8217;s breach of an agreement. We are working on this,&#8221; Reuters quotes Almunia as saying. &#8221;It should not be a long investigation because the company itself explicitly recognized its breach of the agreement.&#8221;</p>
-<p>We&#8217;ve reached out to Microsoft and the EC for comment and will update once we hear back.</p>
+<p>We&#8217;ve reached out to Microsoft and the EC for comment <del>and will update once we hear back</del>. Microsoft said its <a target="_blank" href="http://www.microsoft.com/en-us/news/press/2012/jul12/07-17statement.aspx">July 2012 statement on browser choice compliance</a> still stands &#8212; in which it admits &#8220;falling short&#8221;, apologizes for doing so and blames the failure on a &#8220;technical error&#8221;:</p>
+<blockquote><p>Due to a technical error, we missed delivering the BCS [browser choice screen] software to PCs that came with the service pack 1 update to Windows 7. The BCS software has been delivered as it should have been to PCs running the original version of Windows 7, as well as the relevant versions of Windows XP and Windows Vista. However, while we believed when we filed our most recent compliance report in December 2011 that we were distributing the BCS software to all relevant PCs as required, we learned recently that we’ve missed serving the BCS software to the roughly 28 million PCs running Windows 7 SP1.</p></blockquote>
 <p>Microsoft&#8217;s penalty for failing to comply could be considerable. Reuters notes the company could face fines of up to 10 per cent of its global turnover. Microsoft has already paid some €1.68 billion ($2.44 billion) in fines over EU antitrust actions over the past 10+ years.</p>
 <p>Commissioner Almunia also makes mention of the Microsoft browser compliance investigation in a speech he gave today at the 2nd International Competition forum in Warsaw, Poland &#8211; noting: &#8220;I take compliance very seriously and we are now considering the next steps.&#8221;</p>
+<h3>EC Google Search Dominance Probe</h3>
 <p>In the same speech, Almunia also flagged up the <a href="http://techcrunch.com/2010/11/30/eu-commissions-antitrust-probe-into-google-focuses-on-niche-eu-competitors/">EC&#8217;s ongoing investigation into Google&#8217;s search dominance</a>, noting that talks are continuing to try to &#8220;solve this case with effective commitments in the interest of users&#8221;:</p>
 <blockquote><p>Two years ago we have also opened an investigation against Google – another world brand – on concerns that it had used its dominance in online search to foreclose advertisers and rivals.</p>
 <p>We are discussing with the company to see whether we can solve this case with effective commitments in the interest of users. Otherwise, we will need to pursue formal proceedings.</p>
