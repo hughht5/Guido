@@ -1,0 +1,19 @@
+{
+"title" : "Disrupt Battlefield Finalist Zumper Reveals It Raised $1M Seed Round From Greylock, Kleiner Perkins, Andreessen Horowitz, Others",
+"date" : "Thu, 27 Sep 2012 07:00:36 +0000",
+"author" : "Peter Ha"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/zumper-logo.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="zumper-logo" title="zumper-logo" style="float: left; margin: 0 10px 7px 0;" /><p>Zumper, the San Francisco-based startup that&#8217;s assisting apartment hunters in finding the most ideal abode, announced today that it closed a $1 million seed round. The announcement comes two weeks after <a href="http://techcrunch.com/2012/09/11/zumper-disrupt12/">launching into a public beta at SF Disrupt</a>.</p>
+<p>The round, which closed in May, included Kleiner Perkins, Andreessen Horowitz, Greylock, CrunchFund, NEA, Dawn Capital, The Experiment Fund, and the DeWilde family trust.</p>
+<p>&#8220;We were humbled to have so much interest from top-tier investors. We decided to take small tranches from each to start building a close relationship with multiple investors and to leverage their various talents and connections,&#8221; Zumper Founder and CEO Anthemos Georgiades told me. &#8220;$1 million was &#8211; at the time &#8211; enough runway for a year of building and testing a couple of critical hypotheses about the market.&#8221;</p>
+<p><a href="http://techcrunch.com/2012/09/11/zumper-disrupt12/screen-shot-2012-09-09-at-3-09-59-pm/" rel="attachment wp-att-645116"></a></p>
+<p>The upstart hopes to assist apartment hunters and landlords alike by cutting out the clutter that you may otherwise come across from sites like Craigslist where scraping can be an issue. Listings are up to date and accurate, allowing seekers to favorite pertinent neighborhoods and make the search that much easier.</p>
+<p>But more importantly, both parties know exactly who the other party is. Instead of blindly emailing an anonymous email address, you&#8217;re put in direct contact with the landlord/broker/management company, and in return, those renting out apartments can easily weed through applicants based on specific criteria, such as income, move-in date, etc.</p>
+<p>Days after launching into public beta at Disrupt, the company said hundreds of tenant leads were sent out to landlords, brokers, and property managers.</p>
+<p>The initial seed round was used to build out Zumper&#8217;s engineering team and build a few as-yet launched products that Georgiades labeled as &#8220;highly disruptive.&#8221; Upcoming features will include further improvements to the site&#8217;s news feed making it more intuitive and a mobile product that is &#8220;a step-change better than anything out there today.&#8221;</p>
+<p>Though the service is only currently available in NYC and San Francisco, Georgiades says they&#8217;ll be &#8220;rolling out to a few more cities in the next few months.&#8221;</p>
+<p>He added: &#8220;Because we&#8217;re building our market bottom-up via direct relationships this takes a significant amount time and effort but it&#8217;s worth it.&#8221;</p>
+<p>Check out Zumper&#8217;s pitch from Disrupt below:</p>
+			<script type="text/javascript" src="http://pshared.5min.com/Scripts/PlayerSeed.js?sid=577&amp;width=640&amp;height=450&amp;colorPallet=%230A9600&amp;hasCompanion=false&amp;relatedMode=2&amp;videoControlDisplayColor=%23000000&amp;playList=517476352&amp;shuffle=0&amp;videoGroupID=133503&amp;autoStart=false&amp;playerActions=16407"></script>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/eq-OjaQV1cQ/">here</a>.

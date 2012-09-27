@@ -1,0 +1,125 @@
+{
+"title" : "Live From Rome — It’s The TechCrunch Italy CrunchUp #TCItaly",
+"date" : "Thu, 27 Sep 2012 06:59:56 +0000",
+"author" : "Mike Butcher"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/tcitaly2.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="tcitaly" title="tcitaly" style="float: left; margin: 0 10px 7px 0;" /><p>We&#8217;re delighted to showcase Italian startups at our CrunchUp event in Rome today, which we&#8217;ve dubbed TechCrunch Italy. Check out the live stream. Our thanks to <a target="_blank" href="http://Populis.com">Populis</a> and <a target="_blank" href="http://www.mindthebridge.org/">Mind The Bridge Foundation</a> for putting this together. We have some great <a target="_blank" href="http://www.techcrunch-italy.com/speaker/">speakers</a>, a great <a target="_blank" href="http://www.techcrunch-italy.com/agenda/">agenda</a>, a startup <a target="_blank" href="http://www.techcrunch-italy.com/startup/">showcase</a>, an amazing <a target="_blank" href="http://www.techcrunch-italy.com/venue/">venue</a> and some great <a target="_blank" href="http://www.techcrunch-italy.com/sponsors/">sponsors</a>. We&#8217;re also having a hackathon organised by <a target="_blank" href="http://hackitaly.org/">Hackitaly</a>. The live stream which starts around 9am Rome time:</p>
+	<object id="Techcrunch" width="640" height="360" data="http://eventilive.top-ix.org/player/flowplayer.swf" type="application/x-shockwave-flash">
+	<param name="movie" value="http://eventilive.top-ix.org/player/flowplayer.swf" />
+	<param name="allowfullscreen" value="true" />
+	<param name="flashvars" value="config=http://eventilive.top-ix.org/techcrunch/config-techcrunch.js">
+	</object>
+<p><strong>AGENDA</strong></p>
+<p>Doors open, registration, networking time with partners<br />
+Welcome Buffet Breakfast</p>
+<p>09h00<br />
+OPENING WELCOME<br />
+Call to seats by MC MARCO MONTEMAGNO + intro to TC Italy hosts MIKE and LUCA<br />
+Opening remarks by MIKE BUTCHER &amp; LUCA ASCANI</p>
+<p>AN OFFICIAL WELCOME FROM ROME<br />
+NICOLA ZINGARETTI, President, Provincia di Roma<br />
+GIOVANNI ALEMANNO, Mayor of Rome</p>
+<p>09h15<br />
+KEYNOTE<br />
+CORRADO PASSERA, Minister for Economic Development</p>
+<p>09h25<br />
+KEYNOTE 1<br />
+ALEC ROSS, Senior Advisor for Innovation, Office of Hillary Clinton</p>
+<p>09h45<br />
+MIND THE BRIDGE/360 CAPITAL LIVEPITCHING ON STAGE 1: ITALIAN STARTUPS IN THE LIMELIGHT WITH MARCO MARINUCCI<br />
+VC judging panel:</p>
+<p>1)     IVAN FARNETI, Partner, Doughty Hanson<br />
+2)     MAURO PRETOLANI, TLcom<br />
+3)     MASSIMILIANO MAGRINI, Annapurna<br />
+4)     EMANUELE LEVI, 360 Capital</p>
+<p>10h15<br />
+FIRESIDE CHAT<br />
+GIUSEPPE ZOCCO, Co Founder, Index Ventures &amp; MIKE BUTCHER, European Editor, TechCrunch</p>
+<p>10h35<br />
+POWER PANEL – Made In Italy Startups Making Waves moderated by MARCO MAGNOCAVALLO</p>
+<p>ELENA FAVILLI, Founder and CEO, Timbuktu<br />
+AUGUSTO MARIETTI, Founder, Mashape<br />
+ANTONIO TOMARCHIO, Founder, Beintoo<br />
+GUK KIM, Founder, Cibando</p>
+<p>10h55<br />
+FIRESIDE CHAT<br />
+RICCARDO ZACCONI, Founder &amp; CEO King.com with EVAN NISSELSON, CEO LDVLabs &amp; Mentor for SeedCamp and 500 Startups.</p>
+<p>11h15<br />
+POWER PANEL: SOCIAL NETWORKING OF THE FUTURE / ITALY’S HOT SPOT<br />
+Moderated by MIKE BUTCHER, Editor, TechCrunch Europe</p>
+<p>HAKIL KHAN, Special Projects, Path<br />
+ZARYN DENTZEL, Founder &amp; CEO, Tuenti<br />
+KATHRYN FINK, Community Lead, MeetUp<br />
+GABRIEL ALDAMIZ-ECHEVARRÍA, Founder &amp; CEO, Chicisimo</p>
+<p>11h35<br />
+VODAFONE XONE ITALIA: growing startups through corporates – with Fay Arjomandi, Head of Vodafone xone/Ventures, Vodafone Group and Vincenzo Scarlato, Head of Innovation, Vodafone Italy</p>
+<p>11h50<br />
+POWER PANEL: IS ACCELERATION KEY TO STARTUP SUCCESS? WHY, WHEN AND HOW<br />
+Moderated by EMIL ABIRASCID, Journalist and Founder of StartupBusiness<br />
+TIM O’CONNELL, H Farm<br />
+LUIGI CAPELLO, Enlabs<br />
+ENRICO GASPERINI, Digital Magics<br />
+ANDERS NILSSON, Microsoft Italia</p>
+<p>12h15<br />
+FIRESIDE CHAT<br />
+ANDREAS WIELE, President (BILD &amp; magazines) AXEL SPRINGER, GIANLUCA VISALLI, Head of Multimedia, La7 and ANDREA PEZZI, Founder, OVO: The Next Media Moves for Publishers, Producers &amp; Advertisers</p>
+<p>12h45<br />
+Morning wrap up and overview of startup showcase<br />
+MIKE BUTCHER, Editor, TechCrunch Europe with SALVATORE ESPOSITO, Co Founder, Populis</p>
+<p>13h30<br />
+Lunch + Networking + Startup Showcase Tour</p>
+<p>14h00<br />
+WELCOME BACK<br />
+MIKE BUTCHER and SALVATORE ESPOSITO</p>
+<p>14h05<br />
+INNOVATION SPEECH<br />
+MICHEL MARTONE, Vice Minister of Welfare and Italy’s youngest minister: The Italian Labour force: an opportunity for the global digital sector.</p>
+<p>14h20<br />
+POWER PANEL: INSIDER VIEW FROM THE VC WORLD<br />
+Moderated by MIKE BUTCHER, Editor, TechCrunch Europe</p>
+<p>NICOLAS WITTENBORN, Associate, Point Nine Capital, BERLIN<br />
+ROBERTO BONANZINGA, Partner, Balderton, LONDON<br />
+FAUSTO BONI, Partner, 360 Capital, MILAN<br />
+FADI BISHARA, Founder, BlackBox, SAN FRANCISCO</p>
+<p>14h55<br />
+KEYNOTE: INTRODUCING BIZSPARK &#8211; THE MICROSOFT PROGRAM DEDICATED TO START UP<br />
+ANDERS NILSSON, Director Developer and Platform, Microsoft Italia</p>
+<p>15h10<br />
+POWER PANEL: LET’S FACE THE MUSIC – moderated by GIAMPIERO DI CARLO, Founder, Rockol.com</p>
+<p>AXEL BRINGÉUS, Business Development Director, Spotify<br />
+MAX CIOCIOLA, Founder, MusixMatch<br />
+WILL MILLS, Head of Content, Shazam<br />
+NICO PEREZ, Co Founder, MixCloud</p>
+<p>15h40<br />
+KEYNOTE SPEECH<br />
+MITCHELL BAKER, Founder &amp; Chairperson, Mozilla Foundation</p>
+<p>16h00<br />
+MIND THE BRIDGE/360 CAPITAL LIVEPITCHING ON STAGE 2: ITALIAN STARTUPS IN THE LIMELIGHT WITH ALBERTO ONETTI<br />
+VC judging panel:</p>
+<p>LORENZO FRANCHINI, Co Founder &amp; MD, Italian Angels for Growth<br />
+ANDREA DI CAMILLO, Venture Capitalist, Boox<br />
+PIETRO BEZZA, Founder, Connect Ventures</p>
+<p>16h40<br />
+POWER PANEL: ITALIAN SUPERHEROES – STORIES OF SUCCESS<br />
+Interviewed by ANTONELLO PIROSO, Journalist</p>
+<p>MAURO DEL RIO, Founder, Buongiorno!<br />
+PAOLO AINIO, Founder, Virgilio &amp; Banzai<br />
+PAOLO BARBERIS, Founder, Dada<br />
+LUCA ASCANI, Founder, Populis</p>
+<p>17h15<br />
+LIVEPITCHING ON STAGE: BACK FROM THE HACK<br />
+The 3 best hacks from the HackItaly Hackathon pitch in front of a VC jury with MAX CIOCIOLA, Founder of MusixMatch</p>
+<p>17h55<br />
+PRIZE GIVING<br />
+1) Winner of the Startup Live pitching &#8211; presented by Portolano Cavallo Studio Legale<br />
+2) Winner of the Hack Italy Hackathon &#8211; presented by Nanabianca, HFarm &amp; Boox (www.startup-alliance.it)</p>
+<p>18h10<br />
+Closing remarks MIKE BUTCHER + LUCA ASCANI</p>
+<p>** Closing Celebration **</p>
+<p>Thanks again to our sponsors:<br />
+Populis, Mind the bridge, Vodafone, Dnsee, Miscrosoft BizSpark, Alliance H-Farm, Capital Partners, Provincia Roma, United States American Embassy, Bansai, Bizup, sister, Papounti, illy, Moleskine, TopIX, Portolano Cavallo, MusicMatch, Applix</p>
+<p><br />
+<br />
+</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/B7IQc6Zfkik/">here</a>.

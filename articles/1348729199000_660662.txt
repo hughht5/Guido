@@ -1,0 +1,14 @@
+{
+"title" : "Mimecast Raises $62M For Microsoft Exchange And Office 365 Cloud-Based Email Management System",
+"date" : "Thu, 27 Sep 2012 06:59:59 +0000",
+"author" : "Leena Rao"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/mimecast.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="mimecast" title="mimecast" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.mimecast.com/">Mimecast,</a> a startup that offers a email archiving, continuity, and security software for Microsoft Exchange and Office 365, has raised $62.15 million in Series C funding led by private equity firm, Insight Venture Partners, with existing investor Dawn Capital also participating. This brings Mimecast&#8217;s total funding to over $80 million.</p>
+<p>Founded in the UK in 2003 by Peter Bauer and Neil Murray, Mimecast’s cloud based platform extends the capabilities of Microsoft&#8217;s email systems by integrating additional storage, archiving, and spam/virus protection. Mimecast&#8217;s integrated security settings that the user can configure on a ‘per-email’ basis before pressing send, and real time archive search.</p>
+<p>Mimecast currently has close to 6,000 customers (and 1.5 million users) across a range of of industries including financial services, legal, manufacturing and the public sector. The startup claims to have seen 50 percent year on year revenue growth in six of the past nine years.</p>
+<p>As Bauer writes in a blog post announcing the news, some 50% of corporate email users are still on Exchange 2003 and Exchange 2007 and many are &#8220;throttled by the ‘point’ applications they have added to their network over the last five years or more.&#8221; The company helps these users continue to Exchange 2010 and 2013</p>
+<p>Mimecast plans to use the funding to accelerate the development and deployment of new technology, and to support plans for expansion in the US market. In addition to growing its existing business within the European, American and South African markets, Mimecast intends to use the investment to drive further product innovations in corporate email.</p>
+<p>Bauer explains, &#8220;We see a world where the business – HR people, IT people, end users from all departments – dip in and out of the archive every day, using clever apps, or suites of apps, that enable them to collaborate on projects, visualize complex relationships in the metadata chains, search and browse documents from file stores, email archives or Sharepoint on an iPad.&#8221;</p>
+<p>Mimecast calls this Information Banking, and plans to support all this functionality in the future.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/AMP-qxC7Ry4/">here</a>.
