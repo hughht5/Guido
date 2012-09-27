@@ -1,0 +1,14 @@
+{
+"title" : "Mobile’s Hidden Opportunity: Marketplaces",
+"date" : "Thu, 27 Sep 2012 17:00:15 +0000",
+"author" : "Matt Cohler"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/matt-cohler.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Matt Cohler" title="Matt Cohler" style="float: left; margin: 0 10px 7px 0;" /><p><strong>Editor’s note:</strong> <em>Matt Cohler is a General Partner at <a title="Benchmark Capital" target="_blank" href="http://www.crunchbase.com/financial-organization/benchmark-capital">Benchmark Capital</a>. He’s responsible for identifying investment opportunities in Internet-related companies in addition to working closely with companies across the firm’s portfolio. You can follow him on Twitter <a target="_blank" href="https://twitter.com/mattcohler">here</a>. </em></p>
+<p>Building and controlling a marketplace is hard.</p>
+<p>Marketplaces consist of two sides: supply (sellers) and demand (buyers). To build a marketplace, you need to aggregate both sides of the market. And to control that marketplace, you need to have more visibility into both sides of the market than anyone else has &#8212; in real time. In other words, you need to have both the buyers and the sellers, and you need to know in real time what the buyers want to buy and what the sellers want to sell (and at what price).</p>
+<p>Like I said, building and controlling a marketplace is hard.</p>
+<p>Fortunately, mobile makes it much, much easier. The near-ubiquity of mobile devices <a target="_blank" href="http://www.quora.com/Matt-Cohler/Mobile/Mobile-is-here-at-last">today</a> makes it vastly quicker and cheaper than ever before to &#8220;wire up&#8221; both sides of a market and then to have real-time visibility into that market&#8217;s supply and demand dynamics.</p>
+<p>My partners at Benchmark and I are really into marketplace models; we were early investors in eBay, OpenTable, 1stdibs, Zillow, oDesk, and most recently Uber, a service that&#8217;s reshaping the market for point-to-point private transportation through the use of mobile smartphones on both sides of the market. This is all just getting started, and we&#8217;re looking for more.</p>
+<p>The best opportunities for creating new marketplaces (or reshaping old ones) via mobile will be in markets where supply is inherently constrained and there are no viable (similarly priced) substitutes for that supply. Aggregate that scarce supply and the demand will follow. This playbook isn&#8217;t new to mobile. Mobile just makes it a whole lot easier.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/an_odXt5F1w/">here</a>.
