@@ -1,0 +1,12 @@
+{
+"title" : "LG Hits Samsung With OLED Display Patent Suit; Galaxy SIII, Galaxy Note Both Accused",
+"date" : "Thu, 27 Sep 2012 08:43:27 +0000",
+"author" : "Natasha Lomas"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/04/lg-logo.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="LG-logo" title="LG-logo" style="float: left; margin: 0 10px 7px 0;" /><p>LG has filed a patent infringement lawsuit against fellow South Korean electronics giant Samsung over the latter&#8217;s use of advanced OLED display technology in smartphones and tablets, the <a target="_blank" href="http://online.wsj.com/article/SB10000872396390443507204578021572847519276.html">Wall Street Journal</a> is reporting.</p>
+<p>Devices accused of infringing LG&#8217;s patents include Samsung&#8217;s latest flagship smartphone, the Galaxy SIII, along with the Galaxy Note phablet and the Galaxy Tab 7.7 tablet.</p>
+<p>The paper reports that alleged patent infringements include the design of OLED panels, driver circuitry and device design, and says LG intends to seek damages and a permanent injunction against the sale of accused devices in South Korea.</p>
+<p>&#8220;This lawsuit has been filed both to enforce LG Display&#8217;s intellectual property rights and promote fair competition,&#8221; LG Display is quoted as saying.</p>
+<p>More to come&#8230;</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/I6TauyIxSKk/">here</a>.
