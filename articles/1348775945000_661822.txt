@@ -12,7 +12,7 @@
 <p>While Facebook wouldn&#8217;t reveal what percentage its taking in the revenue split with its partners, Facebook Gifts could let the social network rapidly ramp up the average revenue per user it earns. Facebook made about <a href="http://techcrunch.com/2012/05/03/facebook-roadshow-video/facebook-average-revenue-per-user-by-geography/">$9.51 per user in U.S. in 2011</a>. If it earned 10% on two $15 gifts per year, it&#8217;d instantly be making 30% more per user. If the margin is higher or Facebook can convince users to buy bigger gifts more frequently, it could score a year&#8217;s worth of ad revenue in a few clicks.</p>
 <p>Here&#8217;s how Facebook Gifts works:</p>
 <ol>
-<li>You see recommendations on your home page of friends celebrating special occasions</li>
+<li>You see recommendations on the Birthdays section of your home page of friends celebrating special occasions</li>
 <li>Select one an choose a product to buy for them. You can choose the style/size/flavor or leave it up to them</li>
 <li>Write a personal message and choose to share the gift privately or on the friend&#8217;s wall.</li>
 <li>You can choose to pay immediately, or later before the gift is shipped.</li>
@@ -24,7 +24,7 @@
 <li>If it&#8217;s a physical product, it&#8217;s packed in a Facebook bag and sent by its manufacturer to the recipient.</li>
 </ol>
 <p></p>
-<p>Gifts has the potential to relieve the strain on Facebook&#8217;s ads business to bring home all the bread necessary to satisfy its investors. As mobile payments for games decline as Facebook&#8217;s user base shifts to mobile where it doesn&#8217;t earn much on virtual goods, this real good business could pick up the slack. Gifts also isn&#8217;t too intrusive the way cramming the site and apps full of more ads might be.</p>
-<p>And importantly, it&#8217;s not just &#8216;compatible&#8217; with mobile. Linden called it a &#8220;mobile-first&#8221; product, which makes sense since it evolved out of the Karma app.</p>
+<p>Gifts has the potential to relieve the strain on Facebook&#8217;s ads business to bring home all the bread necessary to satisfy its investors. As mobile payments for games decline as Facebook&#8217;s user base shifts to mobile where it doesn&#8217;t earn much on virtual goods, this real good business could pick up the slack.</p>
+<p>And importantly, it&#8217;s not just &#8216;compatible&#8217; with mobile. Linden called it a &#8220;mobile-first&#8221; product, which makes sense since it evolved out of the Karma app. Gifts isn&#8217;t too intrusive the way cramming the Facebook apps full of more ads might be. Instead Linden says that &#8220;We truly think it&#8217;s a natural extension of what people do on Facebook. Facebook is where we share and talk about life moments &#8211; -a new baby, engagement, or just saying &#8216;I&#8217;m thinking of you&#8217;. We&#8217;re takin these real moments and combining them with real gifts.&#8221;</p>
 <p><em>A subset of Facebook&#8217;s desktop and Android users in the U.S. can now start buying and receiving gifts. iOS users can receive gifts and purchasing will come with an update to Facebook for iOS in a few weeks. Anyone who receives a gift is instantly admitted to the Gifts user base and can then send them. There&#8217;s currently no concrete plans or date for an international launch.</em></p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/HQksa7nOdRM/">here</a>.
