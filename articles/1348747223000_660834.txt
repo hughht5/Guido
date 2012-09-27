@@ -1,0 +1,16 @@
+{
+"title" : "App Marketing Costs Decline In August As Developers Held Their Breath For The iPhone 5",
+"date" : "Thu, 27 Sep 2012 12:00:23 +0000",
+"author" : "Kim-Mai Cutler"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/app-marketing-costs.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="app-marketing-costs" title="app-marketing-costs" style="float: left; margin: 0 10px 7px 0;" /><p><a href="http://techcrunch.com/?attachment_id=660880" rel="attachment wp-att-660880"></a></p>
+<p>The cost of bringing in new users to mobile apps declined last month as developers and consumers waited for the new iPhone 5. </p>
+<p>The average daily download volume for the top 200 free iPhone apps dropped by 7.3 percent to 4.05 million. The cost to acquire a loyal user, or one that opens an app three times, fell by 20 cents to $1.34.</p>
+<p>Many of the very biggest mobile developers like Groupon and gaming companies like GREE and Zynga have to spend multiple millions of dollars a month in user acquisition to make sure they have a constant flow of new and returning customers. Fiksu, which helps developers optimize how they spend on different app marketing channels, tracks billions of app actions every month to figure out which ones are most cost effective.</p>
+<p>The August dip is seasonal, and Fiksu generally sees it every year before a big phone launch. Marketing costs are likely spiking again right now as developers bump up spending to be in front of new or upgrading iPhone owners, who might use a new phone as a chance to try out many more apps.</p>
+<p>“August was like the calm before the storm for app marketers,” said Micah Adler, Fiksu&#8217;s CEO. “App marketers also took the gas off their advertising spending during August, awaiting the availability of iOS 6 in September and the chance to promote updated apps. The combined effect made for a slow month overall ahead of what we expect to be a busy Q4.&#8221;</p>
+<p>App marketing costs have stayed pretty stable all year long, after rising quite a bit last year after Apple cracked down on cheaper and more unscrupulous forms of marketing. We&#8217;d expect to see some more substantial changes happen over the next month, especially after Apple overhauled the design of the store. They pushed personalized app recommendation program called Genius closer to the forefront and de-emphasized rankings slightly.</p>
+<p>The ranking algorithm also seems to have changed for the free charts over the last few months with more utility-like and social applications hitting the top. YouTube and Apple&#8217;s apps like Find My Friends and iTunes U have more prominent rankings while the one-off gaming apps that would sporadically appear at the top every day are now lower. They still command the top-grossing charts however. </p>
+<p><a href="http://techcrunch.com/?attachment_id=660945" rel="attachment wp-att-660945"></a></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/m6e_j_IrSEw/">here</a>.
