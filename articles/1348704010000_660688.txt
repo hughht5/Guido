@@ -1,0 +1,29 @@
+{
+"title" : "RIM Employee’s OOO Reply This Week Is Both Epic And Sad",
+"date" : "Thu, 27 Sep 2012 00:00:10 +0000",
+"author" : "Peter Ha"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2011/12/sadberrys.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="sadberrys" title="sadberrys" style="float: left; margin: 0 10px 7px 0;" /><p>RIM is holding some sort of developer conference this week somewhere in North America. It&#8217;s unclear what they actually announced or revealed because everyone keeps talking about this <a href="http://techcrunch.com/2012/09/25/watch-rim-evangelists-sing-a-love-song-to-the-devs-still-holding-on/">dumb music video</a>. (If you&#8217;re having a bad day, you should really watch it. But be warned, your ears will bleed and you may want to gouge your eyes out before/during/after.)</p>
+<p>Anyway, a friend of TC forwarded the following out of office reply from a RIM employee. I&#8217;m only sharing because it&#8217;s quite possibly one of the most delusional yet most awesome OOO replies I&#8217;ve ever seen. Look, we all drink the Kool-Aid, but this is neither funny nor accurate in any way:</p>
+<blockquote><p>Hello my friend. I am travelling to San Jose for the biggest mobile developer event of the year – BlackBerry Jam Americas 2012.</p>
+<p>If you are in the San Jose/San Francisco are and would like to attend the developer event of the year, please send me an email with the subject of “I want to go to BBJam” and I will get back to you ASAP.</p>
+<p>For up to the minute BlackBerry Jam Americas action, please follow us @<a target="_blank" href="http://www.twitter.com/blackberrydev">BlackBerryDev</a>.</p>
+<p>Otherwise, if you need me urgently, please feel free to BBM me and I will respond immediately if not sooner. Emails will be dealt with at a later time – most likely by me hitting CTRL-A and deleting them. If it was really that important, you’d BBM me. Or call. Or send me a message on Twitter.</p>
+<p>If you don’t need something urgent – then I will respond to this email as soon as possible.</p>
+<p>Have a great week!</p></blockquote>
+<p>Let&#8217;s take a closer look at this.</p>
+<h5><strong>&#8230;biggest mobile developer event of the year – BlackBerry Jam Americas 2012</strong></h5>
+<p>Hmm. You have roughly 105,000 apps in BlackBerry App World. Compare that to Android&#8217;s 675,000 and Apple&#8217;s 700,000 apps. Hell, even Windows Phone has roughly 100,000 apps at this point, and they haven&#8217;t even been around for two years. Not to mention the fact that devs can now build apps for both Windows 8 and WP8 simultaneously. How long have you been around, RIM? You can&#8217;t even get through a <a href="http://techcrunch.com/2012/09/25/rim-and-facebook-reveal-the-native-and-slightly-buggy-bb10-facebook-app/">demo</a>.</p>
+<h5><strong>“I want to go to BBJam”</strong></h5>
+<p>I&#8217;m sure people were clamoring to get in. Also, ROFL.</p>
+<h5><strong>For up to the minute BlackBerry Jam Americas action, please follow us @<a target="_blank" href="http://www.twitter.com/blackberrydev">BlackBerryDev</a>.</strong></h5>
+<p>A quick glance at this stream and it seems as though folks are having issues with BB10. A couple examples below:</p>
+<blockquote class='twitter-tweet'><p>For those that were having trouble updating their Dev Alpha devices yesterday, instructions have been updated: <a href="http://bbry.lv/SzRTIy"> bbry.lv/SzRTIy</a>&mdash; <br />Research In Motion (@BlackBerryDev) <a href='http://twitter.com/#!/BlackBerryDev/status/251071146408177664' data-datetime='2012-09-26T21:30:00+00:00'>September 26, 2012</a></p></blockquote>
+<blockquote class='twitter-tweet'><p>@<a href="https://twitter.com/BlackBerryDev">BlackBerryDev</a> the problem has been happening since yesterday&mdash; <br />Ben Smith Bortey (@BensmithB) <a href='http://twitter.com/#!/BensmithB/status/251056513173569537' data-datetime='2012-09-26T20:31:51+00:00'>September 26, 2012</a></p></blockquote>
+<p>You had to update the instructions?</p>
+<p>Though this wasn&#8217;t in the OOO, I think it&#8217;s very telling as to where the company stands today:</p>
+<blockquote><p>&#8220;We have a clear shot at being the No. 3 platform in the market. Carriers want other platforms. And we&#8217;re not just another open platform running on another system. We&#8217;re BlackBerry.&#8221;</p></blockquote>
+<p>This is what RIM CEO Thorsten Heins told the world yesterday. He&#8217;s already given up, and I don&#8217;t blame him, but why would you want to work for someone who tells the entire world that third place is good enough? What motivation do you have to kick ass at your job? Also, <a href="http://techcrunch.com/2012/08/20/statcounter-windows-phone-will-blow-past-blackberry-by-november-2012/">this</a>.</p>
+<p>What sane IT manager or consumer is going to wait until Q1 of next year for a BB10 device? Your <a href="http://techcrunch.com/2012/09/26/a-sign-of-hope-rim-stock-on-the-rise-after-blackberry-jam-keynote-address/">stock price</a> can&#8217;t possibly dip any lower than it did earlier this week, so I guess that&#8217;s a plus.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/D-9CGHYbL9U/">here</a>.
