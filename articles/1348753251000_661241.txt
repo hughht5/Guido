@@ -1,5 +1,5 @@
 {
-"title" : "Bad Piggies Is A Hit, Took Just 3 Hours To Hit The Top Spot In The U.S. App Store",
+"title" : "Bad Piggies Is A Hit, Taking Just 3 Hours To Hit The Top Spot In The U.S. App Store",
 "date" : "Thu, 27 Sep 2012 13:40:51 +0000",
 "author" : "Jordan Crook"
 }
