@@ -1,0 +1,29 @@
+{
+"title" : "Google Introduces An Easier Way To Sync Gmail Contacts To Your iPhone",
+"date" : "Thu, 27 Sep 2012 17:37:17 +0000",
+"author" : "Sarah Perez"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/08/gmail-logo-icon.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="gmail-logo-icon" title="gmail-logo-icon" style="float: left; margin: 0 10px 7px 0;" /><p>No need to let Facebook and Twitter have all the iOS-integration fun: today, Google <a target="_blank" href="http://gmailblog.blogspot.com/2012/09/a-new-way-to-sync-google-contacts.html">announced</a> a new, easier way for Gmail users to sync their Google Contacts to their iOS devices. The company is introducing support for an <a target="_blank" href="http://tools.ietf.org/html/rfc6352">open protocol</a> called <a target="_blank" href="http://support.google.com/mail/bin/answer.py?hl=en&amp;answer=2753077">CardDAV</a>, which will allow third party clients, including, most notably, the native iOS Contacts app, the ability to sync with Google Contacts.</p>
+<p>There are already a number of ways to get your Google Contacts onto your iPhone. For example, the Apple app stores on iOS and Mac contain several third-party clients which offer the ability to sync Google contacts to your device. <a href="http://techcrunch.com/2012/08/30/cobook-a-better-mac-address-book-now-syncs-with-google-contacts/">I&#8217;ve been enjoying the Mac app Cobook</a>, and there are plenty of mobile apps available as well. Plus, you can configure iTunes to specifically sync your Google Contacts, if you&#8217;re eschewing iCloud. But the new CardDAV support means you can quickly set up contact sync directly on your phone in just a few steps.</p>
+<p>Google has posted the detailed instructions <a target="_blank" href="http://support.google.com/mail/bin/answer.py?hl=en&amp;answer=2753077">here</a>, and they&#8217;re fairly straightforward:</p>
+<ul>
+<li>Open the <strong>Settings </strong>application on your device.</li>
+<li>Select <strong>Mail, Contacts, Calendars</strong>.</li>
+<li>Select <strong>Add Account…</strong></li>
+<li>Select <strong>Other</strong></li>
+<li>Select <strong>Add CardDAV Account</strong></li>
+<li>Fill out your account information in the following fields:
+<ul>
+<li><em>-Server</em>: Enter “google.com”</li>
+<li><em>-User Name</em>: Enter your full Google Account or Google Apps email address.</li>
+<li><em>-Password</em>: Your Google Account or Google Apps password. (If you’ve enabled <a target="_blank" href="http://support.google.com/accounts/bin/answer.py?hl=en&amp;answer=185833">2 Step verification</a>, you’ll need to generate and enter an application specific password.)</li>
+<li><em>-Description</em>: Enter a description of the account (e.g. Personal Contacts).</li>
+</ul>
+</li>
+<li>Select <strong>Nex</strong>t at the top of your screen.</li>
+<li>Make sure that the “Contacts” option is turned to <strong>ON.</strong></li>
+</ul>
+<p>When you&#8217;ve finished the setup, the sync will automatically begin.</p>
+<p>Google already supports <a target="_blank" href="https://support.google.com/mail/bin/static.py?hl=en&amp;ts=1668960&amp;page=ts.cs">IMAP</a> for email and <a target="_blank" href="http://support.google.com/calendar/bin/answer.py?hl=en&amp;answer=99358">CalDAV</a> for calendar, which enable mobile users on iOS and Android the ability to access Gmail and Calendar, respectively.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/JwkYCvwU-f4/">here</a>.
