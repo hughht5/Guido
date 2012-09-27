@@ -1,0 +1,10 @@
+{
+"title" : "Netflix App Updated To Take Advantage Of Wide Screen iPhone 5, iOS 6",
+"date" : "Thu, 27 Sep 2012 18:31:52 +0000",
+"author" : "Darrell Etherington"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/netflix-iphone5.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="netflix-iphone5" title="netflix-iphone5" style="float: left; margin: 0 10px 7px 0;" /><p>Netflix teased this update earlier, and now it has delivered <a target="_blank" href="http://itunes.apple.com/us/app/netflix/id363590051?mt=8">full support for the iPhone 5</a>&#8216;s larger screen and new aspect ratio. It&#8217;s a change that means users get access to an improved browsing experience, more content on menu screens visible at once, and also fullscreen playback of videos in 16:9 format, instead of presenting them letterboxed.</p>
+<p>This is probably an update that many Netflix users who upgraded to iPhone 5 were probably looking forward to, as one of the main advantages of the screen changes on the device comes with making it better for viewing movies and other video content.</p>
+<p>Netflix also touts an improved overall experience, which changes to browsing and searching as well as video viewing. This is a must-have update for anyone who&#8217;s looking to get the most out of their iPhone 5.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/vfVII4s-EJE/">here</a>.
