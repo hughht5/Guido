@@ -27,5 +27,5 @@
 <p>Maybe the post-exit entrepreneurs who read us don&#8217;t need to know the basics of starting a company, but TechCrunch has always been a place for people to come who are just getting started (that was certainly the case for me, Eric, way back in 2005).</p>
 <p>Honestly, we&#8217;re still figuring out how to best serve everyone while still serving our readers first. For now, if you&#8217;d like to contribute startup advice, please focus as much as you can on what&#8217;s new, what&#8217;s interesting and what people should understand about startups but don&#8217;t.</p>
 <p>Also we usually don&#8217;t pay for guest columns unless they are exceptional, in which case we hire those people on as freelancers.</p>
-<p>Capiche? Alright, now, please get in touch with us here to share your great ideas: guestcolumns at techcrunch dot com.</p>
+<p>Capiche? Alright, now, please get in touch with us here to share your <del>pitches</del> great ideas: guestcolumns at techcrunch dot com.</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/wJZkJ--_aLk/">here</a>.
