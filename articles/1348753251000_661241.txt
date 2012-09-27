@@ -1,0 +1,16 @@
+{
+"title" : "Bad Piggies Is A Hit, Took Just 3 Hours To Hit The Top Spot In The U.S. App Store",
+"date" : "Thu, 27 Sep 2012 13:40:51 +0000",
+"author" : "Jordan Crook"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/screen-shot-2012-09-27-at-9-00-56-am1.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen shot 2012-09-27 at 9.00.56 AM" title="Screen shot 2012-09-27 at 9.00.56 AM" style="float: left; margin: 0 10px 7px 0;" /><p>And just like that, Rovio is back to number 1. The Finnish gaming company today <a href="http://techcrunch.com/2012/09/27/rovios-bad-piggies-goes-live-in-the-app-store-build-bridges-dont-burn-them/">launched Bad Piggies</a>, an entirely new game that features some of the same characters from the smash hit, Angry Birds.</p>
+<p>In this iteration, however, you play the game from the pigs&#8217; point of view, building vehicle-style contraptions to get you through the map.</p>
+<p>The game only launched a few hours ago, at 3am ET, yet <a target="_blank" href="https://twitter.com/heijari/statuses/251288048984285184?tw_i=251288048984285184&amp;tw_e=details&amp;tw_p=tweetembed">Ville Heijari</a> of Rovio, tweeted that the game had already hit the top spot in iTunes in the U.S. It took only three hours or so.</p>
+<blockquote class="twitter-tweet tw-align-center"><p>@<a target="_blank" href="https://twitter.com/badpiggies">badpiggies</a> hit #1 in the US iTunes App Store in slightly over 3 hours from launch. Incredible stuff from @<a target="_blank" href="https://twitter.com/roviohq">roviohq</a> <a title="http://twitter.com/heijari/status/251288048984285184/photo/1" target="_blank" href="http://t.co/MaxFHQp4">twitter.com/heijari/status…</a></p>
+<p>— Ville Heijari (@heijari) <a target="_blank" href="https://twitter.com/heijari/status/251288048984285184">September 27, 2012</a></p></blockquote>
+<p>We&#8217;re unclear whether or not Angry Birds Space had the same speedy success. According to <a target="_blank" href="http://www.insidemobileapps.com/2012/03/22/angry-birds-space-rockets-to-the-top-of-the-app-store-charts-in-over-28-countries/">multiple</a> <a target="_blank" href="http://www.pcmag.com/article2/0,2817,2402010,00.asp">reports</a>, Angry Birds Space hit number one &#8220;just hours&#8221; or &#8220;a few hours&#8221; after going live in the App Store. However, I think that one hour and fifty-one minutes should have the galactic game beat by just a bit.</p>
+<p>Angry Birds Space hit <a href="http://techcrunch.com/2012/03/26/rovio-angry-birds-space-downloaded-10m-times-in-three-days/">10 million downloads in ten days</a> and <a href="http://techcrunch.com/2012/04/30/rovio-angry-birds-space-downloaded-50-million-times-in-35-days/">50 million downloads in just 35 days</a>. But with this type of immediate traction, it wouldn&#8217;t surprise me if Bad Piggies topped that record.</p>
+<p>Remember, it&#8217;s only 9:30 am here on the East Coast, meaning that people either stayed up late, woke up early, or downloaded this app first thing when they woke up this morning. And most of the U.S. isn&#8217;t even awake yet.</p>
+<p>Well done, Rovio (*golfclap*).</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/fXIv1fQ6IbY/">here</a>.
