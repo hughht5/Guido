@@ -1,5 +1,5 @@
 {
-"title" : "Gates Foundation Kicks Off $2.5M College Knowledge Challenge With EdTech App Hackathon At Facebook",
+"title" : "Gates Foundation Kicks Off $2.5M College Knowledge App Contest With EdTech Hackathon At Facebook",
 "date" : "Thu, 27 Sep 2012 16:34:37 +0000",
 "author" : "Josh Constine"
 }
