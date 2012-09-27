@@ -1,5 +1,5 @@
 {
-"title" : "12 Tips To Building a Successful Startup Community Where You Live",
+"title" : "12 Tips To Building A Successful Startup Community Where You Live",
 "date" : "Thu, 27 Sep 2012 14:30:51 +0000",
 "author" : "Mark Suster"
 }
