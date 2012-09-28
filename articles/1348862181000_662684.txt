@@ -4,7 +4,10 @@
 "author" : "Drew Olanoff"
 }
 
-<p>Making reservations just got really easy, thanks toa new partnership. Here&#8217;s what Foursquare had to say about its parntership with OpenTable today:</p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/opentable1.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="OpenTable" title="OpenTable" style="float: left; margin: 0 10px 7px 0;" /><p>Making reservations just got really easy, thanks to a new partnership. Here&#8217;s what Foursquare <a target="_blank" href="http://blog.foursquare.com/2012/09/28/foursquare-and-opentable-just-made-it-even-easier-to-plan-your-perfect-night-out/">had to say about its parntership with OpenTable today</a>:</p>
 <blockquote><p>Now when you’re searching for the perfect dinner spot with Explore on iPhone or Android, you’re just a few taps away from making a reservation. Foursquare’s teamed up with OpenTable to provide painless in-app reservation making at thousands of restaurants across the U.S., no phone calls necessary.</p></blockquote>
+<p><a href="http://techcrunch.com/2012/09/28/foursquare-partners-with-opentable-to-make-reservations-simple/androidreservation/" rel="attachment wp-att-662771"></a></p>
+<p>When you find a venue under &#8220;Explore&#8221; that has an OpenTable integration, you&#8217;ll be prompted to go ahead and make the reservation. Super simple:</p>
+<p><a href="http://techcrunch.com/2012/09/28/foursquare-partners-with-opentable-to-make-reservations-simple/opentable-3/" rel="attachment wp-att-662772"></a></p>
 <p>This is developing.</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/CBLFaa04WB0/">here</a>.
