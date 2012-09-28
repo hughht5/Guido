@@ -1,5 +1,5 @@
 {
-"title" : "New Pricing For Amazon RDS Running Oracle Database",
+"title" : "New Pricing For Amazon RDS Running Oracle Database To Build, Test and Run Low-Traffic Apps",
 "date" : "Fri, 28 Sep 2012 06:03:48 +0000",
 "author" : "Alex Williams"
 }
