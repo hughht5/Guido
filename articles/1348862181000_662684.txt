@@ -1,0 +1,10 @@
+{
+"title" : "Foursquare Partners With OpenTable To Make Dinner Reservations Simple",
+"date" : "Fri, 28 Sep 2012 19:56:21 +0000",
+"author" : "Drew Olanoff"
+}
+
+<p>Making reservations just got really easy, thanks toa new partnership. Here&#8217;s what Foursquare had to say about its parntership with OpenTable today:</p>
+<blockquote><p>Now when you’re searching for the perfect dinner spot with Explore on iPhone or Android, you’re just a few taps away from making a reservation. Foursquare’s teamed up with OpenTable to provide painless in-app reservation making at thousands of restaurants across the U.S., no phone calls necessary.</p></blockquote>
+<p>This is developing.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/CBLFaa04WB0/">here</a>.
