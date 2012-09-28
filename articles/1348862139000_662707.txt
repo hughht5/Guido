@@ -1,0 +1,18 @@
+{
+"title" : "Treasure Data Launches Cloud-Based Data Warehouse With Investment From Ruby Creator Yukihiro “Matz” Matsumoto",
+"date" : "Fri, 28 Sep 2012 19:55:39 +0000",
+"author" : "Alex Williams"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/tdlogo.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="tdlogo" title="tdlogo" style="float: left; margin: 0 10px 7px 0;" /><p>Cloud-based data warehouse company <a target="_blank" href="http://www.treasure-data.com/">Treasure Data </a>officially opened its doors this week with $1.5 million in funding that includes an investment from  Yukihiro “Matz” Matsumoto – the creator of the Ruby programming language.</p>
+<p>The other investors include angel investor Bill Kai; Naren Gupta of Nexus Venture and a director with Red Hat and TIBCO, as well as the people behind Gluster and Heroku. Gluster sold to Red Hat last year and Heroku is now part of Salesforce.com.</p>
+<p>Treasure Data has developed a service that brings high-end analysis to the business or business unit that has traditionally not had the resources to afford a solutions from companies like IBM, Oracle or Teradata. Founder and CEO Hiro Yoshikawa says the total cost of ownership for a data warehouse suite from one of the enterprise players can cost as much as $5 million. Treasure Data is a subscription service that, at the low end, costs $1,500 per month or $1,200 per month with a 12-month commitment. On average, Yoshikawa says the cost over time is more than 10 times less than what an enterprise data warehouse offering would cost.</p>
+<p>The company has been quietly developing a service that in less than a year has more than 10 customers that include Fortune 500 companies. It has more than 10 billion records stored and is processing 10,000 messages per second.</p>
+<p>Treasure Data borrows from Hadoop but with a twist. Whereas Cloudera and Hortonworks have made their mark with Hadoop distributions that they install on a hosted server cluster run by the customer, it requires customization and a team of people with highly specialized skills. Hadoop is a way to scale data across a distributed infrastructure to set it up for analysis. By contrast, Treasure Data does not require an infrastructure investment.</p>
+<p>Here is how the company positions what it offers:</p>
+<p><a href="http://techcrunch.com/2012/09/28/treasure-data-launches-cloud-based-data-warehouse-with-investment-from-ruby-creator-yukihiro-matz-matsumoto/tddescription/" rel="attachment wp-att-662728"></a></p>
+<p>Treasure Data adds an agent to applications that then feed into a cloud-based environment as illustrated in this diagram:</p>
+<p><a href="http://techcrunch.com/2012/09/28/treasure-data-launches-cloud-based-data-warehouse-with-investment-from-ruby-creator-yukihiro-matz-matsumoto/td-diagram/" rel="attachment wp-att-662719"></a></p>
+<p>The service works with existing applications, allowing Treasure Data to partner with other companies such as Heroku, <a target="_blank" href="http://jaspersoft.com">Jaspersoft</a> and <a target="_blank" href="http://engineyard.com">Engine Yard</a>.</p>
+<p>Treasure Data has all the markings of a company with huge disruptive potential. Its challenge is in scaling to compete with the giants. That means scaling in terms of the data it processes and the overall business. But the need for better analytics is significant. Treasure Data is well-positioned to compete in this fast-growing market.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/BsHaUiwPhL4/">here</a>.
