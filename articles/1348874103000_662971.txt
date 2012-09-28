@@ -1,0 +1,11 @@
+{
+"title" : "Mappa Culpa: Apple Offers A Mini-Store Containing Alternative Map Apps",
+"date" : "Fri, 28 Sep 2012 23:15:03 +0000",
+"author" : "John Biggs"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/photo5.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="photo" title="photo" style="float: left; margin: 0 10px 7px 0;" /><p>Just <a href="http://techcrunch.com/2012/09/28/tim-cook-apologizes-for-apple-maps-points-to-competitive-alternatives/">after Apple&#8217;s Tim Cook&#8217;s apologized</a> for the Maps app, the Cupertino-based company created a mini-collection of alternative mapping apps including Waze, MapQuest, and TeleNav GPS. </p>
+<p>The gesture is reminiscent of the <a href="http://techcrunch.com/search/AntennaGate">AntennaGate</a> &#8220;scandal&#8221; which led the company to offer free bumper cases to iPhone 4 owners. This small gesture in turn rotated the scandal away from the common refrain that &#8220;Apple sucks&#8221; to &#8220;Oh, Apple just offered a new thing!&#8221;</p>
+<p><br />
+The apps are available on the main page of the iOS app store and include paid and free apps. But is suspect that over time we&#8217;ll all forget about this and start listening to Maps and Siri as users begin to forget the horror that was Apple Maps 1.0.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/VpLpR_YjXjg/">here</a>.
