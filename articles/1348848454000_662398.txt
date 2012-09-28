@@ -1,5 +1,5 @@
 {
-"title" : "Flat-Fee, Dongle-free Card Payments Startup Emu Opens For Business In U.K., Registrations In Europe",
+"title" : "Flat-Fee, Dongle-Free Card Payments Startup Emu Opens For Business In U.K., Registrations In Europe",
 "date" : "Fri, 28 Sep 2012 16:07:34 +0000",
 "author" : "Natasha Lomas"
 }
@@ -8,9 +8,8 @@
 <p>Emu is offering the U.K.&#8217;s small businesses fee-less card payments for the first €1,250 ($1,600) of sales &#8212; after which it levies a flat per-month fee of €6.50 ($8.40), regardless of how many transactions are processed. Hence its claim of &#8220;unlimited free payments at 0% transaction fees&#8221;.</p>
 <p>Emu says it has its eye on the 20 million European sellers not currently accepting plastic. Its cloud-based software system works across mobile gadgets such as smartphones and tablets or on desktop PCs &#8212; and does not require the use of a plug-in dongle a la Square (et al). Sellers register online and can then start accepting payments on the device of their choice &#8212; either by keying in card details (for new customers) or sending the customer a link to make a payment. The payment process for people who have paid via Emu before is &#8220;shortcut&#8221;, according to a spokesman, even if they haven&#8217;t shopped with that particular merchant before.</p>
 <p>To shore up the service, Emu says all data traffic and payments are encrypted &#8212; it says it adheres to the Payment Card Industry (PCI) Data Security Standards &#8212; and adds that no payment information is stored on seller devices.</p>
-<p>As well as accepting registrations across Europe, Emu is currently conducting seller trials in France &#8212; having trialled the service in the U.K. over the summer. It said it will use registration take-up to determine where to roll out its service next. &#8220;Individual countries will be registration driven, yet we expect to enable wider availability during first quarter next year,&#8221; a spokesman added.</p>
+<p>As well as accepting registrations across Europe, Emu is currently conducting seller trials in France &#8212; having trialled the service in the U.K. over the summer. It said it will use registration take-up to determine where to roll out its service next. &#8220;Individual countries will be registration driven, yet we expect to enable wider availability during first quarter next year&#8221;, a spokesman added.</p>
 <p>The company was founded in January 2012 and is founder- and angel-funded at this time. It&#8217;s not currently releasing customer numbers but noted: &#8220;Registrations exceed our expectations.&#8221;</p>
 <p>Here&#8217;s a short video made by Emu explaining how its service works</p>
 <div class='embed-vimeo' style='text-align:center;'><iframe src='http://player.vimeo.com/video/44308977' width='640' height='450' frameborder='0'></iframe></div>
-<p>&nbsp;</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/qdAwmBX4LSY/">here</a>.
