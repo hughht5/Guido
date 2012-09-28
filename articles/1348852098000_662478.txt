@@ -1,0 +1,13 @@
+{
+"title" : "Twitter Announces New Improvements For Discover Tab, Adds Continuous Tweet Stream",
+"date" : "Fri, 28 Sep 2012 17:08:18 +0000",
+"author" : "Drew Olanoff"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/2250735263_0e90398b09_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="2250735263_0e90398b09_z" title="2250735263_0e90398b09_z" style="float: left; margin: 0 10px 7px 0;" /><p>Today, Twitter announced some updates to its Discover offering. Here&#8217;s what the company <a target="_blank" href="http://blog.twitter.com/2012/09/more-tweets-to-discover.html">had to say:</a></p>
+<blockquote><p>Last December, we introduced Discover to bring you essential information from the web. This May, we added stronger signals and a new design that made it more personal for you with better stories and Tweets from people you know.</p>
+<p>Now we’re improving Discover again: when you visit the Discover tab on twitter.com, you’ll see a continuous stream of Tweets, which automatically expand to show you the most relevant stories and most engaging photos.</p></blockquote>
+<p><a href="http://techcrunch.com/2012/09/28/twitter-announces-new-improvements-for-discover-tab-adds-continuous-tweet-stream/tweet-forward-screenshot-1/" rel="attachment wp-att-662605"></a></p>
+<p>This is developing.</p>
+<p>[Photo credit: <a target="_blank" href="http://www.flickr.com/photos/scobleizer/2250735263/sizes/z/">Flickr</a>]</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/CfVJu-NFrfk/">here</a>.
