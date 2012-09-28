@@ -1,0 +1,11 @@
+{
+"title" : "Windows Phone Dev Center Now Provides User Review Translations For App Developers",
+"date" : "Fri, 28 Sep 2012 17:57:30 +0000",
+"author" : "Darrell Etherington"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/06/windows-phone-8.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="windows-phone-8" title="windows-phone-8" style="float: left; margin: 0 10px 7px 0;" /><p>Microsoft is really trying to increase the appeal of Window Phone to developers, and a <a target="_blank" href="http://windowsteamblog.com/windows_phone/b/wpdev/archive/2012/09/28/dev-center-gets-new-translation-feature.aspx">new tool just released</a> adds a small, but very useful feature: instant translation of user reviews from one language to another. Microsoft is calling this one a &#8220;fun surprise,&#8221; but it could actually be a very helpful convenience feature in helping developers understand their audience.</p>
+<p>A lot of developers I&#8217;ve spoken with have had success in markets where English isn&#8217;t the primary language, despite no efforts to localize on their part. A quick and easy way to understand what it is people like about the app in those areas where performance is surging (or flopping badly), without having to go to Google Translate and manually input content, could make it easier to translate success to other markets or correct failures.</p>
+<p>This is a small feature addition, but one that reflects a growing need for Microsoft and others fighting for third place in the smartphone platform wars to cater to developers in as many ways as they possibly can.</p>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/09/4621-clip_image002_1b28677d.jpeg" rel="lightbox[662663]"></a></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/V1JzFJgLCLM/">here</a>.
