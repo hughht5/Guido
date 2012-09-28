@@ -1,15 +1,15 @@
 {
-"title" : "Apple Is Heavily Promoting Alternative Map Apps On The App Store",
+"title" : "Apple Is Heavily Promoting Alternative Map Apps In The App Store",
 "date" : "Fri, 28 Sep 2012 17:01:48 +0000",
 "author" : "Drew Olanoff"
 }
 
-<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/photo-13.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="photo 1" title="photo 1" style="float: left; margin: 0 10px 7px 0;" /><p>Now that <a href="http://techcrunch.com/2012/09/28/well-played-on-maps-apple-your-move-google/">Apple has told the world that it didn&#8217;t come with its best offering for Maps</a>, the company is now featuring other Map applications heavily within the App Store, in case you didn&#8217;t notice:</p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/photo-13.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="photo 1" title="photo 1" style="float: left; margin: 0 10px 7px 0;" /><p>Now that <a href="http://techcrunch.com/2012/09/28/well-played-on-maps-apple-your-move-google/">Apple has told the world that it didn&#8217;t come with its best offering for Maps</a>, the company is now featuring other map applications heavily within the App Store in case you didn&#8217;t notice:</p>
 <p><a href="http://techcrunch.com/2012/09/28/apple-is-heavily-promoting-alternative-map-apps-on-the-app-store/photo-1-47/" rel="attachment wp-att-662560"></a></p>
 <p><a href="http://techcrunch.com/2012/09/28/apple-is-heavily-promoting-alternative-map-apps-on-the-app-store/photo-2-37/" rel="attachment wp-att-662563"></a></p>
 <p>It&#8217;s also showing up for the iPad:</p>
 <p><a href="http://techcrunch.com/2012/09/28/apple-is-heavily-promoting-alternative-map-apps-on-the-app-store/photo-10-5/" rel="attachment wp-att-662594"></a></p>
 <p><a href="http://techcrunch.com/2012/09/28/apple-is-heavily-promoting-alternative-map-apps-on-the-app-store/photo-12-6/" rel="attachment wp-att-662678"></a></p>
 <p>This is pretty bold stuff from Apple, I have to say. It&#8217;s good for users, and good for competitors. Oh, Google, where art thou?</p>
-<p>PS. Apple is making a cut on those paid Maps apps. Smart.</p>
+<p>P.S. Apple is taking a cut on those paid maps apps. Smart.</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/YWbrfi0VKsk/">here</a>.
