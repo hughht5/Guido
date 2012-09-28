@@ -9,5 +9,5 @@
 <p><a href="http://techcrunch.com/2012/09/28/foursquare-partners-with-opentable-to-make-reservations-simple/androidreservation/" rel="attachment wp-att-662771"></a></p>
 <p>When you find a venue under &#8220;Explore&#8221; that has an OpenTable integration, you&#8217;ll be prompted to go ahead and make the reservation. Super simple:</p>
 <p><a href="http://techcrunch.com/2012/09/28/foursquare-partners-with-opentable-to-make-reservations-simple/opentable-3/" rel="attachment wp-att-662772"></a></p>
-<p>This is developing.</p>
+<p>As I&#8217;ve said before, I&#8217;m using foursquare way more than I use a service like Yelp to find new places as I explore new cities. Explore is even handy in San Francisco, where there are hundreds of restaurants that I haven&#8217;t even discovered yet. Bringing all of this functionality into one place is a brilliant move by foursquare, and makes other services obsolete. </p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/CBLFaa04WB0/">here</a>.
