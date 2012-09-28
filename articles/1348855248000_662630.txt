@@ -1,5 +1,5 @@
 {
-"title" : "Another Day, Another Eyeful Of HTC’s Mildly-Updated One X+",
+"title" : "Another Day, Another Eyeful Of HTC’s Slightly Updated One X+",
 "date" : "Fri, 28 Sep 2012 18:00:48 +0000",
 "author" : "Chris Velazco"
 }
