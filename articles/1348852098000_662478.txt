@@ -8,6 +8,7 @@
 <blockquote><p>Last December, we introduced Discover to bring you essential information from the web. This May, we added stronger signals and a new design that made it more personal for you with better stories and Tweets from people you know.</p>
 <p>Now we’re improving Discover again: when you visit the Discover tab on twitter.com, you’ll see a continuous stream of Tweets, which automatically expand to show you the most relevant stories and most engaging photos.</p></blockquote>
 <p><a href="http://techcrunch.com/2012/09/28/twitter-announces-new-improvements-for-discover-tab-adds-continuous-tweet-stream/tweet-forward-screenshot-1/" rel="attachment wp-att-662605"></a></p>
-<p>This is developing.</p>
+<p>The name of this game is context. What Twitter has been working really hard at is providing top news stories and trends, but providing the context around it so that you know what&#8217;s important. By showing you who is saying what about something, it gives you a reason to care.</p>
+<p>This should be rolling out to everyone starting today, I&#8217;m looking forward to it.</p>
 <p>[Photo credit: <a target="_blank" href="http://www.flickr.com/photos/scobleizer/2250735263/sizes/z/">Flickr</a>]</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/CfVJu-NFrfk/">here</a>.
