@@ -10,6 +10,7 @@
 <p><a href="http://techcrunch.com/2012/09/28/twitter-announces-new-improvements-for-discover-tab-adds-continuous-tweet-stream/tweet-forward-screenshot-1/" rel="attachment wp-att-662605"></a></p>
 <p>The name of this game is context. What Twitter has been working really hard at is providing top news stories and trends, but providing the context around it so that you know what&#8217;s important. By showing you who is saying what about something, it gives you a reason to care.</p>
 <p>I am starting to use Discover more these days when I fire up my browser in the morning and throughout the day. It&#8217;s the same way I use the Explore button on Google+. These features give me a &#8220;pulse&#8221; of the network I&#8217;m on and let me see what&#8217;s up.</p>
+<p>Discover on Twitter is interesting because it&#8217;s tailored to your interests based on who you follow, and who they follow. While it&#8217;s not a perfect system, I&#8217;m told by Twitter that it is working on some improvements, much like this one, and we&#8217;ll keep you updated.</p>
 <p>This should be rolling out to everyone starting today, I&#8217;m looking forward to it.</p>
 <p>[Photo credit: <a target="_blank" href="http://www.flickr.com/photos/scobleizer/2250735263/sizes/z/">Flickr</a>]</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/CfVJu-NFrfk/">here</a>.
