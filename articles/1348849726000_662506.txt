@@ -1,0 +1,18 @@
+{
+"title" : "Well Played On Maps, Apple. Your Move, Google.",
+"date" : "Fri, 28 Sep 2012 16:28:46 +0000",
+"author" : "Drew Olanoff"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/5857248045_01f779fcd9_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="5857248045_01f779fcd9_z" title="5857248045_01f779fcd9_z" style="float: left; margin: 0 10px 7px 0;" /><p>This crazy game of poker continues between Apple and Google in what has been dubbed by some people as #mapsgate.  Today, <a href="http://techcrunch.com/2012/09/28/tim-cook-apologizes-for-apple-maps-points-to-competitive-alternatives/">Apple CEO Tim Cook stepped out and apologized</a> for the poor experience that its 100M iOS 6 users were experiencing trying to navigate the world using their new offering.</p>
+<p>Well played, Mr. Cook.</p>
+<p>I don&#8217;t mean that sarcastically, the letter that Tim Cook and Apple PR wrote was a bold move, but a necessary one for consumers and shareholders alike. It showed that Apple isn&#8217;t afraid to say &#8220;hey, we didn&#8217;t nail this one.&#8221; If you remember, no such declaration was made after Ping&#8217;s launch and subsequent failure.</p>
+<p>Here&#8217;s the deal, for whatever reason, Apple decided to go its own way for maps, and that&#8217;s awesome. It&#8217;s awesome because it creates competition, which in turn creates better products. However, this is business, and that does mean that there is maneuvering going on behind the scenes. It&#8217;s Google&#8217;s move now.</p>
+<p>We&#8217;re all wondering when the native iOS 6 Google Maps app will hit Apple&#8217;s App Store, and from Apple&#8217;s letter today, it doesn&#8217;t sound like the company will stand in Google&#8217;s way. Meaning, we&#8217;re not going to get into a situation about core functionality confliction. That&#8217;s a good sign, and I&#8217;m proud of Apple for taking that position.</p>
+<p>Google has almost eight years of experience with mapping, its service is lightyears ahead anyone else on the planet. It has more data, more information and more usage than just about anyone else in the game. It&#8217;s time to step up to the plate and show the world what you&#8217;re made of, Google.</p>
+<p>We want a beautiful iOS 6 experience for Google Maps, and nothing less. See, Apple took the piss out of this whole back and forth by taking the blame, admitting that it can get better and being gracious when it comes to competition. Apple suggested alternatives to its Map app today, and that&#8217;s pretty amazing.</p>
+<p>So, back to Google. Some say the app is waiting for approval, some say the app is a lifetime away and that Google is &#8220;scrambling.&#8221; All of that is bullshit, because every move is calculated, just assume that. Google has let Apple feel pain when it comes to going on its own for maps, and Apple skipped the pain by saying &#8220;Hey, our bad.&#8221; Genius.</p>
+<p>Google now has to go back to the drawing board because the clock is ticking. Now we expect a native Google Maps app, and there&#8217;s no reason to wait, <a href="http://techcrunch.com/2012/09/19/if-i-were-google-i-wouldnt-release-a-native-ios-6-maps-app-for-six-months/">like I had previously suggested</a>.</p>
+<p>Apple is playing the game, has a killer poker face, and Google has its shot to go all in. Bring it, Google.</p>
+<p>[Photo credit: <a target="_blank" href="http://www.flickr.com/photos/59937401@N07/5857248045/">Flickr</a>]</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/a51dQyaFVIo/">here</a>.
