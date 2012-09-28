@@ -1,0 +1,22 @@
+{
+"title" : "Tim Cook Apologizes For Apple Maps, Points To Competitive Alternatives",
+"date" : "Fri, 28 Sep 2012 12:44:01 +0000",
+"author" : "Jordan Crook"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/maps.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="maps" title="maps" style="float: left; margin: 0 10px 7px 0;" /><p>Apple has just made a real statement, apologizing about the Maps drama that&#8217;s been unfolding over the past few weeks. According to CEO Tim Cook, the company &#8220;fell short&#8221; on its commitment to bring world-class products to it&#8217;s customers. </p>
+<p>Last week, the only comment we got out of Apple was that this is &#8220;just the start.&#8221; </p>
+<p>Within the letter, Cook makes mention of Google Maps being the first version of Maps on iOS, but that &#8220;as time progressed, [they] wanted to provide customers with even better Maps including features such as turn-by-turn directions, voice integration, Flyover and vector-based maps.&#8221; </p>
+<p>Obviously, this is directed toward the recent discovery that Apple and Google may have parted ways over the fact that Google was unwilling to let iOS users enjoy turn-by-turn navigation. </p>
+<p>To partially make up for it, Cook offers suggestions for various alternatives like Bing, Waze, and Google and Nokia maps via mobile web. </p>
+<p>Though he couldn&#8217;t help but mention 100 million users on iOS 6. </p>
+<p>Here&#8217;s the letter in full: </p>
+<blockquote><p>To our customers,</p>
+<p>At Apple, we strive to make world-class products that deliver the best experience possible to our customers. With the launch of our new Maps last week, we fell short on this commitment. We are extremely sorry for the frustration this has caused our customers and we are doing everything we can to make Maps better.</p>
+<p>We launched Maps initially with the first version of iOS. As time progressed, we wanted to provide our customers with even better Maps including features such as turn-by-turn directions, voice integration, Flyover and vector-based maps. In order to do this, we had to create a new version of Maps from the ground up.</p>
+<p>There are already more than 100 million iOS devices using the new Apple Maps, with more and more joining us every day. In just over a week, iOS users with the new Maps have already searched for nearly half a billion locations. The more our customers use our Maps the better it will get and we greatly appreciate all of the feedback we have received from you.</p>
+<p>While we’re improving Maps, you can try alternatives by downloading map apps from the App Store like Bing, MapQuest and Waze, or use Google or Nokia maps by going to their websites and creating an icon on your home screen to their web app.</p>
+<p>Everything we do at Apple is aimed at making our products the best in the world. We know that you expect that from us, and we will keep working non-stop until Maps lives up to the same incredibly high standard.</p>
+<p>Tim Cook<br />
+Apple’s CEO</p></blockquote>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/Hk8nmVRuH1M/">here</a>.
