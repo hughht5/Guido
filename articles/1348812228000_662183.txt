@@ -11,12 +11,12 @@
 <p>In August, AWS announced <a target="_blank" href="http://aws.typepad.com/aws/2012/08/additional-rds-features-oracle-xml-db-and-oracle-application-express-apex.html">three new features</a> for Amazon RDS for Oracle:</p>
 <ul>
 <li>Amazon RDS for Oracle in Amazon Virtual Private Cloud (VPC)</li>
-<li>Oracle XML DB to store, retrieve, navigate, and query XML documents.</li>
-<li>Oracle Application Express (APEX) to build web applications.</li>
+<li>Oracle XML DB to store, retrieve, navigate, and query XML documents</li>
+<li>Oracle Application Express (APEX) to build web applications</li>
 </ul>
 <p>Why all the moves? Oracle Open World starts this week. That may be part of the reason.</p>
-<p>Oracle is planning to launch what Larry Ellison called &#8220;12c&#8221; in the company&#8217;s earnings call last week. The &#8220;c&#8221; in 12c stands for cloud. Ellison said virtualization is a key aspect to the database, helping Oracle be more cloud friendly.</p>
+<p>Oracle is planning to launch what Larry Ellison called &#8220;12c&#8221; in the company&#8217;s earnings call last week. The &#8220;c&#8221; in 12c stands for cloud. Ellison said virtualization is a key aspect of the database, helping Oracle be more cloud friendly.</p>
 <p>Oracle also plans to launch its own version of a cloud infrastructure. Here&#8217;s what Ellison said in the earnings call:</p>
-<blockquote><p>Our new Infrastructure as a Service offering provides secure, virtualized, compute and storage services. In the Oracle Cloud or &#8212; and this is very important, an identical infrastructure service installed in our customer data center as an Oracle-managed private cloud, customers can easily move their applications from traditional custom and packaged applications to our modern Fusion SaaS applications, back and forth between the Oracle Cloud and their private cloud.</p></blockquote>
+<blockquote><p>Our new Infrastructure as a Service offering provides secure, virtualized, compute and storage services. In the Oracle Cloud or &#8212; and this is very important &#8212; an identical infrastructure service installed in our customer data center as an Oracle-managed private cloud, customers can easily move their applications from traditional custom and packaged applications to our modern Fusion SaaS applications, back and forth between the Oracle Cloud and their private cloud.</p></blockquote>
 <p>Take what you will from that but it is not exactly cloud computing. More so, it&#8217;s Ellison trying to sell Oracle&#8217;s stack on its hardware. How this fits with AWS? We&#8217;ll see next week.</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/1SKquIW5e6A/">here</a>.
