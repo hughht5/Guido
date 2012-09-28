@@ -4,13 +4,13 @@
 "author" : "Jordan Crook"
 }
 
-<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/maps.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="maps" title="maps" style="float: left; margin: 0 10px 7px 0;" /><p>Apple has finally made a real statement to its customers apologizing about the <a href="http://techcrunch.com/2012/09/26/the-apple-ios-6-maps-fiasco-clarified-in-3-minutes/">Maps drama</a> that&#8217;s been unfolding over the past few weeks with the introduction of iOS 6. According to CEO Tim Cook, the company &#8220;fell short&#8221; on its commitment to bring world-class products to it&#8217;s customers. </p>
-<p>Last week, the only comment we got out of Apple was that this is <a href="http://techcrunch.com/2012/09/20/apple-ios-6-maps-is-a-first-attempt-were-just-getting-started/">&#8220;just the start.&#8221;</a> </p>
-<p>Within <a target="_blank" href="http://www.apple.com/letter-from-tim-cook-on-maps/">the letter</a>, Cook makes mention of Google Maps being the first version of Maps on iOS, but that &#8220;as time progressed, [they] wanted to provide customers with even better Maps including features such as <strong>turn-by-turn directions</strong>, voice integration, Flyover and vector-based maps.&#8221; </p>
-<p>Obviously, this is directed toward the <a href="http://techcrunch.com/2012/09/26/apple-reportedly-ditched-google-maps-over-lack-of-turn-by-turn-navigation/">recent discovery</a> that Apple and Google may have parted ways over the fact that Google was unwilling to let iOS users enjoy turn-by-turn navigation. </p>
-<p>To partially make up for it, Cook offers suggestions for various alternatives like Bing, Waze, and Google and Nokia maps via mobile web. </p>
-<p>Though he couldn&#8217;t help but mention 100 million users on iOS 6. </p>
-<p>Here&#8217;s the letter in full: </p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/maps.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="maps" title="maps" style="float: left; margin: 0 10px 7px 0;" /><p>Apple has finally made a real statement to its customers apologizing about the <a href="http://techcrunch.com/2012/09/26/the-apple-ios-6-maps-fiasco-clarified-in-3-minutes/">Maps drama</a> that&#8217;s been unfolding over the past few weeks with the introduction of iOS 6. According to CEO Tim Cook, the company &#8220;fell short&#8221; on its commitment to bring world-class products to its customers.</p>
+<p>Last week, the only comment we got out of Apple was that this is <a href="http://techcrunch.com/2012/09/20/apple-ios-6-maps-is-a-first-attempt-were-just-getting-started/">&#8220;just the start.&#8221;</a></p>
+<p>Within <a target="_blank" href="http://www.apple.com/letter-from-tim-cook-on-maps/">the letter</a>, Cook makes mention of Google Maps being the first version of Maps on iOS, but that &#8220;as time progressed, [they] wanted to provide customers with even better Maps including features such as <strong>turn-by-turn directions</strong>, voice integration, Flyover and vector-based maps.&#8221;</p>
+<p>Obviously, this is directed toward the <a href="http://techcrunch.com/2012/09/26/apple-reportedly-ditched-google-maps-over-lack-of-turn-by-turn-navigation/">recent discovery</a> that Apple and Google may have parted ways over the fact that Google was unwilling to let iOS users enjoy turn-by-turn navigation.</p>
+<p>To partially make up for it, Cook offers suggestions for various alternatives like Bing, Waze, and Google and Nokia maps via mobile web.</p>
+<p>Though he couldn&#8217;t help but mention 100 million users on iOS 6.</p>
+<p>Here&#8217;s the letter in full:</p>
 <blockquote><p>To our customers,</p>
 <p>At Apple, we strive to make world-class products that deliver the best experience possible to our customers. With the launch of our new Maps last week, we fell short on this commitment. We are extremely sorry for the frustration this has caused our customers and we are doing everything we can to make Maps better.</p>
 <p>We launched Maps initially with the first version of iOS. As time progressed, we wanted to provide our customers with even better Maps including features such as turn-by-turn directions, voice integration, Flyover and vector-based maps. In order to do this, we had to create a new version of Maps from the ground up.</p>
@@ -19,5 +19,5 @@
 <p>Everything we do at Apple is aimed at making our products the best in the world. We know that you expect that from us, and we will keep working non-stop until Maps lives up to the same incredibly high standard.</p>
 <p>Tim Cook<br />
 Apple’s CEO</p></blockquote>
-<p>(Editorial Note: Bold formatting added by me, not Tim Cook. </p>
+<p><em>(Editorial Note: Bold formatting added by me, not Tim Cook.)</em></p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/Hk8nmVRuH1M/">here</a>.
