@@ -1,0 +1,12 @@
+{
+"title" : "Gillmor Gang: Platformicide",
+"date" : "Sat, 29 Sep 2012 17:00:34 +0000",
+"author" : "Steve Gillmor"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2010/12/gillmor-gang-test-pattern.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Gillmor Gang test pattern" title="Gillmor Gang test pattern" style="float: left; margin: 0 10px 7px 0;" />			<script type="text/javascript" src="http://pshared.5min.com/Scripts/PlayerSeed.js?sid=577&amp;width=640&amp;height=450&amp;colorPallet=%230A9600&amp;hasCompanion=false&amp;relatedMode=2&amp;videoControlDisplayColor=%23000000&amp;playList=517492657&amp;shuffle=0&amp;videoGroupID=133503&amp;autoStart=false&amp;playerActions=16407"></script>
+<p>The Gillmor Gang — John Borthwick, Robert Scoble, Kevin Marks, Keith Teare, and Steve Gillmor — watched in amazement as Twitter made good on its promise to hobble the core of its viral power adopter developers and users. By shutting down third party clients to focus monetization on its core clients and the Web, Twitter leaves itself exposed to its challengers for control of the realtime wave. To some of the Gang, Apple&#8217;s move to eject Google Maps in favor of its own immature product seems similarly motivated and fated to bad results.</p>
+<p>But Twitter has historically made these kinds of protective overreaching in order to protect the fledgling company from being overrun by more powerful competitors. This time it&#8217;s different, as Twitter releases services designed to capitalize on the innovations of its ecosystem. The real calculation is whether the openings provided to Google + and to a lesser extent Facebook can be leveraged before innovation dries up in the Twitter pipeline. A high stakes game of Chicken.</p>
+<p>@stevegillmor, @borthwick, @scobleizer, @kevinmarks, @kteare</p>
+<p>Produced and directed by Tina Chase Gillmor @tinagillmor</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/WAWOIwH6Hi0/">here</a>.
