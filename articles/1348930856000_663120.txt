@@ -1,0 +1,22 @@
+{
+"title" : "Apple’s Maps Is A Black Eye, Nothing More",
+"date" : "Sat, 29 Sep 2012 15:00:56 +0000",
+"author" : "Jim Dalrymple"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/img_9634.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="IMG_9634" title="IMG_9634" style="float: left; margin: 0 10px 7px 0;" /><p><em><strong>Editor&#8217;s Note:</strong> Jim Dalrymple is a former Editor at Large at Macworld, and contributing expert on Apple-related topics on CNN, Fox, CBS and ABC. You can follow Jim on Twitter at<a target="_blank" href="http://twitter.com/jdalrymple">@jdalrymple</a>, and on his blog <a target="_blank" href="http://loopinsight.com">The Loop</a>.</em></p>
+<p>With the release of iOS 6 last week, Apple introduced a brand new version of Maps, the company&#8217;s new turn-by-turn mapping application that replaced Google&#8217;s offering on the iPhone. While the fervor over Maps has given Apple a black eye, it&#8217;s certainly not the beginning of a downward spiral for the company, as some tech pundits like to say.</p>
+<p>Mistakes happen. Every company in the world has a misstep now and then, even Apple. The important thing is how the company responds. Do they ignore the criticism and hope it will go away or stand up and take responsibility?</p>
+<p>Apple did the right thing and took responsibility. Shortly after iOS 6 was released, <a target="_blank" href="http://www.loopinsight.com/2012/09/20/apple-responds-to-maps-criticism/">Apple told me that they were</a> &#8220;working hard to make the customer experience even better.&#8221; On Friday, Apple CEO Tim Cook <a target="_blank" href="http://www.apple.com/letter-from-tim-cook-on-maps/">said that Apple &#8220;fell short&#8221;</a> with Maps and promised to make it better.</p>
+<p>The apology from Cook was humble and sincere, something we don&#8217;t always see out of CEOs these days. Now Apple has to get to work and make those promises a reality and it appears they&#8217;ve already begun.</p>
+<p>TechCrunch reported on Sunday that <a href="http://techcrunch.com/2012/09/23/source-apple-aggressively-recruiting-ex-google-maps-staff-to-build-out-ios-maps/">Apple is aggressively recruiting ex-Google Maps employees</a> to work on Apple Maps. That&#8217;s a great step for Apple. Hiring the people that built the competitor&#8217;s app is a method used across the industry, especially when you&#8217;re in a time crunch.</p>
+<p>Still, many people have wondered why Apple switched to Maps if there was still a year left on the Google contract. Why put themselves in this mess? I think <a target="_blank" href="http://daringfireball.net/2012/09/timing_of_apples_map_switch">John Gruber explained it nicely on Daring Fireball</a>.</p>
+<blockquote><p>
+If Apple had stuck with Google Maps for another year they would have been forced to renegotiate with Google in a situation where both sides at the table would know that Apple either (a) had to agree to whatever terms Google demanded to extend the deal; or (b) would be forced to swap the mapping back-end of iOS 6 midway through its development cycle.
+</p></blockquote>
+<p>Apple was basically stuck in a no-win situation.</p>
+<p>There is no doubt that Maps doesn&#8217;t perform perfectly for all users and Apple must fix it. I believe they will do that as quickly as possible. I also have no doubt that this is a small blip for Apple, one that will forgotten by most people in a short time.</p>
+<p>We expect great things from Apple because they consistently deliver great things. I think we expect more from Apple than we do from most other companies on the planet, so when Apple has a misstep, it gets magnified out of proportion.</p>
+<p>Maps is an important part of iOS 6, but it&#8217;s not the most important part. Would the iPhone stop working without Maps? No, it would be just fine. Apple is not going to fail because of a mapping application &#8212; they will take their lumps and deliver a better app in the future.</p>
+<p>That&#8217;s what I expect from Apple.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/dvpSSyQ4VHA/">here</a>.
