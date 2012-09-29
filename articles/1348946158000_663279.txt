@@ -1,0 +1,20 @@
+{
+"title" : "Facebook Updates Messenger For iOS With New Chat UI, iOS 6 And iPhone 5 Support",
+"date" : "Sat, 29 Sep 2012 19:15:58 +0000",
+"author" : "Frederic Lardinois"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/facebook_messenger_ios_logo.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="facebook_messenger_ios_logo" title="facebook_messenger_ios_logo" style="float: left; margin: 0 10px 7px 0;" /><p>Facebook just launched a new version of its <a target="_blank" href="http://itunes.apple.com/us/app/facebook-messenger/id454638411?mt=8">Messenger app for iOS</a>. Messenger, the company&#8217;s stand-alone chat app, got a bit of a user interface refresh with this update, as well as a speed boost and official support for iOS 6 and the iPhone 5&#8242;s larger display. Today&#8217;s update comes just a bit more than a week after Facebook also launched an update to its <a target="_blank" href="https://play.google.com/store/apps/details?id=com.facebook.orca">Messenger app for Android</a> and, for the most part, this update brings the iOS app&#8217;s design on par with the Android app.</p>
+<p>The conversation view, for example, now uses chat bubbles, which make the app look more like a text messaging app like Apple&#8217;s own <a target="_blank" href="http://www.apple.com/ios/messages/">iMessage</a>. The previous version, as our own Sarah Perez pointed out when she <a href="http://techcrunch.com/2012/09/20/facebook-android-update-you-can-now-text-using-facebook-messenger-messages-section-redesigned/">reviewed the Android update</a>, looked more like your email inbox.</p>
+<p><a href="http://techcrunch.com/?attachment_id=663290" rel="attachment wp-att-663290"></a>In addition, the iOS app now brings up a list of all of your friends who are currently online when you swipe to the left. From there, you can now also easily pin those friends you talk to the most to the top of your Favorites list.</p>
+<p>One feature that&#8217;s missing from the iOS app, though, is the ability to text with your contacts from within Messenger. It&#8217;s worth noting, however, that only a few Android devices currently support this feature.</p>
+<p>Here is the full changelog:</p>
+<blockquote>
+<h4>What&#8217;s New in Version 2.0</h4>
+<p>- Swipe left anywhere in the app to quickly see who&#8217;s available and send a message<br />
+- Add friends you message most to the top of your Favorites<br />
+- New design for conversations<br />
+- Improved speed and reliability<br />
+- Support for iOS 6 and iPhone 5<br />
+- Bug fixes</p></blockquote>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/g9Zrqe--XFE/">here</a>.
