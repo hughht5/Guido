@@ -1,0 +1,17 @@
+{
+"title" : "Canadian Internet Provider Rogers Experiencing Major, Prolonged Outage",
+"date" : "Sat, 29 Sep 2012 22:48:27 +0000",
+"author" : "Darrell Etherington"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/rogers.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="rogers" title="rogers" style="float: left; margin: 0 10px 7px 0;" /><p>Canadian wireless and internet provider Rogers is currently experiencing a widespread, continued outage of services on both its cellular and cable home internet data networks, according to various user reports. Rogers is the second-largest internet provider in Canada by subscriber count, and the largest cellphone provider with somewhere around 10 million mobile customers.</p>
+<p>Reports of outages are coming in on Twitter from a variety of cities in Southern Ontario, including Toronto, Waterloo and London, and some even suggest that the outage may spread across the entire country. Little is known about the potential cause, but some reports suggest that the Rogers Internet DNS is the culprit, as per this tweet:</p>
+<blockquote class="twitter-tweet"><p>RT @<a target="_blank" href="https://twitter.com/isaacaurele">isaacaurele</a>: appears that <a target="_blank" href="https://twitter.com/search/%23Rogers">#Rogers</a> <a target="_blank" href="https://twitter.com/search/%23Internet">#Internet</a> <a target="_blank" href="https://twitter.com/search/%23DNS">#DNS</a> Rogers Internet DNS is down. You can switch to google DNS (8.8.8.8) and it works fine.</p>
+<p>— Mario Bourque (@mariobourque) <a target="_blank" href="https://twitter.com/mariobourque/status/252174482670751746">September 29, 2012</a></p></blockquote>
+<p>Attempts to call Rogers support are met with a system that&#8217;s clearly not holding up well under a high influx of user reports. The system doesn&#8217;t even appear to be able to route calls properly, and customers are instead left scratching their heads. For now, there are millions of customers likely in the dark and without internet unless they also get mobile or other service from one of Canada&#8217;s other major providers who maintain their own networks.</p>
+<p>I&#8217;ve reached out to the company to find out more, and will update as additional information becomes available. Here are some of the tweets from affected customers describing the situation:</p>
+<blockquote class="twitter-tweet"><p><a target="_blank" href="https://twitter.com/search/%23Rogers">#Rogers</a> Internet is down. Been on hold for over an hour now. <a target="_blank" href="https://twitter.com/search/%23Mississauga">#Mississauga</a> <a target="_blank" href="http://t.co/0zRHagLF" title="http://twitter.com/hsandhar/status/252177909249343488/photo/1">twitter.com/hsandhar/statu…</a></p>
+<p>&mdash; Harjot Sandhar (@hsandhar) <a target="_blank" href="https://twitter.com/hsandhar/status/252177909249343488">September 29, 2012</a></p></blockquote>
+<blockquote class="twitter-tweet"><p><a target="_blank" href="https://twitter.com/search/%23Rogers">#Rogers</a> Internet down in southern Ontario &amp; ? nationwide. EVERYONE call them this week &amp; and demand 1 day credit. Watch how fast they learn!</p>
+<p>&mdash; Dr Fever (|||+) (@TheRealDrFever) <a target="_blank" href="https://twitter.com/TheRealDrFever/status/252176242814640128">September 29, 2012</a></p></blockquote>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/WzuKm3cauMo/">here</a>.
