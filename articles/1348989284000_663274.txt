@@ -17,7 +17,7 @@ by the Minister of Economic Development Corrado Passera. The report suggested th
 <p>Here&#8217;s a run-down on the startups that presented on stage, the startups that exhibited and some others we found out about on our travels.</p>
 <p>You can check out <a target="_blank" href="http://www.youtube.com/playlist?list=PL_c3CPkWEWH6xLWnSXgO5QX_3lEf-bkNh">all the video from the day here</a>.</p>
 <p>STARTUP PITCHES WINNER:</p>
-<p>href=&#8221;http://www.atooma.com/&#8221;&gt;Atooma<br />
+<p><a target="_blank" href="http://Atooma.com"></a><br />
 &lt;a<br />
 The winner of the startup pitches, Atooma is a mobile toolkit to create your own mini-apps. It&#039;s like IFTTT for mobile, You can set up conditional eventsthat automatically trigger simple actions, based on things like time, location, your favourite apps, email and so on). Because it&#039;s a contextual app it is aware of your environment and your behaviour, effectively making your smartphone smarter. People can then publish their mini app in the Atooma community and others can download it. It has a very simple user interface. And example of use is getting your inbox Sms or e-mail automatically read to you while driving or  preventing your phone from ringing or logging onto a network when the battery is about to die. This was a great startup.</p>
 <p>OTHER COMPANIES THAT PITCHED:</p>
