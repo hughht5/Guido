@@ -27,4 +27,7 @@
 <p>And one joke at Rogers expense:</p>
 <blockquote class="twitter-tweet"><p>0% of Rogers Internet customers can read this right now</p>
 <p>&mdash; Stats Canada (@stats_canada) <a target="_blank" href="https://twitter.com/stats_canada/status/252198978316279808">September 30, 2012</a></p></blockquote>
+<p>Update #3: Some customers, including in Barrie and Ottawa, report having no problems with service. Still, the vast majority of reports I&#8217;m seeing say just the opposite: connectivity is eithes very slow or non-existent:</p>
+<blockquote class="twitter-tweet"><p>@<a target="_blank" href="https://twitter.com/techcrunch">techcrunch</a> @<a target="_blank" href="https://twitter.com/drizzled">drizzled</a> Up for me in Ottawa, both Cable and LTE/4G @<a target="_blank" href="https://twitter.com/rogershelps">rogershelps</a> <a target="_blank" href="http://t.co/kIPi1nfI" title="http://twitter.com/SeansPics/status/252201682849628160/photo/1">twitter.com/SeansPics/stat…</a></p>
+<p>&mdash; Sean Leslie (@SeansPics) <a target="_blank" href="https://twitter.com/SeansPics/status/252201682849628160">September 30, 2012</a></p></blockquote>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/WzuKm3cauMo/">here</a>.
