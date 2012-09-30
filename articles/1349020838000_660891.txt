@@ -1,0 +1,49 @@
+{
+"title" : "5 Big Map App Issues Apple Must Solve",
+"date" : "Sun, 30 Sep 2012 16:00:38 +0000",
+"author" : "Grant Ritchie"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/grantritchie.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="GrantRitchie" title="GrantRitchie" style="float: left; margin: 0 10px 7px 0;" /><p><strong>Editor&#8217;s note: </strong><em>Grant Ritchie is the CEO and founder of <a target="_blank" href="http://www.locationary.com">Locationary</a></em><em>, which created the <a target="_blank" href="http://saturn.locationary.com">Saturn</a></em><em> management and exchange platform for local business profiles and POI data. Follow Locationary </em><a target="_blank" href="https://twitter.com/locationary"><em>here</em></a><em>.</em></p>
+<p>The Apple iPhone 5 has been quite a story for a while with many &#8220;firsts&#8221;: the fastest hardware, the most first-week sales, and so on. The device is also now famous for what it doesn’t have: Google Maps.</p>
+<p>The tech community has been aflutter over the last few days with discussions about Apple’s challenges in competing with Google and the need to improve the accuracy of Apple’s point-of-interest (POI) data. For example:</p>
+<ul>
+<li><a target="_blank" href="http://www.bbc.co.uk/news/world-europe-19676125">Users found a new airport in their neighborhood</a></li>
+<li><a target="_blank" href="http://www.ausbt.com.au/6-reasons-travellers-should-be-wary-of-apple-maps-in-ios-6">Searching for cities and popular places doesn’t work as expected</a></li>
+</ul>
+<p>Cartographic expert Mike Dobson <a target="_blank" href="http://blog.telemapics.com/?p=399">weighed in on the challenges that Apple faces</a>, listing five key problems that Apple will need to solve and explaining why he doesn’t expect the company to make a quick fix of it.</p>
+<p>Many readers do not understand why the tasks listed by Mr. Dobson are so difficult. I’ve described below how Apple might be generating its POI data for maps and provide actual examples of the challenges I’ve seen in undertaking a similar process for others.</p>
+<p><strong>1. Aggregating location data is hard. </strong><br />
+For complete coverage, Apple would need to bring in two or three horizontal (core) databases for each country. For example, in the United States, a few commercial providers like <a target="_blank" href="http://www.localeze.com/">Localeze</a>, <a target="_blank" href="http://www.infogroup.com/">InfoGroup</a>, <a target="_blank" href="http://www.acxiom.com/">Axciom</a>, and <a target="_blank" href="http://www.cmsdm.com/">Compass</a> provide core data on approximately 15 million businesses. Each provider has various strengths, which is why large publishers like Apple would prefer data from more than one provider. Apple would probably want to license third-party sources in addition to collecting and curating its own data through its devices.</p>
+<p><strong>2. Aggregating vertical business data is even harder. </strong><br />
+In addition to core data, Apple would need specialized databases on specific verticals. For example, Yelp for restaurants and retail locations and Hotels.com, TripAdvisor, HotelsCombined for hotels and lodging. Apple would also need retailer-specific data from Wal-mart, Starbucks, and other large national chains. When you build an app like Apple Maps, you need dozens of separate sources. It’s not uncommon for a large publisher or search engine to use more than 100 different data sources.</p>
+<p><strong>3. Standardizing data is a bigger process than expected.</strong><br />
+Once Apple has received the data, it would need to process it into a common format for their team to analyze and begin integrating. However, the providers mentioned above don’t distribute their data in a standard way. Files are often provided in complex formats, such as actual database files that make the information hard to manipulate quickly.</p>
+<p>Each source will likely have a different format for even fields as simple as the business’ telephone number. For example, some will have phone numbers in three parts that need to be assembled (area code: 212, exchange: 555, number: 1212), unformatted (2125551212), or formatted (212-555-1212 or (212) 555-1212). The case is similar with addresses, which will also be provided in different formats.</p>
+<p>Apple would also need to standardize categories. Some providers use NAICS categories, some use SIC codes, and yet others have their own proprietary categories that Apple would need to map into a common category. In many cases there will be hundreds of different fields to standardize.</p>
+<p>In addition to standardizing the fields, Apple would need to do more to help users find the right place. Apple would need to generate additional synonyms for each place and figure out how they relate to each other. While Apple needs to do it all, some companies, to become experts, just specialize in only one of these tasks.</p>
+<p>Setting up the infrastructure to process these data sources is also a challenge, especially if Apple wants to do real-time updates vs. weekly or monthly batch processing.</p>
+<p><strong>4. When matching places, for every rule, there’s an exception.</strong><br />
+Once the data sources have been standardized, Apple’s objective would be to assemble a composite profile for each POI by selecting and merging the best info from each data source. However, before that can be done, Apple would need to identify which profiles, within each source, refer to the same real place.</p>
+<p>To do this, Apple would need to match the POIs to a canonical or reference place. This is hard because there isn’t a common ID that can easily link profiles to the same real place. Every provider will also have a different name, address, latitude/longitude, etc. for the same real place. For example:</p>
+<p><strong>Provider #1:<br />
+</strong>Days Inn Cedar Point South Milan (Ohio)<br />
+11410 State Rt 250, Milan (Ohio), Ohio</p>
+<p><strong>Provider #2:</strong><br />
+Sandusky Days Inn Cedar Point South Turnpike<br />
+11410 SR 250, Milan, Ohio</p>
+<p>Unfortunately for Apple, matching is time-consuming to analyze data, identify exceptions and improve the system. It requires a complex algorithm that needs profile details, crowdsourced info, and machine learning and reporting tools. Many parts need to be resolved in sequence so it isn’t a task where 30 developers will finish 30 times sooner than one developer.</p>
+<p>Issues I’ve seen include:</p>
+<ul>
+<li>Addresses that are difficult for a computer to understand: “<a target="_blank" href="http://www.tripadvisor.co.uk/Restaurant_Review-g186605-d2104240-Reviews-Viva_Espana-Dublin_County_Dublin.html">Unit 6-7 The Epicurean Food Hall, Middle Abbey Street, Dublin, Ireland</a>”</li>
+<li>Places within places: “<a target="_blank" href="http://www.marriott.com/hotels/photo-tours.mi?marshaCode=bwiwf&amp;pageID=HWRAL&amp;imageID=0">Grille 700 &#8211; Baltimore Marriott Waterfront</a>” is a restaurant and shouldn’t be matched to the hotel “Marriott” at the same address.</li>
+<li>Brand confusion: <a target="_blank" href="http://www.yellowpages.ca/bus/Saskatchewan/Shell-Lake/Shell-Lake-Esso/1439407.html">Shell Lake Esso</a> is an “Esso” station not a “Shell” station</li>
+</ul>
+<p>If Apple gets the matching wrong, it would create duplicates, as seen in this screenshot:</p>
+<p><a href="http://techcrunch.com/?attachment_id=660944" rel="attachment wp-att-660944"></a></p>
+<p><strong>5. Merging data sources into a composite database is an entire business in itself.</strong></p>
+<p>To generate the information that users see in the app, Apple would need to select and merge the best data from the various sources into a composite profile for each real place. To do this, Apple would need to figure out which source has the best data for each field. Sources collected by crawling the Internet frequently have call-tracking numbers (that expire or are redirected to other companies) instead of the business’ true phone number. Sources collected by copying Yellow Page books may have details that have changed since the books were printed. If Apple chooses the wrong details, users will be navigated to the wrong location, click on broken links, see product lists that are no longer accurate, or call numbers that are no longer in service.</p>
+<h5>Living In A Real-Time World</h5>
+<p>Data integration is a complicated but crucial process for local search, mapping, and directory apps. It’s also something that most people don’t think about or notice until it goes wrong. It’s clear that data integration is already difficult with only basic details like name, address, telephone, and location.</p>
+<p>This is why the industry will need proper platforms and tools to address these challenges and to progress into the real-time world that we all anticipate: where products, inventory, menus, deals, events, and job postings are synchronized across every mobile device and users can instantly transact regardless of app or device.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/gV8TFyvpteo/">here</a>.
