@@ -18,4 +18,16 @@
 <p>Update: Rogers has issued the following statement via Twitter. I&#8217;ve been in touch with a representative of the company who said they&#8217;d try to provide some additional information, but have yet to hear back:</p>
 <blockquote class="twitter-tweet"><p>Our apologies &#8211; some customers are experiencing wireline interruptions. We are working to resolve and will provide updates.</p>
 <p>&mdash; RogersHelps (@RogersHelps) <a target="_blank" href="https://twitter.com/RogersHelps/status/252188160212221952">September 29, 2012</a></p></blockquote>
+<p>Update #2: A few more tweets, including the first I could find of any problems, putting the estimated length of service issues at over two hours now:</p>
+<blockquote class="twitter-tweet"><p>I swear everyone with Rogers Internet went down for a good 5 mins</p>
+<p>&mdash; Ahmed™ (@Ahmed_Slick) <a target="_blank" href="https://twitter.com/Ahmed_Slick/status/252159775062773760">September 29, 2012</a></p></blockquote>
+<p>Report from the East Coast, meaning Ontario definitely isn&#8217;t the only market affected:</p>
+<blockquote class="twitter-tweet"><p><a target="_blank" href="https://twitter.com/search/%23rogers">#rogers</a> Internet is down in <a target="_blank" href="https://twitter.com/search/%23moncton">#moncton</a> and from what I read, across the country. <a target="_blank" href="https://twitter.com/search/%23thissucks">#thissucks</a> <a target="_blank" href="https://twitter.com/search/%23timeforFibreOp">#timeforFibreOp</a> <a target="_blank" href="https://twitter.com/search/%23bellswitchinmyfuture">#bellswitchinmyfuture</a></p>
+<p>&mdash; Steve Peraud  (@GermanFrog) <a target="_blank" href="https://twitter.com/GermanFrog/status/252199419565457408">September 30, 2012</a></p></blockquote>
+<p>And one joke at Rogers expense:</p>
+<blockquote class="twitter-tweet"><p>0% of Rogers Internet customers can read this right now</p>
+<p>&mdash; Stats Canada (@stats_canada) <a target="_blank" href="https://twitter.com/stats_canada/status/252198978316279808">September 30, 2012</a></p></blockquote>
+<p>Update #3: Some customers, including in Barrie and Ottawa, report having no problems with service. Still, the vast majority of reports I&#8217;m seeing say just the opposite: connectivity is eithes very slow or non-existent:</p>
+<blockquote class="twitter-tweet"><p>@<a target="_blank" href="https://twitter.com/techcrunch">techcrunch</a> @<a target="_blank" href="https://twitter.com/drizzled">drizzled</a> Up for me in Ottawa, both Cable and LTE/4G @<a target="_blank" href="https://twitter.com/rogershelps">rogershelps</a> <a target="_blank" href="http://t.co/kIPi1nfI" title="http://twitter.com/SeansPics/status/252201682849628160/photo/1">twitter.com/SeansPics/stat…</a></p>
+<p>&mdash; Sean Leslie (@SeansPics) <a target="_blank" href="https://twitter.com/SeansPics/status/252201682849628160">September 30, 2012</a></p></blockquote>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/WzuKm3cauMo/">here</a>.
