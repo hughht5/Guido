@@ -1,5 +1,5 @@
 {
-"title" : "Canadian Internet Provider Rogers Experiencing Major, Prolonged Outage",
+"title" : "Canadian Internet Provider Rogers Experiencing Major, Prolonged Outage [Update: It's Back!]",
 "date" : "Sat, 29 Sep 2012 22:48:27 +0000",
 "author" : "Darrell Etherington"
 }
@@ -42,4 +42,7 @@
 <p>&mdash; Gio Victorio (@GioVictorio) <a target="_blank" href="https://twitter.com/GioVictorio/status/252212172573261824">September 30, 2012</a></p></blockquote>
 <blockquote class="twitter-tweet"><p><a target="_blank" href="https://twitter.com/search/%23rogers">#rogers</a> is still down, going on 5 hours now!!</p>
 <p>&mdash; Trevor Hunsberger (@TWHunsberger) <a target="_blank" href="https://twitter.com/TWHunsberger/status/252211955228622849">September 30, 2012</a></p></blockquote>
+<p>Update #6: Rogers now says that the issue affecting customers has been resolved, let us know if that fits with your experience:</p>
+<blockquote class="twitter-tweet"><p>Internet issues some wireline / wireless customers were experiencing should nowbe resolved. We apologize for the inconvenience.</p>
+<p>&mdash; RogersHelps (@RogersHelps) <a target="_blank" href="https://twitter.com/RogersHelps/status/252218481829871616">September 30, 2012</a></p></blockquote>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/WzuKm3cauMo/">here</a>.
