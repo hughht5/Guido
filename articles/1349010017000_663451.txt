@@ -1,5 +1,5 @@
 {
-"title" : "Barnes & Noble Cuts GlowLight Nook Price To $129 As Amazon Prepares To Ship Its Paperwhite Kindles",
+"title" : "Barnes & Noble Cuts GlowLight Nook Price To $119 As Amazon Prepares To Ship Its Paperwhite Kindles",
 "date" : "Sun, 30 Sep 2012 13:00:17 +0000",
 "author" : "Chris Velazco"
 }
