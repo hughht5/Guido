@@ -1,0 +1,67 @@
+{
+"title" : "Logitech UE Boombox And Mobile Boombox Review: Bluetooth Speakers With A Rich Sound",
+"date" : "Sun, 30 Sep 2012 21:00:35 +0000",
+"author" : "Romain Dillet"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/logitech-ue-boombox-and-mobile-boombox.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Logitech UE Boombox and Mobile Boombox" title="Logitech UE Boombox and Mobile Boombox" style="float: left; margin: 0 10px 7px 0;" /><p><strong>Short version:</strong> These two battery-powered bluetooth speakers are the first modern boomboxes designed by the newly created subsidiary Logitech UE. Acquired in 2008, Ultimate Ears is well-known for its in-ear monitors used by many musicians in concert, not for its speakers. Even though the Logitech UE Mobile Boombox is limited, it is no surprise given the entry-level pricing. The real surprise comes from the big brother, the Logitech UE Boombox.</p>
+<h4>Logitech UE Boombox</h4>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Two woofers, two tweeters and four passive radiators</li>
+<li>Bluetooth (A2DP profile) and 3.5mm audio output</li>
+<li>6-hour rechargeable battery</li>
+<li>4.4lbs (2kg)</li>
+<li>MSRP: $250</li>
+<li><a target="_blank" href="http://ue.logitech.com/en-us/wireless-speakers/boombox">Logitech UE Product Page</a></li>
+</ul>
+<p><strong>Pros:</strong></p>
+<ul>
+<li>Precise and very enjoyable sound</li>
+<li>Incredibly powerful performance for this size</li>
+<li>Bass-heavy sound profile, perfect for partying</li>
+</ul>
+<p><strong>Cons:</strong></p>
+<ul>
+<li>Bass-heavy sound profile, exhausting with some tracks</li>
+<li>Heavy</li>
+<li>No audio cable in the box</li>
+</ul>
+<p><strong>Long version:</strong></p>
+<p><br />
+When it comes to picking the right speaker for your needs, it&#8217;s often a very personal choice due to sound profiles, music tastes and other side niceties. The Logitech UE Boombox doesn&#8217;t change the rule, and it will be hard to give a definitive verdict for that product.</p>
+<p>First, design and features are less controversial. With a sleek grille and a rubberized lower third, the device looks both solid and elegant. The handle at the top makes it easy to pick the boombox up.<a href="http://techcrunch.com/?attachment_id=663555" rel="attachment wp-att-663555"></a> But at 4.4lbs (2kg), you may only want to carry it in your backyard or in another room. Compared to other models, such as the Big Jambox, this boombox is quite big and you should leave it in your home.</p>
+<p>The big rubberized volume buttons on one side are unmissable. On the other side, you find the on/off switch, a Bluetooth pairing button, the 3.5mm audio output and the power socket.</p>
+<p>Pairing the boombox with an iPhone, an Android 4.0 phone and a Mac was very easy. The A2DP audio profile ensures that a large number of devices will be compatible. It&#8217;s even easier in iOS 6 with the Bluetooth settings now front and center in the Settings app. With an iPhone 4, audio didn&#8217;t drop even with approximately 30 feet of distance between the two devices in an office environment.</p>
+<p><a href="http://techcrunch.com/?attachment_id=663565" rel="attachment wp-att-663565"></a>Yet, as audiophiles will tell you, A2DP is not ideal for audio fidelity. The audio is first compressed on the phone or tablet using SBC, or optionally AAC or MP3. For example, iOS now supports AAC up to 128 kb/s in addition to SBC, which is pretty low. Moreover, reencoding a lossy track, such as a song bought in the iTunes Store or streamed in Spotify, with a lossy codec is one of the worst thing to do for sound quality. It&#8217;s like taking a photo of a photo.</p>
+<p>It still sounded good, especially when you compare it to using the internal speaker of your smartphone. But you definitely lose sound clarity in the higher and lower ends of the audio spectrum. That&#8217;s why Logitech UE should have put an audio cable in the box. It&#8217;s a high-end speaker.</p>
+<p>Talking about audio spectrum, the Boombox is clearly skewed toward low mids and basses. I usually use very neutral equipment, such as studio monitoring headphones (Sony MDR-7506). It is more noticeable when playing some songs, especially electronic music tracks with <a target="_blank" href="http://www.youtube.com/watch?v=CIpyBeBpC74">a deep and clean beat</a>. Other times, it makes <a target="_blank" href="http://www.youtube.com/watch?v=A7ParWHFESI">the track</a> more enjoyable. But when it ruins <a target="_blank" href="http://www.youtube.com/watch?v=ZGMDBppWBOo">a classic</a>, you have no choice but to skip the track.</p>
+<p><a href="http://techcrunch.com/?attachment_id=663549" rel="attachment wp-att-663549"></a>Yet, as the name suggests, the Boombox was intended to produce booms. If you intend to use it to party, to fill a crowded room with a sound that is pleasant to listen to, then it is the perfect choice.</p>
+<p>We have a Jawbone Big Jambox in the office. When playing the same song on the two devices, there was no room for discussion. The Logitech UE Boombox is the clear winner, with a much clearer and richer sound than the limited Big Jambox. The Boombox is much bigger, but $50 cheaper than the Big Jambox. Picking Logitech&#8217;s speaker is a no-brainer if you are not constrained by size.</p>
+<h4>Logitech UE Mobile Boombox</h4>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Compact speaker</li>
+<li>Bluetooth (A2DP profile) and 3.5mm audio output</li>
+<li>10-hour micro USB rechargeable battery</li>
+<li>MSRP: $100</li>
+<li><a target="_blank" href="http://ue.logitech.com/en-us/wireless-speakers/mobile-boombox">Logitech UE Product Page</a></li>
+</ul>
+<p><strong>Pros:</strong></p>
+<ul>
+<li>Very easy to carry around</li>
+<li>Better sound than the speaker of your smartphone</li>
+<li>Perfect for podcasts</li>
+</ul>
+<p><strong>Cons:</strong></p>
+<ul>
+<li>Not very powerful</li>
+</ul>
+<p><strong>Long version:</strong></p>
+<p><br />
+Don&#8217;t expect any magic from this Mobile Boombox. It is an inexpensive speaker to throw in your bag when you are going to the beach, the park or hiking. You don&#8217;t get a lot of details, especially with <a target="_blank" href="http://www.youtube.com/watch?v=9aZFcosBTaQ">messy</a> and <a target="_blank" href="http://www.youtube.com/watch?v=dyjf-Bic_b4">difficult to render</a> tracks. But if you really need to listen to music with a speaker in those situations, the Mobile Boombox is a good versatile choice.</p>
+<p><a href="http://techcrunch.com/?attachment_id=663566" rel="attachment wp-att-663566"></a>If you insist on using it in your home, there is another use that makes it very useful, podcasts. I listen to a lot of podcasts and don&#8217;t use iTunes anymore, even if <a href="http://techcrunch.com/2012/09/12/apple-releases-a-totally-redesigned-itunes-with-icloud-built-in/">Apple plans</a> to release a completely redesigned version. I manage all my podcasts in <a target="_blank" href="http://vemedio.com/products/instacast">Instacast on my iPhone</a> and listen to podcasts exclusively on my iPhone, using headphones, AirPlay or the internal speaker.</p>
+<p>You can use the Logitech UE Mobile Boombox to listen to podcast while doing the dishes and cooking for example. Voices sound much better than with the internal speaker and you won&#8217;t have to spend a lot of money for a kitchen speaker.</p>
+<h4>Conclusion</h4>
+<p>These two speakers are highly capable for different uses. While you won&#8217;t take the Boombox with you, it will be a very polyvalent and enjoyable speaker in your home. The Mobile Boombox, on the other hand, can make an excellent speaker to listen to podcasts in your kitchen, or a correct portable speaker for the park or the beach. I wasn&#8217;t very confident when turning those speakers on due to the brand. Logitech isn&#8217;t a well-known audiophile brand. Those fears vanished quickly.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/yfssVRsPUZE/">here</a>.
