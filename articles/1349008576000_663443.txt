@@ -1,5 +1,5 @@
 {
-"title" : "Simon Cowell And Will.i.am Are Teaming Up To Create An X-Factor To Find The Next Mark Zuckerberg",
+"title" : "Simon Cowell And Will.i.am Are Teaming Up To Create An X Factor To Find The Next Mark Zuckerberg",
 "date" : "Sun, 30 Sep 2012 12:36:16 +0000",
 "author" : "Leena Rao"
 }
