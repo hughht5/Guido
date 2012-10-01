@@ -15,5 +15,7 @@
 <p>It&#8217;s also way faster, with a bunch of design tweaks and under-the-hood performance improvements (including on your new iPhone 5 and iOS 6).
 </p></blockquote>
 <p>For the first time, I&#8217;ve played around with foursquare on the iPhone 5 and it is indeed blazingly fast. What did the company sneak into this update which prompted us to all update today? Things, maybe.</p>
+<p>Perhaps there were some hidden things, such as algorithm hook tweaks, as this fella suggests:</p>
+<blockquote class='twitter-tweet' lang='en'><p>@<a href="https://twitter.com/TechCrunch">TechCrunch</a> @<a href="https://twitter.com/thatdrew">thatdrew</a> I honestly don&#039;t notice much difference. Seems more like its &quot;picking&quot; places based on my &quot;preferences.&quot;</p>&mdash; <br />Morton Levitt (@levitm1) <a href='http://twitter.com/#!/levitm1/status/252911377008689152' data-datetime='2012-10-01T23:22:25+00:00'>October 01, 2012</a></blockquote>
 <p><a target="_blank" href="http://www.flickr.com/photos/nebulux/6695616337/sizes/l/">[Photo credit: Flickr]</a></p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/lm5cM8wJ0GM/">here</a>.
