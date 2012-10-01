@@ -1,0 +1,16 @@
+{
+"title" : "App Map For iOS Lets You See What Apps Are Popular In Your Area",
+"date" : "Mon, 01 Oct 2012 19:52:22 +0000",
+"author" : "Drew Olanoff"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/2658445413_228a9e7e6b_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="2658445413_228a9e7e6b_z" title="2658445413_228a9e7e6b_z" style="float: left; margin: 0 10px 7px 0;" /><p>One of the things that I usually end up doing at a bar, either after a few drinks or massive boredom, is discuss my latest favorite iOS apps. You know what I&#8217;m talking about, a bunch of nerds sitting around a few adult beverages with bright screens flickering. I&#8217;ll usually say something stupid like &#8220;What do you think about the new Facebook update?&#8221; Lame, maybe. Fun, yes.</p>
+<p>A new app called &#8220;<a target="_blank" href="http://appmap.mobi/">App Map</a>&#8221; for iOS gives you a glimpse into what apps are the most popular and where. For example, you can take a peek at a map and see the most active apps from others who have installed App Map. Once you fire it up, it asks for permission to access your latest app activity, downloads and updates. None of your information is personally identifiable, so don&#8217;t bug out if you&#8217;ve downloaded the Playboy app recently.</p>
+<p>Let&#8217;s take a look at what you&#8217;ll see once you give App Map permission to check out your stuff:</p>
+<p><a href="http://techcrunch.com/2012/10/01/app-map-for-ios-lets-you-see-what-apps-are-popular-in-your-area/photo-1-49/" rel="attachment wp-att-664295"></a> <a href="http://techcrunch.com/2012/10/01/app-map-for-ios-lets-you-see-what-apps-are-popular-in-your-area/photo-2-38/" rel="attachment wp-att-664297"></a></p>
+<p>Why is this cool? Well, for example, Lyft is only testing its ride-share service in San Francisco, and you might not have been aware of it if you don&#8217;t read tech news sites. If you use this app, and it catches on with others, you&#8217;ll be able to pick out new apps and trends on the fly&#8230;based on where you&#8217;re standing.</p>
+<p>Yes, location can be creepy, yes, giving an application access to what apps you use might be a bit scary, but I think that this is something <a target="_blank" href="http://appmap.mobi/">worth giving a try</a>. It&#8217;s definitely an app that I&#8217;ll take a peek at once or twice a day.</p>
+<p>The types of leaderboards that the app provides is something that Apple should do themselves, but hey&#8230;what do I know.</p>
+<p>Also, the team behind the app created and sold a popular ringtone service called <a target="_blank" href="http://mobile17.com/">Mobile17</a>, so they know what they&#8217;re doing in this space.</p>
+<p>[Photo credit: <a target="_blank" href="http://www.flickr.com/photos/jondoeforty1/2658445413/">Flickr</a>]</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/8OS4gZcCOww/">here</a>.

@@ -1,0 +1,14 @@
+{
+"title" : "MindTouch Social Help System Aligns With Salesforce Ecosystem, Exemplifies What Oracle Lacks",
+"date" : "Mon, 01 Oct 2012 19:53:14 +0000",
+"author" : "Alex Williams"
+}
+
+<img width="100" height="69" src="http://tctechcrunch2011.files.wordpress.com/2010/02/mttttt-2.png?w=100&amp;h=69&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Image1 for post MindTouch Upgrades Collaborative Platform With Video And Developer-Friendly Tools" title="Image1 for post MindTouch Upgrades Collaborative Platform With Video And Developer-Friendly Tools" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://mindtouch.com">MindTouch</a> is a services company that has done what innovative companies do: taken the concept of the user manual and turned it on its head. Its technology exemplifies what Oracle lacks and the advantage that Salesforce.com has in the market by developing an app ecosystem.</p>
+<p>MindTouch just joined the Salesforce.com <a target="_blank" href="http://appexchange.salesforce.com/">AppExchange</a> and is now available with Salesforce CRM and Salesforce Service Cloud. Its technology allows for the import of old help documents that it turns into auto-organized materials that learn from the way users interact with the content. This makes it easy for people from all over the organization to author and publish more help and product content. The material then gets published through multiple channels, such as the CRM environment, ticketing and other applications.</p>
+<p>With Salesforce, the MindTouch CRM Connector scans a support case and recommends to support agents the best type of help and product content. Support agents can then select or drag-and-drop the type of help they&#8217;re after and then send to multiple channels for viewing without leaving the Salesforce case window.</p>
+<p>The MindTouch service creates a web-oriented way to view documents. It has a search component built in so help documents rise to the top based on what people are looking for. These results will also show up in Google search results. The MindTouch service turns a support document into a marketing opportunity.</p>
+<p>Oracle and HP offer similar servies. Oracle acquired InQuira in 2011 and SAP owns Autonomy. But InQuira has not been updated in some time and who the hell knows what HP is doing with Autonomy.</p>
+<p>But more so, Oracle represents a monolithic software stack. The only way they can integrate is to do a costly partnership or an acquisition. Salesforce and others with platforms can just fit apps into a loosely coupled ecosystem.</p>
+<p>The result is that Oracle will have to continue serving only the highest-end customers of the world. The rest of the market will go to services such as Salesforce and partners like MindTouch.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/pwp1OMwNJ3Y/">here</a>.
