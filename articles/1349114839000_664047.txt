@@ -1,0 +1,41 @@
+{
+"title" : "The Lunatik Taktik Case Arms Your iPhone For Danger With Rugged Style",
+"date" : "Mon, 01 Oct 2012 18:07:19 +0000",
+"author" : "Darrell Etherington"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/taktik-1.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="taktik-1" title="taktik-1" style="float: left; margin: 0 10px 7px 0;" /><p>If there&#8217;s one person who&#8217;s nailed the art of Kickstarter-driven hardware production, it&#8217;s Scott Wilson. The designer&#8217;s <a target="_blank" href="http://mnml.com">MNML studio</a> had considerable success with the crowdfunding site, which helped launch his <a title="The iPod Nano Watch Nears $1 Million In Crowdsourced Funding From Kickstarter" href="http://techcrunch.com/2010/12/16/ipod-nano-watch-million/">Lunatik iPod nano watch bands</a>, a stylus called the Touch Pen, and now the <a target="_blank" href="https://www.lunatik.com/products/taktik">Taktik heavy-duty protective iPhone case</a>. The last is just making its way out to market (for iPhone 4/4S – iPhone 5 coming soon), and I&#8217;ve been provided with a review unit to take for a test drive.</p>
+<h2>Short Version</h2>
+<p>The Taktik is a beast, and with its beastliness comes significant added size for your iPhone. But its purpose is to protect, and in that regard, it does a very good job, even optionally adding an extra layer of Corning&#8217;s Gorilla Glass into the mix. It also has high water resistance, but don&#8217;t go dunking your phone like you might with the Lifeproof.</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>A retro-futuristic design that, while big, is at least visually interesting.</li>
+<li>All ports/buttons are accessible without case removal.</li>
+</ul>
+<p><strong>Pros:</strong></p>
+<ul>
+<li>Impact/scratching will have little to no effect on your phone in this juggernaut.</li>
+<li>Cutouts and materials used for covering mics and camera don&#8217;t degrade performance.</li>
+</ul>
+<p><strong>Cons:</strong></p>
+<ul>
+<li>Getting power and home button presses to register can require more pressure than I&#8217;d like.</li>
+<li>Six screws to get the iPhone in and out of this baby.</li>
+</ul>
+<h2>Long Version</h2>
+<p><strong>Build Quality And Design</strong></p>
+<p>If you&#8217;re looking for a durable, damage-resistant case, this is where you want to start. The build quality of the Taktik is very high, which is in keeping with their previous products.  It&#8217;s made out of aluminum aircraft-grade and a high-density shock-absorbent foam material that handles drops. Upgraded options on my review model include a Gorilla Glas screen protector, as well as Gore water-resistant fabric covers for mics and speakers. There&#8217;s nothing loose, rattling or shaking about the case, and movable parts like the dock cover flap and silent mode switch feel sturdy and unlikely to snap off anytime soon.</p>
+<p>Maybe it&#8217;s because I just watched The Firth Element last night, but this thing looks good to me, too. It&#8217;s the type of industrial futuristic design that might be at home in a Halo game or on the bridge of the Battlestar Galactica, and it&#8217;s appealing as a result. But also not for everyone. I can see a significant percentage of iPhone users taking one look at this thing and saying, &#8220;ugly.&#8221; But for the audience it&#8217;s after, geeky gadget lovers, it&#8217;s a good look.</p>
+<p><strong>Durability</strong></p>
+<p>I don&#8217;t recommend doing the following things to their iPhone, Taktik or not. But for the sake of this review, I dropped my iPhone 4S from multiple heights multiple times, ran it under a tap briefly and splashed water on it. The good news is, it works fine, and even the case doesn&#8217;t seem to have suffered any cosmetic damage from my attacks. Falls were a couple of feet (like off of a coffee table), waist height, and from head level (about six feet off the ground). It fell on its face, on its corners and sides, and on its back, on a laminate floor. It bounced around, but didn&#8217;t damage the iPhone. That&#8217;s very good. Also, water tests revealed nothing inside the case, but Lunatik is quick to note that this thing isn&#8217;t waterproof, so don&#8217;t submerge it or expose it to water on purpose at all.</p>
+<p><strong>Usability</strong></p>
+<p>The problem with protective cases and the iPhone boil down to how it affects the iPhone&#8217;s natural usability. First, the Taktik adds bulk, making your device more like a Galaxy Note than an iPhone, without the additional screen real estate. And it adds about twice the thickness. Still, it strikes a good balance between grippy and smooth surfaces, so that it&#8217;s easy to hold but also slides in and out of pockets without much trouble.</p>
+<p>Size aside, the touchscreen works perfectly well under the second layer of Gorilla Glass mine came with (a $25 upgrade from the base model), and the silent slider is a smart and well-executed little innovation. The problem, however, comes from the way the power button and home button are accessed. You have to press pretty hard to get them to register, and it takes some getting used to. I had no problem with the volume buttons, either. But the dock cover flap and the tab that provides access to the headphone jack are both well-made and less of a pain to use than I&#8217;ve found with other similar cases.</p>
+<p><strong>Conclusion</strong></p>
+<p>Lunatik makes good products backed by smart design. The Taktik is no exception. It isn&#8217;t without flaws, but those are generally the same kinds of things you&#8217;ll see on the <a title="OtterBox Releases Heavy Duty Defender iPad Case" href="http://techcrunch.com/2010/08/11/otterbox-releases-heavy-duty-defender-ipad-case/">Otterbox</a> (which feels less substantial, by the way). Alternatives like the Lifeproof offer waterproof design, and a slimmer profile, but you won&#8217;t get the same level of drop protection. Finally, either $100 or $125 or $180 depending on options is a lot to spend (the Otterbox is $49.95), but it&#8217;s hard to argue with results, and the Taktik does what it says on the tin. If you want something to protect your iPhone that&#8217;s not only rugged, but also stylish, this is a good option, albeit at a premium price.</p>
+
+<a href='http://techcrunch.com/2012/10/01/review-lunatik-taktik-iphone-case/taktik-3/' title='taktik-3'></a>
+<a href='http://techcrunch.com/2012/10/01/review-lunatik-taktik-iphone-case/taktik-2/' title='taktik-2'></a>
+<a href='http://techcrunch.com/2012/10/01/review-lunatik-taktik-iphone-case/taktik-1/' title='taktik-1'></a>
+
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/i1Woztpnzp4/">here</a>.
