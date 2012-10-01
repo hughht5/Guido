@@ -1,0 +1,12 @@
+{
+"title" : "French Telco SFR Cuts Up To 2,000 Jobs Following Free Mobile Entry Into The Market",
+"date" : "Mon, 01 Oct 2012 15:36:57 +0000",
+"author" : "Romain Dillet"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2011/06/sfr.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="sfr" title="sfr" style="float: left; margin: 0 10px 7px 0;" /><p>As the telecom company Free <a href="http://techcrunch.com/2012/09/03/how-the-telecom-company-free-disrupted-the-mobile-landscape-in-france/">disrupted the mobile landscape</a> in France, employment and investment are at risk in that industry. Vivendi-owned SFR is one of the first to suffer from the ever increasing competition and the union Force Ouvrière announced that SFR is planning 1,500 to 2,000 job cuts.</p>
+<p>When Free Mobile <a href="http://techcrunch.com/2012/09/03/how-the-telecom-company-free-disrupted-the-mobile-landscape-in-france/">introduced</a> a plan with unlimited talk, unlimited SMS and MMS messages, tethering and unlimited data with a speed reduction after 3 GB for $25 per month (€19.99, sales tax included), many commenters feared that it would hurt this industry and competitors would have no choice but to cut jobs.</p>
+<p>Retrospectively, it is probably true but not a good reason to prevent innovation. As predicted, they blamed public authorities for allowing a fourth telecom company to operate in France. If companies fail to stay relevant, they can only blame themselves. According to its latest earnings, Vivendi forecasts that net revenue will be down between 12 and 15 percent this year.</p>
+<p>Bouygues Telecom announced a more moderate layoff plan with 550 job cuts. Orange, SFR and Bouygues Telecom all announced offerings that are very similar to Free&#8217;s offering. Among the particular features of those plans, there is no commitment or two-year contract.</p>
+<p>It brings more flexibility and uncertainty to this industry. As the country is lagging behind when it comes to LTE, LTE coverage will be the next challenge for those companies. With a better network, customers could massively opt for an offering from one of those companies. Ups and downs will be even more stark in the coming years. France continues to be ground zero of telco innovation.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/Xw-t9bq8lzI/">here</a>.
