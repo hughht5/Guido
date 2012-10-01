@@ -1,0 +1,10 @@
+{
+"title" : "So Long To Apple’s Music Social Network: Ping, We Hardly Knew Ye",
+"date" : "Mon, 01 Oct 2012 18:32:10 +0000",
+"author" : "Darrell Etherington"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/ping-logo-dead.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Ping Logo Dead" title="Ping Logo Dead" style="float: left; margin: 0 10px 7px 0;" /><p>Ping was scheduled for unceremonious termination at the end of September, and now it&#8217;s definitely gone dark. Clicking on the Ping link in the iTunes sidebar now returns an error, if it even still appears there. Our own Josh Constine <a href="http://techcrunch.com/2012/09/12/ping-facebook/">foretold its demise</a> back in September, and now it&#8217;s gone, both on mobile and the desktop.</p>
+<p>Here&#8217;s the thing about Ping: it probably won&#8217;t be missed. The social networking effort from Apple got off to a rough start, <a href="http://techcrunch.com/2010/09/03/problem-ping/">amid problems with Facebook integration</a>, and it didn&#8217;t get much better from there. There was hope it would be revived thanks to some social help from Twitter, but that didn&#8217;t come to pass. People just didn&#8217;t seem interested in participating in a social network that lived only inside of iTunes itself, and that essentially operated as a thinly veiled promotional machine for iTunes music content.</p>
+<p>It&#8217;s not surprising that it&#8217;s gone, only that it took this long, really.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/gXGBPUOt9d0/">here</a>.
