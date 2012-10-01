@@ -1,0 +1,13 @@
+{
+"title" : "Microsoft Previews New Touch-Friendly MSN And Bing For Windows 8",
+"date" : "Mon, 01 Oct 2012 16:16:31 +0000",
+"author" : "Anthony Ha"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/msn1.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="msn" title="msn" style="float: left; margin: 0 10px 7px 0;" /><p>Microsoft just gave a quick sneak peek of the redesigned version of <a target="_blank" href="http://www.msn.com">MSN</a> while at the IAB MIXX digital ad conference. It&#8217;s optimized for Windows 8 (in fact, it will be the default home page for Internet Explorer 10 on many Windows 8 devices), and it will be launched on the same day as the new Windows, Oct. 26.</p>
+<p>The MSN homepage&#8217;s new design is reminiscent of the Metro design that we&#8217;ve already seen on Windows and Windows Phone 7. It&#8217;s a clean, tile-based design, with big type and images, with a new News section.</p>
+<p>And it&#8217;s optimized to for navigating with touch screens. In fact, one of the cooler new features is the ability to &#8220;flip ahead&#8221;, where you basically swipe across the screen to flip the page and read the next article. Another new feature is the ability to &#8220;snap&#8221; content to the side of the screen. For example, if you could look up financial information on MSN Money, snap that content to the side of the screen, then open a PowerPoint presentation and copy the information in.</p>
+<p>Microsoft also offered a preview of new Bing apps for search, news, and travel. Again, there was a new layout, and you could snap content to reference later. And yes, space is saved for big, glossy ads.</p>
+<p>Qi Lu, Microsoft&#8217;s president of online services, closed his presentation by saying that online media  has not &#8220;lived up to the promise&#8221; of allowing marketers to build brands online. By nailing the consumer experience for the new wave of devices and services, Lu says Microsoft can change that, and can enter a &#8220;new era.&#8221;</p>
+<p>You can read more about the new MSN <a target="_blank" href="http://msnblog.msn.com/blogpost.aspx?post=64eb3e22-271b-4424-a5ce-475435a93d56">in this Microsoft blog post</a>.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/jylsjalDe8E/">here</a>.
