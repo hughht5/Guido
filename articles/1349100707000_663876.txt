@@ -1,0 +1,16 @@
+{
+"title" : "London Cab Comparison Startup Kabbee Raises $3.25M, Ahead Of Series A Next Year",
+"date" : "Mon, 01 Oct 2012 14:11:47 +0000",
+"author" : "Natasha Lomas"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/kbee_goldblack-typobeetag_yellow-bg_horiz.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="KBEE_GoldBlack-TypoBeeTag_Yellow-BG_Horiz" title="KBEE_GoldBlack-TypoBeeTag_Yellow-BG_Horiz" style="float: left; margin: 0 10px 7px 0;" /><p>London-based cab price comparison and booking startup <a target="_blank" href="http://www.kabbee.com/">Kabbee</a> has raised $3.25 million in an intermediate funding round, led by Samos Investments, with &#8220;significant contributions&#8221; from Pentland Group and Redbus Group. Founder Ed Wray also invested, along with two angel investors who work at Smedvig Capital. Wray will now play an active role in advising Kabbee, along with Tim Levene from Augmentum Capital.</p>
+<p>A &#8220;much larger&#8221; Series A investment will follow next year, according to Kabbee CEO Justin Peters. To date, he says the startup has raised around $4.5 million.</p>
+<p>The startup was launched in June 2011, and now has more than 50 cab fleets signed up to its platform which serves the Central and Greater London area. Unlike many taxi-focused startups, Kabbee is not itself a cab company &#8212; but rather aggregates multiple cab services on its platform to offer users more choice when booking a cab, plus the ability to price-compare different cab services.</p>
+<p>Peters says Kabbee intends to use this latest funding round to further develop its technology to attract more users and expand the choice and quality of fleets on offer.</p>
+<p>Refreshes are planned for its apps and website to add new features, upgrade the look and feel, and improve ease of use. Kabbee will also use the investment to work on improving its back-end technology &#8212; which integrates with all the different systems used by cab companies so they can be plugged into its platform.</p>
+<p>The startup may also use the investment for international expansion &#8212; it has one member of the team dedicated to exploring cities that might be suitable for a future launch. &#8221;The technical system we&#8217;ve built can be used elsewhere,&#8221; Peters notes. &#8220;We&#8217;re looking at any market with a cab problem &#8212; [i.e.] with very fragmented cab services.&#8221;</p>
+<p>A launch in a city outside the U.K. is currently more likely than expansion to another U.K. city, according to Peters. &#8220;We&#8217;re in discussion with some cities that are very far afield,&#8221; he adds.</p>
+<p>Kabbee&#8217;s app has been downloaded more than 150,000 times and tens of thousands of cab journeys have been booked via the service to date.</p>
+<p>Most of the customers who have booked once via Kabbee, come back to book another trip, according to Peters. Since launching a &#8216;refer a friend&#8217; feature in the last few months it has also netted 100,000 referrals &#8212; with the number of referrals in September double the amount it gained in August.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/3ZmRFNqQUoQ/">here</a>.
