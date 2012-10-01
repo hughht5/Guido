@@ -1,5 +1,5 @@
 {
-"title" : "Klout CEO Joe Fernandez Responds To Criticsim, Talks Job Descriptions That Include Score “Requirements” [TCTV]",
+"title" : "Klout CEO Joe Fernandez Responds To Criticism, Talks Job Descriptions That Include Score “Requirements” [TCTV]",
 "date" : "Mon, 01 Oct 2012 22:20:22 +0000",
 "author" : "Drew Olanoff"
 }
