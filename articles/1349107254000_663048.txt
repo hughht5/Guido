@@ -1,0 +1,23 @@
+{
+"title" : "Microsoft Previews New JavaScript-Like Programming Language TypeScript",
+"date" : "Mon, 01 Oct 2012 16:00:54 +0000",
+"author" : "Klint Finley"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/javascript.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="javascript" title="javascript" style="float: left; margin: 0 10px 7px 0;" /><p>Today Microsoft released a developer preview of TypeScript, a new JavaScript-like programming language that is translated into JavaScript so that its apps can be run in any browser. The language and compiler are open source under an Apache 2.0 license.</p>
+<p>TypeScript has a syntax that is very similar to JavaScript, but adds features such as optional static typing that Microsoft programming language guru Anders Hejlsberg says will make it easier for developers to build larger applications. It attempts to address some of the same issues that Google&#8217;s <a target="_blank" href="http://www.dartlang.org/">Dart programming language</a> does, but without a radical departure from JavaScript.</p>
+<p>Like <a target="_blank" href="http://coffeescript.org/">CoffeeScript</a>, TypeScript compiles to JavaScript, but that&#8217;s where the similarities end. Hejlsberg says TypeScript is actually largely based on the specifications of the <a target="_blank" href="https://brendaneich.com/tag/javascript-ecmascript-harmony-coffeescript/">next version of JavaScript</a> being developed by the ECMA committee.</p>
+<p>JavaScript started out as a simple scripting language for the Netscape browser, it was never intended to become a language for building large scale applications. Yet the rise of the web and HTML5 have made it into the standard language for client-side development, and Node.js has proved to be a popular way of writing JavaScript applications on the server side.</p>
+<p>Frameworks like <a target="_blank" href="http://backbonejs.org/">Backbone.js</a>, the <a href="http://techcrunch.com/2012/07/25/andreessen-horowitz-keeps-eating-the-software-world-with-11-2-million-investment-in-javascript-framework-company-meteor/">heavily venture funded</a> <a target="_blank" href="http://meteor.com/">Meteor</a> and <a target="_blank" href="http://www.nodejitsu.com/">Nodejitsu</a>&#8216;s <a target="_blank" href="http://flatironjs.org/">Flatiron</a> are also trying to address the issue of making it easier to develop modern JavaScript applications.</p>
+<p>TypeScript (like CoffeeScript) will actually work with existing frameworks and libraries &#8212; any JavaScript can just be pasted into TypeScript and should just work.</p>
+<p>Hejlsberg created Turbo Pascal, was the chief architect Delphi, is the lead architect of C# and LINQ. He developed TypeScript with Steve Lucco and Luke Hoban.</p>
+<p>Here&#8217;s a list of features:</p>
+<ul>
+<li>Optional static typing</li>
+<li>Class declarations</li>
+<li>Support for modules</li>
+<li>A Visual Studio plugin</li>
+</ul>
+<p>Asked whether Microsoft might do something to prioritize TypecSript in Internet Explorer, Lucco, the chief architect of IE&#8217;s JavaScript rendering engine Chakra, says no. Because most developers will only actually be putting TypeScript online, it&#8217;s not in Microsoft&#8217;s best interest to handicap JavaScript, and there won&#8217;t be any real way for IE to run TypeScript faster than any other browser can &#8212; apart from differences in their JavaScript rendering engines, of course.</p>
+<p><em>Image credit: <a target="_blank" href="http://www.flickr.com/photos/dmitry-baranovskiy/2378867408/">Dmitry Baranovskiy</a> / <a target="_blank" href="http://creativecommons.org/licenses/by/2.0/deed.en">CC</a></em></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/IHMmC3j5nLs/">here</a>.
