@@ -1,0 +1,17 @@
+{
+"title" : "State Of Mobile Ads: Rich Media Rules, Mobile Web Still In Play & Even RIM Makes A Showing",
+"date" : "Mon, 01 Oct 2012 14:00:49 +0000",
+"author" : "Sarah Perez"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/moj-map_us-parts-04.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="MOJ-MAP_US-parts-04" title="MOJ-MAP_US-parts-04" style="float: left; margin: 0 10px 7px 0;" /><p>New data from mobile ad network <a target="_blank" href="http://mojiva.com/">Mojiva</a> out this morning paints a picture of the state of mobile advertising, highlighting trends across its network from February to June of this year. Some high-level conclusions: rich media ads dominate, the mobile web shouldn&#8217;t be discounted, the majority of mobile ad requests came from Wi-Fi connections, and RIM is still a major player. (Well, in Europe, that is).</p>
+<p>The Mojiva ad network reaches over 1.1 billion devices worldwide and represents 8,000 mobile and tablet publishers and applications, to give you an idea of its reach.</p>
+<p>According to the report, rich media advertising will continue to grow dramatically over the years, with the network forecasting a 365% increase from 2012 to 2016. During the report&#8217;s cited time frame, rich media ads grew 30%.</p>
+<p><a href="http://techcrunch.com/?attachment_id=663910" rel="attachment wp-att-663910"></a>With the growth of the mobile app ecosystem, some may think that advertising on the mobile web would suffer, or at least not be as worthwhile. But Mojiva found otherwise. On its network, there has been a steady rise in mobile web ads, up from 27% in February 2012 to 37% in June. In North America, 62.6% of mobile ad requests are in-app, and 37.4% are mobile web. In France, Germany, Italy, Spain and the U.K., 62% of mobile ad requests are in-app and 38% are from the mobile web. In other words, very close percentages in those markets. But globally, the distribution is more even &#8211; 48.1% of ads were in-app vs. 51.9% on the mobile web.</p>
+<p>As for the iOS vs. Android vs. BlackBerry battles: globally, iOS accounted for 36% of ad requests, followed by Android (29%), then RIM (20%). RIM accounted for the majority of the ad requests in the EU5 (the five European countries listed above) at a surprising 51% share, while Android and iOS were at 23% each.</p>
+<p>In addition, the majority of ad requests (80%) were served over Wi-Fi connections, and nearly 90% of iOS devices were using Wi-Fi when browsing the web or using app.</p>
+<p><a href="http://techcrunch.com/?attachment_id=663912" rel="attachment wp-att-663912"></a></p>
+<p>As for which categories of apps are growing in popularity, Mojiva found that mobile gaming, entertainment and social networks were most popular in the U.S., with 23%, 20% and 11% of total ad impressions, respectively. Mobile shopping and m-commerce were also growing &#8211; the fastest of any category &#8211; up from 4% in April to 11% of total ad impressions in June.</p>
+<p><a href="http://techcrunch.com/?attachment_id=663914" rel="attachment wp-att-663914"></a></p>
+<p>More details will be in the full report, out today.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/5BqIh_pnDOA/">here</a>.
