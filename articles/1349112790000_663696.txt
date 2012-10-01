@@ -1,5 +1,5 @@
 {
-"title" : "Amazon Has Nothing To Worry – Oracle Will Never Win The Cloud Without Developers",
+"title" : "Amazon Has Nothing To Worry About. Oracle Will Never Win The Cloud Without Developers",
 "date" : "Mon, 01 Oct 2012 17:33:10 +0000",
 "author" : "Alex Williams"
 }
