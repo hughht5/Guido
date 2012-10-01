@@ -1,0 +1,14 @@
+{
+"title" : "The Bike Singularity Is Nigh: The Velo Bike Has An Open Source Brain",
+"date" : "Mon, 01 Oct 2012 14:16:07 +0000",
+"author" : "John Biggs"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/664b5b69-7f4d-4350-8c75-242a9cee4a75.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="664b5b69-7f4d-4350-8c75-242a9cee4a75" title="664b5b69-7f4d-4350-8c75-242a9cee4a75" style="float: left; margin: 0 10px 7px 0;" /><p>The Velo is still a bit of a pie-in-the-sky project but I&#8217;d totally be down with it if they made a few in real life. Designed to reduce the &#8220;problems&#8221; associated with biking &#8211; namely collisions and mapping &#8211; the bike/microprocessor system is fully electric and connects with your smartphone to perform some very interesting tricks.</p>
+<p>First, there&#8217;s collision avoidance that offers haptic feedback when you&#8217;re about to slam into something. The bike also works with your smartphone for built-in mapping and &#8220;drive by wire&#8221; control of your brakes and transmission. The creators hope to offer ubiquitous computing built-in for &#8220;data sensing, real-time intelligent tracking systems, dynamic routing, and social integration.&#8221;</p>
+<p>The founder, <a target="_blank" href="http://www.linkedin.com/pub/jack-al-kahwati/1/42a/89b">Jack Al-Kahwati</a> is an former Sikorsky and BAE engineer, which I suspect means that soon he&#8217;ll be able to add carbon fiber wings to this thing and make it fly you over traffic.</p>
+<p>I saw these guys <a target="_blank" href="http://makerfaire.com/pub/e/8836">at the NYC Maker Faire</a> and was really excited to see a svelte electric bike. Little did I know that these things were going to be far cooler than I imagined. The plan is to launch a Kickstarter in the next few months but a prototype is working now and the team is building out more features.</p>
+<span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/10/01/the-bike-singularity-is-nigh-the-velo-bike-has-an-open-source-brain/"></a></span>
+<p>Again, it&#8217;s still early to call it, but it&#8217;s definitely an ambitious and call hardware project.</p>
+<p><a target="_blank" href="http://velo.kickoffpages.com">Project Page</a> </p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/jahS9LEoP6A/">here</a>.
