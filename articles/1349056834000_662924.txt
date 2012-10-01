@@ -1,0 +1,82 @@
+{
+"title" : "An Analysis Of Market Demand For Web Programming Languages",
+"date" : "Mon, 01 Oct 2012 02:00:34 +0000",
+"author" : "Marc Gayle"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/marcgayle.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="MarcGayle" title="MarcGayle" style="float: left; margin: 0 10px 7px 0;" /><p><strong>Editor&#8217;s note:</strong> <em>Marc Gayle is a Rails developer and founder of <a target="_blank" href="http://5kmvp.com/">5KMVP</a>, where he builds Minimum Viable Products for just $5K. Follow him on <a target="_blank" href="https://twitter.com/marcgayle">Twitter</a>. </em></p>
+<p>A few months ago, I got the idea that one way to get leads for remote freelance gigs was to scour Craigslist. So after doing the manual work of &#8220;crawling&#8221; through at least 100 job postings by hand, I wrote a Ruby script to do the heavy lifting and filtering for me.</p>
+<p>Once I started looking through the data, some interesting things started jumping out at me. Even though I don&#8217;t actually live in the Valley (I live in Jamaica), I consume a lot of the news, blog posts, and articles that come from the Valley. Suffice to say, I am affected by the &#8220;Valley echo-chamber.&#8221; One side effect of that is an obsession with Ruby and Ruby on Rails as my development stack and a general expectation that the rest of the world has woken up to its beauty and elegance.</p>
+<p>Alas, much to my surprise, that is not the case.</p>
+<p>Before diving into the data, let me explain exactly what this script does. Throughout Craigslist, there are two URL subpaths that tend to have the majority of the web development freelance gigs: /cpg/ and /web/. So the script creates a list of all the cities on Craigslist (because CL doesn&#8217;t provide a clean, RESTful API that allows you to get this info easily) and then simply adds /cpg/ and /web/ to the end of that URL.</p>
+<p>Then, on each link, it checks to see if the current link actually has gigs posted in that city. The reason for this is that whenever there is no gig posted in the current city, what CL does is shows gigs from &#8220;Nearby cities.&#8221; To prevent duplication, the script automatically checks for that and eliminates those cities that don&#8217;t have uniquely posted gigs. However, it does not eliminate a gig that has the exact text and is posted in two different cities &#8211; because, well, I hadn&#8217;t gotten there yet.</p>
+<p>Once the script has a list of valid cities with gigs posted, then it starts to parse each of the links on the first page of those cities (i.e. up to 100 links in each city &#8211; CL does pagination by the 100 links) for keywords that I specified. The upside to only using the last 100 links in each city is that those are the most recent. The downside is that in active cities, the last 100 links aren&#8217;t always a good sample from the entire population.</p>
+<p>For the Rails results, I have the following keywords: rails, (ruby on rails), (ruby on rails 3), (rails 3), (rails 2).</p>
+<p>For the Ruby results, I have the following keywords: ruby, (ruby 1.8.7), (ruby 1.9.2), (ruby 1.9.3), ruby187, ruby192, ruby193.</p>
+<p>The searches are case-insensitive, so any link containing Ruby, rUbY or RUBY will be found and included. I am trying to capture every permutation that someone would use &#8220;Rails&#8221; in a web dev sense.</p>
+<p>The downside to this basic approach is that for technologies that share similar keywords &#8211; e.g. Ruby on Rails (the framework) and Ruby (the language) &#8211; there will be overlap. So in this case, the Ruby results contain a ton of Rails links, i.e. Rails is basically a subset of Ruby.</p>
+<p>I have done my best to fine-tune as many obviously spam-like CL posts out of the results to really get at the legitimate posts.</p>
+<p><strong>So it is fair to say, I think, that these results give us a relative proxy for what the marketplace for freelance programming gigs is actually looking for.</strong></p>
+<p>Without further ado, here is the data and analysis.</p>
+<h6>General Stats</h6>
+<ul>
+<li>Cities Parsed: 720</li>
+<li>Total Gigs Found: 11,992-12,076 (scripts were run multiple times &#8211; for accuracy purposes &#8211; and the results returned were within this range)</li>
+<li>Time Script Takes to Run: 16 minutes-1.25 hours</li>
+</ul>
+<h6>Languages Searched For</h6>
+<p><strong>Server-Side Languages and Frameworks</strong></p>
+<ul>
+<li>C# (C-Sharp)</li>
+<li>CodeIgniter (PHP Framework)</li>
+<li>Django (Python Framework)</li>
+<li>Dot-Net</li>
+<li>Java</li>
+<li>Lisp</li>
+<li>Perl</li>
+<li>PHP</li>
+<li>Python</li>
+<li>Rails (Ruby Framework)</li>
+<li>Ruby</li>
+</ul>
+<p><strong>Client-Side Languages and MVC Frameworks<br />
+</strong><br />
+<strong>Batch 1 &#8211; Languages</strong></p>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>Javascript</li>
+<li>Flash</li>
+</ul>
+<p><strong>Batch 2 &#8211; JavaScript MVC Frameworks</strong></p>
+<ul>
+<li>Backbone.js</li>
+<li>Closure</li>
+<li>Ember.js</li>
+<li>Knockout.js</li>
+<li>Node.js</li>
+</ul>
+<p><a href="http://techcrunch.com/?attachment_id=662936" rel="attachment wp-att-662936"></a></p>
+<p><a href="http://techcrunch.com/?attachment_id=662940" rel="attachment wp-att-662940"></a></p>
+<p>On the server side, you can see that PHP wins by a long shot, with an almost <a target="_blank" href="http://www.youtube.com/watch?v=2O7K-8G2nwU">Bolt-like</a> performance, blowing everybody else out of the water. In fact, Ruby comes in at a paltry fifth place, Java comes in second, and Dot-Net and C# come in third and fourth, respectively.</p>
+<p><a href="http://techcrunch.com/?attachment_id=662942" rel="attachment wp-att-662942"></a></p>
+<p><a href="http://techcrunch.com/?attachment_id=662943" rel="attachment wp-att-662943"></a></p>
+<p>The most surprising result from the above is that Flash is still in demand, even with all the &#8220;Flash is dead&#8221; rhetoric flying around the tech presses and blogs. It&#8217;s almost as much in demand as JavaScript! Who woulda thunk?!</p>
+<p><a href="http://techcrunch.com/?attachment_id=662945" rel="attachment wp-att-662945"></a></p>
+<p><a href="http://techcrunch.com/?attachment_id=662946" rel="attachment wp-att-662946"></a></p>
+<p>As for the JavaScript frameworks, there is a silent battle going on with the multitudes of JavaScript frameworks in existence and being released regularly. Here is where the unscientific-ness and imprecision of this little exercise rears its head again.</p>
+<p>Upon first glance at the results, the script says that Ember had an <a target="_blank" href="https://github.com/marcamillion/craigslist-ruby-crawler/blob/master/output/client-side/ember-gigs-Sep-28-2012.html#L2">output of 14 gigs</a>. However, because the keyword being searched for is &#8220;ember,&#8221; Ruby finds any string with a substring of &#8220;ember.&#8221; So it had <a target="_blank" href="https://github.com/marcamillion/craigslist-ruby-crawler/blob/master/output/client-side/ember-gigs-Sep-28-2012.html">14 links</a> with &#8220;Member&#8221; and &#8220;Membership&#8221; in the link title. Not one with Ember.js or the Ember we were looking for. So after I manually reviewed the links, 0 results were returned. So the only two client-side MVC frameworks that the script found that is in-demand is Backbone and Node. Both, just barely.</p>
+<p>That being said, please take that with a grain of salt. Here is an alternative data point for you. I was told by one of the founders of <a target="_blank" href="http://grouptalent.com/">GroupTalent</a> a few months ago that the largest demand from clients they are seeing is in fact for client-side JavaScript frameworks. Even more so than server-side frameworks.</p>
+<p>Below is the combined data:</p>
+<p style="text-align:center;"><a href="http://techcrunch.com/2012/09/30/an-analysis-of-market-demand-for-web-programming-languages/marcgayle7/" rel="attachment wp-att-662982"></a></p>
+<p><a href="http://techcrunch.com/2012/09/30/an-analysis-of-market-demand-for-web-programming-languages/marcgayle8/" rel="attachment wp-att-662985"></a></p>
+<h6><strong>Conclusion</strong></h6>
+<p>This post is not meant to start a flame war between the various camps. It is just an unscientific analysis of what the general marketplace (using Craigslist as a proxy for that marketplace) is looking for in web development talent.</p>
+<p>If you are considering learning one of these languages or frameworks, using what the marketplace requests is one factor to consider in your decision-making process. I wouldn&#8217;t necessarily encourage that, though. I certainly didn&#8217;t.</p>
+<p>I chose Ruby and Ruby on Rails  and love every minute of it. I would encourage you to try out various languages and see which you feel most comfortable with, because the vast majority of the time you spend in the language (assuming you really want to get better) will be non-billable stuff.</p>
+<p>In the <a target="_blank" href="http://5kmvp.com/">web applications I build</a> for clients at 5KMVP, I use Ruby and Ruby on Rails because that&#8217;s what I love. Clients have been satisfied and seem to love it, too.</p>
+<p>If you want me to do an analysis of anything else &#8211; say Mobile vs Server languages or anything else, let me know in the comments or drop me a line on <a target="_blank" href="http://twitter.com/marcgayle">Twitter</a>.</p>
+<p>If you found this interesting, you may find a piece <a target="_blank" href="http://marcgayle.com/how-dropbox-is-printing-money">I wrote about Dropbox</a>, or a <a target="_blank" href="http://marcgayle.com/hackers-guide-to-cashflow-vs-profit">guide to understanding cashflow vs profit</a>, similarly interesting.</p>
+<p>You can find the Ruby script I created <a target="_blank" href="https://github.com/marcamillion/craigslist-ruby-crawler">on GitHub</a><a>, along with some </a><a target="_blank" href="https://github.com/marcamillion/craigslist-ruby-crawler/tree/master/output">sample output files</a> that have a list of all the gigs generated for this article.</p>
+<p>Do look around, and if you submit any pull requests for any improvements you may have, the Karma Fairy shall multiply your lineage ten-fold and your seed shall outnumber the celestial bodies.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/q0Lcjgh4RBI/">here</a>.
