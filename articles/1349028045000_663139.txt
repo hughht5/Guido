@@ -20,5 +20,5 @@
 <p>One complaint that I had is in reference to the microUSB to USB cord shipped with the device. In no way is it long enough to attach the Zooka and charge it with your laptop USB port simultaneously. Since the Zooka uses Bluetooth, you could potentially plug it in and let sound come from somewhere other than your laptop, or you could even plug in the audio-input cord, but that get&#8217;s awfully wirey.</p>
 <p>Overall, the Zooka seems like a fine investment for anyone, like myself, who enjoys their TV and movie content on their computer but can never quite hear those important lines. However, I certainly wish the Bluetooth connection offered clearer audio for the price asked, $89. </p>
 <p>Here&#8217;s the product video:</p>
-<span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/09/30/zooka-wireless-bar/"></a></span>
+<span class='embed-youtube' style='text-align:center; display: block;'><iframe class='youtube-player' type='text/html' width='640' height='360' src='http://www.youtube.com/embed/vdtIBcn7XLw?version=3&#038;rel=1&#038;fs=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' frameborder='0'></iframe></span>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/XXV0y_oEM68/">here</a>.
