@@ -1,0 +1,36 @@
+{
+"title" : "Data Markets: The Emerging Data Economy",
+"date" : "Mon, 01 Oct 2012 00:00:17 +0000",
+"author" : "Gil Elbaz"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/gil-elbaz.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Gil Elbaz" title="Gil Elbaz" style="float: left; margin: 0 10px 7px 0;" /><p><strong>Editor&#8217;s note:</strong> <em>Gil Elbaz is an entrepreneur and pioneer of natural language technology. In 1998, he co-founded Applied Semantics, which developed contextual advertising products, including ASI&#8217;s AdSense. In 2003, Google acquired ASI, and after a four-year stint at Google, Gil found <a target="_blank" href="http://www.factual.com">Factual</a> in 2007. Follow him on <a target="_blank" href="https://twitter.com/gilelbaz">Twitter</a>. </em></p>
+<p>The term data market brings to mind a traditional structure in which vendors sell data for money. Indeed, this form of market is on the rise with companies large and small jumping in. Think of <a target="_blank" href="https://datamarket.azure.com">Azure Data Marketplace</a> (Microsoft), <a target="_blank" href="http://data.com/">data.com</a> (Salesforce.com), <a target="_blank" href="http://www.infochimps.com">InfoChimps.com</a>, and DataMarkets.com.</p>
+<p>While this model allows organizations to acquire valuable data, the term is evolving to include a variety of forms, each with varying degrees of adoption success. At the heart of it, data markets enable organizations to access data in new ways, where the currency does not only have to be money, but can be in the form of data or insight.</p>
+<p>There is also a trend where companies can outsource certain aspects of data management, especially around reference or canonical datasets, to a third party that specializes in assembling and curating datasets or creating value from data in other ways. As a result, new data economies are being formed where data can be created, accessed, rented, and perpetually maintained in a more simple and affordable way.</p>
+<p>The new forms of data markets are powered by the Internet’s ability to allow rapid collection and exchange of data as well as by APIs that can search for and deliver data exactly where it is needed.</p>
+<p>Consider the following examples:</p>
+<ul>
+<li><a target="_blank" href="http://www.jigsaw.com">Jigsaw</a> has created a data market in which individuals and organizations provide contact information in a central repository. Jigsaw curates that data and distributes in part and <em>en masse</em> in exchange for both data and money.</li>
+<li><a target="_blank" href="http://www.kaggle.com">Kaggle</a> allows companies to provide data to a community of data scientists who analyze the data to discover predictive, actionable insight and win incentive awards. Data and rewards are traded for innovation.</li>
+</ul>
+<p>The emergence of data markets has led companies to question the common “not-invented-here” attitude about data. If third parties can create and assemble valuable data, why not rent it rather than own it? If you don’t own the data, you also don’t have to maintain the data.</p>
+<p>Data markets are also changing attitudes about data as an asset that must be kept private. While some data will clearly always be proprietary, in many cases the largest amount of value will come from sharing data and getting some new type of value in return.</p>
+<p>Key questions for new participants to data markets include:</p>
+<ul>
+<li>What is the value of your data inside your organization?</li>
+<li>What is the risk in sharing it?</li>
+<li>What control do you over the data?</li>
+<li>What can you get in exchange for it?</li>
+<li>What role should you play in data markets?</li>
+</ul>
+<p>Modern data markets will employ a whole new generation of technology, processes, and data science that supersedes the previous generation of data management systems. These include:</p>
+<ul>
+<li><strong>Cloud computing:</strong> First of all, cloud computing is becoming widely adopted. Clusters can be spun up instantly with no lead time and expanded as needed to address unexpected ramps in demand. While the largest datasets can be expensive to manage within public clouds, the same core technology can be used to manage private clouds &#8211; offering a host of management and cost benefits.</li>
+<li><strong>Big data software:</strong> The Hadoop open source project has gained incredible steam, becoming the centerpiece of many new large scale efforts for distilling value from huge amounts of data. Established software companies like Microsoft and EMC/Greenplum as well as newer companies on the scene like Cloudera and Hortonworks are all working overtime to add value to the Hadoop stack with advanced management, cloud, and support offerings.</li>
+<li><strong>Data science and machine learning:</strong> Predictive modeling and machine learning is becoming part of a standard toolset when sorting through vast quantities of data to find patterns and relationships. Natural language processing and statistical techniques can be used to find relationships in unstructured data. All of these techniques are crucial as data volumes have grown dramatically.</li>
+<li><strong>APIs:</strong> The API is the glue that enables an application to integrate the appropriate slice of a large database or a sophisticated 3rd party data crunching capability &#8211; all in realtime. APIs also enable data to be collected in small or large chunks so that central curation workflows can be maintained with the utmost data freshness.</li>
+<li><strong>Crowdsourcing and social processes:</strong> Just as Twitter has enabled people to connect and communicate in new ways, data markets can use crowdsourcing and other social media-inspired methods to create new forms of sharing.</li>
+</ul>
+<p>The new data market model is still being evolved and accepted by the business community, but I predict over the next few years it will become the de facto standard for accessing and managing data.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/UwTZsNQR5zg/">here</a>.
