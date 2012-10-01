@@ -1,10 +1,10 @@
 {
-"title" : "Foursquare Updates iOS App, But No “New Features” Are Present. Perhaps A Bug Fix For Explore?",
+"title" : "Foursquare Updates iOS App, But No “New Features” Are Present. Perhaps A Bug Fix For “Explore”?",
 "date" : "Mon, 01 Oct 2012 23:12:53 +0000",
 "author" : "Drew Olanoff"
 }
 
-<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/6695616337_3c0be875b5_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="6695616337_3c0be875b5_z" title="6695616337_3c0be875b5_z" style="float: left; margin: 0 10px 7px 0;" /><p>Explore is becoming the focus for foursquare, you can tell that with every release and update that the company has made the last few months. Today, the <a target="_blank" href="http://itunes.apple.com/us/app/foursquare/id306934924?mt=8">iOS app</a> gets a simpler design treatment on the Explore tab, along with a new way to find cool places to go and eat.</p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/6695616337_3c0be875b5_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="6695616337_3c0be875b5_z" title="6695616337_3c0be875b5_z" style="float: left; margin: 0 10px 7px 0;" /><p>Explore is becoming the focus for foursquare, you can tell that with every release and update that the company has made the last few months. Recently, the <a target="_blank" href="http://itunes.apple.com/us/app/foursquare/id306934924?mt=8">iOS app</a> gets a simpler design treatment on the Explore tab, along with a new way to find cool places to go and eat.</p>
 <p>This appears to be a re-release of a previous update, perhaps with some bug fixes that aren&#8217;t documented in the following copy:</p>
 <blockquote><p>With this release, we&#8217;ve updated the Explore tab with a simpler design and brand new search categories to make finding great places even easier. Try it out!</p>
 <p>✭ Instantly see friends and top suggestions nearby<br />
@@ -14,5 +14,6 @@
 ✭ As always, get directions, menus, hours, photos, tips and more.</p>
 <p>It&#8217;s also way faster, with a bunch of design tweaks and under-the-hood performance improvements (including on your new iPhone 5 and iOS 6).
 </p></blockquote>
+<p>For the first time, I&#8217;ve played around with foursquare on the iPhone 5 and it is indeed blazingly fast. What did the company sneak into this update which prompted us to all update today? Things, maybe.</p>
 <p><a target="_blank" href="http://www.flickr.com/photos/nebulux/6695616337/sizes/l/">[Photo credit: Flickr]</a></p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/lm5cM8wJ0GM/">here</a>.
