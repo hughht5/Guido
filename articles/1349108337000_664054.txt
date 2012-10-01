@@ -1,5 +1,5 @@
 {
-"title" : "Google Wants To Make Your Site a Little Bit Faster With Its New Tag Manager",
+"title" : "Google Wants To Make Your Site a Little Bit Faster With Its New Tag Manager For Analytics And Marketing Tags",
 "date" : "Mon, 01 Oct 2012 16:18:57 +0000",
 "author" : "Ingrid Lunden"
 }
