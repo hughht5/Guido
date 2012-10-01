@@ -1,5 +1,5 @@
 {
-"title" : "Square Makes Its Second Acquisition; Buys Design Firm 80/20, Opens New York Office",
+"title" : "Payments Company Square Makes Its Second Acquisition; Buys Design Firm 80/20, Opens New York Office",
 "date" : "Mon, 01 Oct 2012 16:21:09 +0000",
 "author" : "Leena Rao"
 }
