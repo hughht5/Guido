@@ -4,7 +4,7 @@
 "author" : "Drew Olanoff"
 }
 
-<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/6695616337_3c0be875b5_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="6695616337_3c0be875b5_z" title="6695616337_3c0be875b5_z" style="float: left; margin: 0 10px 7px 0;" /><p>Explore is becoming the focus for foursquare, you can tell that with every release and update that the company has made the last few months. Recently, the <a target="_blank" href="http://itunes.apple.com/us/app/foursquare/id306934924?mt=8">iOS app</a> gets a simpler design treatment on the Explore tab, along with a new way to find cool places to go and eat.</p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/6695616337_3c0be875b5_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="6695616337_3c0be875b5_z" title="6695616337_3c0be875b5_z" style="float: left; margin: 0 10px 7px 0;" /><p>Explore is becoming the focus for foursquare. You can tell that with every release and update that the company has made the last few months. Recently, the <a target="_blank" href="http://itunes.apple.com/us/app/foursquare/id306934924?mt=8">iOS app</a> got a simpler design treatment on the Explore tab, along with a new way to find cool places to go and eat.</p>
 <p>This appears to be a re-release of a previous update, perhaps with some bug fixes that aren&#8217;t documented in the following copy:</p>
 <blockquote><p>With this release, we&#8217;ve updated the Explore tab with a simpler design and brand new search categories to make finding great places even easier. Try it out!</p>
 <p>✭ Instantly see friends and top suggestions nearby<br />
@@ -12,12 +12,11 @@
 ✭ Search for whatever you&#8217;re craving, like &#8220;Mexican&#8221; or &#8220;nachos&#8221;<br />
 ✭ Try our new search categories! See only places you&#8217;ve saved to your lists, places you haven&#8217;t been to, places you have been to, or places friends have been.<br />
 ✭ As always, get directions, menus, hours, photos, tips and more.</p>
-<p>It&#8217;s also way faster, with a bunch of design tweaks and under-the-hood performance improvements (including on your new iPhone 5 and iOS 6).
-</p></blockquote>
-<p>For the first time, I&#8217;ve played around with foursquare on the iPhone 5 and it is indeed blazingly fast. What did the company sneak into this update which prompted us to all update today? Things, maybe.</p>
+<p>It&#8217;s also way faster, with a bunch of design tweaks and under-the-hood performance improvements (including on your new iPhone 5 and iOS 6).</p></blockquote>
+<p>For the first time, I&#8217;ve played around with foursquare on the iPhone 5 and it is indeed blazingly fast. What did the company sneak into this update that made us all act? Things, maybe.</p>
 <p>Perhaps there were some hidden things, such as algorithm hook tweaks, as this fella suggests:</p>
 <blockquote class='twitter-tweet' lang='en'><p>@<a href="https://twitter.com/TechCrunch">TechCrunch</a> @<a href="https://twitter.com/thatdrew">thatdrew</a> I honestly don&#039;t notice much difference. Seems more like its &quot;picking&quot; places based on my &quot;preferences.&quot;</p>&mdash; <br />Morton Levitt (@levitm1) <a href='http://twitter.com/#!/levitm1/status/252911377008689152' data-datetime='2012-10-01T23:22:25+00:00'>October 01, 2012</a></blockquote>
-<p><b>UPDATE:</b> Seems like foursquare tried to slip in a few bug fixes:</p>
+<p><strong>UPDATE:</strong> Seems like foursquare tried to slip in a few bug fixes:</p>
 <blockquote class='twitter-tweet' lang='en'><p>@<a href="https://twitter.com/thatdrew">thatdrew</a> it was just some small bug fixes, so we left in the old copy (as not everyone had updated to 5.3 yet). sorry for the confusion.</p>&mdash; <br />Jon Steinback (@itsmejon) <a href='http://twitter.com/#!/itsmejon/status/252913285760966656' data-datetime='2012-10-01T23:30:00+00:00'>October 01, 2012</a></blockquote>
 <p><a target="_blank" href="http://www.flickr.com/photos/nebulux/6695616337/sizes/l/">[Photo credit: Flickr]</a></p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/lm5cM8wJ0GM/">here</a>.
