@@ -4,7 +4,7 @@
 "author" : "Jordan Crook"
 }
 
-<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/netflix-logo.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="netflix-logo" title="netflix-logo" style="float: left; margin: 0 10px 7px 0;" /><p>Netflix has just launched its &#8220;Just For Kids&#8221; user interface on the iPad, combining two of kids&#8217; favorite things: the iPad and cartoons. </p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/netflix-logo.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="netflix-logo" title="netflix-logo" style="float: left; margin: 0 10px 7px 0;" /><p>Netflix has <a target="_blank" href="http://blog.netflix.com/2012/10/netflix-just-for-kids-now-on-ipad.html">just launched</a> its &#8220;Just For Kids&#8221; user interface on the iPad, combining two of kids&#8217; favorite things: the iPad and cartoons. </p>
 <p>The Just For Kids UI was <a href="http://techcrunch.com/2011/08/16/netflix-now-for-kids/">first debuted</a> back in August of 2011, and has since made its way to the <a href="http://techcrunch.com/2012/08/08/netflix-just-for-kids-xbox-360/">Xbox</a> and various Bluray players and smart TVs. </p>
 <p>But children tend to really enjoy the iPad&#8217;s touch interface, but without any parental controls within the app, you never know when your ten-year-old could go from Phineas &amp; Ferb cartoons to Family Guy. </p>
 <p>In other words, it only makes sense for Netflix to choose the iPad as the first device to get the mobile version of this Kid-friendly UI. </p>
