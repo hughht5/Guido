@@ -1,0 +1,13 @@
+{
+"title" : "Klout CEO Joe Fernandez Responds To Criticsim, Talks Job Descriptions That Include Score “Requirements” [TCTV]",
+"date" : "Mon, 01 Oct 2012 22:20:22 +0000",
+"author" : "Drew Olanoff"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/joeklout.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="joeklout" title="joeklout" style="float: left; margin: 0 10px 7px 0;" /><p>Over the weekend, I wrote a post about <a href="http://techcrunch.com/2012/09/29/klout-would-like-potential-employers-to-consider-your-score-before-hiring-you-and-thats-stupid/">Salesforce telling potential job applicants that one of its &#8220;desired skills&#8221; was having a Klout score of 35 or more</a>. Needless to say, I found this to be a bit unsettling, as I instantly imagined other companies forcing this into their own job applications.</p>
+<p>Whether you agree with what Klout does or not, and for the most part, I don&#8217;t, it&#8217;s a hot space. I&#8217;m not a fan of &#8220;class systems&#8221; and people feeling good or bad about some arbitrary score.  </p>
+<p>As soon as my post was published, Klout&#8217;s CEO, Joe Fernandez, tweeted to me about how HR people are using Klout at companies. I asked him to come to our office and discuss it with me, and he graciously accepted. I also got to ask him about the rumors that the company had manually adjusted scores for people who complained loudly that theirs was too low.</p>
+<p>Have a watch:</p>
+			<script type="text/javascript" src="http://pshared.5min.com/Scripts/PlayerSeed.js?sid=577&amp;width=640&amp;height=450&amp;colorPallet=%230A9600&amp;hasCompanion=false&amp;relatedMode=2&amp;videoControlDisplayColor=%23000000&amp;playList=517494025&amp;shuffle=0&amp;videoGroupID=133503&amp;autoStart=false&amp;playerActions=16407"></script>
+<p>Klout is most certainly a lightning rod, and at least Fernandez isn&#8217;t backing down from a good argument or discussion.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/z_XgeVPh9dc/">here</a>.
