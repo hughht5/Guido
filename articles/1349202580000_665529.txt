@@ -1,0 +1,18 @@
+{
+"title" : "Google’s Motorola Unexpectedly Withdraws Its Latest ITC Complaint Against Apple",
+"date" : "Tue, 02 Oct 2012 18:29:40 +0000",
+"author" : "Frederic Lardinois"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/02/motorola_mobility.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="motorola_mobility" title="motorola_mobility" style="float: left; margin: 0 10px 7px 0;" /><p>In August, Google&#8217;s Motorola Mobility <a href="http://techcrunch.com/2012/08/18/motorolas-patent-lawsuit-against-apple-targets-siri-location-reminders-email-notifications-more/">filed a patent-infringement lawsuit against Apple</a> with the U.S. International Trade Commission (ITC), asking to ITC to basically ban the import of virtually all of Apple&#8217;s hardware products. A few weeks ago, the ITC decided to formally investigate these claims. Now, however, Motorola has unexpectedly withdrawn its complaint.</p>
+<p>Google&#8217;s Motorola Unexpectedly Withdraws Its Latest ITC Complaint Against Apple</p>
+<p>FOSS Patent&#8217;s Florian Mueller has the <a target="_blank" href="http://www.fosspatents.com/2012/10/googles-motorola-mobility-withdraws-its.html">full text of Google&#8217;s filing</a>, which the ITC published earlier today:</p>
+<blockquote><p><strong>UNOPPOSED MOTION TO TERMINATE OF COMPLAINANTS MOTOROLA MOBILITY LLC, MOTOROLA MOBILITY IRELAND AND MOTOROLA MOBILITY INTERNATIONAL</strong></p>
+<p>Under 19 C.F.R. § 210.21(a), Complainants Motorola Mobility LLC, Motorola Mobility Ireland, and Motorola Mobility International Limited (collectively, &#8216;Motorola&#8217;) hereby move to terminate all claims in this investigation without prejudice based on Motorola&#8217;s withdrawal of the complaint, with Motorola and Apple each bearing their own costs and attorneys&#8217; fees. There are no agreements between Motorola and Apple, written or oral, express or implied, concerning the subject matter of this investigation. Respondent Apple Inc. and the Office of Unfair Import Investigations Staff Attorney have confirmed that they do not oppose this motion.</p></blockquote>
+<p>As none of the <a href="http://techcrunch.com/2012/08/20/motorolas-new-patent-lawsuit-against-apple-the-details/">seven patents</a> involved in this complaint were standards essential, most pundits assumed that Google actually stood at least a small chance to get the ITC to ban some of Apple&#8217;s imports.</p>
+<p>Typically, as Mueller notes, a withdrawal like this would indicate that the two parties reached some kind of settlement. The motion, however, clearly states that &#8220;there are no agreements between Motorola and Apple, written or oral, express or implied, concerning the subject matter of this investigation.&#8221;</p>
+<p>Why exactly Motorola decided to withdraw the complaint remains a bit of a mystery. Maybe, Mueller speculates, Motorola&#8217;s issues with tracking down certified copies of all of the necessary documents had something to do with this, or maybe Motorola thought it couldn&#8217;t win the lawsuit.</p>
+<p>We have asked Motorola for a comment about why it withdrew the complaint and will update this story once we hear more.</p>
+<iframe class="scribd_iframe_embed" src="http://www.scribd.com/embeds/108744145/content?start_page=1&view_mode=&access_key=key-2dlzod5foo8p89mqwjt" data-auto-height="true" scrolling="no" id="scribd_108744145" width="100%" height="500" frameborder="0"></iframe>
+<div style="font-size:10px;text-align:center;width:100%"><a href="http://www.scribd.com/doc/108744145">View this document on Scribd</a></div>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/nArQ8NCyoyI/">here</a>.
