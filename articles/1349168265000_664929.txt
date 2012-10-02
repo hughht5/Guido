@@ -4,15 +4,15 @@
 "author" : "Mike Butcher"
 }
 
-<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-02-at-09-57-59.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-10-02 at 09.57.59" title="Screen Shot 2012-10-02 at 09.57.59" style="float: left; margin: 0 10px 7px 0;" /><p>Streaming music service <a target="_blank" href="http://Rdio.com">Rdio</a>, currently being trumped in North America by <a target="_blank" href="http://Spotify.com">Spotify</a>, probably needs to incentive its partners more, especially given the complains from labels and artists about the low monetization available on Spotify. Thus today it&#8217;s introducing the &#8216;Rdio Artist Program&#8217; which they say is the first of a kind program offers a new way for artists to directly earn money from streaming music. </p>
-<p>The idea is that artists can share their own music and their music recommendations with fans, earning $10 for each new subscriber they attract to Rdio through social sharing. This incentivises artists to pull their fans into the service of course. </p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-02-at-09-57-59.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-10-02 at 09.57.59" title="Screen Shot 2012-10-02 at 09.57.59" style="float: left; margin: 0 10px 7px 0;" /><p>Streaming music service <a target="_blank" href="http://Rdio.com">Rdio</a>, currently being trumped in North America by <a target="_blank" href="http://Spotify.com">Spotify</a>, probably needs to incentive its partners more, especially given the complains from labels and artists about the low monetization available on Spotify. Thus today it&#8217;s introducing the &#8216;Rdio Artist Program&#8217; which they say is the first of a kind program offering a new way for artists to directly earn money from streaming music.</p>
+<p>The idea is that artists can share their own music and their music recommendations with fans, earning $10 for each new subscriber they attract to Rdio through social sharing. This incentivises artists to pull their fans into the service of course.</p>
 <p>Here are the other benefits</p>
-<p>●     10 USD for every new subscriber brought to the service (&#8220;for at least one month&#8221;)<br />
-●     Real-time referral stats on visitors and subscribers<br />
-●     Rdio artist page customization options<br />
-●     Tools for trackable link creation and embeddable players for any Rdio music content<br />
-●     Access to tips, help documentation and Rdio support</p>
-<p>The new feature goes live in in all 14 countries where Rdio is available and any artist with an existing artist page is eligible to join. Rdio is launching the program with Scissor Sisters, Snoop Dogg aka Snoop Lion, A-Trak, Chromeo and Brendan Benson.</p>
-<p>Given that some of these artists can pull in new followers by the thousands per day on their Twitter and Facebook feeds, this new Rdio feature could be a reasonably significant income. </p>
+<p>● 10 USD for every new subscriber brought to the service (&#8220;for at least one month&#8221;)<br />
+● Real-time referral stats on visitors and subscribers<br />
+● Rdio artist page customization options<br />
+● Tools for trackable link creation and embeddable players for any Rdio music content<br />
+● Access to tips, help documentation and Rdio support</p>
+<p>The new feature goes live in all 14 countries where Rdio is available and any artist with an existing artist page is eligible to join. Rdio is launching the program with Scissor Sisters, Snoop Dogg aka Snoop Lion, A-Trak, Chromeo and Brendan Benson.</p>
+<p>Given that some of these artists can pull in new followers by the thousands per day on their Twitter and Facebook feeds, this new Rdio feature could be a reasonably significant income.</p>
 <p>Though how much they earn in terms of the lifetime value of a fan is unclear. I daresay most artists would prefer something along the lines of the YouTube model where your archive continues to earn money for your based on advertising set against your content.</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/DBKMFS7twII/">here</a>.
