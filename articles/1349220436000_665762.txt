@@ -16,4 +16,5 @@
 <p>The product definitely has its bugs and faults. Some stories are just boring, while others are confusing, leading you to wonder what tidbits Taploid pulled together to make the wrong assumption that your nerdy friend is a heartbreaker. Still, the 2500 person private alpha had people frequently returning for the latest edition of their Taploid.</p>
 <p>That makes sense when you consider gossip magazines are reportedly an $85 billion market. What&#8217;s interesting is the potential for Taploid to update the medium.</p>
 <p>Without personalization technology, the world settled on knowing everything about the lives of a small set of celebrities. But thanks to algorithms and APIs, Taploid can learn just as much about normal people. Suddenly, fame becomes subjective, and with Taploid, Snodgrass says &#8221;your friends are your own personal celebrities.&#8221;</p>
+<p><em><a target="_blank" href="http://www.thetaploid.com/">The Taploid is now taking signups</a> for its public beta, though there might be a short wait depending on demand.</em></p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/UR_vhs8YCM0/">here</a>.
