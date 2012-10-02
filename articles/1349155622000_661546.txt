@@ -40,7 +40,7 @@
 </ul>
 <p>Events like Structure give context about the market and how it is maturing. Compared to last year,  the scope of the infrastructure has changed. Software-defined networking has emerged as a major trend as apps and app platforms have exploded and an unprecedented amount of data is now being produced by millions of people.</p>
 <p>Businesses, especially in foreign markets, are still trying to understand how to manage their data and if they should invest in tightly integrated solutions from companies like IBM or more distributed, elastic services from Amazon Web Services and other major providers.  What it comes down to is a strategic decision. Companies are struggling to understand what to do.</p>
-<p>There is this sense that Europe is more pragmatic about its infrastructure choices.  It&#8217;s this European pragmatism that reflects in their policies and approach to entrepreneurialism.  When I meet with big software company executives they don&#8217;t talk about European pragmatism but they do discuss Europe&#8217;s policies about restricting data movement across borders. They point to it as a reason for not diving deeper into being service providers.</p>
+<p>There is this sense that Europe is more pragmatic about its infrastructure choices. It&#8217;s this European pragmatism that reflects in their policies and approach to entrepreneurialism. When I meet with big software company executives they don&#8217;t talk about European pragmatism but they do discuss Europe&#8217;s policies about restricting data movement across borders. They point to it as a reason for not diving deeper into being service providers.</p>
 <p>I have quite a few questions about how these companies will handle the industry shift:</p>
 <ul>
 <li>How will the European Commission&#8217;s recommendations to invest more spur greater cloud adoption?</li>
@@ -50,5 +50,5 @@
 <li>What about big data?</li>
 <li>VMware or AWS?</li>
 </ul>
-<p>And hopefully I&#8217;ll get to ask them in Amsterdam. If you&#8217;d like to join me, at a discount, GigaOm  is offering 40% off for TechCrunch readers who use <a target="_blank" href="http://structureeurope2012.eventbrite.com/?discount=TC40OFF">this registration link.</a></p>
+<p>And hopefully I&#8217;ll get to ask them in Amsterdam. If you&#8217;d like to join me, at a discount, GigaOm is offering 40% off for TechCrunch readers who use <a target="_blank" href="http://structureeurope2012.eventbrite.com/?discount=TC40OFF">this registration link.</a></p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/a4Kzk3cCi6Y/">here</a>.
