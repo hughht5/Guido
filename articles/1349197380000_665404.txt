@@ -12,7 +12,7 @@
 <p></p>
 <p>That&#8217;s in contrast to the international picture as painted by Kantar Worldpanel ComTech. The WPP-owned analysts chart smartphone purchases, and there it is noticing some gains being made by Windows Phone, particularly in Europe.</p>
 <p>comScore also charts what people are using devices for, and while it looked like text messaging continues to be the most popular activity, with 75.6% of all users sending texts. The quarter before texting growth was flat; this time around it&#8217;s picked up a little steam once again, up by 0.8 percentage points. But it&#8217;s not growing as fast as app usage or using the mobile web, these both grew by more than 2 percentage points, with app downloading done by 53.4% of all users, and mobile web being used by 52%. Social networking, games and music rounded out the top 5.</p>
-<p>What&#8217;s perhaps most notable about this list is that it covers both smartphone and feature phone owners. In other words, &#8220;advanced&#8221; services beyond basic voice and text are becoming mainstream and easy enough to access even on low-end devices that we are seeing an overall growth in usage.</p>
+<p>What&#8217;s perhaps most notable about this list is that it covers both smartphone and feature phone owners. In other words, &#8220;advanced&#8221; services beyond basic voice and text are becoming mainstream and easy enough to access even on low-end devices that we are seeing an overall growth in a critical mass using them.</p>
 <p></p>
 <p>Photo <a target="_blank" href="http://www.flickr.com/photos/quinnanya/5005179264/sizes/m/in/photostream/">Flickr</a></p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/VNgI9h457No/">here</a>.

@@ -6,16 +6,16 @@
 
 <img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/modx_logo.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="modx_logo" title="modx_logo" style="float: left; margin: 0 10px 7px 0;" /><p>Today open source content management company <a target="_blank" href="http://modx.com">MODx</a> is launching a <a target="_blank" href="https://modxcloud.com/">hosted cloud service</a> to commercialize the product, much as <a target="_blank" href="http://www.acquia.com/">Acquia</a> and <a target="_blank" href="http://wordpress.com">WordPress.com</a> have done for <a target="_blank" href="http://drupal.org">Drupal</a> and <a target="_blank" href="http://wordpress.org">WordPress</a>.</p>
 <p>MODx started out as a volunteer open source project in 2004, but also became a company in 2010 after its first user conference. The service is focused mostly on attracting agencies that build websites for clients and emphasizes the ability to extensively customize the appearance and structure of a site.</p>
-<p>Users can just sign-up for an account and start building sites for their clients without ever worrying about what&#8217;s under the hood, but for those who want it MODx is trying to add a much deeper layer of customization than I&#8217;m used to seeing from hosted web CMSes.</p>
+<p>Users can just sign up for an account and start building sites for their clients without ever worrying about what&#8217;s under the hood, but for those who want it, MODx is trying to add a much deeper layer of customization than I&#8217;m used to seeing from hosted web CMSes.</p>
 <p>The service runs on <a target="_blank" href="http://www.softlayer.com/">SoftLayer</a>&#8216;s infrastructure. And much like <a target="_blank" href="https://pagodabox.com/">PagodaBox</a> (<a href="http://techcrunch.com/2012/09/11/pagoda-box-is-easier-than-amazon-web-services-but-more-customizable-than-heroku/">coverage</a>), the <a target="_blank" href="https://modxcloud.com/">MODx Cloud</a> is attempting to blur the lines between different types of cloud computing. In MODx&#8217;s case, there are advanced features that enable users to manage the underlying cloud infrastructure and even install additional software if they so choose.</p>
 <p>Some of the features include:</p>
 <ul>
 <li>The ability to take a &#8220;snapshot&#8221; of a configuration and save it to be used as a template for projects. Users will also be able to buy and sell these snapshots.</li>
-<li>Scheduled backups</li>
-<li>A dashboard that lets users see the load on various servers, and manage infrastructure.</li>
+<li>Scheduled backups.</li>
+<li>A dashboard that lets users see the load on various servers and manage infrastructure.</li>
 <li>The ability to control version upgrades through a one-click process.</li>
 </ul>
-<p>Not only is the service hosted by SoftLayer, but MODx also participated in SoftLayer&#8217;s <a target="_blank" href="http://www.softlayer.com/partners/catalyst">Catalyst</a> startup incubator as well.</p>
+<p>Not only is the service hosted by SoftLayer, but MODx also participated in SoftLayer&#8217;s <a target="_blank" href="http://www.softlayer.com/partners/catalyst">Catalyst</a> startup incubator.</p>
 <p></p>
 <p></p>
 <p></p>
