@@ -1,0 +1,24 @@
+{
+"title" : "Microsoft Co-Founder Paul Allen Reviews Windows 8: Elegant, Innovative And Puzzling",
+"date" : "Tue, 02 Oct 2012 16:11:57 +0000",
+"author" : "Frederic Lardinois"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/book.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Book" title="Book" style="float: left; margin: 0 10px 7px 0;" /><p>A few days ago, Microsoft co-founder <a target="_blank" href="http://en.wikipedia.org/wiki/Paul_Allen#Microsoft">Paul Allen</a> quietly published <a target="_blank" href="http://www.paulallen.com/TemplateGeneric.aspx?contentId=21">an extensive review of Windows 8</a>. In it, Allen &#8211; who resigned from the Microsoft board in 2000 but still consults for the company &#8211; calls Windows 8 &#8220;a significant evolutionary milestone in Windows development,&#8221; but his praise mostly focuses on the tablet experience. On the tablet, he says, Windows 8 is &#8220;bold and innovative&#8221; and unlike many reviewers, he is &#8220;impressed&#8221; with &#8220;the clever integration of a bimodal interface to simultaneously support both desktop and tablet use in the same operating system.&#8221; Despite all of this, though, he also calls some aspects of Windows 8 &#8220;puzzling.&#8221;</p>
+<h2>&#8220;I did encounter some puzzling aspects of Windows 8.&#8221;</h2>
+<p>On thing that especially seems to irk Allen is the fact that some apps, including Internet Explorer, come in both Metro and desktop mode versions. These different apps don&#8217;t necessarily talk to each other and are, as Allen notes, &#8220;different applications that share the same name and can be used for the same purpose.&#8221;</p>
+<p>Another feature Allen (and virtually everybody else outside of Microsoft) is a bit puzzled by is the fact that you can&#8217;t set Windows 8 to set the desktop mode as your default view instead of the Metro-style Start menu. &#8220;The goal must have been to encourage people to acclimatize to <em>Windows 8 style</em> immediately. Third party workarounds will no doubt appear soon to bypass this step. &#8220;</p>
+<p>Allen also notes that Windows 8 <a target="_blank" href="http://www.winsupersite.com/article/windows8/windows-8-feature-focus-charms-142999">Charms</a>, the additional options that appear when you swipe to the left from the right side of the screen on a tablet or move your mouse to the right hand corner, are hard to find &#8220;as there are no visual cues as to how you display it.&#8221;</p>
+<p>Here are a few additional things Allen finds puzzling about Windows 8:</p>
+<ul>
+<li>Difficulties with multiple monitors (including the inability to persistently display the Start screen on one screen)</li>
+<li>Silo effect between Desktop and Windows 8 style</li>
+<li>Inadvertently switching modes</li>
+<li>Inability to build hierarchies on the Start screen</li>
+<li>Difficult to scroll in Desktop view on a tablet</li>
+<li>No clock on the Start screen</li>
+<li>On-screen keyboard doesn&#8217;t appear automatically in Desktop view</li>
+</ul>
+<p>Despite all of this Allen believes desktop users will, &#8220;with only minor tweaks and adjustments,&#8221; be able to get a hang of things pretty quickly. He also thinks most of the issues he points out in his review will be fixed in the next release. Mostly, though, he seems excited about the future of Windows 8 on the tablet. He calls the tablet interface &#8220;elegant&#8221; and &#8220;responsive&#8221; &#8211; something he can&#8217;t get himself to say about the desktop experience.</p>
+<p>Microsoft clearly also believes that touch is the way of the future and Windows 8 shows the company&#8217;s willingness to move in this direction, despite the fact that this means most business users won&#8217;t upgrade their Windows 7 machines anytime soon.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/5jDiVJ9H2-k/">here</a>.
