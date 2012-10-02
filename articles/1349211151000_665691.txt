@@ -1,0 +1,9 @@
+{
+"title" : "Scaring Users Into Buying Bogus AntiVirus And Porn Scrubbing Software Gets 160M Fine",
+"date" : "Tue, 02 Oct 2012 20:52:31 +0000",
+"author" : "Gregory Ferenstein"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/scareware_sysdefscan_crop11.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="scareware_sysdefscan_crop1" title="scareware_sysdefscan_crop1" style="float: left; margin: 0 10px 7px 0;" /><p>The <a target="_blank" href="http://arstechnica.com/tech-policy/2012/10/ftc-gets-a-163-million-judgment-against-scareware-operation/">Federal Trade Commission brought the hammer down</a> on predatory advertisers who scare users into believing that their system is infected with virus and porn. The peddlers of so-called &#8220;scareware&#8221; are facing a $163 million fine for  misrepresenting &#8221;expressly or by implication, that they had conducted scans of consumers’ computers and detected security or privacy issues, including viruses, spyware, system errors, and pornography.&#8221; Users who surf the internet enough will recognize scareware advertisements as the ones pretending to have found malicious content on their computer and then, conveniently, offer an expensive solution ($30-$100) to fix it.</p>
+<p>Scareware crime bosses, Kristy Ross, Sam Jain, Daniel Sundin will jointly share the lion share of the fine, which is nearly triple the amount ($60M) the team took in from 2000 to 2008. The full opinion can be read here [<a target="_blank" href="http://www.ftc.gov/os/caselist/0723137/121002winfixeropinion.pdf">PDF</a>]. The lesson here is don&#8217;t be a jerk: the government will, rightly so, bring on the pain.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/l5Rbdz-11gk/">here</a>.
