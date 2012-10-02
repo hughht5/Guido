@@ -1,0 +1,11 @@
+{
+"title" : "Square Launches Code Camp Contest To Inspire Women Engineers",
+"date" : "Tue, 02 Oct 2012 16:00:19 +0000",
+"author" : "Leena Rao"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/square.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Square -" title="Square -" style="float: left; margin: 0 10px 7px 0;" /><p>Mobile payments company <a target="_blank" href="https://squareup.com/">Square</a> is hoping to inspire and find talented women engineers with its first annual <a target="_blank" href="https://squareup.com/form/f1f6b2cc31f">Code Camp Contest.</a> The company is hosting a three-day, expense-paid immersion program at Square’s San Francisco headquarters called Code Camp. Engineering students can <a target="_blank" href="https://squareup.com/form/f1f6b2cc31f">submit</a> a resume and essays about why they would like to be a part of the program online and fifteen female winners will be selected to participate.</p>
+<p>Square says the three-day program will include conversations and mentorship sessions with Square leaders, hands-on workshops with teams from across the company, Q&amp;A sessions, as well as tours around the beautiful and historic Bay Area. Contest winners will be flown to San Francisco and provided accommodations during their stay.</p>
+<p>Students have to be enrolled as a full-time student at a university in the US or Canada and must be pursuing a degree in computer science, computer engineering or a related technical major.</p>
+<p>Square joins a number of other companies in launching initiatives to help support female engineers. Twitter has been <a href="http://techcrunch.com/2012/09/03/twitter-bets-on-girls-who-code/">actively supporting Girls Who Code, </a> a new, New York-based initiative designed to help teach girls how to code so that they can pursue careers in technology and engineering.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/mZcYZGn_6wY/">here</a>.
