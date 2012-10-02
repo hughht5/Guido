@@ -1,0 +1,15 @@
+{
+"title" : "Flite Expands Its Rich Media Ad Platform To Mobile With Its Touch Ad Studio",
+"date" : "Tue, 02 Oct 2012 13:10:24 +0000",
+"author" : "Anthony Ha"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/touch-studio-1.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Touch Studio 1" title="Touch Studio 1" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.flite.com">Flite</a>, the ad platform <a href="http://techcrunch.com/2011/03/09/sequoia-backed-widgetbox-rebrands-as-flite-raises-12m-for-rich-media-ad-serving-platform/">backed by Sequoia Capital and others</a>, is expanding its services beyond the desktop web today with the launch of its new <a target="_blank" href="http://www.flite.com/touch/">Touch Ad Studio</a>.</p>
+<p>Judging from my conversation with the company and a quick demo of the touch product, this is very much an extension of what Flite is already doing. Like Flite&#8217;s existing product, Touch Ad studio allows companies to build ads without requiring much technical expertise. These ads incorporate rich media like animation, as well as real-time content like social network updates. And both the desktop and mobile campaigns can be assessed using Flite&#8217;s analytics.</p>
+<p>Tying the desktop and mobile products together is a big selling point, says CEO Will Price.</p>
+<p>&#8220;If you&#8217;re a VP of sales for a publisher, you can&#8217;t have that kind of bifurcated view,&#8221; he adds.</p>
+<p>At the same time, Touch Ad Studio&#8217;s ads are optimized for, yes, touch interfaces, and for the smaller screen size of mobile. The goal, Price says, is to allow publishers to support highly engaging ads that are designed specifically for a mobile environment, which could help combat the fact the mobile ads make significantly less money than desktop ads.</p>
+<p>For example, the Flite team walked me through the creation process for a small, animated banner — the same size as the ones you often see at the bottom of apps and mobile websites, but more attention-grabbing thanks to the animation. It was all built through Flite&#8217;s dashboard, with no coding required.</p>
+<p>For now, the platform only supports iOS devices, but the company plans to add Android soon.</p>
+<p>Flite desktop customers who say they&#8217;re going to be using Touch Ad Studio too include Wikia and Forbes. You can read more about <a target="_blank" href="http://www.flite.com/touch/">Touch Ad Studio here</a>.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/wjzD8LBD00s/">here</a>.
