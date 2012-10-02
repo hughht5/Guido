@@ -1,5 +1,5 @@
 {
-"title" : "Rdio Launches Program For Artists To Earn Cash By Attracting New Users, But Stops Shot Of YouTube’s Model",
+"title" : "Rdio Launches Program For Artists To Earn Cash By Attracting New Users, But Stops Short Of YouTube’s Model",
 "date" : "Tue, 02 Oct 2012 08:57:45 +0000",
 "author" : "Mike Butcher"
 }
