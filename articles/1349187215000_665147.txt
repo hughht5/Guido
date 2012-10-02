@@ -1,0 +1,12 @@
+{
+"title" : "Does This Mole Look Weird? This App Will Tell You",
+"date" : "Tue, 02 Oct 2012 14:13:35 +0000",
+"author" : "John Biggs"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-02-at-9-49-31-am.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-10-02 at 9.49.31 AM" title="Screen Shot 2012-10-02 at 9.49.31 AM" style="float: left; margin: 0 10px 7px 0;" /><p>An <a target="_blank" href="http://www.doctormole.com">app that tells you if your mole looks funny</a>? That&#8217;s stupid, right? But for folks who are walking around with little mole-shaped timebombs on their skin, understanding the difference between skin features and cancer is a pretty big deal. </p>
+<p>Doctor Mole allows you to scan moles (using an AR system that&#8217;s reminiscent of Star Wars) and assess the Asymmetry, Border, Color, Diameter and Evolution (ABCDE). You can also store images of the mole over time and be reminded every few weeks to check the mole again, thereby ensuring it&#8217;s not growing or changing.</p>
+<p>Australian programmer <a target="_blank" href="http://www.linkedin.com/profile/view?id=99473946&amp;authType=NAME_SEARCH&amp;authToken=_CgU&amp;locale=en_US&amp;srchid=9e4eeb20-9ca2-4c6f-8873-d66d9bc7d554-0&amp;srchindex=1&amp;srchtotal=3&amp;goback=%2Efps_PBCK_*1_Mark_Shippen_*1_*1_*1_*1_*2_*1_Y_*1_*1_*1_false_1_R_*1_*51_*1_*51_true_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2&amp;pvs=ps&amp;trk=pp_profile_name_link">Mark Shippen</a> built the app in his spare time. The app works on iOS, Android, and Windows Phone and is secure so your pictures don&#8217;t fall into the wrong hands. It obviously doesn&#8217;t replace a doctor&#8217;s consultation but it&#8217;s still a nice way to keep abreast of the thing on your breast.<br />
+<br />
+<a target="_blank" href="http://www.imedicalapps.com/2012/09/augmented-reality-doctormole-app-iphone/">via iMedicalApps</a> </p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/nVY6wnTl-kg/">here</a>.
