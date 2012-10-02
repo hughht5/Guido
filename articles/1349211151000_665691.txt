@@ -1,5 +1,5 @@
 {
-"title" : "Scaring Users Into Buying Bogus AntiVirus And Porn Scrubbing Software Gets 160M Fine",
+"title" : "Scaring Users Into Buying Bogus AntiVirus And Porn Scrubbing Software Gets $160M Fine",
 "date" : "Tue, 02 Oct 2012 20:52:31 +0000",
 "author" : "Gregory Ferenstein"
 }
