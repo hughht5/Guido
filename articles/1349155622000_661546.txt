@@ -1,7 +1,7 @@
 {
 "title" : "GigaOm’s Structure Europe Conference Will Dive Deep Into The Cloud",
 "date" : "Tue, 02 Oct 2012 05:27:02 +0000",
-"author" : "Alex Williams"
+"author" : "Alexia Tsotsis and Alex Williams"
 }
 
 <img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-01-at-10-25-00-pm.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-10-01 at 10.25.00 PM" title="Screen Shot 2012-10-01 at 10.25.00 PM" style="float: left; margin: 0 10px 7px 0;" /><p>We don&#8217;t often try to get the word out about conferences put on by other blogs here at TechCrunch, but we&#8217;re about to. Because reasons. Namely: 1) We, as TechCrunch, will probably never ever ever, ever ever host a European cloud-computing conference and someone sure as heck needs to. 2) The folks at Gigaom are our friends, particularly founder, thought leader and king of the kind of industry analysis that I personally wish I could do more of, <a target="_blank" href="https://twitter.com/om">Om Malik. </a></p>
