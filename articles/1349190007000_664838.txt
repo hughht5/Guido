@@ -1,0 +1,15 @@
+{
+"title" : "Foundation Video: Matt Rogers, Co-Founder Of Nest, Demos New Learning Thermostat",
+"date" : "Tue, 02 Oct 2012 15:00:07 +0000",
+"author" : "Kevin Rose"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/foundation-video_-matt-rogers-co-founder-of-nest-demos-new-learning-thermostat-techcrunch.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Foundation Video_ Matt Rogers, Co-Founder Of Nest, Demos New Learning Thermostat | TechCrunch" title="Foundation Video_ Matt Rogers, Co-Founder Of Nest, Demos New Learning Thermostat | TechCrunch" style="float: left; margin: 0 10px 7px 0;" /><p><i>Editor&#8217;s note:  TechCrunch TV is very pleased to welcome a new show to our lineup, <a target="_blank" href="http://www.crunchbase.com/person/kevin-rose">Kevin Rose&#8217;s</a> Foundation series.  Kevin, a partner at Google Ventures, has been producing high-quality, riveting one-on-one interviews with some of the tech world&#8217;s top entrepreneurs.</i>  </p>
+<p>I’m excited to announce that beginning today, TechCrunch will syndicate my <a target="_blank" href="http://foundation.kr/">Foundation video series</a> profiling founders and product luminaries.</p>
+<p>Our latest episode features <a target="_blank" href="http://www.nest.com/">Nest</a> co-founder Matt Rogers. Matt shows off the reinvented Nest Learning Thermostat, just announced today.  Matt was also an Apple iPhone engineer.  He also remembers his early days at Apple, including the next shipped click-wheel iPhone.</p>
+			<script type="text/javascript" src="http://pshared.5min.com/Scripts/PlayerSeed.js?sid=577&amp;width=640&amp;height=450&amp;colorPallet=%230A9600&amp;hasCompanion=false&amp;relatedMode=2&amp;videoControlDisplayColor=%23000000&amp;playList=517494415&amp;shuffle=0&amp;videoGroupID=133503&amp;autoStart=false&amp;playerActions=16407"></script>
+<p>Matt Rogers’ must-do advice for startups:<br />
+&#8220;Build your first core team right. For each of your core competencies of the company, you want to hire a seed crystal for that area — someone who can be hands-on, but also has the strategy and leadership to grow and build that organization.&#8221;</p>
+<p>For more Foundation videos, check out <a target="_blank" href="http://foundation.kr">http://foundation.kr</a>.</p>
+<p>You can read more about the new Nest thermostat in this <a href="http://techcrunch.com/2012/10/02/nest-labs-announces-20-slimmer-more-compatible-nest-learning-thermostat-ships-this-month/">TechCrunch post</a> from earlier today.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/-CWUY2-A95s/">here</a>.
