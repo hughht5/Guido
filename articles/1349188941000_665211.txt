@@ -1,0 +1,13 @@
+{
+"title" : "TripAdvisor Acquires Wanderfly To Continue Social Travel Push",
+"date" : "Tue, 02 Oct 2012 14:42:21 +0000",
+"author" : "Jordan Crook"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/tripadvisor.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="tripadvisor" title="tripadvisor" style="float: left; margin: 0 10px 7px 0;" /><p>TripAdvisor, a site that offers free guides and reviews for various traveling adventures, has just <a target="_blank" href="http://ir.tripadvisor.com/releasedetail.cfm?ReleaseID=710711">acquired</a> Wanderfly. </p>
+<p>TripAdvisor has been slowly but surely integrating more social layers to its platform, with <a href="http://techcrunch.com/2012/04/11/trip-advisor-friend-of-a-friend/">Friend of Friend</a> reviews and a <a href="http://techcrunch.com/2012/06/20/tripadvisor-local-picks/">Local Picks</a> Facebook app for restaurants. But the company&#8217;s acquisition of Wanderfly is taking that social integration to the next level. </p>
+<p><a target="_blank" href="http://www.wanderfly.com/">Wanderfly</a> is a site that aims to make the traveling experience, from planning to booking to actually traveling, the most personalized experience possible. After receiving <a href="http://techcrunch.com/2011/02/01/wanderfly-raises-1-million-for-social-travel-recommendation-engine/">$1 million in funding back in early 2011</a>, the company promised to add more social connectivity into the travel experience and has surely delivered. </p>
+<p>Wanderfly now lets you sign in with Facebook and add real friends to follow their travel wishlists and experiences. The site also lets you make recommendations about the city you live in, and see other people&#8217;s recommendations in an easy-to-use, beautiful UI. </p>
+<p>The terms of the acquisition have not been disclosed, but co-founder and CEO of TripAdvisor Steve Kaufer had this to say:</p>
+<blockquote><p>The Wanderfly team understands the value in social travel planning. They&#8217;re a great asset as we continue our developments in this area and I am delighted to welcome them to TripAdvisor.</p></blockquote>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/bxWfeyVVDXM/">here</a>.
