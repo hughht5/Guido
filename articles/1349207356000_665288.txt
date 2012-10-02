@@ -1,0 +1,26 @@
+{
+"title" : "Developer Services Lumped Together In The Oracle “Cloud” With Everything But The Kitchen Sink",
+"date" : "Tue, 02 Oct 2012 19:49:16 +0000",
+"author" : "Alex Williams"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/oraclecloud-1.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="oraclecloud-1" title="oraclecloud-1" style="float: left; margin: 0 10px 7px 0;" /><p>Oracle made a gesture to developers today with a new platform play it unveiled at Oracle OpenWorld. But a closer look shows Oracle is lumping developer services with every possible &#8220;cloud&#8221; offering you can imagine that the company sells. It&#8217;s all of course still on the Oracle cloud, a beast of sorts &#8211; part cloud, part hosted and something in between.</p>
+<p>You name it, Oracle says it has it: Platform as a Service (PaaS), Database as a Service (DBaaS), Software as a Service (SaaS) and Social/CRM are all part of the mix. Here&#8217;s the laundry list from an Oracle press release:</p>
+<ul>
+<li>Oracle Planning and Budgeting Cloud Service</li>
+<li>Oracle Financial Reporting Cloud Service</li>
+<li>Oracle Data and Insight Cloud Service</li>
+<li>Oracle Social Sites Cloud Service</li>
+<li>Oracle Developer Cloud Service</li>
+<li>Oracle Storage Cloud Service</li>
+<li>Oracle Messaging Cloud Service</li>
+<li>Oracle Cloud Application Services</li>
+<li>Oracle Cloud Social Services</li>
+<li>Oracle Cloud Platform Services</li>
+</ul>
+<p>This is no Amazon cloud, folks.  Instead, it is everything for every IT dude who wants to keep the house humming. This is not your innovator&#8217;s platform.</p>
+<p>Of course, it&#8217;s not entirely old-school. The CRM and human capital management (HCM) apps are multi-tenant, says <a target="_blank" href="http://www.constellationrg.com/">Ray Wang of Constellation Research</a>. The Oracle Cloud has the RightNow components &#8211; a single version of the application but with the databases all in their own instances. RightNow is the SaaS provider Oracle bought last years. And then there are the hosted Oracle apps.</p>
+<p>But, the Oracle PaaS comes closest to having some geek credibility. You can build apps on the Oracle Cloud. The service includes the Oracle database and access to the Java EE application server. You can deploy to a new app store for partners and developers. It&#8217;s self-service and has &#8220;almost&#8221; immediate deployment. It has continuous integration and REST-based APIs.</p>
+<p>The service can run on SQL (no reference to MySQL), Java, APEX, and Java frameworks. It also has object storage and a Git repository.</p>
+<p>But it is all Oracle. So if you want a service entirely from one provider then this platform is for you. Just be careful not to buy the kitchen sink, too. It&#8217;s not included in the price. For that, you have to pay separate.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/0aZcIJM1Gug/">here</a>.

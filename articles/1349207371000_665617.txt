@@ -1,0 +1,23 @@
+{
+"title" : "Forget Saying Happy Birthday To Your Friends On Facebook, It’s All About Gifts Now",
+"date" : "Tue, 02 Oct 2012 19:49:31 +0000",
+"author" : "Drew Olanoff"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/7111590033_4ca79f297f_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="7111590033_4ca79f297f_z" title="7111590033_4ca79f297f_z" style="float: left; margin: 0 10px 7px 0;" /><p>We know that Facebook is in full gear when it comes to monetization. It was obvious the second that the company <a href="http://techcrunch.com/2012/09/27/facebook-gifts/">announced its &#8220;Gifts&#8221; offering</a>, which lets you send a physical or virtual item to your buddies. It&#8217;s kind of cool, and the first gift I&#8217;ve ordered is in the mail.</p>
+<p>One of the things that I enjoy doing the most on Facebook is saying &#8220;Happy Birthday!&#8221; to someone on their wall. Facebook had made this a <a target="_blank" href="http://thenextweb.com/facebook/2011/09/29/facebook-makes-it-even-easier-to-wish-someone-a-happy-birthday/">super simple process by adding a quick link on your Newsfeed that said &#8220;Write on their Timeline.&#8221;</a> Well, that easy shortcut is gone now, and &#8220;Give them a gift&#8221; has replaced it.</p>
+<p>I don&#8217;t like it:</p>
+<p><a href="http://techcrunch.com/?attachment_id=665630" rel="attachment wp-att-665630"></a></p>
+<p>Of course I want to get my close friends a gift, but not before I actually say &#8220;Happy Birthday&#8221; to them. For me, communication is at the core of Facebook&#8217;s offerings, and dropping a middle step to communication by way of selling things kind of ruins that spirit.</p>
+<p>The &#8220;Write on Timeline&#8221; option isn&#8217;t completely gone, mind you, but it certainly has been degraded from the Newsfeed experience:</p>
+<p><a href="http://techcrunch.com/?attachment_id=665633" rel="attachment wp-att-665633"></a></p>
+<p>Our own <a target="_blank" href="http://twitter.com/joshconstine">Josh Constine</a> reached out to Facebook about this, and got in touch with Lee Linden, CEO of Karma and head of Facebook Gifts. Here&#8217;s what he was told:</p>
+<blockquote><p>If you hover over you can always choose to write on someone&#8217;s timeline with a little link.</p></blockquote>
+<p>Josh dug deeper and asked Linden if he thought this new change would reduce the number of birthday wall posts people get and Linden replied &#8220;I don&#8217;t think so.&#8221;</p>
+<p>I&#8217;m not sure that I agree with that, and this shift certainly isn&#8217;t the end of the world. It just shows that Facebook is charting a new path to monetization, and is willing to creation friction for the communication flow that we&#8217;re used to.</p>
+<p>This isn&#8217;t the first time that Facebook has tinkered with birthdays, as Josh reminds me. The site used to show upcoming birthdays, then only today&#8217;s, which hasn&#8217;t really impacted Birthdayness as far as number of interactions. At one point <a target="_blank" href="http://www.insidefacebook.com/2010/05/13/facebook-home-page-update-prioritizes-events-hides-birthdays/">they were even hidden</a>.</p>
+<p>Celebrating Birthdays is a Facebook tradition. As Josh points out:</p>
+<blockquote><p>Birthday wall posts are possibly the longest-standing and most iconic emergent behavior on Facebook. Since the early days, Facebook showed who&#8217;s birthday it was on the home page, and people spontaneously started leaving wall posts raging from a standard &#8220;Happy Birthday&#8221; to more personalized messages. It&#8217;s become something of a social contract, where it&#8217;s rude to not post to a close friend&#8217;s wall on the birthday. It&#8217;s also a gauge of influence, with beloved people getting more wall posts than jerks.</p></blockquote>
+<p>I just want to say Happy Birthday, man.</p>
+<p>[Photo Credit: <a target="_blank" href="http://www.flickr.com/photos/andrewmalone/7111590033/">Flickr</a>]</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/TTbND3o7ZKc/">here</a>.
