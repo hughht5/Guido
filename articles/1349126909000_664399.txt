@@ -16,5 +16,5 @@
 <li>More than 500 schools and districts went back to school with Chromebooks this fall</li>
 <li>Seven of the eight Ivy League universities and 72 of this year’s top 100 U.S. universities (as determined by <em>2013 U.S. News and World Report</em>’s ranking) <a target="_blank" href="http://googleblog.blogspot.com/2012/09/a-new-way-of-doing-things-on-campus.html">have gone Google</a> with Google Apps for Education</li>
 </ul>
-<span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/10/01/google-says-apps-for-education-now-has-more-than-20-million-users/"></a></span>
+<span class='embed-youtube' style='text-align:center; display: block;'><iframe class='youtube-player' type='text/html' width='640' height='390' src='http://www.youtube.com/embed/2Y0Gm02XGis?version=3&#038;rel=1&#038;fs=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' frameborder='0'></iframe></span>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/q1yHkzQk9yg/">here</a>.
