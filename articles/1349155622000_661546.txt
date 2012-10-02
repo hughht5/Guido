@@ -1,0 +1,53 @@
+{
+"title" : "GigaOm’s Structure Europe Conference Will Dive Deep Into The Cloud",
+"date" : "Tue, 02 Oct 2012 05:27:02 +0000",
+"author" : "Alex Williams"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-01-at-10-25-00-pm.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-10-01 at 10.25.00 PM" title="Screen Shot 2012-10-01 at 10.25.00 PM" style="float: left; margin: 0 10px 7px 0;" /><p>We don&#8217;t often try to get the word out about conferences put on by other blogs here at TechCrunch, but we&#8217;re about to. Because reasons. Namely: 1) We, as TechCrunch, will probably never ever ever, ever ever host a European cloud-computing conference and someone sure as heck needs to. 2) The folks at Gigaom are our friends, particularly founder, thought leader and king of the kind of industry analysis that I personally wish I could do more of, <a target="_blank" href="https://twitter.com/om">Om Malik. </a></p>
+<p>Om wrote <a target="_blank" href="http://om.co/2012/09/28/founders-friends/">this amazing post</a> on friendship and entrepreneurship on his birthday a couple of days ago, accurately portraying how tough it is to actually get stuff done in a world full of politicking, human ego and fierce competition at the top.</p>
+<blockquote><p>&#8220;No blog post talks about the battle against despondency and loneliness on this journey. No investor tells you about the time when the well of wits runs dry. No one, and I mean no one, ever tells you that if you are a founder, you need a few friends.&#8221;</p></blockquote>
+<p>Om is right: If you are a founder, or any sort of business leader, you need friends especially, friends to tell you that you&#8217;re not crazy, or that you are crazy, but in the right way. Friends to tell you to go to bed, friends to tell you that you&#8217;ve done a great job or to share a nightcap with when you haven&#8217;t done best job exactly but are willing to wake up and do better tomorrow.</p>
+<p>In the cutthroat, bloodthirsty world of tech blogging, we at TechCrunch consider Gigaom a friend. Hell, they even broke the news about <a target="_blank" href="http://gigaom.com/2010/09/27/aol-close-to-buying-techcrunch/">our acquisition!</a> And they now are having a conference, and we&#8217;d like to help.</p>
+<p>(The rest of this post is written by our new Enterprise writer <a href="http://techcrunch.com/author/alex-williams/">Alex Williams</a>, because, even though I am actually, sincerely, interested in the space, I sir am no emerging cloud infrastructure expert. Take it away Alex!)</p>
+<p>There are three major themes you can expect will play out at the <a target="_blank" href="http://event.gigaom.com/structureeurope/">GigaOm Structure Europe</a> conference taking place October 15-16 in Amsterdam: data, emerging cloud infrastructure and the continuing effort to show the business value that cloud computing provides.</p>
+<p>This conference is definitely tapping into a zeitgeist, as Europe is on the verge of a new cloud era. Recently, the European Commission has recommended that European businesses invest €45 billion in the cloud by 2020 to <a target="_blank" href="http://gigaom.com/cloud/european-companies-should-gird-for-big-cloud-spending/">spur GDP and job growth</a>.</p>
+<p>The conference will further drill down into several subtopics:</p>
+<ul>
+<li>Looking at the economics of the cloud and Europe</li>
+<li>Will regulation for the cloud be a curse or a blessing and how are folk getting around it now?</li>
+<li>Looking at the shift towards data centers that can be controlled via an API ( Software Defined Datacenters / Fabrics)</li>
+<li>The cloud&#8217;s impact on open source</li>
+<li>Mobiles in the workplace and how that impacts infrastructure</li>
+<li>European cloud startup scene</li>
+<li>Architectures for dealing with real-time data deluges</li>
+</ul>
+<p>And several well-recognized cloud technologists and business leaders will speak including &#8230;</p>
+<ul>
+<li>Amr Awadallah, Founder and CTO, Cloudera</li>
+<li>Joe Baguley, Chief Cloud Technologist, VMWare</li>
+<li>Werner Vogels &#8211; CTO and VP, Amazon</li>
+<li>JP Rangaswami, Chief Scientist, salesforce.com</li>
+<li>Bernard Dalle, General Partner, Index Ventures</li>
+<li>Nick Halstead, Founder and CTO, DataSift</li>
+<li>Bob Jones, Head of CERN openlab, CERN</li>
+<li>Marten Mickos, CEO, Eucalyptus Systems</li>
+<li>Jay Parikh, VP, Infrastructure Engineering, Facebook</li>
+<li>Harish Rao, CTO, Global Infrastructure Services, Capgemini</li>
+<li>Chris Swan, CTO, Client Experience, UBS</li>
+<li>Juergen Urbanski, VP, Cloud Architectures and Technologies, T-Systems</li>
+</ul>
+<p>Events like Structure give context about the market and how it is maturing. Compared to last year,  the scope of the infrastructure has changed. Software-defined networking has emerged as a major trend as apps and app platforms have exploded and an unprecedented amount of data is now being produced by millions of people.</p>
+<p>Businesses, especially in foreign markets, are still trying to understand how to manage their data and if they should invest in tightly integrated solutions from companies like IBM or more distributed, elastic services from Amazon Web Services and other major providers.  What it comes down to is a strategic decision. Companies are struggling to understand what to do.</p>
+<p>There is this sense that Europe is more pragmatic about its infrastructure choices.  It&#8217;s this European pragmatism that reflects in their policies and approach to entrepreneurialism.  When I meet with big software company executives they don&#8217;t talk about European pragmatism but they do discuss Europe&#8217;s policies about restricting data movement across borders. They point to it as a reason for not diving deeper into being service providers.</p>
+<p>I have quite a few questions about how these companies will handle the industry shift:</p>
+<ul>
+<li>How will the European Commission&#8217;s recommendations to invest more spur greater cloud adoption?</li>
+<li>What businesses are moving to the cloud? What are their business reasons?</li>
+<li>What is the state of the startup scene?</li>
+<li>What are people&#8217;s viewpoints about how to transform their data centers?</li>
+<li>What about big data?</li>
+<li>VMware or AWS?</li>
+</ul>
+<p>And hopefully I&#8217;ll get to ask them in Amsterdam. If you&#8217;d like to join me, at a discount, GigaOm  is offering 40% off for TechCrunch readers who use <a target="_blank" href="http://structureeurope2012.eventbrite.com/?discount=TC40OFF">this registration link.</a></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/a4Kzk3cCi6Y/">here</a>.
