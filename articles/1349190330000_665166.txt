@@ -1,5 +1,5 @@
 {
-"title" : "MeeGo Startup, Jolla, Zeroes In On China, Expects €200M Backing From Hong Kong Alliance",
+"title" : "MeeGo Startup, Jolla, Zeroes In On China, Expects €200M Ecosystem Backing From Hong Kong Alliance",
 "date" : "Tue, 02 Oct 2012 15:05:30 +0000",
 "author" : "Natasha Lomas"
 }
