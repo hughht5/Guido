@@ -5,7 +5,7 @@
 }
 
 <img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/3.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="3" title="3" style="float: left; margin: 0 10px 7px 0;" /><p>During our CrunchUp in Rome last week &#8211; where which I was <a href="http://techcrunch.com/2012/09/30/italians-take-up-the-torch-to-ignite-their-own-tech-startup-scene/">blown away</a> by the amount of Italian startups that have emerged from almost nowhere in the last year &#8211; I came across an extremely interesting (and I don&#8217;t use that phrase lightly) startup which deserves much closer examination.</p>
-<p><a target="_blank" href="http://www.atooma.com/">Atooma</a> is an Android app [<a target="_blank" href="https://play.google.com/store/apps/details?id=com.atooma&amp;feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5hdG9vbWEiXQ">Google Play link</a>] which is in itself like carrying around a mobile toolkit to create your own mini-apps &#8211; but without needing any coding skills. In fact, it operates almost like an App store inside an app sotre. But the closest thing it resembles is a sort of <a target="_blank" href="https://ifttt.com/">IFTTT</a> for mobile, and some of its applications could well be insanely useful. Let me explain.</p>
+<p><a target="_blank" href="http://www.atooma.com/">Atooma</a> is an Android app [<a target="_blank" href="https://play.google.com/store/apps/details?id=com.atooma&amp;feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5hdG9vbWEiXQ">Google Play link</a>] which is in itself like carrying around a mobile toolkit to create your own mini-apps &#8211; but without needing any coding skills. In fact, it operates almost like an App store inside an app store. But the closest thing it resembles is a sort of <a target="_blank" href="https://ifttt.com/">IFTTT</a> for mobile, and some of its applications could well be insanely useful. Let me explain.</p>
 <p>In essence, Atooma lets you set up conditional events (an &#8220;IF&#8221;) that will automatically trigger simple actions (a &#8220;DO&#8221;), based on things like time, location, your favourite apps, email (and so on). So, because it is a contextual app which is aware of your location and the time of day, it effectively makes your smartphone smarter.</p>
 <p>Here are some examples:</p>
 <p>- Because you can set a command to execute when your GPS tracks you exceeding a certain speed, you could have Atooma read new emails or SMSs to you while driving<br />
@@ -15,10 +15,10 @@
 - Automatically send an email when you leave a location<br />
 - You get the idea&#8230;</p>
 <p>Actions can be triggered by shaking the phone horizontally or vertically; based on the level of daylight; whether a headphone is plugged/unplugged; whether the phone is on WiFi or not. And there are many, many others, tied in to SMS&lt; email, Facebook, Twitter, GPS and others.</p>
-<p>The implications are quite far and wide. Leaving aside the obvious ones about snapping holiday pictures, you could even give a smartphone to an elderly relative and get it to email you if they left their house. </p>
+<p>The implications are quite far and wide. Leaving aside the obvious ones about snapping holiday pictures, you could even give a smartphone to an elderly relative and get it to email you if they left their house.</p>
 <p>Crucially, users can publish their little apps in the Atooma community and others can download them. Hence the app store inside an app.</p>
 <p>Right now Atooma is just on Android but the startup &#8211; co-founded by Francesca Romano and Gioia Pistola &#8211; plans to develop on iOS soon.</p>
-<p>Frankly I see this being so useful that I would love to see it developed for iOS. It&#039;s the kind of thing mobile operators would probably kill to have pre-installed in their Andorids right now.</p>
+<p>Frankly I see this being so useful that I would love to see it developed for iOS. It&#8217;s the kind of thing mobile operators would probably kill to have pre-installed in their Androids right now.</p>
 <p><br />
 <br />
 </p>
