@@ -4,7 +4,7 @@
 "author" : "Tim Panton"
 }
 
-<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/image01.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="image01" title="image01" style="float: left; margin: 0 10px 7px 0;" /><p><em>This ia a guest post by <a target="_blank" href="twitter.com/steely_glint">Tim Panton</a>, a senior engineer at <a target="_blank" href="voxeolabs.com">Voxeo labs</a>.</em></p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/image01.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="image01" title="image01" style="float: left; margin: 0 10px 7px 0;" /><p><em>This ia a guest post by <a target="_blank" href="twitter.com/steely_glint">Tim Panton</a>, a senior engineer at <a target="_blank" href="http://voxeolabs.com">Voxeo labs</a>.</em></p>
 <p>I&#8217;m in the middle of the desert in Nevada &#8211; a dusty, half-naked guy walks up to me: </p>
 <p>- &#8220;You have working cell service here ?&#8221;<br />
 - &#8220;Yes, we built our own.&#8221;<br />
