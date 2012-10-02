@@ -1,0 +1,18 @@
+{
+"title" : "Bollocks To Blind Clicks, Every URL Deserves A Preview",
+"date" : "Tue, 02 Oct 2012 18:50:31 +0000",
+"author" : "Josh Constine"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/lemmings.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Lemmings" title="Lemmings" style="float: left; margin: 0 10px 7px 0;" /><p>&#8220;Check out this link: <a target="_blank" href="http://bit.ly/QGuBiv">http://bit.ly/QGuBiv</a> &#8220;</p>
+<p>If you clicked that, you experienced something dumb but familiar on the web &#8212; blindly clicking a link only to end up somewhere you&#8217;ve been before or you didn&#8217;t want to go.</p>
+<p>Come on, Internet. We&#8217;re better than this. We&#8217;re too busy, and there&#8217;s too much beauty, humor, and knowledge abound for us to waste time. Every URL deserves a preview. Who&#8217;s gonna make that happen?</p>
+<p>Maybe I&#8217;ve been spoiled by Facebook and Twitter. Nowadays if you put a link into Facebook it automatically renders a preview complete with page title, thumbnail image, and blurb/lede. That&#8217;s awesome. No clicks required and I instantly know if I&#8217;ve been to that site already or am interested if I haven&#8217;t.</p>
+<p>Twitter&#8217;s drop-down cards are a smart way to build URL previews into a compacted interface. A single click on the tweet and I get a preview similar to Facebook&#8217;s.</p>
+<p style="text-align:center;"></p>
+<p>Considering we discover a huge chunk of the links we click through social media, the fact that these two services are previewful is huge step in the right direction. But next, the web browsers and mobile operating systems need to get on board.</p>
+<p>I&#8217;m giving you the evil eye, iOS  and Android. When I hold down my finger on a link, I get some useful options like: &#8220;Open&#8221;, &#8220;Open in New Page&#8221;, &#8220;Open in Incognito Tab&#8221;, &#8220;Add to Reading List&#8221;, and &#8220;Copy&#8221;. But you know what I need to make the decision of which to tap? Some bloody idea of what the URL leads to. iOS 7 and Android Chocolate Chip Muffin (or whatever they call the next build), I kindly request you show the page title here or else violence.</p>
+<p>Web browsers? The fact that there are reams of link preview extensions does not excuse you. This isn&#8217;t some niche power user feature, this is web navigation for everyone. Build it in, offer it as a preference. And after that, how about previews of deep links to apps? You shouldn&#8217;t have to guess that spotify:track:0c4IEciLCDdXEhhKxj4ThA is the killer new <a target="_blank" href="0c4IEciLCDdXEhhKxj4ThA">Muse song &#8220;Madness&#8221;</a> and not a cliff jump into &#8220;Call Me Maybe&#8221;.</p>
+<p>If this all seems minor, think of how many links are clicked per day on the web. Now how many of those end with people waiting for a page to load only to find they&#8217;re in the wrong place when a URL preview would have saved them the trip? Even a couple seconds saved at that scale could make the world more productive.</p>
+<p>For you, that could mean finding the right research to make a big business decision or grabbing some LOLs from a cat you&#8217;ve never seen before. Either way, <a href="http://techcrunch.com/2012/09/30/revolution/">there&#8217;s always something to explore</a>. Our tech shouldn&#8217;t turn is us into lemmings.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/YMCPhr2lYSo/">here</a>.
