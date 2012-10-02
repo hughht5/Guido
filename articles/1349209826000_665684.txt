@@ -1,0 +1,13 @@
+{
+"title" : "Sheryl Sandberg: We’re More Afraid Of Losing By Standing Still",
+"date" : "Tue, 02 Oct 2012 20:30:26 +0000",
+"author" : "Alexia Tsotsis"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-02-at-1-13-16-pm.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-10-02 at 1.13.16 PM" title="Screen Shot 2012-10-02 at 1.13.16 PM" style="float: left; margin: 0 10px 7px 0;" /><p>In response to a question by Charlie Rose at New York&#8217;s IAB conference, &#8220;Have you guys made assumptions that were not right?&#8221; Facebook COO Sheryl Sandberg confirmed yes, and referenced Facebook CEO Mark Zuckerberg&#8217;s comments about the failure of Facebook&#8217;s HTML 5 efforts at TechCrunch Disrupt.</p>
+<p>&#8220;You want these companies taking risks,&#8221; co-interviewee Marc Andreessen said defending Facebook&#8217;s moves, &#8220;When tech companies start being conservative, that&#8217;s when they go completely sideways.&#8221; Andreessen also referenced a &#8220;hit rate for new ideas&#8221;: &#8220;If a company is hitting more than 50% of its goals it&#8217;s too conservative.&#8221;</p>
+<p>Sandberg went on, quoting Mark Zuckerberg, &#8220;There are two ways to fail: either you don&#8217;t hit your plan, or  your plans are too conservative and you hit it quarter after quarter as you slide out.&#8221;</p>
+<p>&#8220;Our plans are big bold, aggressive enough risk taking,&#8221; Sandberg explain, &#8220;So the times we hit them they&#8217;re big enough that they achieve the growth we want to achieve for our company.&#8221;</p>
+<p>While every new technology brings fears, but basically the two agreed that you don&#8217;t win by playing it safe. &#8220;We are more afraid of winning by standing still than by not changing,&#8221; Sandberg said.</p>
+<p><em>Image via <a target="_blank" href="https://www.facebook.com/photo.php?fbid=10152155070015177&amp;set=p.10152155070015177&amp;type=1&amp;theater">Sheryl Sandberg</a>.</em></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/pcSDeXApupc/">here</a>.
