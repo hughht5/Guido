@@ -8,4 +8,6 @@
 <p>This update brings an updated BlackBerry Bridge. It now allows the PlayBook to send, view and receive text messages when connected to a BlackBerry smartphone over Bluetooth. Along with this enhanced communication comes portrait support for email, calendar and contacts. </p>
 <p>Personal data can now be encrypted. This was previously only available for data on a corporate BES account.</p>
 <p>RIM also added significant enhanced Android application support. With 2.1 Android apps now support multi-window applications, camera support and in-app payments. If nothing else, these functions bring the PlayBook up to par with competitive Android tablets.</p>
+<p>Look for this update later today but only WiFi models need to apply.</p>
+<p>The BlackBerry PlayBook is currently available in WiFi and 4G options. The WiFi model comes in 16GB, 32GB and 64GB flavors start at $199 for the 16GB. The tablet launched with much fanfare in 2011, but it lacked key features until early this year. As it sits right now, the PlayBook is a capable tablet for the price, but it is aging very quickly thanks to the Nexus 7, Kindle Fire HD and, soon, the iPad mini.</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/vDc168vhvqs/">here</a>.
