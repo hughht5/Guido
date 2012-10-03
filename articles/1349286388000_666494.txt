@@ -1,0 +1,27 @@
+{
+"title" : "Amazon Quietly Begins The Long Road To Closed Captioning Its Streaming Video Library",
+"date" : "Wed, 03 Oct 2012 17:46:28 +0000",
+"author" : "Ingrid Lunden"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/closed-caption.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="closed caption" title="closed caption" style="float: left; margin: 0 10px 7px 0;" /><p>Amazon has quietly started to add closed captioning services to its Instant Video library, following a September 30 deadline from the <a target="_blank" href="http://transition.fcc.gov/Daily_Releases/Daily_Business/2012/db0817/DA-12-1354A1.pdf">Federal Communications Commission</a> that required online media companies to begin incorporating these subtitles for the hard of hearing into their video content.</p>
+<p>This regulation &#8212; an implementation of the 21st Century Communications and Video Accessibility Act of 2011 &#8211; has been long in the making, with companies like Amazon and YouTube but also Apple arguing that they will <a target="_blank" href="http://gigaom.com/video/closed-captions-fcc-ruling/">need extensions</a> to fully comply, and those arguing on behalf of people with hearing disabilities saying that digital content needs to be just as accessible as what people can see in analog.</p>
+<p>But in the meantime, Amazon has, it seems, started to take some baby steps. A reader passed us an email from Amazon explaining what is going on, and how to get to the closed captioned content.</p>
+<blockquote><p>Hello,</p>
+<p>Closed captions are now available for select Amazon Instant Video titles streamed on the <a target="_blank" href="http://amazon.com/">Amazon.com</a> website. Support for additional devices is coming soon.</p>
+<p>Customer feedback like yours is very important in helping us continue to improve the experience of using our digital video service. If you&#8217;re interested in support for a particular device, please let us know!</p>
+<p>&#8230;</p>
+<p>While browsing or searching the Amazon Instant Video store in your web browser, you can filter your view so that only those videos that include closed captions appear. You can also see the &#8220;CC&#8221; symbol on the video detail pages for supported videos.</p>
+<p>To browse for videos with closed captioning:</p>
+<p>1. From your web browser, go to the Amazon Instant Video store.</p>
+<p>2. Go to the Movies or TV Shows storefronts.</p>
+<p>3. Set the &#8220;Subtitles &amp; Closed Captioning&#8221; filter in the left-hand column, and then browse the results.</p>
+<p>To search for videos with closed captioning:</p>
+<p>1. From your web browser, go to the Amazon Instant Video store.</p>
+<p>2. Search for a video title or keyword, and then set the &#8220;Subtitles &amp; Closed Captioning&#8221; filter to display only those videos that both match your search term and include closed captions.</p>
+<p>Some foreign language videos are available in both dubbed and subtitled versions. You can find these by searching on &#8220;subtitle&#8221; in the Amazon Instant Video store.</p>
+<p>We look forward to seeing you again soon.</p></blockquote>
+<p>It is not clear whether the regulations will apply retroactively to all content, or whether it will be only new content that is added after September 30. We are reaching out to Amazon to ask. For now it seems like only a handful of titles come up in closed caption searches.</p>
+<p>Netflix has been making <a target="_blank" href="http://blog.netflix.com/2012/02/update-on-captioning-for-our-members.html">updates for a while</a> on its closed captioning situation, as has <a target="_blank" href="http://www.hulu.com/support/article/354280">Hulu</a>.</p>
+<p>[Photo: <a target="_blank" href="http://www.flickr.com/photos/dno1967b/5754743006/sizes/m/in/photostream/">dno1967b</a>, Flickr]</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/BaEROUgS_aU/">here</a>.
