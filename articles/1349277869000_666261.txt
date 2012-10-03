@@ -1,0 +1,26 @@
+{
+"title" : "What Do Watchmakers Really Think About The iPhone 5?",
+"date" : "Wed, 03 Oct 2012 15:24:29 +0000",
+"author" : "John Biggs"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/ad20120725524124-carlos_rosillo.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="AD20120725524124-Carlos_Rosillo" title="AD20120725524124-Carlos_Rosillo" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://bellross.com/us/#">Carlos Rosillo</a>, the CEO of Bell &amp; Ross, has built and maintained one of the most interesting and recognizable watch brands in the world. His watches &#8211; angular, dark, and designed for rough treatment &#8211; are an homage to the military watches of the past and he uses very specific materials in very specific ways to build watches that can withstand nearly anything.</p>
+<p>In light of Apple&#8217;s claims that they&#8217;ve borrowed some design elements and technologies from watchmaking &#8211; most notably the use of sapphire crystal over the camera, we decided to talk to Rosillo about his assessment of Apple&#8217;s design, manufacturing, and tech from a horologist&#8217;s perspective.</p>
+<p><strong>TC: Apple has focused on using &#8220;watchmaking&#8221; techniques and materials in this version of the iPhone. Do you agree that they&#8217;re watchmaking quality?<br />
+</strong><br />
+Carlos Rosillo: Comparing an iPhone to watchmaking has its limitations. While both are about breakthrough technologies and using state-of-the art materials, the end product is significantly different. An iPhone is a gadget, a mini computer, a communication tool. A watch is a timepiece that no matter how many complications, it is still about telling the time in numerous forms. It is something that adorns the wrist. It embodies craftsmanship, decoration, a tradition dating centuries.</p>
+<p>A fine watch is meant to be kept for life, it becomes an heirloom piece. An iPhone really only lasts until the next version comes out. What I can say about watchmaking techniques is that at Bell &amp; Ross, in order to create exceptional timepieces we gather the expertise of master watchmakers, but also designers, engineers and professional users. Conceived to suit the requirements of those professionals, Bell &amp; Ross watches meet four basic principles: legibility, functionality, precision and water-resistance.</p>
+<p><strong>TC: B&amp;R focuses quite a bit on the utilitarian. What&#8217;s the hardest problem to solve when it comes to durable materials and mechanisms?<br />
+</strong><br />
+CR: Precisely that, that the materials and mechanisms withstand the test of time. That they are of a quality that works today and will continue to function in the future, so they maintain their utilitarian characteristics down the road. As a reference watchmaker for professionals, Bell &amp; Ross works closely with those who experience daily these extreme situations such as exceptional temperatures or dangerous pressures, to provide them with a real ally in their daily mission. Hence the materials and mechanisms Bell &amp; Ross uses are tailored to last even in extreme conditions. That is why, Astronauts, fighter pilots, police and elite law enforcement officer teams are wearing and using Bell &amp; Ross watches as tools for their daily missions.</p>
+<p><strong>TC: Is it difficult to create precision parts these days? Has something changed in the past few years that has made it easier?<br />
+</strong><br />
+CR: Being a reference for professional users, precision is one of Bell &amp; Ross&#8217; 4 founding principles. To guarantee precision, our timepieces are assembled and fine-tuned by our master watchmakers in our production facility in Switzerland. State of the art craftsmanship combined to the strictest quality controls at all production stages ensure we meet the toughest professional criteria.</p>
+<p>In essence, we are not engaged in a quest for ultimate technology: our creations extend a traditional craftsmanship and their design orchestrates the coherency of the whole. At Bell &amp; Ross the creation and production of sustainable and balanced pieces come first.</p>
+<p><strong>TC: What happens if Apple uses up all the sapphire crystal and watchmakers can&#8217;t get any? Has that been a problem?<br />
+</strong><br />
+CR: We have not experienced or heard of any problems in sourcing Sapphire crystal.</p>
+<p><strong>TC: Do you carry an iPhone?<br />
+</strong></p>
+<p>CR: Yes I do and I also use it daily to access our new Bell &amp; Ross mobile website. This new platform is actually a great example of our avant-garde spirit by offering the best client service and experience in the digital field.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/FEYAZ_koIcM/">here</a>.
