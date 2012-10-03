@@ -1,5 +1,5 @@
 {
-"title" : "TC Makers: A Visit To The Brooklyn Factory Where They Make The Ultracool Blink Steady Bike Like",
+"title" : "TC Makers: A Visit To The Brooklyn Factory Where They Make The Ultracool Blink Steady Bike Light",
 "date" : "Wed, 03 Oct 2012 21:51:32 +0000",
 "author" : "John Biggs"
 }
