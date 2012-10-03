@@ -1,0 +1,15 @@
+{
+"title" : "U.K. To Get First 4G Network On October 30; EE’s LTE Will Kick Off In 10 Cities, 16 By Year’s End",
+"date" : "Wed, 03 Oct 2012 11:46:15 +0000",
+"author" : "Natasha Lomas"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/screen-shot-2012-09-11-at-02-16-03.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="EE logo" title="EE logo" style="float: left; margin: 0 10px 7px 0;" /><p>The U.K.&#8217;s first LTE network &#8212; <a href="http://techcrunch.com/2012/09/11/everything-everywheres-new-4g-lte-service-ee-coming-to-16-cities-by-the-end-of-this-year/">run by EE</a> (formerly Everything Everywhere) the parent company of the Orange and T-Mobile carriers &#8212; will go live on October 30, EE&#8217;s CEO Olaf Swantee has confirmed. The network was <a href="http://techcrunch.com/2012/09/11/everything-everywheres-new-4g-lte-service-ee-coming-to-16-cities-by-the-end-of-this-year/">announced early last month</a>&#8211; with a launch scheduled for &#8220;the coming weeks&#8221;.</p>
+<p>Swantee gave the following statement today, confirming the launch date</p>
+<blockquote><p>We are delighted to announce that the official launch of our new customer brand, EE, offering the UK’s first superfast mobile 4G and fibre broadband service, will take place on the 30th October 2012. This is a significant milestone for the United Kingdom, and for the people and businesses of our country who will now be able to enjoy the huge advantages of superfast 4G technology for the first time. We are very proud to be pioneering, innovating and leading our industry in launching 4G for our nation through our new EE brand.</p></blockquote>
+<div lang="EN-GB">
+<p>The EE network will bring 4G to ten cities starting on October 30, and will expand to cover 16 cities &#8212; a third of the UK population &#8212; by the end of the year.</p>
+<p>The 10 launch cities are Birmingham, Bristol, Cardiff, Edinburgh, Glasgow, Leeds, Liverpool, London, Manchester and Sheffield. By the year&#8217;s end EE&#8217;s LTE will also be live in Belfast, Derby, Hull, Newcastle, Nottingham and Southampton.</p>
+<p>More to come&#8230;</p>
+</div>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/RJRZXrcYcmQ/">here</a>.
