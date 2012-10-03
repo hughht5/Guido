@@ -1,5 +1,5 @@
 {
-"title" : "New Advancement Gives ARM New Weapon To Challenge Intel Dominance In Server Market",
+"title" : "New Advancement Gives ARM Weapon To Challenge Intel Dominance In Server Market",
 "date" : "Wed, 03 Oct 2012 22:25:59 +0000",
 "author" : "Alex Williams"
 }
