@@ -1,0 +1,15 @@
+{
+"title" : "500 Startups-Funded KeenFiles Makes It Easier To Share Huge Files",
+"date" : "Wed, 03 Oct 2012 18:02:47 +0000",
+"author" : "John Biggs"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-03-at-1-08-02-pm.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-10-03 at 1.08.02 PM" title="Screen Shot 2012-10-03 at 1.08.02 PM" style="float: left; margin: 0 10px 7px 0;" /><p>Photographers and designers often have to face problems mortal men do not. More precisely, they need to share huge files &#8211; up to 2GB &#8211; with each other in order to send around high resolution photos and layouts for clients. That&#8217;s what <a target="_blank" href="https://keenfiles.com">KeenFiles.com</a> is for. It&#8217;s a place for these gods among humankind to share those things that are largest on their hard drives.</p>
+<p>The service is simple: you paste some lines of code on your website (<a target="_blank" href="http://www.bigwidelogic.com/2012/10/03/give-me-your-files-nom-nom/">I set it up here</a>) and people just drag and drop files into your KeenFiles account. Uploaders must log in before they can send files, thereby preventing spam to some degree. The uploads are fast and seamless and you get an email once something has dropped into your folder.</p>
+<p>The service costs $25 a month for 10GB with a maximum 2GB file size. Presumably you won&#8217;t be using this to shuttle huge video files back and forth.</p>
+<p><br />
+Created by Keen Systems, KeenFiles is part of the company&#8217;s &#8220;cloud-based ecommerce suite for the printing and graphic arts industries&#8221;</p>
+<p>&#8220;Print is an industry largely ignored by startups as they have very little insight into the space. It is 18X the size of online advertising and is quickly embracing ecommerce,&#8221; said <a target="_blank" href="http://www.crunchbase.com/person/vitaly-m-golomb">Vitaly M. Golomb</a>, CEO. They closed a seed round in <a href="http://techcrunch.com/2012/08/09/keen-systems-seed-raise/">July</a>.</p>
+<p>The company offers a 30 day trial and is working on improving the service. They plan on adding connections to cloud storage services as well as a submit-by-email feature.</p>
+<p>You can check the site out at <a target="_blank" href="https://keenfiles.com">KeenFiles.com</a> and feel free to send me lots of huge files I don&#8217;t need. My network connection will thank you.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/AZIpDuTMgTY/">here</a>.
