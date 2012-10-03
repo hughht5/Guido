@@ -1,5 +1,5 @@
 {
-"title" : "Report: Steve Jobs Came to “Loathe” Google For Withholding Turn-By-Turn From Google Maps",
+"title" : "Report: Steve Jobs Came to “Loathe” Google For Withholding Turn-By-Turn From Google Maps On iOS",
 "date" : "Wed, 03 Oct 2012 14:28:19 +0000",
 "author" : "Darrell Etherington"
 }
