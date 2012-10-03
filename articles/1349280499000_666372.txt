@@ -4,10 +4,11 @@
 "author" : "Drew Olanoff"
 }
 
-<p>Here&#8217;s an investment out of left field, but not really. Andreesen Horowitz is dropping $15M into startup Rap Genius.</p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-03-at-9-12-04-am.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-10-03 at 9.12.04 AM" title="Screen Shot 2012-10-03 at 9.12.04 AM" style="float: left; margin: 0 10px 7px 0;" /><p>Here&#8217;s an investment out of left field, but not really. Andreesen Horowitz is dropping $15M into startup Rap Genius.</p>
 <p>Here&#8217;s <a target="_blank" href="http://rapgenius.com/Marc-andreessen-why-andreessen-horowitz-is-investing-in-rap-genius-lyrics">what the firm had to say by way of Rap Genius&#8217; blog</a>:</p>
 <blockquote><p>I&#8217;m delighted to announce that Andreessen Horowitz is investing $15 million in Rap Genius.</p>
 <p>Given that Rap Genius is a web site where people explain rap lyrics, and given that my partner Ben is a noted rap fanatic, your first reaction might be, &#8220;That Horowitz guy has completely lost his mind.&#8221; I, on the other hand, find rap every bit as comprehensible as ancient Mesopotamian. That&#8217;s why I&#8217;m writing this blog post – not him. Let me explain why we&#8217;ve invested in Rap Genius&#8230;</p></blockquote>
 <p>We knew that Ben Horowitz was a rap fan, but to the tune of $15M? We had no idea. Rap Genius is a community of people super into the musical genre, and says it is one of the &#8220;fastest growing web sites in Y Combinator&#8217;s history.&#8221;</p>
+<p>Andreessen writes that the real reason the top VC is investing in Rap Genius is that the founder&#8217;s grand vision goes beyond rap music to all text annotation.</p>
 <p>This is developing.</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/5fglG3g7VG0/">here</a>.
