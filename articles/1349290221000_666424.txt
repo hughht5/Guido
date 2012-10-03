@@ -1,0 +1,13 @@
+{
+"title" : "Mission Impossible: Seclore Can Now Make Your Email Self-Destruct",
+"date" : "Wed, 03 Oct 2012 18:50:21 +0000",
+"author" : "Alex Williams"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/seclorelogo.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="seclorelogo" title="seclorelogo" style="float: left; margin: 0 10px 7px 0;" /><p>Bombay-based security software company <a target="_blank" href="http://seclore.com/">Seclore</a> has developed a way for your email to self-destruct. This may be just the way for companies to get past the paradox that collaboration poses.</p>
+<p>Seclore has developed a way for companies to exercise control over who has access to each piece of information that an employee sends. That means controlling how long the receiver has access to the information, what they can do with it, and where they can access it.</p>
+<p>The data can also be remote-controlled after the message is sent. In real-time, the sender can make the message self-destruct.</p>
+<p>Seclore, which is launching the service in North America, uses digital rights management (DRM) technology. An encryption key prevents the receiver from printing or sending the information to other people. For example, manufacturers use it for protecting designs they send to vendors.</p>
+<p>This is not the kind of service that I would necessarily ever use. But I am a blogger who believes in full access to information without rights management imposed. But in the ultra-controlled world of the enterprise, collaboration is often necessary but not so ideal when it concerns sensitive information.</p>
+<p>Seclore is in a market with a wide range of software and cloud-based services that secure email. Customers looking for a secure email platform would be wise to look at Seclore but should also consider other providers. <a target="_blank" href="http://www.symantec.com/business/universal-gateway-email">Symantec&#8217;s PGP Email Encryption</a> and <a target="_blank" href="http://voltage.com/vsn/">Voltage SecureMail Cloud</a> are two offerings to consider. Free services include <a target="_blank" href="http://free.antivirus.com/email-encryption-service/">Trend Micro&#8217;s Email Encryption Service</a> and <a target="_blank" href="http://hushmail.com/">Hush Communication&#8217;s Hushmail.com</a>. <a target="_blank" href="http://www.rpost.com/">RPost</a> has also received acclaim for tis service.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/781iecSpwBQ/">here</a>.
