@@ -1,0 +1,14 @@
+{
+"title" : "Rumor: Apple Enlists Retail Employees In The War On Inaccurate Maps",
+"date" : "Wed, 03 Oct 2012 14:12:50 +0000",
+"author" : "Jordan Crook"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-03-at-10-47-33-am.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen shot 2012-10-03 at 10.47.33 AM" title="Screen shot 2012-10-03 at 10.47.33 AM" style="float: left; margin: 0 10px 7px 0;" /><p>There are over 40,000 Apple retail employees out in the world, and if the rumors from <a target="_blank" href="http://www.macrumors.com/2012/10/03/apple-turning-to-select-retail-store-employees-to-help-improve-maps-for-ios-6/">MacRumors</a> are true, at least some of them are working tirelessly to improve iOS 6 Maps. </p>
+<p>If you&#8217;ve been living under a rock and perchance haven&#8217;t updated any of your Apple devices in the past few weeks, you may not be aware that Apple&#8217;s iOS 6 Maps are inaccurate enough and ugly enough for CEO Tim Cook to make <a href="http://techcrunch.com/2012/09/28/tim-cook-apologizes-for-apple-maps-points-to-competitive-alternatives/">a formal apology</a> on the company website. </p>
+<p>In the wake of this <a href="http://techcrunch.com/2012/09/26/the-apple-ios-6-maps-fiasco-clarified-in-3-minutes/">mess</a>, &#8220;multiple sources&#8221; have said that certain retail stores will dedicate on-the-clock hours to reporting issues with Apple&#8217;s Maps product. According to MacRumors, there is some sort of internal portal through which employees can report various issues or rename locations. However, most of the details on this initiative are unclear. </p>
+<p>According to <a target="_blank" href="https://twitter.com/ifostore">Gary Allen</a>, Apple retail store enthusiast, the Great Maps Correction Effort of 2012 is a voluntary deal. </p>
+<blockquote class="twitter-tweet tw-align-center"><p>So far it&#8217;s voluntary: Apple retail store managers are asking store employees to report iOS 6 Maps app errors to help improve the database.</p>
+<p>&mdash; Gary Allen (@ifostore) <a target="_blank" href="https://twitter.com/ifostore/status/253411801943908352">October 3, 2012</a></p></blockquote>
+<p>If you&#8217;d like to join in on the effort &mdash; remember, Cook promised Maps would get better the more we use it &mdash; then you can check out this simple piece by <a target="_blank" href="http://www.imore.com/how-add-location-or-report-problem-ios-6-maps">iMore</a> for directions. It&#8217;s as easy as hitting the &#8220;Report a Problem&#8221; button. </p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/pk_84ywcv14/">here</a>.
