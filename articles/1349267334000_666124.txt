@@ -1,0 +1,10 @@
+{
+"title" : "Report: Deutsche Telekom And MetroPCS Boards Give Go-Ahead To T-Mobile Merger",
+"date" : "Wed, 03 Oct 2012 12:28:54 +0000",
+"author" : "Darrell Etherington"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/01/metropcs.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="metropcs" title="metropcs" style="float: left; margin: 0 10px 7px 0;" /><p>The boards of T-Mobile parent company Deutsche Telekom and MetroPCS has approved a deal to merge MetroPCS and T-Mobile USA, sources told the <a target="_blank" href="http://online.wsj.com/article/SB10000872396390444223104578034082455359970.html?mod=WSJ_hp_LEFTWhatsNewsCollection">Wall Street Journal </a>this morning. T-Mobile previously sought to be acquired by AT&amp;T, but that deal was shot down by U.S. regulators.</p>
+<p>The news that this deal was being discussed yesterday increased the value of MetroPCS shares by 26 percent, putting its value at the highest in 14 months. The deal could help T-Mobile recover from losses to its subscriber base suffered by not being able to offer the iPhone on its network. The structure of the deal will reportedly operate as a reverse merger, with MetroPCS gobbling up the larger T-Mobile.</p>
+<p><em>Developing&#8230;</em></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/oh09baLtXhU/">here</a>.
