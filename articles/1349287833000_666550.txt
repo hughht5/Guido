@@ -1,0 +1,13 @@
+{
+"title" : "That’s A First: NASA’s Curiosity Rover Successfully Checks Into Foursquare From Mars",
+"date" : "Wed, 03 Oct 2012 18:10:33 +0000",
+"author" : "Drew Olanoff"
+}
+
+<p>I love foursquare, I check in from pretty much everywhere I go. However, I would say that the Curiosity Rover on Mars is seeing cooler scenery than I ever have. Today, foursquare reported that the craft has checked in on foursquare for the first time.</p>
+<p>Here&#8217;s <a target="_blank" href="http://blog.foursquare.com/2012/10/03/foursquare-in-space-follow-marscuriosity-as-it-explores-the-red-planet/">what the company had to say about it</a>:</p>
+<blockquote><p>Today, NASA’s Curiosity Mars Rover checked in for the first time on Mars, marking the first Foursquare check-in ever on another planet (and the second check-in in space!). Carl Sagan would be proud.</p>
+<p><a href="http://techcrunch.com/2012/10/03/thats-a-first-nasas-curiosity-rover-successfully-checks-into-foursquare-from-mars/marscuriosity/" rel="attachment wp-att-666577"></a></p>
+<p>Most excitedly, throughout its 23-month exploration of Mars (which began last month), the Mars Rover will continue to check in and share updates on Foursquare.</p></blockquote>
+<p>That&#8217;s pretty cool. Other than being a gimmick, this shows off the power of geolocation technology, as it can be used as a virtual &#8220;stake in the ground&#8221; in uncharted territory. It&#8217;s safe to say that the Curiosity Rover will remain Mayor of Mars for quite some time, but hey I&#8217;d like to give it a run for its money.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/cvpPavibNLY/">here</a>.
