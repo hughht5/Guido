@@ -1,0 +1,11 @@
+{
+"title" : "Google’s Motorola Mobility Acquires Image and Gesture Recognition Company Viewdle",
+"date" : "Wed, 03 Oct 2012 22:43:08 +0000",
+"author" : "Frederic Lardinois"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2010/10/viewdle.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="viewdle" title="viewdle" style="float: left; margin: 0 10px 7px 0;" /><p>We heard rumors about Google <a href="http://techcrunch.com/2012/10/01/rumor-google-wants-to-acquire-augmented-reality-and-facial-recognition-startup-viewdle-for-30m/">acquiring</a> the augmented reality and image recognition firm <a target="_blank" href="http://viewdle.com">Viewdle</a> earlier this week. Turns out, those rumors were true. Google&#8217;s Motorola Mobility unit just announced that it has indeed acquired the company.</p>
+<p>Here is the statement we just received from a Motorola spokesperson:</p>
+<blockquote><p>“Motorola Mobility today announced that it has acquired&nbsp;Viewdle, a leading imaging &amp; gesture recognition company. &nbsp;Motorola and&nbsp;Viewdle&nbsp;have an existing commercial agreement and have been collaborating for some time. Terms of the transaction were not disclosed.”</p></blockquote>
+<p><em>Updating&#8230;</em></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/D8R-L_0_e10/">here</a>.
