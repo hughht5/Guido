@@ -4,10 +4,11 @@
 "author" : "Drew Olanoff"
 }
 
-<p>I love foursquare, I check in from pretty much everywhere I go. However, I would say that the Curiosity Rover on Mars is seeing cooler scenery than I ever have. Today, foursquare reported that the craft has checked in on foursquare for the first time.</p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/7981751198_92e414b3bf_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="7981751198_92e414b3bf_z" title="7981751198_92e414b3bf_z" style="float: left; margin: 0 10px 7px 0;" /><p>I love foursquare, I check in from pretty much everywhere I go. However, I would say that the Curiosity Rover on Mars is seeing cooler scenery than I ever have. Today, foursquare reported that the <a target="_blank" href="https://foursquare.com/marscuriosity/checkin/506c75a2067da29edeec7e2e">craft has checked in on foursquare</a> for the first time.</p>
 <p>Here&#8217;s <a target="_blank" href="http://blog.foursquare.com/2012/10/03/foursquare-in-space-follow-marscuriosity-as-it-explores-the-red-planet/">what the company had to say about it</a>:</p>
 <blockquote><p>Today, NASA’s Curiosity Mars Rover checked in for the first time on Mars, marking the first Foursquare check-in ever on another planet (and the second check-in in space!). Carl Sagan would be proud.</p>
 <p><a href="http://techcrunch.com/2012/10/03/thats-a-first-nasas-curiosity-rover-successfully-checks-into-foursquare-from-mars/marscuriosity/" rel="attachment wp-att-666577"></a></p>
 <p>Most excitedly, throughout its 23-month exploration of Mars (which began last month), the Mars Rover will continue to check in and share updates on Foursquare.</p></blockquote>
 <p>That&#8217;s pretty cool. Other than being a gimmick, this shows off the power of geolocation technology, as it can be used as a virtual &#8220;stake in the ground&#8221; in uncharted territory. It&#8217;s safe to say that the Curiosity Rover will remain Mayor of Mars for quite some time, but hey I&#8217;d like to give it a run for its money.</p>
+<p>[Photo credit: <a target="_blank" href="http://www.flickr.com/photos/curiouslee/7981751198/">Flickr</a>]</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/cvpPavibNLY/">here</a>.
