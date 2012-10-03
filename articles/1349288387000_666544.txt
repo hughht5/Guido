@@ -1,5 +1,5 @@
 {
-"title" : "Facebook Opens The Kimono On How App Center Recommendation Works. A Blueprint For Search?",
+"title" : "Facebook Explains On How App Center Recommendation Works. A Blueprint For Search?",
 "date" : "Wed, 03 Oct 2012 18:19:47 +0000",
 "author" : "Ingrid Lunden"
 }
