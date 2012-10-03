@@ -1,0 +1,9 @@
+{
+"title" : "RIM Rolls PlayBook 2.1 Update, Improves BlackBerry Bridge, Data Security, And Android App Support",
+"date" : "Wed, 03 Oct 2012 13:24:49 +0000",
+"author" : "Matt Burns"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/08/4gplaybook.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="4gplaybook" title="4gplaybook" style="float: left; margin: 0 10px 7px 0;" /><p>RIM is not done with the PlayBook. The company <a target="_blank" href="http://blogs.blackberry.com/2012/10/playbook-os-2-1-update/">just announced</a> a major update for its tablet. The software update will be available later today for the WiFi PlayBook and brings a host of significant improvements. With this update the tablet now sports SMS capabilities through BlackBerry Bridge, data encryption on personal accounts, and improved Android application support.</p>
+<p>Developing&#8230;</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/vDc168vhvqs/">here</a>.
