@@ -1,0 +1,11 @@
+{
+"title" : "Twitter Partners With Nielsen For @TwitterSurveys To Measure Ad Effectiveness",
+"date" : "Wed, 03 Oct 2012 14:50:47 +0000",
+"author" : "Anthony Ha"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/twitter-surveys.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Twitter Surveys" title="Twitter Surveys" style="float: left; margin: 0 10px 7px 0;" /><p>Twitter just <a target="_blank" href="http://advertising.twitter.com/2012/10/survey-saysnielsen-brand-impact-on.html">announced</a> a partnership with Nielsen that should give brands a new way to measure the impact of their advertising campaigns.</p>
+<p>Apparently, in the same way that you now see Promoted Tweets in your tweet stream, you might also start seeing surveys from the @TwitterSurveys account, asking you to answer a few questions. It sounds like these surveys will measure things like your awareness of a company or brand, or your willingness to purchase a product — in other words, the kinds of things advertisers want to measure to determine the effectiveness of their campaign.</p>
+<p>So instead of just telling advertisers that their campaign resulted in a certain number of retweets or clicks, Twitter should be able to give them a more traditional set of measurements around brand impact.</p>
+<p>The surveys will appear in both mobile and desktop, the company says. Twitter is working with a small set of initial advertisers, with plans for a bigger roll out next year.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/oMBbIiWPeX4/">here</a>.
