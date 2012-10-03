@@ -1,0 +1,14 @@
+{
+"title" : "TC Makers: A Visit To The Brooklyn Factory Where They Make The Ultracool Blink Steady Bike Like",
+"date" : "Wed, 03 Oct 2012 21:51:32 +0000",
+"author" : "John Biggs"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-03-at-5-45-09-pm.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-10-03 at 5.45.09 PM" title="Screen Shot 2012-10-03 at 5.45.09 PM" style="float: left; margin: 0 10px 7px 0;" />			<script type="text/javascript" src="http://pshared.5min.com/Scripts/PlayerSeed.js?sid=577&amp;width=640&amp;height=450&amp;colorPallet=%230A9600&amp;hasCompanion=false&amp;relatedMode=2&amp;videoControlDisplayColor=%23000000&amp;playList=517495149&amp;shuffle=0&amp;videoGroupID=133503&amp;autoStart=false&amp;playerActions=16407"></script>
+<p>It&#8217;s rare to see the creation of a product from idea to implementation but <a target="_blank" href="http://blinksteady.com">Blink Steady</a>, a unique, multi-sensor bike light, allowed us to do just that. Created by Benjamin Cohen, Stuart Heys, and Mark Sibenac, the Blink Steady launched in <a target="_blank" href="http://www.kickstarter.com/projects/74358303/blink-steady-the-bike-light-youve-been-waiting-for">April on Kickstarter</a> and shipped last month.</p>
+<p>The Blink Steady factory is in Bed-Stuy, Brooklyn, in a huge repurposed knitting factory that is home to a few dozen apparel manufacturers. The workshop is full of tools, stamps, cutters, and parts that Heys uses to build robots for his other clients. He and Ben got together to create their first commercial product and were pleasantly surprised by the reaction.</p>
+<p>The light itself is dead simple: you mount it on your bike and it starts blinking when it&#8217;s dark and you&#8217;re in motion. It stops when you stop for a length of time. To change the notification style from blinking lights to a steady red beam you simply flip the light over to display the appropriate part of the laser etched logo &#8211; &#8220;Blink&#8221; to blink, &#8220;Steady&#8221; to stay on.</p>
+<p>Heys and Cohen took us through the workshop and showed us how they made each piece by hand using locally sourced materials and labor. They truly made something from nothing and we&#8217;re proud that they were able to take part in TC Makers.</p>
+<p><em>Note: Special thanks goes out to Josh Zelman, our stalwart producer and cameraman, for whom this is the last episode he&#8217;ll record as he&#8217;s leaving us on Friday. Let us know if you need a crack video guy because he won&#8217;t be on the market for long.</em></p>
+<p><a target="_blank" href="http://blinksteady.com">Product Page</a></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/qRMkrcr7Pnk/">here</a>.
