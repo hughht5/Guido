@@ -19,7 +19,7 @@
 <h3>2010</h3>
 <p>Oracle acquire Sun Microsytems for <a target="_blank" href="http://en.wikipedia.org/wiki/Sun_Microsystems">$7.4 billion</a>. The ramifications of the acquisition include the systematic dismantling of Sun&#8217;s open source heritage, culminating with  the lawsuit against Google over its use of Java on the Android platform.</p>
 <h3>2011</h3>
-<p>In what appears more defensive than anything else, Oracle buys <a target="_blank" href="http://en.wikipedia.org/wiki/RightNow_Technologies">RightNow Technologies</a>, a SaaS CRM provider. The deal is worth $1.45 billion but viewed in most part as a reaction to Salesforce.com&#8217;s acquisition of <a target="_blank" href="http://en.wikipedia.org/wiki/SuccessFactors">SuccessFactors for $3.4 billion</a>.</p>
+<p>In what appears more defensive than anything else, Oracle buys <a target="_blank" href="http://en.wikipedia.org/wiki/RightNow_Technologies">RightNow Technologies</a>, a SaaS CRM provider. The deal is worth $1.45 billion but viewed in most part as a reaction to SAP&#8217;s acquisition of <a target="_blank" href="http://en.wikipedia.org/wiki/SuccessFactors">SuccessFactors for $3.4 billion</a>.</p>
 <h3>2012</h3>
 <p>Oracle buys <a target="_blank" href="http://en.wikipedia.org/wiki/Taleo">Taleo</a>, the talent management software. The deal has the markings of battles dating back to PeopleSoft. Taleo competes with Workday.</p>
 <h3>Looking Forward</h3>
