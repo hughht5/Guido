@@ -1,0 +1,14 @@
+{
+"title" : "Amazon Sells Out Of New Kindle Paperwhite, Shipping Slips To 4-6 Weeks",
+"date" : "Wed, 03 Oct 2012 18:19:03 +0000",
+"author" : "Romain Dillet"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/screen-shot-2012-09-06-at-3-46-07-pm.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Kindle Paperwhite" title="Kindle Paperwhite" style="float: left; margin: 0 10px 7px 0;" /><p>Amazon apparently underestimated the success of its newest e-reader. The company just updated its shipping estimate, pushing back the delivery date to four to six weeks after ordering. Both models, with or without 3G, are experiencing the same delay. And it&#8217;s no surprise — <a href="http://techcrunch.com/2012/09/06/amazon-officially-announces-the-new-kindle-paperwhite-paperwhite-display-frontlighting-and-212-ppi/">the device</a> is more than an incremental improvement.</p>
+<p>With a new lighting system, a screen with a higher resolution and a more responsive touch interface, the Kindle Paperwhite has enough new features to convince new buyers as well as existing Kindle owners. After using the device for a few days, our own John Biggs qualified it as <a href="http://techcrunch.com/2012/09/30/paperwhite-kindle-review/">a reader&#8217;s dream</a>.</p>
+<p>Yet, one of the major improvement over past Kindle models is that the screen is now a traditional, more responsive capacitive touch screen instead of an infrared-based screen. Navigating the interface or even just turning a page is therefore much quicker.</p>
+<p>Amazon now refines its e-reader flagship device every year in order to integrate the latest E Ink technologies while perfecting the overall user experience. While the Kindle Touch was the first touch-based Kindle, it was very slow for many users who opted for the simpler and cheaper Kindle model with traditional buttons.</p>
+<p>With the new screen and the notable improvements in responsiveness, customers seem to have responded unambiguously. Even though Amazon&#8217;s supply chain isn&#8217;t as efficient as other successful companies, such as <a href="http://techcrunch.com/2012/09/23/apple-is-already-shipping-many-late-iphone-5-pre-orders/">Apple</a>, the shipping estimate news should be considered a good sign for the Kindle ecosystem. If Amazon&#8217;s success continues with its e-readers, the company should stay committed to the e-book space.</p>
+<p>[via <a target="_blank" href="http://www.beyond-black-friday.com/">Me and My Kindle</a>]</p>
+<p></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/Td6vl58OZtE/">here</a>.
