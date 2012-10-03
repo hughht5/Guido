@@ -1,0 +1,19 @@
+{
+"title" : "YouTube Changes Its Content ID Appeals Process",
+"date" : "Wed, 03 Oct 2012 19:52:53 +0000",
+"author" : "Frederic Lardinois"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/youtube-people.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="YouTube people" title="YouTube people" style="float: left; margin: 0 10px 7px 0;" /><p>YouTube today <a target="_blank" href="http://youtube-global.blogspot.com/2012/10/improving-content-id.html">announced</a> that it is making some important changes to its appeals process for users who think their videos were falsely flagged for copyright infringements by <a target="_blank" href="http://www.youtube.com/t/contentid">YouTube&#8217;s Content ID system</a>. Previously, when users filed an appeal and the copyright owner rejected this appeal, the user was generally left without any recourse for certain types of Content ID claims. Starting today, copyright holders will get two options to handle appeals after a rejected dispute: release the claim or file a formal DMCA notification.</p>
+<p>YouTube says it made these changes based on feedback from its community.</p>
+<p>Content ID is YouTube&#8217;s automated system for detecting copyrighted audio and video in its users&#8217; videos. The copyright owners get a choice to block these videos, track them, or to monetize them. They could, of course, also sue the user, but it&#8217;s generally easier and cheaper for them to just send a <a target="_blank" href="https://www.eff.org/issues/intellectual-property/guide-to-youtube-removals#dmca-takedown">DMCA takedown notice</a>.</p>
+<p>Here is how Google describes the new process:</p>
+<blockquote><p>If an uploader appeals a rejected dispute, the claimant will be required to either:</p>
+<ul>
+<li><strong>release the claim on the video</strong></li>
+<li>OR send a legal copyright notification. In this event, <strong>the video will be taken down and the uploader will receive a copyright strike</strong>. If they receive additional copyright strikes, this may suspend their YouTube account. You can learn more on our page <a target="_blank" href="http://youtube.com/t/copyright_strike">about copyright strikes</a>.</li>
+</ul>
+</blockquote>
+<p>As YouTube notes in its update today, more than 3,000 content owners have supplied about 500,000 hours of reference files for Content ID so far. The company, however, also admits that mistakes <a target="_blank" href="http://www.slate.com/blogs/future_tense/2012/09/05/michelle_obama_dnc_speech_why_did_youtube_flag_it_for_copyright_infringement_.html">happen</a> and while it continues to improve its algorithms to stop invalid claims, it also manually reviews all of the videos that were flagged because of potentially invalid claims.</p>
+<p>&#8220;There is still a lot of work ahead of us,&#8221; wrote YouTube&#8217;s rights management production manager Thabet Alfishawi <a target="_blank" href="http://youtube-global.blogspot.com/2012/10/improving-content-id.html">earlier today</a>. &#8220;But we believe that these are significant steps forward in our efforts to keep YouTube a vibrant place where the rights of both content owners and users are protected and everyone can control their original content and make money from it &#8211; money which can be put towards the production of more great content.&#8221;</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/tLwqkatRpb8/">here</a>.
