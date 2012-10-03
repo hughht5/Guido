@@ -1,0 +1,16 @@
+{
+"title" : "Apple’s Siri, Google’s Voice Recognition Technology Targeted By Patent Troll",
+"date" : "Wed, 03 Oct 2012 08:32:24 +0000",
+"author" : "Natasha Lomas"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/08/patent.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="patent" title="patent" style="float: left; margin: 0 10px 7px 0;" /><p>A company that has acquired 100% of the ownership of a patent for an off-site transcription system &#8211; United States Patent 6,298,328 &#8212; in order to, in its words, &#8220;effectively administer certain patents for technology&#8221;, says it will be seeking residual royalties from Apple, for its Siri voice assistant, and Google, for the Voice Recognition technology in its Android 4.1 release, along with &#8220;many other software and hardware providers that have adopted systems similar to the patent&#8221;.</p>
+<p>The company is a non-practicing entity -<strong>- </strong>or &#8216;patent troll&#8217; to use a more pejorative term &#8212; called Accredited Transcription Corp (ATC). It said it will be sending cease and desist letters to Apple, Google and other technology companies it believes to be infringing its patent within the next 30 days. ATC wants the companies to either pay royalties, license the technology or stop using the systems it claims infringe its patent &#8212; and said it will litigate to protect its claim if necessary.</p>
+<p>Prior to today&#8217;s announcement ATC had acquired 66.6% ownership of the patent in question. Today, it acquired the remaining 33.4% of the patent.</p>
+<p><a href="http://techcrunch.com/2012/10/03/apples-siri-googles-voice-recognition-technology-targeted-by-patent-troll/screen-shot-2012-10-03-at-09-19-59-2/" rel="attachment wp-att-666017"></a></p>
+<p>According to ATC, <a target="_blank" href="http://www.google.com/patents/US6298326?printsec=drawing#v=onepage&amp;q&amp;f=false">the patent in question</a> concerns an invention whereby a user speaks into a device, the voice is transmitted to a central data processing facility where sounds are converted into text and returned to the device.</p>
+<p>&#8220;ATC believes that these procedures clearly infringe on the patent and that those who misuse its technology must either license it, pay royalties, or cease using the products. If royalties cannot be achieved through negotiations, ATC will initiate litigation and seek injunctions against those who infringe on the patent,&#8221; it said in a statement.</p>
+<p>&#8220;ATC recognizes that its patent provides a technology that benefits the public, so it remains amenable to work with companies such as Google and Apple as long as it receives proper royalties on each of their units sold that use the patented technology,&#8221; the company added.</p>
+<p>ATC describes itself as &#8220;an entity formed for the purpose of establishing digital transcription technologies owned by a consortium of enterprises&#8221;. It was formed in Pennsylvania in 2011. Another company &#8212;  Accredited Business Consolidators Corp, which owns 15% of ATC&#8217;s stock &#8212; is managing and overseeing the patent prosecution program.</p>
+<p>&nbsp;</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/LIiCYCUEMxc/">here</a>.
