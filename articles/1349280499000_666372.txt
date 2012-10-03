@@ -1,10 +1,10 @@
 {
-"title" : "Andreessen Horowitz Invests $15 million In Rap Genius",
+"title" : "Andreessen Horowitz Invests $15 million In Text Annotation Startup Rap Genius",
 "date" : "Wed, 03 Oct 2012 16:08:19 +0000",
 "author" : "Drew Olanoff"
 }
 
-<p>Here&#8217;s an investment out of left field, but not really. Andreesen Horowitz is dropping $15M into startup Rap Genius.  </p>
+<p>Here&#8217;s an investment out of left field, but not really. Andreesen Horowitz is dropping $15M into startup Rap Genius.</p>
 <p>Here&#8217;s <a target="_blank" href="http://rapgenius.com/Marc-andreessen-why-andreessen-horowitz-is-investing-in-rap-genius-lyrics">what the firm had to say by way of Rap Genius&#8217; blog</a>:</p>
 <blockquote><p>I&#8217;m delighted to announce that Andreessen Horowitz is investing $15 million in Rap Genius.</p>
 <p>Given that Rap Genius is a web site where people explain rap lyrics, and given that my partner Ben is a noted rap fanatic, your first reaction might be, &#8220;That Horowitz guy has completely lost his mind.&#8221; I, on the other hand, find rap every bit as comprehensible as ancient Mesopotamian. That&#8217;s why I&#8217;m writing this blog post – not him. Let me explain why we&#8217;ve invested in Rap Genius&#8230;</p></blockquote>
