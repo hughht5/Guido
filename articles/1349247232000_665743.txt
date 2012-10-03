@@ -1,5 +1,5 @@
 {
-"title" : "$45 Billion Later Larry Ellison Says No Major Acquisitions For Next Few Years",
+"title" : "$45 Billion Later, Larry Ellison Says No Major Acquisitions For Next Few Years",
 "date" : "Wed, 03 Oct 2012 06:53:52 +0000",
 "author" : "Alex Williams"
 }
@@ -23,7 +23,7 @@
 <h3>2012</h3>
 <p>Oracle buys <a target="_blank" href="http://en.wikipedia.org/wiki/Taleo">Taleo</a>, the talent management software. The deal has the markings of battles dating back to PeopleSoft. Taleo competes with Workday.</p>
 <h3>Looking Forward</h3>
-<p>In his keynote today, Ellison reiterated the social technologies that the company purchased. He said the acquisitions were not meant solely to build out separate suites but more so for the company to developt its platform.</p>
+<p>In his keynote today, Ellison reiterated the social technologies that the company purchased. He said the acquisitions were not meant solely to build out separate suites but more so for the company to develop its platform.</p>
 <p>But it is curious why Ellison is saying no major acquisitions for the next few years. The network virtualization boom is here and should play out for the next few years. VMware acquired Nicira for $1.2 billion. Oracle acquired Xsigo Systems earlier this summer but the purchase was <a href="http://techcrunch.com/2012/07/30/why-the-open-cloud-wins-and-oracle-loses-when-it-gets-virtualized/">underwhelming at best</a>.</p>
 <p>So what is the next major acquisition? Here are three possibilities:</p>
 <ul>
