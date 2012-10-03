@@ -11,6 +11,6 @@
 <p>We knew that Ben Horowitz was a rap fan, but to the tune of $15M? We had no idea. Rap Genius is a community of people super into the musical genre, and says it is one of the &#8220;fastest growing web sites in Y Combinator&#8217;s history.&#8221;</p>
 <p>After making a few quips about Horowitz&#8217; rap fascination, Andreessen reveals that the real reason the top VC is investing in Rap Genius that the founder&#8217;s grand vision goes beyond rap music to all text annotation.</p>
 <p>Founder Mahbod Moghadam want to &#8220;annotate the world&#8230; be the knowledge about the knowledge&#8230; create the Internet Talmud,&#8221; Andreessen writes, explaining that the service, which crowdsources context around text, can be used to annotate literature, poetry, the Bible, political speeches, legal text, academic papers and &#8220;all culture.&#8221;</p>
-<p>&#8220;The potential of this company is large,&#8221; Andreessen writes.</p>
+<p>&#8220;The potential of this company is large,&#8221; Andreessen writes, and indeed it is, if the founders want to go beyond explaining <a target="_blank" href="http://rapgenius.com/Childish-gambino-bonfire-lyrics#note-294472">the &#8220;Human Centipede&#8221;</a> reference in Childish Gambino&#8217;s Bonfire to explaining all of text.</p>
 <p><em>This is developing.</em></p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/5fglG3g7VG0/">here</a>.
