@@ -5,5 +5,7 @@
 }
 
 <img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/08/4gplaybook.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="4gplaybook" title="4gplaybook" style="float: left; margin: 0 10px 7px 0;" /><p>RIM is not done with the PlayBook. The company <a target="_blank" href="http://blogs.blackberry.com/2012/10/playbook-os-2-1-update/">just announced</a> a major update for its tablet. The software update will be available later today for the WiFi PlayBook and brings a host of significant improvements. With this update the tablet now sports SMS capabilities through BlackBerry Bridge, data encryption on personal accounts, and improved Android application support.</p>
-<p>Developing&#8230;</p>
+<p>This update brings an updated BlackBerry Bridge. It now allows the PlayBook to send, view and receive text messages when connected to a BlackBerry smartphone over Bluetooth. Along with this enhanced communication comes portrait support for email, calendar and contacts. </p>
+<p>Personal data can now be encrypted. This was previously only available for data on a corporate BES account.</p>
+<p>RIM also added significant enhanced Android application support. With 2.1 Android apps now support multi-window applications, camera support and in-app payments. If nothing else, these functions bring the PlayBook up to par with competitive Android tablets.</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/vDc168vhvqs/">here</a>.
