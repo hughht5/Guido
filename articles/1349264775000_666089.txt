@@ -10,6 +10,8 @@
 <div lang="EN-GB">
 <p>The EE network will bring 4G to ten cities starting on October 30, and will expand to cover 16 cities &#8212; a third of the UK population &#8212; by the end of the year.</p>
 <p>The 10 launch cities are Birmingham, Bristol, Cardiff, Edinburgh, Glasgow, Leeds, Liverpool, London, Manchester and Sheffield. By the year&#8217;s end EE&#8217;s LTE will also be live in Belfast, Derby, Hull, Newcastle, Nottingham and Southampton.</p>
-<p>More to come&#8230;</p>
+<p>A stand still agreement between the U.K.&#8217;s four carriers prevented EE from launching the network last month. But yesterday telecoms regulator <a href="http://techcrunch.com/2012/10/02/u-k-4g-crunch-talks-between-carriers-regulators-win-speedier-launch-of-lte-networks/">Ofcom announced</a> a deal has been secured to speed up frequency clearance timetables for spectrum that is due to be auctioned at the start of next year &#8211; thereby shortening EE&#8217;s competitive advantage.</p>
+<p>EE&#8217;s rivals O2 and Vodafone are planning to launch their LTE networks in the two bands up for auction (800MHz, 2.6GHz) so by speeding up spectrum clearance &#8212; and shaving up to five months off the launch time of LTE networks in those bands &#8212; the risk of further litigation or other blocking tactics being deployed against EE&#8217;s launch has been effectively nullified.</p>
+<p>&#8220;After more than five years in the making, finally the schedule to award spectrum for 4G appears to have been agreed,&#8221; noted Matthew Howett, analyst at Ovum, in a statement <a href="http://techcrunch.com/2012/10/02/u-k-4g-crunch-talks-between-carriers-regulators-win-speedier-launch-of-lte-networks/">yesterday</a>.</p>
 </div>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/RJRZXrcYcmQ/">here</a>.
