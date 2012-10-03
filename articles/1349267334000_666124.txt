@@ -1,5 +1,5 @@
 {
-"title" : "Report: Deutsche Telekom And MetroPCS Boards Give Go-Ahead To T-Mobile Merger",
+"title" : "Deutsche Telekom And MetroPCS Boards Give Go-Ahead To T-Mobile Merger",
 "date" : "Wed, 03 Oct 2012 12:28:54 +0000",
 "author" : "Darrell Etherington"
 }
@@ -9,4 +9,6 @@
 <p>According to the WSJ, Deutsche Telekom will gradually reduce its ownership of the combined company over time, in a staged departure from the U.S. market, which is growing at a slower pace than others around the globe in the wireless sector. Deutsche Telekom will retain about 75% of the new company initially, and will also retain $15 billion of the total debt owned by the new entity, while MetroPCS shareholders will get a payout of $4 per share or about $1.5 billion in total, the report claims.</p>
 <p>Combined, MetroPCS and T-Mobile USA have over 40 million subscribers, which will help reverse some of the subscriber losses T-Mobile has been posting of late. But that still means it&#8217;ll be fourth largest overall, trailing Verizon, AT&amp;T (both over 100 million) and Sprint (over 55 million).</p>
 <p>From a technological point of view, merging the two companies could be a challenge, since they use different frequencies for most of their network. But MetroPCS has recently committed to delivering LTE connectivity across its subscriber base by the end of 2012, and that could help the newly combined entity better serve new customers in the future.</p>
+<p>Update: The merger has now been confirmed by a <a target="_blank" href="http://www.businesswire.com/news/home/20121003005835/en/T-Mobile-USA-MetroPCS-Combine-Creating-Leader-U.S.">joint press release issued by both MetroPCS and Deutsche Telekom</a>, which includes the following statement from Deutsche Telekom CEO René Obermann:</p>
+<blockquote><p>We are extremely pleased to announce this transaction with MetroPCS, which enhances Deutsche Telekom’s position in the expanding U.S. wireless market. The T-Mobile and MetroPCS brands are a great strategic fit – both operationally and culturally. The new company will be the value leader in wireless with the scale, spectrum and financial and other resources to expand its geographic coverage, broaden choice among all types of customers and continue to innovate, especially around the next-generation LTE network. We are committed to creating a sustainable and financially viable national challenger in the U.S., and we believe this combination helps us deliver on that commitment.</p></blockquote>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/oh09baLtXhU/">here</a>.

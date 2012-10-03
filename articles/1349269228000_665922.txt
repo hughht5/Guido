@@ -1,0 +1,14 @@
+{
+"title" : "Investment Platform For Your Savings, Betterment Raises $10M From Menlo Ventures, Bessemer",
+"date" : "Wed, 03 Oct 2012 13:00:28 +0000",
+"author" : "Leena Rao"
+}
+
+<img width="100" height="65" src="http://tctechcrunch2011.files.wordpress.com/2012/10/beteremnt.jpg?w=100&amp;h=65&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="beteremnt" title="beteremnt" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="https://www.betterment.com/">Betterment,</a> an investment platform for your savings, has raised $10 million in financing led by Menlo Ventures with Bessemer Venture Partners and Anthemis Group also participating in the round. This brings Betterment&#8217;s total funding to <a href="http://techcrunch.com/2010/12/01/bessemer-betterment-3-million/">$13 million.</a></p>
+<p>Betterment, which <a target="_blank" href="https://www.betterment.com/blog/2010/05/25/betterment-launches-on-stage-at-techcrunch-disrupt/">launched at TechCrunch Disrupt</a> in 2010, aims to disrupt the financial savings industry by letting customers invest their savings in a carefully-selected blend of stock and bond portfolios which are rebalanced regularly and automatically. The company combines the accessibility of an online savings account with the performance of an investing account.</p>
+<p>The New York City startup is a registered broker dealer and financial adviser. The only fee it charges is a tiered management fee that is a percentage of assets in each account. The startup&#8217;s clients range from sophisticated investors looking for a set-and-forget investment alternative, to traditional savers looking for a conservative bridge into stock and bond investing.</p>
+<p>More recently, Betterment has evolved to include traditional and Roth IRAs, and additional features like auto-deposit, goal-based investing, and more. The company recently debuted Betterment Gifts, an online gift registry that allows people to contribute to a life event.</p>
+<p>The company says that it has been increasing customer assets under management at 500% per year.</p>
+<p>The funding will be used to develop an improved mobile experience, add better options for shorter term goals, and create new behavior-based ways to encourage people to make the most of their money and lives.</p>
+<p>Check out our interview with Betterment&#8217;s CEO Jon Stein <a href="http://techcrunch.com/2012/05/03/betterment-talks-about-the-disrupt-bump-and-the-future-of-investing/">here.</a> </p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/QaubJnTpqHE/">here</a>.
