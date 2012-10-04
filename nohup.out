@@ -4073,3 +4073,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Anything-Qype-Can-Do,-We-Can-Do-Four-Years-Later:-Yelp-Enters-Poland Anything Qype Can Do, We Can Do Four Years Later: Yelp Enters Poland
+Git - Stdout: [master f3ba447] adding new article
+ 3 files changed, 49 insertions(+), 5 deletions(-)
+ create mode 100644 articles/1349351562000_667174.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   dcf2618..f3ba447  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
