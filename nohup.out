@@ -11537,3 +11537,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/TuneIn-Turns-On-Facebook-Scrobbling-For-Its-Online-Radio-Service TuneIn Turns On Facebook Scrobbling For Its Online Radio Service
+Git - Stdout: [master 20adad5] adding new article
+ 2 files changed, 43 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349380823000_667546.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   475af30..20adad5  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
