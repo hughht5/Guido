@@ -8265,3 +8265,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Romney-Won-The-Debate:-USC%E2%80%99s-Social-Media-Crystal-Ball-Knows-It Romney Won The Debate: USC’s Social Media Crystal Ball Knows It
+Git - Stdout: [master 66935ff] adding new article
+ 3 files changed, 52 insertions(+), 4 deletions(-)
+ create mode 100644 articles/1349368135000_667485.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   4c20512..66935ff  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
