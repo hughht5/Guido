@@ -1,0 +1,15 @@
+{
+"title" : "Nook Media Officially Spins Out Of B&N With Microsoft’s Help, Plans To Enter Ten New Markets By Next Year",
+"date" : "Thu, 04 Oct 2012 17:35:33 +0000",
+"author" : "John Biggs"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/nooksimpletouchreader.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="NookSimpleTouchReader" title="NookSimpleTouchReader" style="float: left; margin: 0 10px 7px 0;" /><p><a href="http://techcrunch.com/2012/04/30/bn-8-k-microsoft-paying-180m-advance-on-nook-for-windows-8-125m-for-content-tech-acquisition/">Barnes &amp; Noble has been aiming to spin off</a> their Nook business since last April and now the ink is dry on a new partnership between Nook Media, a subsidiary of B&amp;N, and Microsoft. Microsoft invested $300 million along with $305 million in payments to own 17% of the new company which has a $1.7 billion post money valuation.</p>
+<p>Nook Media consists of the Nook Digital brand of software, content, and devices as well as B&amp;N&#8217;s college business. The partnership is aimed at getting Nook content onto Windows 8 devices, thereby allowing Nook Media a valuable foothold in the burgeoning educational market and giving Microsoft the opportunity to retake a portion of the ereader market from incumbent Amazon.</p>
+<p>&#8220;Few companies own more screens than Microsoft does and we&#8217;re really excited to bring our bookstore to Microsoft users across a variety of services that the company has,&#8221; said Jamie Iannone, President of Digital Product for Nook Media.</p>
+<p>Nook Media, in effect, removes the Nook brand from B&amp;N proper, although employees will still sell and promote the Nook product line in B&amp;N&#8217;s stores.</p>
+<p>&#8220;It&#8217;s hardware, software, content: everything Nook is part of Nook Media,&#8221; said Iannone. &#8220;There will always be a long term relationship between Barnes &amp; Noble and the Nook business.&#8221;</p>
+<p>The company plans to expand the Nook product internationally. They recently announced plans to sell the Nook devices in the UK and they plan to open 10 more markets next year, although there are no concrete plans to bring Nook hardware to those markets.</p>
+<p>Indeed, the Nook business rose <a href="http://techcrunch.com/2012/02/21/barnes-noble-misses-in-q3-nook-business-up-38-percent-to-542m/">38% in February</a> while retail sales were flat year-over-year. By spinning off the most successful portions of the company, B&amp;N puts itself into a place to turn around &#8211; or abandon &#8211; bricks and mortar stores altogether.</p>
+<p>&#8220;Nook is an incredibly fast growing business,&#8221; said Iannone.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/_aiPX_Sj39w/">here</a>.
