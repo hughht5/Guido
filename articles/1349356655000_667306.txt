@@ -1,5 +1,5 @@
 {
-"title" : "Amazon Announces Cloud Drive In Italy And Spain In Addition To UK, Germany And France, Lowers Price",
+"title" : "Amazon Lowers Cloud Drive Prices, Announces Availability In Italy And Spain In Addition To UK, Germany And France",
 "date" : "Thu, 04 Oct 2012 13:17:35 +0000",
 "author" : "Romain Dillet"
 }
