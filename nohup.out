@@ -1325,3 +1325,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Europe-Ramps-Up-Cyber-Attack-Testing-With-Second-Simulated-Pan-Europe-DDoS Europe Ramps Up Cyber Attack Testing With Second Simulated Pan-Europe DDoS
+Git - Stdout: [master 10fcc6d] adding new article
+ 3 files changed, 57 insertions(+), 2 deletions(-)
+ create mode 100644 articles/1349340701000_667089.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   5d70442..10fcc6d  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
