@@ -34,5 +34,5 @@
 <p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-03-at-11-53-29-pm.png" rel="lightbox[666932]"></a></p>
 <p>CrowdHut, which provides payment processing, return and restock, affiliate marketing, advertising, and distribution, takes 30 percent of successful sales. It may seem steep for first-time crowdfunding entrepreneurs, but there&#8217;s plenty of benefit for those with small teams that don&#8217;t have the resources to handle the ins and outs of marketing, distribution, and processing.</p>
 <p>It&#8217;s easy to see the value of a services layer emerging around crowdfunding sites. However, at this point, CrowdHut is just in stage one. Entrepreneurs may be looking for a use case in which they get all the stuff mentioned above, while also being able to rely on the platform to take care of every link in the product fulfillment chain. CrowdHut isn&#8217;t doing this yet, but I wouldn&#8217;t be surprised if this made it into a future iteration.</p>
-<h5></h5>
+<p><strong>Photo (CC-BY):</strong> <a target="_blank" href="http://www.flickr.com/photos/jamescridland/613445810/">James Cridland</a></p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/Gp_VDOhg4vI/">here</a>.
