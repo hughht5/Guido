@@ -5287,3 +5287,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/ZocDoc-Debuts-%E2%80%98Check-In%E2%80%99-To-Let-You-Fill-Out-Those-Pesky-Medical-Forms-Before-Your-Doctor-Visit ZocDoc Debuts ‘Check-In’ To Let You Fill Out Those Pesky Medical Forms Before Your Doctor Visit
+Git - Stdout: [master d8037b3] adding new article
+ 3 files changed, 45 insertions(+), 1 deletions(-)
+ create mode 100644 articles/1349355600000_666995.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   23b5008..d8037b3  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
