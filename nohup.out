@@ -5075,3 +5075,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/With-Over-7M-Users-On-The-iPhone,-Camera-Awesome-Goes-Big-Screen-With-An-iPad-App With Over 7M Users On The iPhone, Camera Awesome Goes Big Screen With An iPad App
+Git - Stdout: [master 7148805] adding new article
+ 2 files changed, 42 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349355595000_667255.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   a1c98d7..7148805  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
