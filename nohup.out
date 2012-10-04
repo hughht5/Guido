@@ -13087,3 +13087,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/For-Oracle-It%E2%80%99s-About-The-Machine-Not-The-Fantasy-Of-A-New-World For Oracle It’s About The Machine Not The Fantasy Of A New World
+Git - Stdout: [master 97906c1] adding new article
+ 2 files changed, 54 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349387303000_667605.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   7dc42cf..97906c1  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
