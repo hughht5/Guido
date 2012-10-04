@@ -1,0 +1,20 @@
+{
+"title" : "There’s A Fine Line Between Private And Public, And Facebook Might Have Just Crossed It",
+"date" : "Thu, 04 Oct 2012 19:23:11 +0000",
+"author" : "Drew Olanoff"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/4592915995_8d12eaefc8_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="4592915995_8d12eaefc8_z" title="4592915995_8d12eaefc8_z" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://thenextweb.com/facebook/2012/10/04/facebook-confirms-it-is-scanning-your-private-messages-for-links-so-it-can-increase-like-counters/?utm_source=Twitter&amp;awesm=tnw.to_j5o8&amp;utm_medium=Spreadus&amp;utm_campaign=social%20media">According to The Next Web</a>, it has come to our attention that sending someone a link to something in a private message increases the &#8220;Like&#8221; numbers on public counters, by two.</p>
+<p>Before I dig into why this is a bad idea and perhaps a serious invasion of privacy, I will let you read Facebook&#8217;s response, which was also just published by TNW:</p>
+<blockquote><p>We did recently find a bug with our social plugins where at times the count for the Share or Like goes up by two, and we are working on fix to solve the issue now. To be clear, this only affects social plugins off of Facebook and is not related to Facebook Page likes. This bug does not impact the user experience with messages or what appears on their timelines.</p></blockquote>
+<p>You&#8217;ll notice that the Facebook representative noted that there was a bug where this action would increase counters by two. Except, there&#8217;s no mention of the fact that private messages impact public counters at all, which in my opinion is wrong.</p>
+<p>Some would argue that if it&#8217;s not personally identifiable, the &#8220;Like&#8221; itself, there&#8217;s no harm or foul. I disagree with that line of thinking because I don&#8217;t want a private action of mine being used to make a public action. Period. Even if Facebook doesn&#8217;t tell the world who bumped the counter. I think that&#8217;s unfair, unjust and shady as all hell.  </p>
+<p>Here&#8217;s Facebook&#8217;s comment after TNW asked for clarification:</p>
+<blockquote><p>Absolutely no private information has been exposed and Facebook is not automatically Liking any Facebook Pages on a user’s behalf.</p>
+<p>Many websites that use Facebook’s ‘Like’, ‘Recommend’, or ‘Share’ buttons also carry a counter next to them. This counter reflects the number of times people have clicked those buttons and also the number of times people have shared that page’s link on Facebook. When the count is increased via shares over private messages, no user information is exchanged, and privacy settings of content are unaffected. Links shared through messages do not affect the Like count on Facebook Pages.</p></blockquote>
+<p>Right, so Facebook confirms that this counter increase does happen if you send someone a link privately. But in essence says &#8220;Hey, there&#8217;s no personal info attached&#8230;no biggy.&#8221;</p>
+<p>To me, this is like a favorite being added to a tweet if I were to direct message it to you. Even if my face/name isn&#8217;t linked back to that favorite, I didn&#8217;t mean to take a public action, I wanted to do something privately.</p>
+<p>I take a church and state approach to privacy. Lines shouldn&#8217;t be crossed when I take a private action like sending someone a link via Facebook&#8217;s messaging system.</p>
+<p>What say you? Let us know in the comments.</p>
+<p>[Photo credit: <a target="_blank" href="http://www.flickr.com/photos/smemon/4592915995/sizes/z/">Flickr</a>]</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/BOlOhgBofLI/">here</a>.
