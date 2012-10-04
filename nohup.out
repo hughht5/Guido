@@ -3771,3 +3771,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Accel-Partners-Big-Data-Fund-Invests-$4.3-Million-In-Trifacta Accel Partners Big Data Fund Invests $4.3 Million In Trifacta
+Git - Stdout: [master 1d2e254] adding new article
+ 3 files changed, 48 insertions(+), 1 deletions(-)
+ create mode 100644 articles/1349350204000_666645.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   11a06a5..1d2e254  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
