@@ -1,0 +1,11 @@
+{
+"title" : "Microsoft’s Windows Phone 8 Launch Event Happening October 29 In San Francisco",
+"date" : "Thu, 04 Oct 2012 18:05:08 +0000",
+"author" : "Darrell Etherington"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/3prkp3.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="3prkp3" title="3prkp3" style="float: left; margin: 0 10px 7px 0;" /><p>Microsoft is sending out invites for a Windows Phone 8 launch event on October 29, to be held at 10 AM PST. The  phone platform was shown off on stage during a <a title="Live From Nokia’s Windows Phone 8 Press Conference" href="http://techcrunch.com/2012/09/05/live-from-nokia/">joint event with Nokia</a>, and also during<a title="Live From HTC’s New York Press Event!" href="http://techcrunch.com/2012/09/19/live-from-htcs-new-york-press-event/"> another with HTC</a> in September, but Microsoft is saying we&#8217;ll see more at its own show.</p>
+<p>This could be when the company tells consumers when exactly they&#8217;ll get their hands on Redmond&#8217;s next mobile OS, and it comes just a few days after the official launch of the Windows 8 desktop and tablet platform. AT&amp;T announced today that it would <a href="http://techcrunch.com/2012/10/04/nokia-lumia-920-lumia-820-to-hit-att-shelves-in-november/">begin selling the Windows Phone 8-powered Nokia Lumia 820 and 920 in November</a>, so maybe we&#8217;ll see these get a specific shelf date at this event.</p>
+<p>Microsoft has been doing a lot to encourage developers to come on board for Windows Phone, with 100,000 apps as of June and likely quite a few more now. The OS also has a number of devices from both Nokia and HTC aimed at various budgets to help it gain some early traction. But it&#8217;s still going to have a hard time catching up to the number 1 and 2 mobile operating system&#8217;s, Google&#8217;s Android and Apple&#8217;s iOS.</p>
+<p>Maybe the best part of a Microsoft event? The possibility of yet another Ballmer meme.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/Q8gcL1Qi9y8/">here</a>.
