@@ -10869,3 +10869,37 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Mind-Reading-Tech-Helps-Students-Overcome-Test-Anxiety Mind-Reading Tech Helps Students Overcome Test Anxiety
+tweeted : http://www.techcrunchlite.com/2012/10/Mind-Reading-Tech-Helps-Students-Overcome-Test-Anxiety Mind-Reading Tech Helps Students Overcome Test Anxiety
+Git - Stdout: [master 424deb3] adding new article
+ 3 files changed, 62 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349378496000_667672.txt
+ create mode 100644 articles/1349378591000_667670.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   355897c..424deb3  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
