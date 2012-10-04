@@ -1,0 +1,16 @@
+{
+"title" : "1 Billion Users Have Done Zilch For Facebook’s Stock Price Today",
+"date" : "Thu, 04 Oct 2012 18:26:25 +0000",
+"author" : "Ingrid Lunden"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-04-at-18-41-42.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="facebook stock 1 billion" title="facebook stock 1 billion" style="float: left; margin: 0 10px 7px 0;" /><p>Last week, we noted that Facebook&#8217;s stock appeared to have gotten a <a href="http://techcrunch.com/2012/09/28/facebook-shares-gifts-launch/">nice little bump</a> after it announced its move into the sale of physical gifts, potentially opening a new revenue stream for the company. Not all of Facebook’s big news is so kind. Today’s announcement that Facebook has reached <a href="http://techcrunch.com/2012/10/04/facebook-tops-1-billion-monthly-users-ceo-mark-zuckerberg-shares-a-personal-note/">1 billion users</a> has had no impact, or possibly a negative one, on its stock so far today.</p>
+<p>As of this moment, the stock is <a target="_blank" href="http://www.google.com/finance?q=facebook&amp;ei=mYltUPCrAeP6wAPHFA">trading at 6 cents</a> down on today&#8217;s opening price of 21.83, or down 0.27%. It did open a bit higher but has been trading at under $22 for the last couple of hours.</p>
+<p>This morning&#8217;s news was followed by a short appearance on the Today Show on NBC, as well as an interview in Businessweek. These will be followed by a longer TV interview this evening, also on NBC. As a point of comparison, after speaking on stage at <a href="http://techcrunch.com/2012/09/12/zuckerbergs-disrupt-talk-pushes-facebook-stock-up-8-9-to-high-of-21-16/">TC Disrupt</a>, Facebook&#8217;s stock was up by more than 8.9%, and the Gifts news gave it a 6% lift.</p>
+<p>So why the lukewarm response here? It could be that Facebook&#8217;s been close enough to 1 billion monthly active users leading up to today, that this didn&#8217;t have as big of an impact on the company as you would think.</p>
+<p>There is also the fact that today&#8217;s news was largely about a single number, not so much about revealing strategy about how to get to the next billion, or how to make money out of the current billion already there.</p>
+<p>For the record, when asked about the next billion by <a target="_blank" href="http://www.businessweek.com/articles/2012-10-04/facebooks-next-billion-a-q-and-a-with-mark-zuckerberg#p2">Businessweek</a>, Zuckerberg&#8217;s reply was pretty simple (and no surprise for those who watch the company): &#8220;The big thing is obviously going to be mobile,&#8221; he said. Currently 600 million of Facebook&#8217;s 1 billion users are on mobile devices, and their rate is growing faster than that of desktop.</p>
+<p>These are the big challenges that have been hammering Facebook&#8217;s stock price so far. The company speaking clearly about its ambitions, or actually acting on them &#8212; that&#8217;s the kind of news the market likes to hear.</p>
+<p>&nbsp;</p>
+<p></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/LMHdHzDbKZs/">here</a>.
