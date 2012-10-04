@@ -1,0 +1,13 @@
+{
+"title" : "Google’s iOS Web App For iPhone and iPad Now Features Street View",
+"date" : "Thu, 04 Oct 2012 09:37:32 +0000",
+"author" : "Ingrid Lunden"
+}
+
+<p><a target="_blank" href="http://www.google.com">Google</a> has yet to publish a native Google Maps app for Apple&#8217;s iOS devices (although we hear it&#8217;s coming <a href="http://techcrunch.com/2012/09/20/crap-maps/">soon</a>), but in the meantime it continues to beef up the experience on its iOS-focused web app, today adding its popular Street View functionality, for  users to see actual images of a location or a route. The news that this was coming first came out yesterday, in the <a target="_blank" href="http://allthingsd.com/20121002/google-moves-ahead-in-fight-to-dominate-the-map-apps/">WSJ</a>. The first sighting of Street View in the mobile web app for iOS came from the <a target="_blank" href="http://www.iphoneincanada.ca/iphone-news/google-street-view-goes-live-in-the-google-maps-web-app/">iPhoneinCanada</a> blog. Google itself has yet to announce anything official.</p>
+<p>The move gives the web app greater parity with what Google is already doing online, and it is another sign of what we will expect to see when the native iOS app finally hits the App Store.</p>
+<p>Apple dropped Google&#8217;s data for its own native app with the most recent iOS 6 update, but so far Apple&#8217;s alternative offering has not proven to be as reliable as the Google version. That&#8217;s caused no end of problems and complaints, and last week Apple&#8217;s CEO Tim Cook <a href="http://techcrunch.com/2012/09/28/tim-cook-apologizes-for-apple-maps-points-to-competitive-alternatives/">wrote an open letter to apologize</a> &#8212; and suggest some back-up options while Apple continued to improve its own mapping product.</p>
+<p>So what may have looked like a big loss for Google, at least in the short term, it is a win, with people turning to its product on the web to replicate the old experience, and now associating Google Maps with reliability &#8212; and, with the addition of things like Street View, usable functionality. (Although some privacy advocates would argue that this isn&#8217;t the kind of functionality that should be allowed.)</p>
+<p>And we can confirm that it&#8217;s not only in North America where it is working. Now you too can see how overcast central London looks.<br />
+</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/2ilaXUB0HQo/">here</a>.
