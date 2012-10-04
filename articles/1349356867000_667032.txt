@@ -1,0 +1,15 @@
+{
+"title" : "Jolla Confirms It Will Unveil Sailfish MeeGo-Based OS Next Month",
+"date" : "Thu, 04 Oct 2012 13:21:07 +0000",
+"author" : "Natasha Lomas"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/07/jolla_color2.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="jolla_color" title="jolla_color" style="float: left; margin: 0 10px 7px 0;" /><p>Finnish mobile startup Jolla has announced it will be unveiling its forthcoming MeeGo-based mobile OS &#8212; codenamed Sailfish &#8212; at an event in Finland next month. It says it plans to demonstrate Sailfish at the <a target="_blank" href="http://slush.fi/en/">Slush</a> startup conference in Helsinki, Finland, on November 21-22.</p>
+<p>The startup said it will also discuss the Jolla SDK and app ecosystem with developers, while &#8220;device information, ID and expected availability&#8221; will be announced before Christmas.</p>
+<p>Release follows below. More to come&#8230;</p>
+<blockquote><p>A date and place has been set to reveal the new Jolla smartphone user interface and deliver the Jolla developer story and SDK. Jolla Ltd. will demonstrate the Jolla user interface, based on the recently announced Sailfish alliance OS, at the Slush event in Helsinki, Finland on 21-22 November. Jolla is very excited to be able to share the user interface, and talk about the Jolla SDK and application ecosystem with the developers. Jolla will publish the device information, ID and expected availability before Christmas.</p>
+<p>Peter Vesterbacka, a founder of Slush: &#8220;Slush has grown up to be the biggest entrepreneurship event in Northern Europe. It&#8217;s great to see hot new startups like Jolla use Slush as the venue for their major announcements. New business creation and innovation is alive and kicking at Slush and in the region&#8221;.</p>
+<p>Mikko Kuusi, CEO of Startup Sauna: &#8220;Jolla is a great example of what happens, when you combine the extreme technical talent found in Finland with the right attitude and ambition level of companies like Rovio.&#8221;</p>
+<p>In addition, Jolla will be hosting a separate, in-depth session to showcase the user interface, and a press Q&amp;A session. The Jolla user interface will be incorporated into the previously announced Sailfish alliance software. Jolla has been working on the scalability and user experience based on MeeGo in order to be able to support multiple different device categories. This development has now reached a point that Jolla can showcase the user interface, its differentiation from the existing mobile UI’s and its possibilities as part of the Sailfish alliance.</p>
+<p>Jussi Hurmola, CEO of Jolla: &#8220;I&#8217;m thrilled to finally be able to show the user interface we have been working on, and it will be exciting to open the developer story with SDK and applications to the public.”</p></blockquote>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/Hdh9MN53f7c/">here</a>.
