@@ -4981,3 +4981,37 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Facebook-Launches-Brand-Advertising-Campaign-Aimed-At-Users-In-13-Countries Facebook Launches Brand Advertising Campaign Aimed At Users In 13 Countries
+tweeted : http://www.techcrunchlite.com/2012/10/Facebook-Launches-Brand-Advertising-Campaign-Aimed-At-Users-In-13-Countries Facebook Launches Brand Advertising Campaign Aimed At Users In 13 Countries
+Git - Stdout: [master 6065e7a] adding new article
+ 4 files changed, 54 insertions(+), 1 deletions(-)
+ create mode 100644 articles/1349355015000_667285.txt
+ create mode 100644 articles/1349355141000_667263.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   c629c63..6065e7a  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
