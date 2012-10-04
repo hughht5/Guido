@@ -8991,3 +8991,37 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Smartphone-Contact-Management-Startup-Contacts+-Raises-$1-Million-In-Seed-Funding Smartphone Contact Management Startup Contacts+ Raises $1 Million In Seed Funding
+tweeted : http://www.techcrunchlite.com/2012/10/Smartphone-Contact-Management-Startup-Contacts+-Raises-$1-Million-In-Seed-Funding Smartphone Contact Management Startup Contacts+ Raises $1 Million In Seed Funding
+Git - Stdout: [master 06f1966] adding new article
+ 3 files changed, 58 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349369720000_667548.txt
+ create mode 100644 articles/1349370382000_667428.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   a591aec..06f1966  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
