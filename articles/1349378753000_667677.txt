@@ -1,0 +1,14 @@
+{
+"title" : "Everpurse Is A Purse That Charges Your Smartphone, Wire-Free",
+"date" : "Thu, 04 Oct 2012 19:25:53 +0000",
+"author" : "Jordan Crook"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-04-at-3-54-43-pm.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen shot 2012-10-04 at 3.54.43 PM" title="Screen shot 2012-10-04 at 3.54.43 PM" style="float: left; margin: 0 10px 7px 0;" /><p>We&#8217;ve heard of bags that charge your gadgets — the <a href="http://techcrunch.com/2012/01/07/the-road-to-ces-a-peek-inside-our-gadget-bags/">Powerbag Instant Messenger</a> comes to mind — but none targeted directly at women. That&#8217;s where the <a target="_blank" href="http://everpurse.com/">Everpurse</a> comes in.</p>
+<p>It&#8217;s a <a target="_blank" href="http://www.kickstarter.com/projects/everpurse/everpurse-magically-charges-your-phone-all-day">Kickstarter project</a> started by married couple Dan and Liz Salcedo. Essentially, you place your phone in a purse, or a purse insert (which is essentially a smaller bag you put inside your main bag), and it charges your phone on the go. Oh, and it&#8217;s entirely wireless.</p>
+<p>It works by using the Qi standard for inductive charging of the Everpurse battery. According to co-founder Dan Salcedo, the purse takes about 6 hours on a charging pad to be fully charged, and provides twice the battery life of your iPhone. In other words, when your phone is almost dead, you can pop it in the Everpurse and get it back to a full-charge in no time.</p>
+<p>Within the Everpurse itself, there are no wires, but there is a dock. You slip your phone in and gravity takes care of the rest, plugging in the phone and getting it charging.</p>
+<p>According to Salcedo, the battery and receiver combined weigh only 6 ounces. He also mentioned that dudes aren&#8217;t averse to the Murse. As much as 10 percent of Everpurse&#8217;s Kickstarter orders are coming from men who would like a black model to slip into their backpack. Or whatever.</p>
+<p>In the future, the dynamic (and married) duo would like to create suit jackets and pants that do the same thing. Though, they say that the clothes probably won&#8217;t arrive until the Everpurse campaign is closed.</p>
+<a href="http://techcrunch.com/2012/10/04/everpurse-is-a-purse-that-charges-your-smartphone-wire-free/#gallery-667677-1-slideshow">Click to view slideshow.</a>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/4DVVZ-JqzDY/">here</a>.
