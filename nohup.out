@@ -4799,3 +4799,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Pressing-Play%E2%80%99s-The-Thing:-Publisher-Uses-Apple%E2%80%99s-iBooks-Author-Tool-To-Build-iPad-Editions-Of-Shakespeare Pressing Play’s The Thing: Publisher Uses Apple’s iBooks Author Tool To Build iPad Editions Of Shakespeare
+Git - Stdout: [master 106e499] adding new article
+ 2 files changed, 48 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349354368000_667162.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   0441f9f..106e499  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
