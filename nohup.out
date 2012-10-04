@@ -6017,3 +6017,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Flipboard-Begins-Sourcing-Content-From-Kickstarter,-Picks-Projects-Focused-On-Future-Of-Publishing Flipboard Begins Sourcing Content From Kickstarter, Picks Projects Focused On Future Of Publishing
+Git - Stdout: [master e7ee007] adding new article
+ 2 files changed, 48 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349359223000_667319.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   72b79cf..e7ee007  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
