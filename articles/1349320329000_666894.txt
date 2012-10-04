@@ -1,0 +1,21 @@
+{
+"title" : "Dropbox Now Helps Team Admins Get Everyone To Turn On Two-Step Verification",
+"date" : "Thu, 04 Oct 2012 03:12:09 +0000",
+"author" : "Drew Olanoff"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/3714895038_65f5520938_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="3714895038_65f5520938_z" title="3714895038_65f5520938_z" style="float: left; margin: 0 10px 7px 0;" /><p>When you&#8217;re managing a collaborative space for your team at work or a group of folks working on a project, you know that security is extremely important. <a href="http://techcrunch.com/2012/09/26/facebook-integrates-with-dropbox-to-power-file-sharing-within-facebook-groups/">Dropbox</a> knows this, too, and launched its two-step verification process for all users in August. Today, the company is allowing team administrators to see who is utilizing this feature.</p>
+<p>When you&#8217;re an admin, it&#8217;s your job to make sure that everyone takes the proper precautions to keep things secure, as individual actions, or inaction, can lead to issues for the entire group. That won&#8217;t be an issue for two-step verification anymore, as admins can now see who has turned it on, or not, and then email reminders to get them to follow through.</p>
+<p>Here&#8217;s what Dropbox <a target="_blank" href="https://dropboxatwork.dropbox.com/?p=32">had to say about it</a>:</p>
+<blockquote><p>Today, we’re updating Dropbox for Teams to help admins enable security features for their team. In August, we launched two-step verification to let people add another layer of security to their Dropbox accounts. Starting this evening, admins will be able to see who on their team has turned on two-step verification, and email those who haven’t, directly from the ‘Team’ tab. Check it out:</p></blockquote>
+<p>This handy dashboard will let admins know who to bug about it:</p>
+<p><a href="http://techcrunch.com/2012/10/03/dropbox-now-helps-team-admins-get-everyone-to-turn-on-two-step-verification/blog-admin-teams-3/" rel="attachment wp-att-666897"></a></p>
+<p>The company goes on to say that it is putting even more effort behind its Teams offerings, as the reception to the product has been overwhelmingly positive:</p>
+<blockquote><p>Over time, we’ll be developing features to allow Teams admins to help out with common cases, like when someone on your team gets locked out of their account, or when you need access to your summer intern’s project files after they’re gone. To clarify that admins may have access to team member accounts when managing the team, we’re updating our Dropbox for Teams Agreement and Privacy Policy.</p></blockquote>
+<p>I know many teams that find Dropbox to be a valuable part of their collaboration process. As journalists, we can transfer photos from an event in near real-time, and pop them into a post. It&#8217;s kind of awesome.</p>
+<p>Anna-Christina Douglas from Dropbox tells me that the company is &#8220;..interested in doing things to help people turn this feature on. We also want users feeling comfortable to give admins some visibility into how they can build a more secure community around their team.&#8221;</p>
+<p>Allowing admins to see who needs to take that &#8220;extra step&#8221; to secure everyone&#8217;s important documents is a smart move and will hopefully lead to more peace of mind for everyone.</p>
+<p><a href="http://techcrunch.com/2012/10/03/dropbox-now-helps-team-admins-get-everyone-to-turn-on-two-step-verification/techblogbanner-nologo/" rel="attachment wp-att-666927"></a></p>
+<p>Another thing to note, Dropbox has <a target="_blank" href="https://dropboxatwork.dropbox.com/">launched a new blog</a> specifically to talk to teams who use the product at work, so expect more stuff to pop up there.</p>
+<p>[Photo credit: <a target="_blank" href="http://www.flickr.com/photos/fromthenorth/3714895038/">Flickr</a>]</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/j6P5VuLnhlg/">here</a>.

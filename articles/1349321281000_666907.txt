@@ -1,0 +1,21 @@
+{
+"title" : "Big Fucking Surprise: A Lot Of People Tweeted About The Presidential Debate",
+"date" : "Thu, 04 Oct 2012 03:28:01 +0000",
+"author" : "Ryan Lawler"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/mitt-loves-big-bird.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="mitt-loves-big-bird" title="mitt-loves-big-bird" style="float: left; margin: 0 10px 7px 0;" /><p>I&#8217;ve been <a target="_blank" href="https://twitter.com/ryanlawler/status/253548658153365505">waiting for this moment all day</a>, so I want to thank <a target="_blank" href="https://twitter.com/twittercomms/status/253689680430780416">Twitter Comms</a> for finally giving me the opportunity to write this post. Apparently and unsurprisingly, tonight&#8217;s Presidential debate gave a spirited group of passionate Twitter users plenty of fodder to Tweet about, leading to the most Tweeted about political event of all time. </p>
+<p>Pat yourself on the back, Tweeters. Tonight, you&#8217;ve once again made history.</p>
+<p>Any time some major event happens on the television, Twitter makes some big announcement about its latest record milestone. It&#8217;s always phrased differently, but the idea is the same. Tonight&#8217;s debate might have been the &#8220;most tweeted about event in US political history,&#8221; but every few weeks we&#8217;re treated to some other most tweeted about event. The most tweeted about Nascar race. The most tweeted about Super Bowl. The most tweeted about MTV-sponsored awards show. </p>
+<blockquote class="twitter-tweet"><p>Tonight&#8217;s debate was the most tweeted about event in US political history, topping the numbers from the RNC and DNC.</p>
+<p>&mdash; Twitter Comms (@twittercomms) <a target="_blank" href="https://twitter.com/twittercomms/status/253689680430780416">October 4, 2012</a></p></blockquote>
+<p>It&#8217;s to the point where it doesn&#8217;t really matter what people are talking about on the Twitters &#8212; it&#8217;s just they&#8217;re talking a lot, and that means Twitter is important. And so once again we&#8217;re served with another self-congratulatory Tweet from Twitter Comms &#8212; and soon, a self-congratulatory blog post about how influential Twitter is in today&#8217;s day and age.</p>
+<p>Well, here&#8217;s what I think. The day that we stop caring about how many Tweets per second people Tweet will be the day that Twitter actually matters. The day that it no longer has to pat itself on the back is the day that it will have truly reached its maximum cultural impact. It&#8217;ll just be something that people do, and we won&#8217;t have to think about how much they&#8217;ve done it. It will just be.</p>
+<p>And as for how this relates to the elections, well &#8212; some pundit is going to come along with some social media research with sentiment analysis telling us &#8220;Who Won The Debate On Twitter.&#8221; Bullshit. Twitter doesn&#8217;t have a vote. </p>
+<p>But you know who does? People who don&#8217;t actually Tweet, and probably won&#8217;t start before November. </p>
+<p>Also, this:</p>
+<blockquote class="twitter-tweet"><p>Technically, Twitter&#8217;s archives don&#8217;t go all the way back to the Civil War, so total Gettysburg Address live-tweets can only be estimated.</p>
+<p>&mdash; Tim Carmody (@tcarmody) <a target="_blank" href="https://twitter.com/tcarmody/status/253694130100785152">October 4, 2012</a></p></blockquote>
+<p>And this:</p>
+<blockquote class='twitter-tweet'><p>shocking &#8211; even more than Jimmy Carter tweets? RT @<a href="https://twitter.com/ezraklein">ezraklein</a>: Tonight&#039;s debate was the most tweeted about event in US political history.&mdash; <br />chris dixon (@cdixon) <a href='http://twitter.com/#!/cdixon/status/253697915166523393' data-datetime='2012-10-04T03:27:51+00:00'>October 04, 2012</a></p></blockquote>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/C_krttOr-5I/">here</a>.
