@@ -12,7 +12,7 @@
 <li>Explore the cooperation between public and private stakeholders in Europe;</li>
 <li>Identify gaps and challenges on how large scale cyber incidents could be handled more effectively in Europe.</li>
 </ol>
-<p>The first Cyber Europe event took place in 2010 but this event is larger and more complex &#8212; with enough &#8220;cyber incidents&#8221; being triggered to challenge the participants (more than 1000 injects by the end of the exercise vs 300+ in the 2010 exercise). The event will also look to test the scope for cooperation between the different countries and sectors participating.</p>
+<p>The first Cyber Europe event took place in 2010 but this event is larger and more complex &#8212; with 300 security professionals (rather than the 70+ who took part in 2010) and enough &#8220;cyber incidents&#8221; being triggered to challenge the participants (more than 1000 injects by the end of the exercise vs 300+ in the 2010 exercise). The event will also look to test the scope for cooperation between the different countries and sectors participating.</p>
 <p>In ENISA&#8217;s <a target="_blank" href="http://www.enisa.europa.eu/activities/Resilience-and-CIIP/cyber-crisis-cooperation/cyber-europe/ce2010/ce2010report">final report</a> on the 2010 cyber security exercise it recommended</p>
 <ul>
 <li>more cyber security exercises in the future,</li>
