@@ -1,0 +1,11 @@
+{
+"title" : "This Robotic Museum Docent Will Lead You To Your Doom (Or The Next Exhibit)",
+"date" : "Thu, 04 Oct 2012 14:22:39 +0000",
+"author" : "John Biggs"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/bib-street-smart.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="BIB street smart" title="BIB street smart" style="float: left; margin: 0 10px 7px 0;" /><p>BIB is a line-following robot that just took a job at the <a target="_blank" href="http://www.malmo.se/Medborgare/Kultur--noje/Museer--utstallningar/Malmo-Museer/Utstallningar.html">Technical Museum in Malmo, Sweden</a>. She leads guests around the exhibits, talking about each one, and she stares at them malevolently with her single LCD eye. Voice by Swedish comedienne Anna Blomberg, BIB can keep herself from hitting other patrons and will ask for help if she falls over or falls off her line.</p>
+<p>Built by Johan Strömbom and Isak Nordell, the robot will begin its career by taking visitors around the &#8220;Cars Of The Future&#8221; exhibit at the museum. She apparently &#8220;speaks with the local accent which makes he resemble an old, working-class lady from Malmo&#8221; and is about as tall as a child she she&#8217;s not overtly scary, all things to think about when you have publicly facing robots doing your tours.</p>
+<span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/10/04/this-robotic-museum-docent-will-lead-you-to-your-doom-or-the-next-exhibit/"></a></span>
+<p>Little robots like BIB will become more prevalent as time goes on, especially in science museums. Volunteers (and employees) are valuable and to replace the fairly tedious job of dragging families through an exhibit could benefit museums &#8211; who can move resources to other areas &#8211; and to visitors who can gather around one robot rather than use those (arguably kind of gross) audio guides they give out now. Win-win, and these guys will never fall asleep on the job unless they drain their battery.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/oZH871bcJBw/">here</a>.
