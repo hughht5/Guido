@@ -12383,3 +12383,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Y-Combinator-Backed-Perfect-Audience-Makes-Facebook-Retargeting-Easy-(Even-For-Tech-Bloggers),-Raises-$1.1M Y Combinator-Backed Perfect Audience Makes Facebook Retargeting Easy (Even For Tech Bloggers), Raises $1.1M
+Git - Stdout: [master 9edcb96] adding new article
+ 2 files changed, 49 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349384440000_667701.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   418a118..9edcb96  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
