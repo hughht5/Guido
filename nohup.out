@@ -3649,3 +3649,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/White-Bull-Summit-In-Barcelona-Puts-A-Filter-On-The-Exit-Market-In-Europe White Bull Summit In Barcelona Puts A Filter On The Exit Market In Europe
+Git - Stdout: [master 5f5253b] adding new article
+ 3 files changed, 79 insertions(+), 2 deletions(-)
+ create mode 100644 articles/1349349523000_667189.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   55a983f..5f5253b  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
