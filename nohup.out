@@ -12109,3 +12109,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Panjiva-Adds-Global-Search-To-Its-Social-Network-For-World-Manufacturing Panjiva Adds Global Search To Its Social Network For World Manufacturing
+Git - Stdout: [master 21bbced] adding new article
+ 3 files changed, 51 insertions(+), 5 deletions(-)
+ create mode 100644 articles/1349383418000_667446.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   e3848a4..21bbced  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
