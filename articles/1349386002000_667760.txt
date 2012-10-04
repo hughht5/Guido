@@ -1,0 +1,13 @@
+{
+"title" : "The PandaBot: Another Day, Another Anamorphic 3D Printer With A Cute Name",
+"date" : "Thu, 04 Oct 2012 21:26:42 +0000",
+"author" : "John Biggs"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/0747cfb65ce66ee195306aec633308e8_large.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="0747cfb65ce66ee195306aec633308e8_large" title="0747cfb65ce66ee195306aec633308e8_large" style="float: left; margin: 0 10px 7px 0;" /><p>The 3D printer craze shows no signs of stopping and <a href="http://techcrunch.com/tag/Kickstarter">Kickstarter</a> is full of exciting examples of new printing hardware. Today&#8217;s entrant in the 3D race? The devilishly cute <a target="_blank" href="http://www.kickstarter.com/projects/pandarobotics/pandabot-a-friendly-affordable-3d-printer">PandaBot</a>, a &#8220;fur white&#8221; 3D printer with a an 11x11x11-inch build area and a smooth, seamless design.</p>
+<p>The bot prints in ABS plastic and has one enclosed print head. All of the major machinery is hidden behind white metal panels and the aforementioned &#8220;Panda&#8221; styling means this doesn&#8217;t look like a junk yard mated with the thing E.T. built in the woods.</p>
+<iframe frameborder="0" height="410px" src="http://www.kickstarter.com/projects/pandarobotics/pandabot-a-friendly-affordable-3d-printer/widget/video.html" width="640px"></iframe>
+<div style="margin-left:30px;margin-right:30px;padding-left:15px;border-left:3px solid #ccc;font-style:italic;">Over the past 9 months we&#8217;ve designed and built our prototype printer. Since it&#8217;s designed as a manufactured product, construction techniques and materials were chosen to make it exceptionally stable, robust, and quiet. Fully encased in metal, the PandaBot is very rigid and quiet. Our design isn’t as susceptible to vibration induced errors as other printers designed to be hand assembled. We&#8217;ve proven this by successfully printing on live national TV with no adjustments in less than 5 minutes from the back of a taxi.</div>
+<p>Founded by Torontoans Kelly John Rose and Felix Tang, the project is looking for $50,000 and PandaBots cost $800 for the basic model, which is quite reasonable. Like flowers in the meadow, 3D printers are beautiful and manifold, and this one is more attractive than most.</p>
+<p><a target="_blank" href="http://www.kickstarter.com/projects/pandarobotics/pandabot-a-friendly-affordable-3d-printer">Project Page</a> </p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/mDlWdCBQm9o/">here</a>.
