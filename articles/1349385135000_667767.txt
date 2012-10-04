@@ -1,0 +1,12 @@
+{
+"title" : "Samsung’s ATIV Smart PC And Asus’ VivoTab RT To Launch On AT&T In Time For The Holidays",
+"date" : "Thu, 04 Oct 2012 21:12:15 +0000",
+"author" : "Chris Velazco"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/ativivo.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="ativivo" title="ativivo" style="float: left; margin: 0 10px 7px 0;" /><p>Holy cow AT&amp;T, another announcement? While most of the other national wireless carriers have opted to save some news for later on, AT&amp;T keeps pushing out releases like it’s going out of style.</p>
+<p>Anyway, in addition to heavily pushing Nokia’s Windows Phone 8 handsets, the carrier has also announced that it will carry a pair of Windows 8 tablets — the Asus VivoTab RT and Samsung’s ATIV Smart PC — in time for the holiday rush.</p>
+<p>Samsung’s ATIV Smart PC is the more familiar of the two since the Korean company made a point of showing it off at its big London press event earlier this year, but here’s a quick recap in case you missed Samsung’s spectacle. The ATIV sports a 11.6-inch HD display, while a 1.5GHz Intel Clover Trail processor and 64GB of internal storage help keep things ticking along. Interestingly, AT&amp;T doesn’t specify whether or not the ATIV is set up for LTE, though it does play the availability of a keyboard-toting docking system to please those productivity fiends among you.</p>
+<p>That said, AT&amp;T is quick to crown Asus’ VivoTab the “first quad-core Windows RT 4G LTE tablet,” and it’s (perhaps obviously) the less hefty of the two. Smaller though it may be, the VivoTab (ugh, really?) runs with a more standard 10.1-inch Super IPS display, only 32 GB of storage, and one of NVIDIA’s quad-core Tegra 3 chipsets.</p>
+<p>As usual, there’s no word yet on pricing, but AT&amp;T stopped subsidizing its tablets back in August so don’t expect to be able to sign a contract and walk out with the cheap tablet. AT&amp;T is playing the availability card close to its chest as well, but the smart money is on seeing them sooner rather than later.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/0bq3tqoqg7g/">here</a>.
