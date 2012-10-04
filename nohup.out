@@ -7933,3 +7933,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Mozilla%E2%80%99s-First-Preview-Release-Of-Firefox-Metro-Arrives-On-Windows-8 Mozilla’s First Preview Release Of Firefox Metro Arrives On Windows 8
+Git - Stdout: [master 612062d] adding new article
+ 5 files changed, 50 insertions(+), 7 deletions(-)
+ create mode 100644 articles/1349366706000_667454.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   197d2aa..612062d  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
