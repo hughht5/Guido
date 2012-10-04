@@ -12963,3 +12963,37 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Paper-By-FiftyThree-Now-On-Apple-Retail-iPads,-Tops-3.3M-Downloads-And-190-Years-Spent-In-App Paper By FiftyThree Now On Apple Retail iPads, Tops 3.3M Downloads And 190 Years Spent In-App
+tweeted : http://www.techcrunchlite.com/2012/10/Paper-By-FiftyThree-Now-On-Apple-Retail-iPads,-Tops-3.3M-Downloads-And-190-Years-Spent-In-App Paper By FiftyThree Now On Apple Retail iPads, Tops 3.3M Downloads And 190 Years Spent In-App
+Git - Stdout: [master fb55303] adding new article
+ 3 files changed, 57 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349386572000_667755.txt
+ create mode 100644 articles/1349386768000_667597.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   67fa25e..fb55303  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
