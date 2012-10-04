@@ -7413,3 +7413,37 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Fulfilling-Open-Source-Promise-%E2%80%93-HP-Is-Hiring-50-Developers-For-WebOS Fulfilling Open Source Promise – HP Is Hiring 50 Developers For WebOS
+tweeted : http://www.techcrunchlite.com/2012/10/Fulfilling-Open-Source-Promise-%E2%80%93-HP-Is-Hiring-50-Developers-For-WebOS Fulfilling Open Source Promise – HP Is Hiring 50 Developers For WebOS
+Git - Stdout: [master d0552d6] adding new article
+ 6 files changed, 64 insertions(+), 3 deletions(-)
+ create mode 100644 articles/1349364740000_667449.txt
+ create mode 100644 articles/1349364851000_667421.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   5ebae3b..d0552d6  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
