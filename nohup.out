@@ -6869,3 +6869,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Apple-Seeks-Patent-For-Headphones-That-Can-Go-From-Wired-To-Wireless-In-An-Instant Apple Seeks Patent For Headphones That Can Go From Wired To Wireless In An Instant
+Git - Stdout: [master 2f9d7e6] adding new article
+ 2 files changed, 42 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349362690000_667406.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   d66b1b6..2f9d7e6  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
