@@ -1,0 +1,11 @@
+{
+"title" : "Amazon Announces Cloud Drive In Italy And Spain In Addition To UK, Germany And France",
+"date" : "Thu, 04 Oct 2012 13:17:35 +0000",
+"author" : "Romain Dillet"
+}
+
+<p>Amazon introduces <a href="http://techcrunch.com/2011/03/28/amazon-cloud-drive-player/">Cloud Drive</a> in Italy and Spain following a recent launch in the UK, Germany and France. Cloud Drive is Amazon&#8217;s digital locker offering to complete its media offering. As the Kindle Fire is expected to launch in Europe in the coming days, Cloud Drive will allow users to store their photos, music and documents in the cloud and stream this data to a Kindle Fire or a computer.</p>
+<p>Users will get 5 GB for free when signing up. They can choose to subscribe at £6 or €8 a year for 20 GB. More expansive plans are available as well.</p>
+<p>Amazon introduces new features as well for existing customers. You can now share your files publicly by copying a public link. It is very reminiscent of Dropbox&#8217;s sharing feature. Amazon releases a desktop app to upload iPhoto apps.</p>
+<p><i>Developing…</i></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/V4aeLCTCrG8/">here</a>.
