@@ -2197,3 +2197,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Google%E2%80%99s-iOS-Web-App-For-iPhone-and-iPad-Now-Features-Street-View Google’s iOS Web App For iPhone and iPad Now Features Street View
+Git - Stdout: [master 9992503] adding new article
+ 2 files changed, 43 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349343452000_667034.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   d61effc..9992503  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
