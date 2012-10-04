@@ -1,5 +1,5 @@
 {
-"title" : "Acer Unveils Iconia W700 Windows 8 11.6-inch Tablet PC, Available October 26 Starting At $799",
+"title" : "Acer Details Iconia W700 Windows 8 11.6-inch Tablet PC, Available October 26 Starting At $799",
 "date" : "Thu, 04 Oct 2012 11:59:52 +0000",
 "author" : "Darrell Etherington"
 }
