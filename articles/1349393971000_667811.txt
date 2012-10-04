@@ -1,0 +1,15 @@
+{
+"title" : "Zynga Shares Decline About 20% To All-Time Low In After-Hours Trading",
+"date" : "Thu, 04 Oct 2012 23:39:31 +0000",
+"author" : "Kim-Mai Cutler"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-04-at-2-43-02-pm.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-10-04 at 2.43.02 PM" title="Screen Shot 2012-10-04 at 2.43.02 PM" style="float: left; margin: 0 10px 7px 0;" /><p><a href="http://techcrunch.com/2012/10/04/zynga-after-hours/screen-shot-2012-10-04-at-2-43-02-pm/" rel="attachment wp-att-667831"></a></p>
+<p>After cutting its full-year projections for bookings and earnings, Zynga&#8217;s shares fell more than 20 percent to an all-time low in after-hours trading. The company&#8217;s shares are trading at $2.22, down more than 21 percent from today&#8217;s close of $2.82.</p>
+<p>It&#8217;s been a hard road for the company since its IPO last December. Not only have numerous executives left (many of them brought over from EA), but several games like The Ville have not performed up to expectations. Zynga also said that it has had to write off between $85 million and $95 million of the $180 million it paid for OMGPOP this spring. The company bought the New York-based and YC-backed developer earlier this year for its surprise hit &#8220;Draw Something.&#8221;</p>
+<p>If you look at <a target="_blank" href="https://www.google.com/finance?q=NASDAQ%3AZNGA&amp;fstype=ii&amp;ei=2wJuUIHoB4abiALNTA">the cash, short-term and long-term investments Zynga has on its balance sheet</a> (which add up to just over $1.6 billion), the market is giving the company an enterprise value of between $100 million to $200 million beyond. Scary times indeed! </p>
+<p>&#8220;The third quarter of 2012 continued to be challenging and, while many of our games performed to plan, as a whole we did not execute to our satisfaction,&#8221; said Zynga CEO Mark Pincus in as statement. </p>
+<p>The company said that games in its &#8220;invest and express&#8221; category, which are about decorating and collecting like Dream Heights and Dream Zoo, have not performed up to expectations. Pincus added that there will be &#8220;targeted cost reductions&#8221; in many areas. </p>
+<p>Zynga cut its bookings projections (or how much it expects consumers to spend on virtual goods this year) to be in the range of $1.085 billion to $1.100 billion, down from $1.150 billion to $1.225 billion. Adjusted EBITDA (or earnings before interest, taxes, depreciation and amortization) got lowered to $147 million to $162 million from a range of $180 million to $250 million. </p>
+<p>The decline of the stock may fuel more of a vicious cycle that sees a deeper loss of talent to other gaming companies or tech startups.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/M_v2pYWVnd4/">here</a>.
