@@ -1,0 +1,13 @@
+{
+"title" : "Samsung Galaxy Camera Will Arrive On AT&T, Pricing And Availability Unknown",
+"date" : "Thu, 04 Oct 2012 19:36:08 +0000",
+"author" : "Jordan Crook"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/samsunggalaxycamera-final.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="SamsungGalaxyCamera-FINAL" title="SamsungGalaxyCamera-FINAL" style="float: left; margin: 0 10px 7px 0;" /><p>AT&amp;T has had a lot of announcements today, most notably the arrival of the Nokia Lumia 920 and 820, exclusively on their network. But Samsung and Android are getting in the mix too, as the blue carrier has just announced that the <a href="http://techcrunch.com/2012/08/29/samsung-announces-the-galaxy-camera-4-8-display-quad-core-exynos-soc-and-jelly-bean/">Samsung Galaxy Camera</a> will be available from AT&amp;T. </p>
+<p>Unfortunately, a due date on this one is missing from the release. </p>
+<p>The Galaxy Camera was announced in August back <a href="http://techcrunch.com/2012/08/29/samsung-announces-the-galaxy-camera-4-8-display-quad-core-exynos-soc-and-jelly-bean/">at the IFA conference</a> in Berlin, Germany. At it&#8217;s core, the gizmo is essentially an Android-powered digital camera, with WiFi, AT&amp;T 4G LTE, and a quad-core SoC.</p>
+<p>Perhaps more exciting, the Galaxy Camera ships with <a href="http://techcrunch.com/2012/06/27/android-jelly-bean-official/">Android 4.1 Jelly Bean</a>, which has yet to really see the light of day on a smartphone save for a few of the Nexus handsets. In terms of imaging specs, you&#8217;re working with a 21x optical zoom lens paired with a 16MP BSI CMOS sensor. </p>
+<p>On the other side, you&#8217;ll find a 4.8-inch 720p SLCD display. </p>
+<p>Past that, you&#8217;ll also be tapping into some of the Galaxy S III&#8217;s headline features like All Share Play, Share Shot, and Buddy Photo Share. </p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/wBQ1uQS_eQs/">here</a>.
