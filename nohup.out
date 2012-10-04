@@ -8749,3 +8749,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/%E2%80%9CIn-the-Studio,%E2%80%9D-Kiip%E2%80%99s-Courtney-Guertin-Keeps-His-Midwestern-Ethic “In the Studio,” Kiip’s Courtney Guertin Keeps His Midwestern Ethic
+Git - Stdout: [master bb740be] adding new article
+ 6 files changed, 47 insertions(+), 4 deletions(-)
+ create mode 100644 articles/1349370043000_613596.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   573f800..bb740be  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
