@@ -1,0 +1,12 @@
+{
+"title" : "TomTom Outs A $50 Android Navigation App, Forgets To Make It Compatible With Popular Phones",
+"date" : "Thu, 04 Oct 2012 12:52:21 +0000",
+"author" : "Matt Burns"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/tomtom.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="tomtom" title="tomtom" style="float: left; margin: 0 10px 7px 0;" /><p>First, the good news: There is now a full-featured TomTom navigation Android app. It features live traffic data, multi-stop routing, and a gorgeous interface. But there is a bit of bad news, too. In fact it&#8217;s rather funny in a sad way: The app is not compatible with recent flagship devices including the Galaxy Nexus, Galaxy S III, HTC One X, and Galaxy Note.</p>
+<p>The app looks lovely. The maps and navigation closely mirror the experience found on TomTom&#8217;s own hardware. And that&#8217;s a great. TomTom has long had one of the most user-friendly personal navigation devices on the market. </p>
+<p>The <a target="_blank" href="https://play.google.com/store/apps/developer?id=TomTom+International+BV">app is available now</a> and costs around $50 for most regions. The US and Canadian version also requires 2.3GB of local storage space. So in case you&#8217;re disappointing with Google Map&#8217;s built-in turn by turn navigation, TomTom now has an expensive solution &#8212; that is, as long as you don&#8217;t have a popular phone.</p>
+<p><a target="_blank" href="http://www.theverge.com/2012/10/4/3453234/tomtom-android-offline-navigation-apps-price-download">Apparently</a> the app is limited by resolution, thus currently excluding high-resolution Android devices. The company is working on releasing a more compatible solution but for the near future, this app will not work with the aforementioned devices as well as the Nexus 7 tablet.</p>
+<p><span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/10/04/tomtom-outs-a-50-android-navigation-app-forgets-to-make-it-compatible-with-popular-phones/"></a></span></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/dmENL8hmFNg/">here</a>.
