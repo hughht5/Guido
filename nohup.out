@@ -5349,3 +5349,37 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Flayvr,-A-Mobile-App-That-Automatically-Creates-Photo-Albums,-Raises-$450K-Seed-Round Flayvr, A Mobile App That Automatically Creates Photo Albums, Raises $450K Seed Round
+tweeted : http://www.techcrunchlite.com/2012/10/Flayvr,-A-Mobile-App-That-Automatically-Creates-Photo-Albums,-Raises-$450K-Seed-Round Flayvr, A Mobile App That Automatically Creates Photo Albums, Raises $450K Seed Round
+Git - Stdout: [master add27be] adding new article
+ 3 files changed, 59 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349356568000_666608.txt
+ create mode 100644 articles/1349356655000_667306.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   7fa0bf7..add27be  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
