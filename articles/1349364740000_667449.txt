@@ -1,0 +1,16 @@
+{
+"title" : "Fulfilling Open Source Promise – HP Is Hiring 50 Developers For WebOS",
+"date" : "Thu, 04 Oct 2012 15:32:20 +0000",
+"author" : "Alex Williams"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/open-webos.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="open-webos" title="open-webos" style="float: left; margin: 0 10px 7px 0;" /><p>HP is hiring 50 developers for the WebOS platform, marking a new turn for the company&#8217;s troubled mobile market play.</p>
+<p>The news comes as HP continues its effort to make WebOS a secure, open platform.</p>
+<p>First spotted by <a target="_blank" href="http://www.thepowerbase.com/2012/10/hp-hiring-50-engineers-to-work-directly-on-webos/">The Powerbase</a>, the job openings are in Shanghai and Sunnyvale. All are high-paying engineering positions.</p>
+<p>Here&#8217;s a sample of the job openings:</p>
+<p><a href="http://techcrunch.com/2012/10/04/fulfilling-open-source-promise-hp-is-hiring-50-developers-for-webos/search-jobshp/" rel="attachment wp-att-667459"></a></p>
+<p>It&#8217;s a good sign that HP is committing to make WebOS secure and open-source. It shows the company sees something that can come of an effort that has had its fair share of failures and lost opportunities.</p>
+<p>But what will HP do with it in the end? As The Powerbase points out, let&#8217;s just hope that HP is not foolish enough to put WebOS back into the consumer market.</p>
+<p>The future of WebOS is in the enterprise. The market is not sewn up. Apple has taken a good lead but the company is not committed to making an enterprise play. The Android platform is fractured, RIM is all but dead and Android is too fractured.</p>
+<p>HP is committing to WebOS. We&#8217;ll just have to wait to see what that commitment means.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/5W3D_3vLCHs/">here</a>.
