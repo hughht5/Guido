@@ -7747,3 +7747,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Join-Us-In-November-At-Our-TC-Northern-Meetups:-Toronto,-Detroit,-Chicago Join Us In November At Our TC Northern Meetups: Toronto, Detroit, Chicago
+Git - Stdout: [master 4506054] adding new article
+ 5 files changed, 48 insertions(+), 3 deletions(-)
+ create mode 100644 articles/1349366154000_667308.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   ebccbf0..4506054  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
