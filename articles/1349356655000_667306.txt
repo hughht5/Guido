@@ -9,5 +9,6 @@
 <p></p>
 <p>Amazon introduces new features as well for existing customers. You can now share your files publicly by copying a public link. It is very reminiscent of Dropbox&#8217;s sharing feature. Amazon releases a desktop app with a deep integration with iPhone. Users can choose which album or event to upload, then everything is copied to Amazon&#8217;s servers.</p>
 <p>Cloud Drive is an important part of Amazon&#8217;s cloud offering. With Amazon Cloud Player, users can stream their music if they bought it on Amazon MP3 or uploaded it to Amazon Cloud Drive. In the U.S., Amazon Prime comes with a lot of entertainment content as well. Users can read books from Amazon&#8217;s library, stream movies from a large catalog.</p>
+<p>Paid subscribers can <a href="http://techcrunch.com/2012/06/12/over-a-year-later-amazon-cloud-player-finally-arrives-on-iphone/">store</a> an unlimited number of MP3 or AAC files in Amazon Cloud Drive. It won&#8217;t count towards their storage quota.</p>
 <p><i>Developing…</i></p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/V4aeLCTCrG8/">here</a>.
