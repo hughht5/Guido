@@ -1,0 +1,25 @@
+{
+"title" : "Europe Ramps Up Cyber Attack Testing With Second Simulated Pan-Europe DDoS",
+"date" : "Thu, 04 Oct 2012 08:51:41 +0000",
+"author" : "Natasha Lomas"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/ce2012-p1.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="CE2012 P1" title="CE2012 P1" style="float: left; margin: 0 10px 7px 0;" /><p>300 IT security professionals from across Europe are locking horns in a simulated cyber war exercise taking place today which &#8212; if it was a real attack &#8212; would be capable of disrupting services for millions of Europeans. The exercise, known as <a target="_blank" href="http://www.enisa.europa.eu/activities/Resilience-and-CIIP/cyber-crisis-cooperation/cyber-europe/cyber-europe-2012">Cyber Europe 2012</a>, is being run by <a href="http://techcrunch.com/search/ENISA">ENISA</a>: the European Network and Information Security Agency, and is part of ongoing efforts to bolster cyber crisis cooperation, preparedness and response across Europe. This is first Cyber Europe event to include participants from the private sector &#8212; specifically the finance sector, ISPs and eGovernment &#8212; not just the public sector.</p>
+<p>&#8220;ENISA aims to support the cyber crisis community in improving the resilience of critical information infrastructures,&#8221; notes Prof. <a target="_blank" href="https://wpyadmin.ne.cision.com/l/jgpldfql/www.enisa.europa.eu/about-enisa/structure-organization/executive-director">Udo Helmbrecht</a>, Executive Director of ENISA, in a statement.</p>
+<p>The exercise has three main aims:</p>
+<ol>
+<li>Test effectiveness and scalability of existing mechanisms, procedures and information flow for public authorities’ cooperation in Europe;</li>
+<li>Explore the cooperation between public and private stakeholders in Europe;</li>
+<li>Identify gaps and challenges on how large scale cyber incidents could be handled more effectively in Europe.</li>
+</ol>
+<p>The first Cyber Europe event took place in 2010 but this event is larger and more complex &#8212; with enough &#8220;cyber incidents&#8221; being triggered to challenge the participants (more than 1000 injects by the end of the exercise). The event will also look to test the scope for cooperation between the different countries and sectors participating.</p>
+<p>In ENISA&#8217;s <a target="_blank" href="http://www.enisa.europa.eu/activities/Resilience-and-CIIP/cyber-crisis-cooperation/cyber-europe/ce2010/ce2010report">final report</a> on the 2010 cyber security exercise it recommended</p>
+<ul>
+<li>more cyber security exercises in the future,</li>
+<li>increased collaboration between the Member States,</li>
+<li>the importance of the private sector in ensuring security.</li>
+</ul>
+<p>The 2012 attack scenario involves combining multiple &#8220;technically realistic threats&#8221; into one simultaneously escalating Distributed Denial of Service attack on online services in all participating countries &#8212; 25 countries are actively participating, while four countries have observers attending the event.</p>
+<p>The European Commission&#8217;s communication from 2009 on <a target="_blank" href="http://ec.europa.eu/information_society/policy/nis/strategy/activities/ciip/index_en.htm">Critical Information Infrastructure Protection</a> helped established the first pan-European Cyber Exercise.</p>
+<p>&nbsp;</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/klAdms9FbQk/">here</a>.
