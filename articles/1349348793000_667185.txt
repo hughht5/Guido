@@ -1,0 +1,14 @@
+{
+"title" : "Facebook Tops 1 Billion Monthly Users, CEO Mark Zuckerberg Shares A Personal Note",
+"date" : "Thu, 04 Oct 2012 11:06:33 +0000",
+"author" : "Darrell Etherington"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/07/facebooklogo.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="facebooklogo" title="facebooklogo" style="float: left; margin: 0 10px 7px 0;" /><p>Social network Facebook officially hit the 1 billion active monthly user mark, the company <a target="_blank" href="http://newsroom.fb.com/News/One-Billion-People-on-Facebook-1c9.aspx">announced today</a>. In a post on the official Facebook blog, founder Mark Zuckerberg shared a note celebrating the milestone with a personal thank you to Facebook users.</p>
+<p>Here it is in full:</p>
+<blockquote><p>This morning, there are more than one billion people using Facebook actively each month.</p>
+<p>If you&#8217;re reading this: thank you for giving me and my little team the honor of serving you.</p>
+<p>Helping a billion people connect is amazing, humbling and by far the thing I am most proud of in my life.</p>
+<p>I am committed to working every day to make Facebook better for you, and hopefully together one day we will be able to connect the rest of the world too.</p></blockquote>
+<p><em>Developing&#8230;</em></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/-U9ZCo8OzN0/">here</a>.
