@@ -15015,3 +15015,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/ParkPlease-Partners-With-Limos.com-To-Help-Users-Avoid-This-Weekend%E2%80%99s-ParkApocalypse-In-San-Francisco ParkPlease Partners With Limos.com To Help Users Avoid This Weekend’s ParkApocalypse In San Francisco
+Git - Stdout: [master 607d3ce] adding new article
+ 2 files changed, 44 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349394419000_667843.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   fe8c0b5..607d3ce  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
