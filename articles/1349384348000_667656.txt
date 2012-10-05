@@ -1,5 +1,5 @@
 {
-"title" : "Facebook’s 1 Billion Human Shield Against Disruption",
+"title" : "Facebook’s Billion-Strong Human Shield Against Disruption",
 "date" : "Thu, 04 Oct 2012 20:59:08 +0000",
 "author" : "Josh Constine"
 }
