@@ -1,5 +1,5 @@
 {
-"title" : "It’s “D-Day” For Twitter’s “Display Requirements” Changes, And Guess What? Nothing Happened.",
+"title" : "It’s “D-Day” For Twitter’s “Display Requirement” Changes, And Guess What? Nothing Happened.",
 "date" : "Fri, 05 Oct 2012 22:45:23 +0000",
 "author" : "Drew Olanoff"
 }
