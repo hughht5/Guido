@@ -1,5 +1,5 @@
 {
-"title" : "Bing Adds News Authors To Its Social Sidebar",
+"title" : "Bing Adds Journalists To Its Social Sidebar",
 "date" : "Fri, 05 Oct 2012 16:54:34 +0000",
 "author" : "Frederic Lardinois"
 }
