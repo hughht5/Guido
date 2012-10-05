@@ -35359,3 +35359,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Done-Dressing-Like-A-Slob?-Proper-Suit-Will-Make-You-A-Custom-Suit-For-When-Snarky-T-Shirts-Aren%E2%80%99t-Enough Done Dressing Like A Slob? Proper Suit Will Make You A Custom Suit For When Snarky T-Shirts Aren’t Enough
+Git - Stdout: [master 610b4a0] adding new article
+ 3 files changed, 47 insertions(+), 2 deletions(-)
+ create mode 100644 articles/1349475960000_668506.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   fd640ba..610b4a0  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
