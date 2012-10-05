@@ -26527,3 +26527,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Ireland%E2%80%99s-Cubic-Telecom-Inks-Multi-Million-Dollar-Roaming-SIM-Deal-With-Australian-Retailer-Woolworths Ireland’s Cubic Telecom Inks Multi-Million Dollar Roaming SIM Deal With Australian Retailer Woolworths
+Git - Stdout: [master 18204d1] adding new article
+ 2 files changed, 44 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349440890000_668066.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   a6bf034..18204d1  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
