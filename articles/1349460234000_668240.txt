@@ -1,0 +1,14 @@
+{
+"title" : "Report: Bing Users Disproportionately Affected By Malware Redirects",
+"date" : "Fri, 05 Oct 2012 18:03:54 +0000",
+"author" : "Frederic Lardinois"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/sophos_logo_300px_rgb.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="sophos_logo_300px_rgb" title="sophos_logo_300px_rgb" style="float: left; margin: 0 10px 7px 0;" /><p>Using blackhat search engine optimization (SEO) to get unsuspecting web surfers to go to malicious websites isn&#8217;t exactly <a target="_blank" href="http://nakedsecurity.sophos.com/2012/02/09/is-this-the-resurgence-of-blackhat-seo/">new</a> and it&#8217;s a problem that the major search engines are very aware of. According to <a target="_blank" href="http://nakedsecurity.sophos.com/2012/02/09/is-this-the-resurgence-of-blackhat-seo/">new data from online security firm Sophos</a>, however, Bing is apparently not doing a great job here, as the majority of SEO poisoned malware redirects currently affect Bing users.</p>
+<p>According to Sophos. Microsoft&#8217;s search engine is responsible for about 60% of the redirects to malicious sites Sophos currently sees on its network. Even though Google has <a target="_blank" href="http://www.comscore.com/Press_Events/Press_Releases/2012/9/comScore_Releases_August_2012_U.S._Search_Engine_Rankings">far more users than Bing</a>, it is &#8220;only&#8221; responsible for 30%.</p>
+<p><a href="http://techcrunch.com/2012/10/05/report-bing-users-are-disproportionately-at-risk-of-facing-malware-redirects/sophos_se_breakdown/" rel="attachment wp-att-668264"></a></p>
+<p>As Sophos&#8217; Fraser Howard notes, &#8220;it is also clear that the attackers are getting most success from poisoning image search results.&#8221; According to this data, the search engines are doing a far better job with text searches than image searches. Just 8% of the redirects to malicious sites Sophos detects are from text searches and the remaining 92% come from image searches.</p>
+<p>For users, detecting SEO poisoned image search results is obviously harder than finding malicious text search results, but it&#8217;s still clear that the search engines could do a far better job at stopping these exploits.</p>
+<p>According to Fraser, &#8220;we all rely on the search engine providers managing to filter rogue links out of the search results (text and image searches). The bottom line is that we are all guilty of trusting the results we get back, and clicking through without necessarily scrutinizing the URL as closely as we might.&#8221;</p>
+<p><a href="http://techcrunch.com/2012/10/05/report-bing-users-are-disproportionately-at-risk-of-facing-malware-redirects/se_breakdown2/" rel="attachment wp-att-668265"></a></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/JHHxKAx4b0M/">here</a>.
