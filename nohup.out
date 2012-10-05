@@ -35297,3 +35297,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Why-Zynga-Failed Why Zynga Failed
+Git - Stdout: [master 5e41a88] adding new article
+ 4 files changed, 64 insertions(+), 2 deletions(-)
+ create mode 100644 articles/1349475727000_668505.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   4315731..5e41a88  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
