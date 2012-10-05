@@ -1,0 +1,14 @@
+{
+"title" : "Traffic And Trip Updates Now Available For Enterprise Customers Through Google Maps API",
+"date" : "Fri, 05 Oct 2012 06:27:40 +0000",
+"author" : "Alex Williams"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/timeintraffictransit1.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Time+in+Traffic+Transit" title="Time+in+Traffic+Transit" style="float: left; margin: 0 10px 7px 0;" /><p>One of the coolest features that you can get from Google is the capability to see on a map and time it the time it will take to get to a destination either by walking, bike, car or mass transit based on traffic conditions. It quickly gained popularity when Google began offering the service <a target="_blank" href="http://google-latlong.blogspot.com.au/2012/03/find-out-your-trip-duration-based-on.html"> last March</a>. Today, Google began offering the same service to <a target="_blank" href="http://googlegeodevelopers.blogspot.com/2012/10/traffic-estimates-now-available-for.html">enterprise customers</a> through the Google Maps API.</p>
+<p>Google Maps uses live and historic traffic data to estimate, where available, traffic conditions that refresh with the most accurate, up-to-date information possible.</p>
+<p><a href="http://techcrunch.com/2012/10/04/traffic-and-trip-updates-now-available-for-enterprise-customers-through-google-maps-api/googlegeomaps/" rel="attachment wp-att-667983"></a></p>
+<p>The service can come in handy when trying to get to the airport or making a meeting across town on your bike.</p>
+<p>But it has business use cases, too.  It can be used to estimate the time it might take for employess to get to work from different parts of the city. Based on that data, a company may offer incentives for mass transit or car pooling.</p>
+<p>A few weeks ago, I traveled with <a target="_blank" href="http://redmonk.com/dberkholz/">Donnie Berkholz of RedMonk</a> from Palo Alto to San Francisco in his rental car. He used a grip with a suction cup to hold his Android smartphone from the windshield while he drived. Google Maps updated the driving conditions but royally screwed up when we got into the city. We lost about 15 minutes, at least.</p>
+<p>My takeaway &#8212; Google Maps is awesome but relying on it can still be a gamble. I wonder what chances enterprise customers will want to take with a service that works most of the time.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/fnzQ5o2nAfc/">here</a>.
