@@ -1,0 +1,14 @@
+{
+"title" : "Lytics Unveils Real-Time Analysis For “Moneyball” Results",
+"date" : "Fri, 05 Oct 2012 23:18:01 +0000",
+"author" : "Alex Williams"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/lyticsimage.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="lyticsimage" title="lyticsimage" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://lytics.io/">Lytics</a> made its debut today at the <a target="_blank" href="http://www.piepdx.com/">PIE</a> (Portland Incubator Experiment) Demo Day with the unveling of its real-time analytics service. Lytics, which is in the process of finalizing a seed round of funding, tackles the problem that comes with getting value out of data from multiple sources such as mobile environments, the web, email, social, third-party APIs and commerce environments.</p>
+<p>The company can combine a customer&#8217;s structured and unstructured information via an API or data that is uploaded to the Lytics platform. That data can then be combined with Lytics third-party information that it collects through mobile and other means. Customers can then pull out the data, and, if they wish, feed it into a data visualization engine such as Juice Analytics.</p>
+<p>In his demo, Lytics CTO Aaron Raddon compared the problem that businesses have to the same issues faced in the film &#8220;Moneyball.&#8221; In the film, the Oakland A&#8217;s looked for talent the same way scouts had done for decades. Look at a bunch of reports and make a gut decision about a player. In the end, an economist pulled the reports together and used the data to choose the team. The A&#8217;s made it to the playoffs that year.</p>
+<p>Raddon said the company does with its cloud-based service what the economist did for the A&#8217;s by creating his own algorithm to conduct the analysis. Customers use the Lytics service to optimize pricing and inventory and really any function that a small business or enterprise may have.</p>
+<p>&#8220;Every data point is new opportunity,&#8221; Raddon said.</p>
+<p>Lytics competes in the big data startup space. They say they run into companies such as Cloudera and <a target="_blank" href="http://www.datastax.com/">Datastax</a>.</p>
+<p>Real-time analysis that gets answers fast without a lot of toil and trouble &#8211; that&#8217;s a valuable service. The challenge will be competing in an increasingly noisy space, alongside any number of startups, against the likes of IBM, Oracle and ERMC.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/F90b-bFFO8k/">here</a>.
