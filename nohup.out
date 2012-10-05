@@ -27583,3 +27583,37 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Estonia-Drives-Robotics-and-Coding-Education-With-Smartlab-Hobby-Groups,-Backed-By-Microsoft Estonia Drives Robotics and Coding Education With Smartlab Hobby Groups, Backed By Microsoft
+tweeted : http://www.techcrunchlite.com/2012/10/Estonia-Drives-Robotics-and-Coding-Education-With-Smartlab-Hobby-Groups,-Backed-By-Microsoft Estonia Drives Robotics and Coding Education With Smartlab Hobby Groups, Backed By Microsoft
+Git - Stdout: [master 3ee35c1] adding new article
+ 3 files changed, 62 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349444939000_668137.txt
+ create mode 100644 articles/1349445084000_668122.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   eae4db4..3ee35c1  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
