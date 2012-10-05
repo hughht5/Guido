@@ -1,0 +1,9 @@
+{
+"title" : "If The Internet Explorer 9 Commercial Was Honest",
+"date" : "Fri, 05 Oct 2012 12:26:12 +0000",
+"author" : "Matt Burns"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/ie9.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="ie9" title="ie9" style="float: left; margin: 0 10px 7px 0;" /><p><span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/10/05/if-the-internet-explorer-9-commercial-was-honest/"></a></span></p>
+<p>This. Despite Microsoft&#8217;s best efforts, the only thing Internet Explorer is good for is loading <a target="_blank" href="http://www.ninite.com/">ninite.com</a> and downloading Chrome and Firefox. It&#8217;s still bloated, it&#8217;s still slow and it&#8217;s still a pain to use &#8212; although Google Chrome is getting more bloated with each release.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/Jrv3C2olo0k/">here</a>.
