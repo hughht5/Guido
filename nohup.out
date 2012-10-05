@@ -35663,3 +35663,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/It%E2%80%99s-%E2%80%9CD-Day%E2%80%9D-For-Twitter%E2%80%99s-Latest-API-Changes,-And-Guess-What?-Nothing-Happened. It’s “D-Day” For Twitter’s Latest API Changes, And Guess What? Nothing Happened.
+Git - Stdout: [master 2686103] adding new article
+ 2 files changed, 47 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349477123000_668561.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   e0f640f..2686103  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
