@@ -1,0 +1,14 @@
+{
+"title" : "Hands On With The Visual Energy Programmable Monostrip",
+"date" : "Fri, 05 Oct 2012 15:39:21 +0000",
+"author" : "John Biggs"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/mono.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="mono" title="mono" style="float: left; margin: 0 10px 7px 0;" /><p>Not everything needs a web server&#8230; or does it? The Visual Energy Monostrip is one of the first power strips &#8211; more an outlet, really &#8211; with a built-in server that allows you to configure, control, and monitor the amount of juice going into various appliances.</p>
+<p>The product isn&#8217;t visually arresting &#8211; the company also makes the UFO, which looks far cooler &#8211; but the functionality is what&#8217;s important. With the built-in server and Wi-Fi you can turn the light on and off remotely and schedule it to go on and off at certain times. You can also see how much you&#8217;re paying to power the socket.</p>
+<a href="http://techcrunch.com/2012/10/05/hands-on-with-the-visual-energy-programmable-monostrip/#gallery-668202-1-slideshow">Click to view slideshow.</a>
+<p>The system is fairly simple right now. To set it up you plug in the outlet and look for a new Wi-Fi access point. Once you connect, you can assign the outlet to connect to the Internet via your in-home Wi-Fi. Then, using a mobile app, you can register the outlet and control it from your phone. I love being able to press one button from the dining room and watching the light go on in the living room.</p>
+<p>I think the most important aspect is the remote management of power. By installing, say a few of these in the house you can turn off lights and appliances from almost anywhere, allowing for very specific control of your energy patterns. I&#8217;d love to see this nascent product grow &#8211; and I&#8217;m sure the functionality will be replicated in other products down the line.</p>
+<p>Visual Energy is a Palo Alto company led by Marco Graziano, an expert in Internet appliances. He was amazed that when he plugged the device into his home TV setup he was drawing about $5 worth of electricity a month. His goal is to help others make good decisions about how to use and, in turn, conserve energy.</p>
+<p><a target="_blank" href="http://www.visiblenergy.com/products/monostrip.html">Product Page</a></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/dRsdGKGKzIs/">here</a>.
