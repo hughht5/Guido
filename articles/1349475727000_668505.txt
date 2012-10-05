@@ -5,8 +5,7 @@
 }
 
 <img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/zyngafalls.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="zyngafalls" title="zyngafalls" style="float: left; margin: 0 10px 7px 0;" /><p>The year was 2008 and Zynga had it all figured out. Facebook became a portal to games for those who had never played. Viral growth there was unchecked. Facebook ad rates were low so buying traffic was cheap. And most games were played on desktop. But soon everything changed, and Zynga never recovered.</p>
-<p>Here&#8217;s a look at the three big shifts that caused Zynga&#8217;s power and share price to plummet.</p>
-<p>&nbsp;</p>
+<p>Here&#8217;s a look at the four big shifts that caused Zynga&#8217;s power and share price to plummet.</p>
 <h4>Too Many Developers, Not Enough Softcore Gamers</h4>
 <p>In the years leading up to Zynga ascent, video games were seen as something for hardcore gamers. That&#8217;s not how they started, with easy-to-learn arcade games like Pong and Pac-Man attracting mass audiences.</p>
 <p>As gaming machines got more powerful and home consoles developed though, the games got more complicated and so did the controllers. Mom didn&#8217;t play Halo or Final Fantasy. Or more accurately, she couldn&#8217;t.</p>
