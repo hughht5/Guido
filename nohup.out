@@ -33041,3 +33041,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/After-Early-Boom,-New-Numbers-Suggest-iOS-6-Adoption-May-Be-Reaching-A-Plateau After Early Boom, New Numbers Suggest iOS 6 Adoption May Be Reaching A Plateau
+Git - Stdout: [master aa61a92] adding new article
+ 3 files changed, 42 insertions(+), 1 deletions(-)
+ create mode 100644 articles/1349466667000_668476.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   a1de28d..aa61a92  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
