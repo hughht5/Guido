@@ -1,0 +1,12 @@
+{
+"title" : "Samsung Expects Another Record Quarter: $7.3 Billion Profit, Fuelled By Its Galaxy Smartphones",
+"date" : "Fri, 05 Oct 2012 09:17:53 +0000",
+"author" : "Natasha Lomas"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2011/08/samsung-logo.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="samsung-logo" title="samsung-logo" style="float: left; margin: 0 10px 7px 0;" /><p>Samsung is reporting a record quarterly profit of $7.3 billion in earnings guidance ahead of its full Q3 report. <a target="_blank" href="http://uk.reuters.com/article/2012/10/05/us-samsung-earnings-idUKBRE8931IM20121005">Reuters</a> notes the figure is nearly double the amount of profit the Korean electronics giant made in <a target="_blank" href="http://www.samsung.com/us/aboutsamsung/ir/ireventpresentations/earningsrelease/downloads/2011/20111028_conference_eng.pdf">Q3 2011</a>, bolstered by strong sales of its Galaxy range of smartphones and high end TVs.</p>
+<p>Samsung also continues to be a key component provider for Apple but, with DRAM chip prices declining, its mobile division is doing the heavy lifting &#8212; accounting for around two-thirds of its total profit in Q3, according to the Reuters report.</p>
+<p>The news agency notes that most analysts expect Samsung&#8217;s run of four record quarters to come to an end in Q4 when Samsung ramps up marketing costs to combat rival smartphones such as Apple&#8217;s iPhone 5 in the battle for holiday sales. Another factor expected to eat into Samsung&#8217;s profits is that record profits will trigger higher performance-related payouts to some staff. The company is expecting record profit of 28 trillion won ($25 billion) this year.</p>
+<p>Samsung, which has a market cap of around $183 billion, expects profits at its mobile division to have more than doubled in Q3 &#8212; to around 5 trillion won &#8212; as smartphone shipments exceed 58 million, including up to 20 million unit sales of its latest flagship smartphone, the Galaxy S III. Operating profit is estimated to have jumped 91 percent to 8.1 trillion won from the year ago period &#8212; a jump which Reuters notes beats an average forecast of 7.6 trillion won in its survey of 16 analysts. Q3 revenue is estimated at 52 trillion won, in line with forecasts.</p>
+<p>Samsung will report audited results for its Q3 financial quarter on October 26.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/_KJska8LbDs/">here</a>.
