@@ -22075,3 +22075,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Apple%E2%80%99s-Online-Store-Is-Currently-Offline-For-Updates Apple’s Online Store Is Currently Offline For Updates
+Git - Stdout: [master 1c1bfb4] adding new article
+ 2 files changed, 45 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349423208000_668010.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   e02a897..1c1bfb4  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
