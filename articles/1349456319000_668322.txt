@@ -1,5 +1,5 @@
 {
-"title" : "Twitter’s Elizabeth Weil Joins A16Z As Partner In Charge Of Social",
+"title" : "Twitter’s Elizabeth Weil Joins Andreessen As Partner In Charge Of Social",
 "date" : "Fri, 05 Oct 2012 16:58:39 +0000",
 "author" : "Alexia Tsotsis"
 }
@@ -7,7 +7,7 @@
 <img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-05-at-9-59-19-am.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-10-05 at 9.59.19 AM" title="Screen Shot 2012-10-05 at 9.59.19 AM" style="float: left; margin: 0 10px 7px 0;" /><p>Andreessen Horowitz continues building its arsenal. Days after the announcement that the firm had <a href="http://techcrunch.com/2012/10/03/andreessen-horowitz-iinvests-15-million-in-rap-genius/">invested $15 million</a> in innovative hip hop annotations startup Rap Genius, we learn that it&#8217;s hired <a target="_blank" href="https://twitter.com/elizabeth/status/254243978298421248">Elizabeth Weil</a> away from Twitter.</p>
 <p>Weil was a marketing executive at Twitter, and prior to that worked at another VC firm, Institutional Venture Partners, where she focused on investments in Internet and digital media. Before IVP, Weil was an investment analyst at Menlo Ventures.</p>
 <p>In addition to working 80-hour weeks for Twitter, Weil also <a target="_blank" href="runs the digitally focused Paperwheel Press">runs the digitally focused Paperwheel Press</a> out of her garage: Handmaking &#8220;Welcome&#8217;&#8221;notes to new Twitter employees among other things. She and her husband are also accomplished marathon runners.</p>
-<p>Weil apparently wore a few hats at Twitter (her Twitter bio lists &#8220;Design and Culture&#8221;) and we as of yet have no word on what she&#8217;ll be doing at Andreessen. The breakthrough VC also recently scored with another startuppy hire: Foursquare dynamo Tristan Walker as EIR.</p>
+<p>Weil apparently wore a few hats at Twitter (her Twitter bio lists &#8220;Design and Culture&#8221;) and we as of yet have no word on what projects she&#8217;ll be working on at Andreessen.  Weil <a target="_blank" href="http://allthingsd.com/20121005/andreessen-horowitz-hires-twitters-elizabeth-weil-to-focus-on-social/">confirmed</a> to AllThingsD that she will be Partner at the firm, in charge of &#8220;social&#8221; investments. The breakthrough VC also recently scored with another startuppy hire: Foursquare dynamo Tristan Walker as EIR.</p>
 <blockquote class='twitter-tweet'><p>3 years at Twitter have flown by. Honored to have worked alongside this amazing crew. Thrilled to be joining the Andreessen Horowitz team!&mdash; <br />Elizabeth Weil (@elizabeth) <a href='http://twitter.com/#!/elizabeth/status/254243978298421248' data-datetime='2012-10-05T15:37:42+00:00'>October 05, 2012</a></p></blockquote>
 <p><em> </em></p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/fW0OkEGJVRo/">here</a>.
