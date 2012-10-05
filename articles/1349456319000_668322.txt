@@ -1,5 +1,5 @@
 {
-"title" : "Twitter’s Elizabeth Weil Joins Andreessen Horowitz As “Social” Partner",
+"title" : "Twitter’s Elizabeth Weil Joins A16Z As Partner In Charge Of Social",
 "date" : "Fri, 05 Oct 2012 16:58:39 +0000",
 "author" : "Alexia Tsotsis"
 }
