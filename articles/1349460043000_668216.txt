@@ -14,7 +14,7 @@
 <li><a target="_blank" href="http://shifthub.com/">Shifthub</a> – A SaaS-based shift scheduling platform for small and medium-sized businesses.</li>
 <li><a target="_blank" href="http://ven.io/">Venio</a> – Provides a platform to help users create and plan healthy meals.</li>
 </ul>
-<p>In addition to the startups that are participating in its accelerator, Extreme Startups has also put aside some space for promising young companies to work alongside them. It&#8217;s launched the Preccelerator, which provides free coworking space and other perks for a lucky five startups that might have missed the cut, but that Extreme Startups still feels it can help out. Here are the five that get to hang out this time around:</p>
+<p>In addition to the startups that are participating in its accelerator, Extreme Startups has also put aside some space for promising young companies to work alongside them. It’s launched the Preccelerator, which provides free coworking space and other perks for five awesome startups. Here are the five that are in this time:</p>
 <ul>
 <li><a target="_blank" href="http://bebedo.com/posts">Bebedo</a> – Platform for searching nearby events.</li>
 <li><a target="_blank" href="http://brika.com/home/">Brika</a> – Limited-time only sale site for well-crafted goods.</li>
