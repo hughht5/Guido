@@ -30415,3 +30415,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Twitter%E2%80%99s-Elizabeth-Weil-Joins-Andreessen-Horowitz Twitter’s Elizabeth Weil Joins Andreessen Horowitz
+Git - Stdout: [master 7aa44d9] adding new article
+ 3 files changed, 45 insertions(+), 1 deletions(-)
+ create mode 100644 articles/1349456319000_668322.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   c44975f..7aa44d9  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
