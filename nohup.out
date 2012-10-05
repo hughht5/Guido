@@ -33523,3 +33523,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Gillmor-Gang-Live--10.05.12-(TCTV) Gillmor Gang Live  10.05.12 (TCTV)
+Git - Stdout: [master 0624eef] adding new article
+ 2 files changed, 39 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349467517000_668468.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   2e3810a..0624eef  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
