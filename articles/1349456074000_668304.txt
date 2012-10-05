@@ -1,0 +1,12 @@
+{
+"title" : "Bing Adds News Authors To Its Social Sidebar",
+"date" : "Fri, 05 Oct 2012 16:54:34 +0000",
+"author" : "Frederic Lardinois"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/08/bing_logo.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Bing" title="Bing" style="float: left; margin: 0 10px 7px 0;" /><p>Microsoft&#8217;s <a target="_blank" href="http://bing.com">Bing</a> just <a target="_blank" href="http://www.bing.com/community/site_blogs/b/search/archive/2012/10/05/discover-news-authors-on-bing.aspx">announced</a> that it is adding a section for news authors to its social sidebar. &#8220;Much of the information we consume and search for relates to current events,&#8221; says the Bing Team, &#8220;and the most recent and accurate information often comes from news articles.&#8221; Starting today, Bing will highlight these authors in the &#8220;People Who Know&#8221; section of the sidebar.</p>
+<p>Whenever you hover over one of these authors&#8217; names, you will see their top articles related to your search query, as well as a link to their Twitter page. The sidebar also allows Bing users to see all of a writer&#8217;s articles by clicking on the aptly named &#8220;See all articles&#8221; link.</p>
+<p style="text-align:center;"><a href="http://techcrunch.com/?attachment_id=668308" rel="attachment wp-att-668308"></a></p>
+<p style="text-align:left;">According to Bing, the team is &#8221; just beginning to surface the countless number of authors out there to build this feature&#8221; and will continue to add new authors and author pages over time.</p>
+<p style="text-align:left;">Google, of course, has long been offering a similar feature and currently highlights <a target="_blank" href="http://support.google.com/webmasters/bin/answer.py?hl=en&amp;answer=1408986">author information</a> right on its search results pages and on Google News. These results also include a link to the writer&#8217;s Google+ profile and a link to a list of all of the author&#8217;s articles. Google is officially still piloting this program, but it&#8217;s pretty easy for authors to <a target="_blank" href="http://support.google.com/webmasters/bin/answer.py?hl=en&amp;answer=1408986">add their names to the list</a>. Microsoft, on the other hand, seems to be more interested in manually curating a list of &#8220;experts in their field.&#8221;</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/EZ1wd_3zUiU/">here</a>.
