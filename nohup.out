@@ -31021,3 +31021,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Starbucks%E2%80%99-Square-Rollout-Gets-A-Launch-Date;-No-Loyalty-Card-Integration-(Yet) Starbucks’ Square Rollout Gets A Launch Date; No Loyalty Card Integration (Yet)
+Git - Stdout: [master 3235e6a] adding new article
+ 7 files changed, 53 insertions(+), 7 deletions(-)
+ create mode 100644 articles/1349458651000_668261.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   eaf3731..3235e6a  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
