@@ -17,13 +17,6 @@
 <p>It&#8217;s not clear but it appears that eBay&#8217;s ability to restrict class action may come from <a target="_blank" href="http://www.nytimes.com/2011/04/28/business/28bizcourt.html?_r=0">this ruling from the Supreme Court last year</a> on the matter. The company has been the subject of at least one <a target="_blank" href="http://www.lonestarfishing.com/?q=node/6276">successful class action lawsuit</a> in the past, so this may also be behind this development.</p>
 <p>The new provisions have already come into effect for new users; and they are due to take effect for existing users on October 10. They appear to apply to users only of eBay.com, although we have seen that they will also be <a target="_blank" href="https://plus.google.com/116909717945403832187/posts/JufdUpMPXJw">extended to PayPal, too</a> come December. It&#8217;s not clear whether operations in other countries like the UK are also affected. We have reached out to eBay for a response and will update this post as we learn more.</p>
 <p><strong>Update</strong>: eBay&#8217;s response, in which it notes that its changes are to improve the time for resolutions.</p>
-<blockquote>
-<div>eBay recently updated its User Agreement to provide clarity around our policies and stay current with changing laws as our business and service offerings evolve.</div>
-</blockquote>
-<div>
-<div>
-<blockquote><p>The arbitration provision encourages swift and reasonable resolution as opposed to litigation that can be protracted, expensive and often dissatisfying to customers. We believe this approach will benefit both eBay Inc. and our customers. eBay has provided users with the option to opt out of the arbitration provision if they do not feel it is right for them and their account will remain active.</p></blockquote>
+<blockquote><p>eBay recently updated its User Agreement to provide clarity around our policies and stay current with changing laws as our business and service offerings evolve. The arbitration provision encourages swift and reasonable resolution as opposed to litigation that can be protracted, expensive and often dissatisfying to customers. We believe this approach will benefit both eBay Inc. and our customers. eBay has provided users with the option to opt out of the arbitration provision if they do not feel it is right for them and their account will remain active</p></blockquote>
 <p>The spokesperson also notes this also provides a route out of the second part of the provision having to do with class action: &#8220;By opting out of the arbitration provision, a user opts out of the class action waiver.&#8221; It&#8217;s still a question, though, of whether eBay&#8217;s changes are obvious and easy to refrain from for users.</p>
-</div>
-</div>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/fpvQn99x0Uo/">here</a>.

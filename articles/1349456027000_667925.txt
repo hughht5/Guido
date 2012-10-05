@@ -12,5 +12,5 @@
 <p>The product provides some basic analytics right now, showing general email activity for the team and individual employees. Over time, McQueen says he wants to add more data services.</p>
 <p>&#8220;This is the application layer on the biggest big data in the world today,&#8221; he says.</p>
 <p>AffinityLive Sync is available for free, but you need to pay if you want more storage. For 500 TechCrunch readers, McQueen is offering free accounts with 4 gigabytes of storage and 4,000 emails (that&#8217;s double the standard) — <a target="_blank" href="https://signup.affinitylive.com/sync/?code=techcrunch500">just sign up here</a>.</p>
-<span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/10/05/affinitylive-sync/"></a></span>
+<span class='embed-youtube' style='text-align:center; display: block;'><iframe class='youtube-player' type='text/html' width='640' height='390' src='http://www.youtube.com/embed/o2B5RbmPWxE?version=3&#038;rel=1&#038;fs=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' frameborder='0'></iframe></span>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/_-GSoC9YtW4/">here</a>.
