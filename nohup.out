@@ -27981,3 +27981,36 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/HashTip-For-iPhone-Lets-Moms-Share-Products,-Deals-&-Ideas HashTip For iPhone Lets Moms Share Products, Deals & Ideas
+Git - Stdout: [master c109b5f] adding new article
+ 3 files changed, 61 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349446503000_668173.txt
+ create mode 100644 articles/1349446729000_668146.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   4159a15..c109b5f  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
