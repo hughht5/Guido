@@ -4,6 +4,6 @@
 "author" : "Matt Burns"
 }
 
-<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/ie9.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="ie9" title="ie9" style="float: left; margin: 0 10px 7px 0;" /><p><span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/10/05/if-the-internet-explorer-9-commercial-was-honest/"></a></span></p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/ie9.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="ie9" title="ie9" style="float: left; margin: 0 10px 7px 0;" /><p><span class='embed-youtube' style='text-align:center; display: block;'><iframe class='youtube-player' type='text/html' width='640' height='390' src='http://www.youtube.com/embed/JyGP0ZyxF5E?version=3&#038;rel=1&#038;fs=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' frameborder='0'></iframe></span></p>
 <p>This. Despite Microsoft&#8217;s best efforts, the only thing Internet Explorer is good for is loading <a target="_blank" href="http://www.ninite.com/">ninite.com</a> and downloading Chrome and Firefox. It&#8217;s still bloated, it&#8217;s still slow and it&#8217;s still a pain to use &#8212; although Google Chrome is getting more bloated with each release.</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/Jrv3C2olo0k/">here</a>.
