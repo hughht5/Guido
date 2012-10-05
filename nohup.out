@@ -28950,3 +28950,37 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/3Gear-Systems-Hacks-Kinects-To-Create-The-Future-of-Gestural-Computing 3Gear Systems Hacks Kinects To Create The Future of Gestural Computing
+tweeted : http://www.techcrunchlite.com/2012/10/3Gear-Systems-Hacks-Kinects-To-Create-The-Future-of-Gestural-Computing 3Gear Systems Hacks Kinects To Create The Future of Gestural Computing
+Git - Stdout: [master f02baf8] adding new article
+ 3 files changed, 60 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349450416000_666713.txt
+ create mode 100644 articles/1349450453000_668189.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   c9e10ec..f02baf8  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
