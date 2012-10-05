@@ -20903,3 +20903,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Traffic-And-Trip-Updates-Now-Available-For-Enterprise-Customers-Through-Google-Maps-API Traffic And Trip Updates Now Available For Enterprise Customers Through Google Maps API
+Git - Stdout: [master a111cd4] adding new article
+ 2 files changed, 44 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349418460000_667966.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   c39f1ea..a111cd4  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
