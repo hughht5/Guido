@@ -1,0 +1,16 @@
+{
+"title" : "Google Warns Thousands Of Users About Potential State-Sponsored Cyber Attacks",
+"date" : "Fri, 05 Oct 2012 13:36:04 +0000",
+"author" : "Jordan Crook"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/cyberattack.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="cyberattack" title="cyberattack" style="float: left; margin: 0 10px 7px 0;" /><p>According to the <a target="_blank" href="http://bits.blogs.nytimes.com/2012/10/02/google-warns-new-state-sponsored-cyberattack-targets/">NYTimes</a>, tens of thousands of users have seen the following message pop up on their Gmail, Chrome browser, or Google home page: &#8220;Warning: We believe state-sponsored attackers may be attempting to compromise your account or computer.&#8221; </p>
+<p>To be perfectly clear, this message doesn&#8217;t mean that a successful attack was made on your account. It simply means that you likely have messages in your inbox containing malicious links or attachments, that are intended to eventually capture your password and/or information.</p>
+<p>Here&#8217;s a look at the warning. Perhaps you&#8217;ve seen it. </p>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/10/googlewarning.jpeg" rel="lightbox[668139]"></a></p>
+<p>These messages get sent to us all the time, from all kinds of mean people on the internet, so why all the fuss from Google? Well, a manager at Google&#8217;s information security team, Mike Wiacek, told the NYT that they believe the latest round of attacks came from the Middle East, and thereabouts, among other foreign countries. </p>
+<p>That whole &#8220;state-sponsored&#8221; bit escalates the matter to warning-worthy. </p>
+<p>Essentially, be careful when opening suspicious messages and never click on a link or attachment from an untrusted source. This should keep you relatively safe. You can also head over to the <a target="_blank" href="http://support.google.com/mail/bin/static.py?hl=en&amp;page=checklist.cs&amp;tab=29488">Gmail Security Checklist</a> page, and make sure you have crossed your T&#8217;s and dotted your I&#8217;s. A trip to Google&#8217;s general <a target="_blank" href="http://www.google.com/goodtoknow/online-safety/#utm_campaign=en&amp;utm_source=en-ha-ww-ww-bk-cn&amp;utm_medium=ha&amp;utm_term=google%20security">internet security page</a> wouldn&#8217;t hurt either. </p>
+<p>Another question you may be tossing around in the old noggin is how Google knows these are state-sponsored attacks. </p>
+<p>In short, Google won&#8217;t tell us, as it&#8217;s a matter of security. The more details they give on their analysis, the less protection they (and we) have against future attacks. But VP of security engineering at Google Eric Grosse did say that &#8220;our detailed analysis—as well as victim reports—strongly suggest the involvement of states or groups that are state-sponsored.&#8221;</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/kMyEaAjAVHY/">here</a>.
