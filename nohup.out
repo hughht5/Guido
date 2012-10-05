@@ -28224,3 +28224,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Kobo-Glo-And-Mini-Hit-Store-Shelves-In-Canada-And-The-UK,-Kobo-Arc-Tablet-To-Follow-In-November Kobo Glo And Mini Hit Store Shelves In Canada And The UK, Kobo Arc Tablet To Follow In November
+Git - Stdout: [master 1c8affa] adding new article
+ 2 files changed, 41 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349447516000_668176.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   4c175a8..1c8affa  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
