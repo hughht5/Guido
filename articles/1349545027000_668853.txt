@@ -1,0 +1,12 @@
+{
+"title" : "UK Prime Minister, David Cameron, Sends First Tweet",
+"date" : "Sat, 06 Oct 2012 17:37:07 +0000",
+"author" : "Natasha Lomas"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-06-at-18-34-37.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-10-06 at 18.34.37" title="Screen Shot 2012-10-06 at 18.34.37" style="float: left; margin: 0 10px 7px 0;" /><p>David Cameron, the British Prime Minister, has sent his first tweet. Despite joining Twitter in January 2010 his verified account had never tweeted anything &#8212; until a few moments ago, when he said this:</p>
+<blockquote class="twitter-tweet"><p>I&#8217;m starting Conference with this new Twitter feed about my role as Conservative Leader. I promise there won&#8217;t be &#8220;too many tweets&#8230;&#8221;</p>
+<p>— David Cameron (@David_Cameron) <a target="_blank" href="https://twitter.com/David_Cameron/status/254625004321386496">October 6, 2012</a></p></blockquote>
+<p>The &#8220;too many tweets&#8230;&#8221; comment is a reference to a radio interview in 2009, in which Cameron was asked for his views on Twitter and he replied: &#8221;The trouble with Twitter, the instantness of it – too many twits might make a twat.&#8221;</p>
+<p>More to come&#8230;</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/nxbQGWN8Aqw/">here</a>.
