@@ -1,0 +1,12 @@
+{
+"title" : "Gillmor Gang: What, Too Soon?",
+"date" : "Sat, 06 Oct 2012 19:00:39 +0000",
+"author" : "Steve Gillmor"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2011/08/gillmore-gang-test-pattern.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Gillmor Gang test pattern" title="Gillmor Gang test pattern" style="float: left; margin: 0 10px 7px 0;" />			<script type="text/javascript" src="http://pshared.5min.com/Scripts/PlayerSeed.js?sid=577&amp;width=640&amp;height=450&amp;colorPallet=%230A9600&amp;hasCompanion=false&amp;relatedMode=2&amp;videoControlDisplayColor=%23000000&amp;playList=517499021&amp;shuffle=0&amp;videoGroupID=133503&amp;autoStart=false&amp;playerActions=16407"></script>
+<p>The Gillmor Gang — Robert Scoble, Kevin Marks, John Taschek, Keith Teare, and Steve Gillmor — spent way too much time obsessing over the relative value of pictures in the social stream. My theory is that Twitter&#8217;s compact signals and social graph add up to much more than Facebook&#8217;s cat pictures decorated with Likes, comments, shares, and tags. It would be a tossup argument but for Twitter&#8217;s comprehensive dismantling of the very third party apps that turn the service into the realtime message bus.</p>
+<p>What really pisses me off is that Twitter execs who should and do know better don&#8217;t realize they&#8217;re emasculating the service with no ability to replace the losses with their own apps. After all, it&#8217;s the workarounds that brought Twitter to life, back when we first realized how powerful an impact the open message bus would have on world events. It&#8217;s almost like we&#8217;re about to see a Twitter Spring, where the data we infer through @messages and direct messages will be invisible to all those who lock us out of the tools to surface these rare and extraordinary signals. In other words, thanks Jack and Dick.</p>
+<p>@stevegillmor, @scobleizer, @kteare, @kevinmarks, @jtaschek</p>
+<p>Produced and directed by Tina Chase Gillmor @tinagillmor</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/M99xlF_-pSM/">here</a>.
