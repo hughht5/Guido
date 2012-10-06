@@ -41311,3 +41311,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Git - Stdout: [master 7888a9c] adding new article
+ 2 files changed, 61 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349499601000_666696.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   c4e1644..7888a9c  master -> master
+
+{ [Error: getaddrinfo EADDRINFO] code: 'EADDRINFO', errno: 'EADDRINFO', syscall: 'getaddrinfo' }
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
