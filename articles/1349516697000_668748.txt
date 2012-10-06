@@ -1,0 +1,11 @@
+{
+"title" : "Consumer Reports: iOS6 Maps “Competent Enough”, iPhone 5 Ranked Top Smartphone",
+"date" : "Sat, 06 Oct 2012 09:44:57 +0000",
+"author" : "Natasha Lomas"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/ios6maps.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="ios6maps" title="ios6maps" style="float: left; margin: 0 10px 7px 0;" /><p>It&#8217;s official: the iOS6 <a href="http://techcrunch.com/2012/09/26/the-apple-ios-6-maps-fiasco-clarified-in-3-minutes/">Mapgate</a> saga is not another <a href="http://techcrunch.com/2010/07/18/the-iphone-4-antennagate-story-as-told-through-ridiculous-taiwanese-animation/">antennagate</a>. <a target="_blank" href="http://www.consumerreports.org/cro/index.htm">Consumer Reports</a> &#8212; which famously <a href="http://techcrunch.com/2010/07/12/consumer-reports-slams-iphone-4/">said it could not recommend the iPhone 4</a> because of reception problems caused by the phone&#8217;s wrap-around antenna design &#8212; has concluded <a target="_blank" href="orts.org/electronics/2012/10/apple-iphone-5-test-results.html">its assessment</a> of Apple&#8217;s latest iPhone, naming the iPhone 5 the best iPhone yet, and ranking it &#8220;among the best smart phones in our Ratings&#8221;.</p>
+<p>Despite the myriad problems with Apple&#8217;s new mapping software, which replaces Google Maps in iOS6, Consumers Reports does not deem Mapgate a serious problem.</p>
+<p>They also conclude that despite receiving widespread criticism, Apple&#8217;s new Maps app is &#8220;competent enough, even if it falls short of what&#8217;s available for free on many other phones&#8221;.</p>
+<p>More to come&#8230;</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/d0YBYtD6RIw/">here</a>.
