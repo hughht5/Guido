@@ -45575,3 +45575,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Consumer-Reports:-iOS6-Maps-%E2%80%9CCompetent-Enough%E2%80%9D,-iPhone-5-Ranked-Top-Smartphone Consumer Reports: iOS6 Maps “Competent Enough”, iPhone 5 Ranked Top Smartphone
+Git - Stdout: [master 8ff9f54] adding new article
+ 2 files changed, 41 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349516697000_668748.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   7f88bbb..8ff9f54  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
