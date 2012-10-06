@@ -1,5 +1,5 @@
 {
-"title" : "Consumer Reports: iOS6 Maps “Competent Enough”, iPhone 5 Ranked Top Smartphone",
+"title" : "Consumer Reports: iOS6 Maps “Competent Enough”, iPhone 5 Ranked A Top Smartphone",
 "date" : "Sat, 06 Oct 2012 09:44:57 +0000",
 "author" : "Natasha Lomas"
 }
