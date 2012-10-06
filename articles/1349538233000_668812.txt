@@ -1,5 +1,5 @@
 {
-"title" : "Deezer Raises $130 Million Series D Round Led By Warner Music Group’s Owner Access Industries",
+"title" : "French Music Startup Deezer Gets $130M Fourth Round, Led By Warner Music Group’s Owner Access Industries",
 "date" : "Sat, 06 Oct 2012 15:43:53 +0000",
 "author" : "Romain Dillet"
 }
@@ -10,5 +10,5 @@
 <p>The investment first reported by <a target="_blank" href="http://www.lefigaro.fr/societes/2012/10/05/20005-20121005ARTFIG00725-deezer-leve-100millions-aupres-d-un-financier-russe.php">Le Figaro</a> represents a major shift for the French company. Even though Orange previously hinted at a potential exit, the telecom company has recently rethought its plans when it comes to content. Many subscribers come from bundles with mobile plans. So far, Orange is still offering that possibility.</p>
 <p>Music companies, and especially Warner Music Group, will have a major influence on Deezer&#8217;s future. It is not unusual but it represents a double-edged sword. Streaming companies are very dependent from their deals with the music industry.</p>
 <p>Having a major stake in the company can make the negotiating process one-sided when the contract is up for renewal. It remains to be seen whether multiple streaming companies can survive in that capital intensive industry.</p>
-<p><i>We have reached out for comments and will update this article if needed.</i></p>
+<p><em>We have reached out for comments and will update this article if needed.</em></p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/42Mlvyl70UQ/">here</a>.
