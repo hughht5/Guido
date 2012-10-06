@@ -1,0 +1,13 @@
+{
+"title" : "Browser-Based VoIP And Video Chat Service, FriendCaller, Doubles Users To 10 Million In A Year",
+"date" : "Sat, 06 Oct 2012 16:09:55 +0000",
+"author" : "Natasha Lomas"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/friendcaller.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="friendcaller" title="friendcaller" style="float: left; margin: 0 10px 7px 0;" /><p>Skype alternative <a target="_blank" href="http://www.friendcaller.com/">FriendCaller</a> says it has doubled the number of users it has worldwide to 10 million in less than a year (perspective: at the time of Skype&#8217;s acquisition by Microsoft last year it had <a target="_blank" href="http://www.bbc.co.uk/news/business-13343600">663 million global users</a>). The FriendCaller service, which lets people talk to other FriendCaller members for free but charges for calls to external phones and other services, works across mobile devices including iOS and Android. It also exists in <a target="_blank" href="http://www.friendcaller.com/webphone/index.html">Web Phone</a> form, and supports Facebook logins.</p>
+<p>FriendCaller has been around <a href="http://techcrunch.com/2010/08/05/c2call-closes-a-2-million-series-a-round-for-its-browser-based-voip-phone/">for several years</a>, with the company behind it, C2Call, founded back in 2008. It&#8217;s had a fairly low profile over the years &#8212; doubtless thanks to limited traction &#8212; albeit it popped up on our radar <a href="http://techcrunch.com/2012/04/18/hey-remember-friendcaller-it-just-launched-7-way-mobile-video-chat/">back in April</a> with the launch of new mobile and web apps supporting 7-way video chats, and voice chats with up to 20-partipants.</p>
+<p>At the time it said it had 6.5 million subscribers &#8212; meaning it&#8217;s added 3.5 million subscribers since, in just under six months. &#8221;10 million users is a significant milestone for us, and we are proud to have doubled the number of FriendCaller users in less than a year,&#8221; noted CEO Martin Feuerhahn in a statement.</p>
+<p>Feuerhahn credited recent feature enhancements to FriendCaller&#8217;s service &#8212; such as the ability to share photos, videos and location data &#8212; as contributing to its accelerated growth.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/Vg1znGPRaZ8/">here</a>.
