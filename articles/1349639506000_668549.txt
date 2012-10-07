@@ -4,9 +4,9 @@
 "author" : "Alex Williams"
 }
 
-<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/08/android-happy.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="android-happy" title="android-happy" style="float: left; margin: 0 10px 7px 0;" /><div>The fractured state of the Android platform can make it difficult for customers to launch their apps, which might make them want to throw their devices into the closest river.</div>
-<p>Testing can be a bear but cloud-based services are providing new ways for developers to quickly see  how their apps look on any type of device.</p>
-<p>In its presentation at <a target="_blank" href="http://www.piepdx.com/">PIE</a> Demo Day in Portland on Friday,<a target="_blank" href="https://www.appthwack.com/"> AppThwack&#8217;s</a> Trent Peterson said the remedy comes in automating the testing. Through its cloud-based platform, developers can get answers in minutes to how their apps behave on all the various devices and version of the Android OS that people use. AppThwack runs a lab that tests every device that runs Android. They use that lab as the foundation for its service.</p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/08/android-happy.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="android-happy" title="android-happy" style="float: left; margin: 0 10px 7px 0;" /><div>The fractured state of the Android platform can make it difficult to manage app development. Testing can be a bear but cloud-based services are providing new ways for developers to quickly see  how their apps look on any type of device.</div>
+<div></div>
+<div>In its presentation at <a target="_blank" href="http://www.piepdx.com/">PIE</a> Demo Day in Portland on Friday,<a target="_blank" href="https://www.appthwack.com/"> AppThwack&#8217;s</a> Trent Peterson said the remedy comes in automating the testing. Through its cloud-based platform, developers can get answers in minutes to how their apps behave on all the various devices and version of the Android OS that people use. AppThwack runs a lab that tests every device that runs Android. They use that lab as the foundation for its service.</div>
 <p>Here&#8217;s how it works:</p>
 <ul>
 <li>Use the site&#8217;s drag-and-drop to securely upload it.</li>
