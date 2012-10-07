@@ -1,5 +1,5 @@
 {
-"title" : "Apple Offers Up An Official Explanation For The iPhone 5 Camera’s Purple Flaring Problem",
+"title" : "Apple Offers An Official Explanation For The iPhone 5 Camera’s Purple Flaring Problem",
 "date" : "Sun, 07 Oct 2012 16:58:14 +0000",
 "author" : "Chris Velazco"
 }
