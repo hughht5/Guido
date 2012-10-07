@@ -79414,3 +79414,37 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/The-Forgotten-Half-Of-Social The Forgotten Half Of Social
+tweeted : http://www.techcrunchlite.com/2012/10/The-Forgotten-Half-Of-Social The Forgotten Half Of Social
+Git - Stdout: [master 8f4c12f] adding new article
+ 3 files changed, 87 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349651802000_668031.txt
+ create mode 100644 articles/1349651925000_669188.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   11ad4c9..8f4c12f  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
