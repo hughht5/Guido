@@ -1,0 +1,15 @@
+{
+"title" : "Beverage Carts and MorphCards At The TechTomorrow Startup Showcase (Video)",
+"date" : "Sun, 07 Oct 2012 17:21:43 +0000",
+"author" : "Jay Donovan"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/bev.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="bev" title="bev" style="float: left; margin: 0 10px 7px 0;" />			<script type="text/javascript" src="http://pshared.5min.com/Scripts/PlayerSeed.js?sid=577&amp;width=640&amp;height=450&amp;colorPallet=%230A9600&amp;hasCompanion=false&amp;relatedMode=2&amp;videoControlDisplayColor=%23000000&amp;playList=517499248&amp;shuffle=0&amp;videoGroupID=133503&amp;autoStart=false&amp;playerActions=16407"></script>
+<p>I&#8217;ll stop by any startup showcase I can, but it&#8217;s always a bonus when it happens to be local. Last week&#8217;s <a target="_blank" href="http://www.techtomorrow.org/networking_techlife.html">TechTomorrow showcase</a>, sponsored by <a target="_blank" href="http://www.techcolumbus.org/">TechColumbus</a> saw nearly 50 regional startups show off the results of their hard work – here are just a few ideas and demos present at the event worth mentioning.</p>
+<ul>
+<li><a target="_blank" href="http://www.bevcart911.com/">BevCart911</a> is a mobile app/refreshment delivery system for golf courses, which lets you order the drinks or snacks you require with an app. The app geo-locates you and the refreshements are delivered to you wherever you are on the course.</li>
+<li><a target="_blank" href="http://morphcard.com/">MorphCard</a> is a gift card service that lets you purchase and exchange gift cards with no markup or charge. While the purchases or exchanges inside their ecosystem are not marked up, they monetize by purchasing any gift cards sold outside their ecosystem for slightly less than retail value, reselling them at retail value, and pocketing the difference.</li>
+<li><a target="_blank" href="http://lithophantastic.com/">Lithophantastic</a> is a service that transforms your digital photos into three dimensional Lithophanes. For the unfamiliar, Lithophanes are solid, back-lit surfaces that give images a three dimensional effect.</li>
+<li><a target="_blank" href="http://thekiwiapp.com/">Kiwi</a> is a video app that lets you select single frames of a video captured with the app to create unique,  stylized, filter-affected thumbnail images to serve as link to the video.</li>
+</ul>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/EaBInBXxPiE/">here</a>.
