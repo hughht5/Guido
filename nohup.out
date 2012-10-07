@@ -70149,3 +70149,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Report:-For-The-First-Time-In-Decades,-US-Is-Bleeding-High-Skilled-Immigrants Report: For The First Time In Decades, US Is Bleeding High-Skilled Immigrants
+Git - Stdout: [master 983eb65] adding new article
+ 3 files changed, 48 insertions(+), 1 deletions(-)
+ create mode 100644 articles/1349614803000_668869.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   a9d5424..983eb65  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
