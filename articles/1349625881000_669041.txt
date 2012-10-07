@@ -1,7 +1,7 @@
 {
 "title" : "The eBook – Déjà Vu All Over Again?",
 "date" : "Sun, 07 Oct 2012 16:04:41 +0000",
-"author" : "Mike Butcher"
+"author" : "Phil Dwyer"
 }
 
 <p><em>This is a guest post by Phil Dwyer, author, freelance writer and in the 1990s the first editor of seminal UK tech title, <a target="_blank" href="http://NMA.co.uk">NMA</a>. You can follow him on twitter at <a target="_blank" href="https://twitter.com/phildwyer">@phildwyer</a> or on his <a target="_blank" href="http://phildwyer.wordpress.com/">blog</a>.</em></p>
