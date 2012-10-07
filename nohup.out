@@ -73757,3 +73757,37 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Apple-Offers-Up-An-Official-Explanation-For-The-iPhone-5-Camera%E2%80%99s-Purple-Flaring-Problem Apple Offers Up An Official Explanation For The iPhone 5 Camera’s Purple Flaring Problem
+tweeted : http://www.techcrunchlite.com/2012/10/Apple-Offers-Up-An-Official-Explanation-For-The-iPhone-5-Camera%E2%80%99s-Purple-Flaring-Problem Apple Offers Up An Official Explanation For The iPhone 5 Camera’s Purple Flaring Problem
+Git - Stdout: [master 3182c65] adding new article
+ 3 files changed, 63 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349629094000_669058.txt
+ create mode 100644 articles/1349629253000_669021.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   dbccf0f..3182c65  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
