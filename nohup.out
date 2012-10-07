@@ -66517,3 +66517,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/10-Ways-Startups-Can-Deal-With-Patent-Troll-Demands 10 Ways Startups Can Deal With Patent Troll Demands
+Git - Stdout: [master 7e64873] adding new article
+ 2 files changed, 72 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349600441000_668672.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   d95ec87..7e64873  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
