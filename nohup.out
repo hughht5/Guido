@@ -74453,3 +74453,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Fear-For-Your-Safety,-Not-Your-Privacy Fear For Your Safety, Not Your Privacy
+Git - Stdout: [master f9fb843] adding new article
+ 2 files changed, 57 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349631607000_668467.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   be31203..f9fb843  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
