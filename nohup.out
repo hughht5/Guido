@@ -76317,3 +76317,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/5-Ways-To-Manage-App-Development-On-The-Android-Platform-Without-Going-Nuts 5 Ways To Manage App Development On The Android Platform Without Going Nuts
+Git - Stdout: [master e5fa3a7] adding new article
+ 3 files changed, 69 insertions(+), 11 deletions(-)
+ create mode 100644 articles/1349639506000_668549.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   e746e16..e5fa3a7  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
