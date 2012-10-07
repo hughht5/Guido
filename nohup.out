@@ -61263,3 +61263,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Here%E2%80%99s-Why-Twitter%E2%80%99s-Road-To-An-IPO-Won%E2%80%99t-Be-As-Rocky-As-Some-Might-Think Here’s Why Twitter’s Road To An IPO Won’t Be As Rocky As Some Might Think
+Git - Stdout: [master 18c8a71] adding new article
+ 2 files changed, 55 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349579303000_668958.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   3ca0083..18c8a71  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
