@@ -96036,3 +96036,37 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Makers-of-Most-Viral-Video-Ever,-Kony-2012,-Explain-Naked-Meltdown,-Plan-DC-March Makers of Most Viral Video Ever, Kony 2012, Explain Naked Meltdown, Plan DC March
+tweeted : http://www.techcrunchlite.com/2012/10/Makers-of-Most-Viral-Video-Ever,-Kony-2012,-Explain-Naked-Meltdown,-Plan-DC-March Makers of Most Viral Video Ever, Kony 2012, Explain Naked Meltdown, Plan DC March
+Git - Stdout: [master f65691c] adding new article
+ 4 files changed, 60 insertions(+), 2 deletions(-)
+ create mode 100644 articles/1349717966000_669879.txt
+ create mode 100644 articles/1349717981000_669924.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   67d141f..f65691c  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
