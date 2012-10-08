@@ -95429,3 +95429,36 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+{ statusCode: 403,
+  data: '{"error":"Status is over 140 characters.","request":"\\/1\\/statuses\\/update.json"}' }
+Git - Stdout: [master 60e359c] adding new article
+ 2 files changed, 41 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349715574000_669871.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   0c98ae5..60e359c  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
