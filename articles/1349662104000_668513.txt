@@ -1,0 +1,33 @@
+{
+"title" : "Why You All So Kiasi?",
+"date" : "Mon, 08 Oct 2012 02:08:24 +0000",
+"author" : "Scott Rafer"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/rafer.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="rafer" title="rafer" style="float: left; margin: 0 10px 7px 0;" /><p><strong>Editor&#8217;s note:</strong> <em>Scott Rafer is CEO of <a target="_blank" href="http://lumatic.com/">Lumatic</a>, a company that believes Cities are Humanity’s Future so they must be easier to love. Lumatic is located in the great cities of Singapore and San Francisco. <a target="_blank" href="http://twitter.com/rafer">@rafer</a> already speaks Nerd pretty well and is working on his Singlish.</em></p>
+<div>
+<p>Maps <em>are</em> really hard, but the industry aspects are even rougher than the technology. That’s why it’s time for mapping people to quit apologizing and go for the throat.</p>
+<p>To wit, here&#8217;s the beginning of the <a target="_blank" href="http://timcookftw.tumblr.com/post/32868816985/therealletter">completely unapologetic letter</a> we’d love to have seen from <a target="_blank" href="http://twitter.com/timcookftw">@timcookftw</a>:<a target="_blank" href="http://twitter.com/timcookftw."><br />
+</a></p>
+</div>
+<div>
+<blockquote><p>To our customers and competition,</p>
+<p>At Apple, we strive to make world-class products that deliver the best experience possible to our customers. With the launch of our new Maps last week, we fell short on this particular commitment. Even as the most valuable company on Earth, we can&#8217;t afford to apologize for how we handled the new Maps launch0. I’m saddened by our shortfall but unfortunately not surprised. If we want to keep our largest commitments to you &#8212; the long-term integrity of iOS, iPhone, and iPad &#8212; we had no choice but to ship the new Maps now.</p>
+<p>We launched Maps initially with the first version of iOS. As time progressed, it became riskier and riskier to depend on our most ardent competitor to provide Maps, and we could no longer wait to act. Not only had Maps fallen behind innovating new features such as turn-by-turn directions, voice integration, Flyover, and vector-based maps, but every map search by iOS user was relayed outside of Apple, making their Maps even better. To get out of these strategic dead ends, we had to create a new version of Maps from the ground up.</p></blockquote>
+<p>What makes mapping so hard is that the huge majority of industry power has been aggregated by two players. They are Nokia and Google and in that order now that Apple wiped Google Maps off 100 million+ devices. That excessive concentration is in direct conflict with both the need of software engineers to pick best-of-breed services and the need of mobile OS owners to avoid sharing local marketing data with their competition. Google is obviously in great shape as a self-contained OS ecology; Amazon and Microsoft are fighting over Nokia at numerous levels; Apple chose to go with TomTom; and the next viable player appears to be Waze &#8212; at least for driving. I excluded MapQuest and Yahoo! from this list as they are largely Nokia-dependent.</p>
+</div>
+<div>
+<p>Most challenging for startups is that the Nokia and Google geo-service stacks are only licensable as a bundle. Either you buy it all or you don’t get any of it. If you want just Google’s map tiles, you need to also use their routing, etc. Building a best-of-class specialized service requires rebuilding the entire geo stack, not just the one thing the startup wants to be great at. You can’t even insert your own stuff in the middle of their stack. If Amazon chooses not to force bundling of their new <a target="_blank" href="https://developer.amazon.com/sdk/mapssignup.html">map APIs</a>, they are going to build a ton of volume very quickly.</p>
+</div>
+<p>At Lumatic, we pieced the whole stack together, using Apple Mapkit obviously, plus <a target="_blank" href="http://openstreetmap.org">OpenStreetMap</a>, and in certain cities a special class of photography from Nokia. We used nothing from Google and no core services from Nokia. It sucked. And it sucked for the last 18+ months. Lean startup? Not quite.</p>
+<p><a href="http://techcrunch.com/?attachment_id=668519" rel="attachment wp-att-668519"></a></p>
+<div>
+<p>That stack starting at the bottom, roughly speaking, is:</p>
+<p><strong>Geocoding.</strong> The generation of latitude and longitude from addresses. You can actually license this service from Yahoo! (who we just went with) and MapQuest, but there are penalties to using geocoding from a vendor separate from the rest of the stack.</p>
+<p><strong>Routing.</strong> Building the directions and timing that get a user from an origin to a destination. Driving, cycling, and walking directions are tough enough, but transit routing  with transfers built in is available from very few parties &#8212; Google, Nokia, Hopstop, and Lumatic. It’s that much harder to get and massage the data and that much tougher to assemble working algorithms.</p>
+<p><strong>Points of Interest.</strong> Per <a href="http://techcrunch.com/2012/09/30/5-problems-apple-needs-to-solve-in-its-maps-app/">Grant Ritchie&#8217;s post last weekend</a>, POI is just the nightmare a data scientist would expect, though Foursquare’s harmonizer approach is helping.</p>
+<p><strong>Search.</strong> On top of the POI database, there’s the natural language problem of figuring out misspellings, category searches (e.g. cafe, pizza, movies, mom’s house), what to do in areas where results are thin, etc. This is where foursquare is beginning to shine, which makes them incredibly strategic.</p>
+<p><strong>Presentation.</strong> The user mapping experience, whether it’s map tiles, turn by turn, a photographic representation, or augmented reality. The savior here so far has been MapBox.</p>
+<p>And like I parroted for Mr. Cook, this whole argument covers only the next two or three years. Wait until the world realizes that we&#8217;ve already run out of map-literate humans to buy smartphones. Serving the other 90 percent of humans is going to be a real mess. So don&#8217;t be so <a target="_blank" href="http://en.wikipedia.org/wiki/Kiasi">kiasi</a>.</p>
+</div>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/vlB7lNAQiAk/">here</a>.
