@@ -4,7 +4,7 @@
 "author" : "Alex Williams"
 }
 
-<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/taperecorder11.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="taperecorder1" title="taperecorder1" style="float: left; margin: 0 10px 7px 0;" /><p>You know the office is changing when old school executives tell you they work from home. They might go into the office to check in but often they are either working out of the house our out on the road. It&#8217;s just the reality of the new work world.</p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/taperecorder11.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="taperecorder1" title="taperecorder1" style="float: left; margin: 0 10px 7px 0;" /><p>You know the office is changing when old school executives tell you they work from home. They might go into the office to check in but often they are either working out of the house or out on the road. It&#8217;s just the reality of the new work world.</p>
 <p>LinkedIn today is illustrating this trend as part of its <a target="_blank" href="http://blog.linkedin.com/2012/09/25/cube-dinosaurs/">&#8220;Office Endangered Species,&#8221;</a> study of more than 7,000 professionals that looked at what office tools and trends will most likely go away by the year 2017.</p>
 <p>Here are the top 10:</p>
 <p>1. Tape recorders (79 percent)</p>
@@ -20,7 +20,7 @@
 <p>The technologies and trends that people say more often represent their work life:</p>
 <ul>
 <li>Tablets (55 percent)</li>
-<li>Coud storage (54 percent)</li>
+<li>Cloud storage (54 percent)</li>
 <li>Flexible working hours and smartphones (which tied at 52 percent)</li>
 </ul>
 <p>And here are a few &#8220;dream&#8221; things people would like to see more part of the office experience:</p>
