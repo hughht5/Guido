@@ -1,0 +1,11 @@
+{
+"title" : "Facebook Collections Lets Retailers Augment Posts With “Want/Collect” Buttons That Save Products To Pinteresque Profile Sections",
+"date" : "Mon, 08 Oct 2012 16:59:34 +0000",
+"author" : "Josh Constine"
+}
+
+<p>Facebook has just begun testing &#8220;Collections&#8221; &#8212; a new feature it says is &#8220;unrelated&#8221; to Pinterest but could be a competitor. It allows retailers to add &#8220;Want&#8221; or &#8220;Collect&#8221; buttons to news feed post about products. These save and share products to a &#8220;Wishlist&#8221; on user profiles and can be clicked through to make purchases.</p>
+<p>Seven retail partners including Pottery Barn and Fab can now share Collections posts to their fans.</p>
+<p>Collections could help retailers score viral click throughs to their product pages by making things their fans are interested in more discoverable to friends. Facebook isn&#8217;t making affiliate fees on Collections click throughs, but it could get brands to buy ads to get more fans.</p>
+<p>&nbsp;</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/wv7DA_3kKms/">here</a>.
