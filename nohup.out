@@ -82761,3 +82761,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Survey:-Patent-War-Paints-Apple-%E2%80%98Leader%E2%80%99,-Samsung-Challenged,-But-We-Might-All-End-Up-Losers Survey: Patent War Paints Apple ‘Leader’, Samsung Challenged, But We Might All End Up Losers
+Git - Stdout: [master af992e5] adding new article
+ 3 files changed, 54 insertions(+), 1 deletions(-)
+ create mode 100644 articles/1349665252000_669203.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   f33481f..af992e5  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
