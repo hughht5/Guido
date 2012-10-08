@@ -85469,3 +85469,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/In-A-Keyboard-Free-Future,-What-Happens-To-All-The-Writers? In A Keyboard-Free Future, What Happens To All The Writers?
+Git - Stdout: [master 5a5b0f7] adding new article
+ 2 files changed, 52 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349676006000_669138.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   afdb5d5..5a5b0f7  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
