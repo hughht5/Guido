@@ -4,33 +4,12 @@
 "author" : "Ingrid Lunden"
 }
 
-<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/google_card.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="google_card" title="google_card" style="float: left; margin: 0 10px 7px 0;" /><p>High quality global journalism requires investment. Please share this article with others using the link below, do not cut &amp; paste the article. See our Ts&amp;Cs and Copyright Policy for more detail. Email ftsales.support@ft.com to buy additional rights. http://www.ft.com/cms/s/0/55be35f2-1093-11e2-a5f7-00144feabdc0.html#ixzz28f2JPLrR</p>
-<p>Google is getting into the credit business for the first time, with the launch on Monday of a programme in the UK to finance purchases of its search advertising by businesses.</p>
-<p> The move marks the opening of a new front in the battle between the biggest internet companies, as they turn to their balance sheets as a source of competitive advantage. Amazon said last week that it had begun making loans to independent sellers that offer their products on its marketplace, marking the online retailer’s first move into financial services.</p>
-<p> More</p>
-<p>ON THIS STORY</p>
-<p> Google market cap tops Microsoft’s</p>
-<p> Windows set to overtake RIM in Europe</p>
-<p> Google’s buying spree displays results</p>
-<p> Apple apologises for Maps app errors</p>
-<p> Resurgent Google puts one over tech rivals</p>
-<p> ON THIS TOPIC</p>
-<p> Google ebook win little threat to Amazon</p>
-<p> Google widens Motorola unit restructure</p>
-<p> Google terminates Apple patent suit</p>
-<p> Judge orders arrest of Google executive</p>
-<p> IN MEDIA</p>
-<p> Studio surfs rising wave of online TV</p>
-<p> Investor advisers split on News Corp AGM</p>
-<p> Strike closes Israel’s Haaretz newspaper</p>
-<p> Scardino ends era of sweeping changes</p>
-<p> Google’s decision to issue its own credit card, which will also be made available in the US within weeks and other unspecified countries later, signals the company’s first attempt to use its huge cash reserves to support its core search advertising business by subsidising low-interest rate credit lines.</p>
-<p> It said it would offer customers credit of between $200 and $100,000 a month to pay for their use of Adwords, which places messages next to the results in its search engine and made up the bulk of its $37bn in advertising revenues last year.</p>
-<p> “They weren’t buying Adwords as much as they need to,” said Brent Callinicos, Google’s treasurer. A pilot lending programme begun in the US a year ago had led to customers advertising more, he added.</p>
-<p> Amazon also indicated that its lending was aimed at credit-starved businesses that would otherwise struggle to finance initiatives such as expanding the inventory of products they sold on its site.</p>
-<p> “We’re providing a solution to a problem that is vexing many sellers,” Amazon said. “A lack of access to cash can inhibit their growth.”</p>
-<p> Google said it set its initial interest rates considerably lower than prevailing market rates on credit cards for small and medium-sized businesses, with an 8.99 per cent rate in the US and 11.9 per cent in the UK.</p>
-<p> “You can assume we’re not doing this to lose money,” Mr Callinicos said, though he added that Google was “not trying to run the financing business as a profit centre.”</p>
-<p> Google executives did not rule out going deeper into financial services with the provision of more lending products to the small and medium-sized businesses that make up the bulk of its 1m search advertising customers, though they said the company was not planning any moves at present.</p>
-<p> “We are helping them, uniquely, with online marketing – we aren’t going into a finance business as Google,” said Francoise Brougher, vice-president of sales and operations for small and medium businesses at Google.</p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/google_card.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="google_card" title="google_card" style="float: left; margin: 0 10px 7px 0;" /><p>When small businesses need to make investments into IT or other operations, it&#8217;s often the companies selling them the goods that help with financing solutions. Now it looks like Google is using that model to help drive more dollars to AdWords search advertising. <a target="_blank" href="http://adwords.blogspot.co.uk/2012/10/extra-credit-for-small-and-medium-sized.html">Google says</a> that from Monday it is launching a new service in the UK, <a target="_blank" href="http://www.google.co.uk/adwords/businesscredit/">AdWords Business Credit</a>, which offers credit to companies specifically in the SMB sector to boost their online ad spend with the company.</p>
+<p>This is not the first time that Google has offered credit to drive more AdWords investment &#8212; it&#8217;s been running a pilot with 1,400 companies in the U.S. for a year. Before that Google had run special offers giving people credits for more Adwords spend each time they invested into Adwords. This, however, is the first full commercial service of this kind.</p>
+<p>The track record in the U.S. has been positive enough to see the company moving to full launches: in a blog post, Brent Callinicos, VP Treasurer for Google, notes that 74% of those in the U.S. pilot now use AdWords Business Credit as their &#8220;primary form of AdWords payment.&#8221;</p>
+<p>Google will be following the UK launch with more invitations to users in the U.S. ahead of a full launch there as well.</p>
+<p>The UK launch is being run with Barclaycard in the UK and Comenity Capital Bank in the U.S. &#8212; both MasterCard-based cards.</p>
+<p>In Q2, Google noted that revenues, which it derives primarily from advertising, were $10.96 billion, a 21% increase over the year before. Revenues from the UK were $1.18 billion, or 11% of Google&#8217;s revenues in Q2. That&#8217;s level with the year before, and it could be that Google is going for a two-sided strategy here: both increasing business in the UK market, as well as coming up with more aggressive solutions for building up its ad business among a sector that has perhaps been hardest hit with the downturn in the economy.</p>
+<p>While Amazon has lately been offering credit to its merchant partners in the form of <a target="_blank" href="http://online.wsj.com/article/SB10000872396390443493304578034103049644978.html">Amazon Capital Services</a>, Google is clear to note that AdWords Business Credit is only for AdWords &#8212; no other purchases allowed.</p>
+<p>Interest rates in the UK will be variable 11.9% APR Representative, while the U.S. will be at 8.99%, as it has been in the pilot. Neither card will have annual fees, Google notes. This is lower than basic credit card rates but given that the spend on these cards will all be going towards Google, it&#8217;s a lucrative credit bet for the company. &#8220;You can assume we’re not doing this to lose money,&#8221; Callinicos said in an <a target="_blank" href="http://www.ft.com/cms/s/0/55be35f2-1093-11e2-a5f7-00144feabdc0.html#axzz28erhQiZm">interview in the FT</a>. He also noted, though, that this is not seen as a &#8220;profit center&#8221; for Google in the bigger scheme of things.</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/HFU0Z24bj2w/">here</a>.
