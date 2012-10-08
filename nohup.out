@@ -86405,3 +86405,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Tim-Draper-Backed-Nutmeg-Opens-For-Your-Investing-Business:-Now-Anyone-Can-Be-Warren-Buffet Tim Draper-Backed Nutmeg Opens For Your Investing Business: Now Anyone Can Be Warren Buffet
+Git - Stdout: [master 2aa6c4f] adding new article
+ 5 files changed, 55 insertions(+), 4 deletions(-)
+ create mode 100644 articles/1349679598000_669215.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   f44bb9d..2aa6c4f  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
