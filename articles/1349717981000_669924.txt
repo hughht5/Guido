@@ -1,0 +1,10 @@
+{
+"title" : "Google TV Update Brings Google Play Music, Movies & TV, Plus More Features For Developers",
+"date" : "Mon, 08 Oct 2012 17:39:41 +0000",
+"author" : "Sarah Perez"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/stvscreens.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="stvscreens" title="stvscreens" style="float: left; margin: 0 10px 7px 0;" /><p>Google announced today that it&#8217;s bringing Google Play movies, TV shows and music to its Google TV platform, through an update that will allow users to rent or buy content through the included Google Play store on Google TV devices. In addition, purchases users have made on other supported devices will also be available on Google TV following this update.</p>
+<p>The new content will be included in the Google Play store&#8217;s &#8220;TV &amp; Movies&#8221; app, which also houses competing offering from both Amazon and Netflix, as well as content recommendations. While more content is the big news for Google&#8217;s consumer install base, which earlier this year was <a target="_blank" href="http://gigaom.com/video/google-tv-number-of-active-devices/">estimated</a> at less than 1 million), the update also brings a number of new features for developers, too. Specifically, developers will now gain access to auto-updates, subscription billing, and smart app updates, the company <a target="_blank" href="http://googletv.blogspot.com/2012/10/google-play-movies-tv-shows-and-music.html">announced</a> via blog post.</p>
+<p>While Google didn&#8217;t provide details as to the exact size of its catalog, it said that it includes &#8220;millions&#8221; of songs and &#8220;thousands&#8221; of movie and TV shows.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/eirP52YIuUI/">here</a>.
