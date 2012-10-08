@@ -100460,3 +100460,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Turning-A-Utility-Into-A-Community:-BranchOut%E2%80%99s-Metamorphosis Turning A Utility Into A Community: BranchOut’s Metamorphosis
+Git - Stdout: [master 91cdfcd] adding new article
+ 3 files changed, 69 insertions(+), 4 deletions(-)
+ create mode 100644 articles/1349735182000_669853.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   dda67c3..91cdfcd  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
