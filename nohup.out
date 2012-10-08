@@ -86343,3 +86343,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/iPad-Mini:-Apple-Orders-More-Than-10-Million-Units-For-Q4,-Says-WSJ iPad Mini: Apple Orders More Than 10 Million Units For Q4, Says WSJ
+Git - Stdout: [master 813b4c6] adding new article
+ 5 files changed, 48 insertions(+), 5 deletions(-)
+ create mode 100644 articles/1349679526000_669396.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   cc09b90..813b4c6  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
