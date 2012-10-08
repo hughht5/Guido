@@ -85561,3 +85561,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Tech-Companies-Try,-And-Fail,-To-Inspire-With-Recent-Commercials Tech Companies Try, And Fail, To Inspire With Recent Commercials
+Git - Stdout: [master c8ebee4] adding new article
+ 4 files changed, 56 insertions(+), 2 deletions(-)
+ create mode 100644 articles/1349676011000_669293.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   3300a8c..c8ebee4  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
