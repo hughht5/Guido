@@ -93398,3 +93398,37 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/RSVP-Now-For-The-TC-Detroit-Meetup-On-November-7 RSVP Now For The TC Detroit Meetup On November 7
+tweeted : http://www.techcrunchlite.com/2012/10/RSVP-Now-For-The-TC-Detroit-Meetup-On-November-7 RSVP Now For The TC Detroit Meetup On November 7
+Git - Stdout: [master 711d664] adding new article
+ 4 files changed, 63 insertions(+), 1 deletions(-)
+ create mode 100644 articles/1349707299000_669692.txt
+ create mode 100644 articles/1349707497000_669653.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   7ba247a..711d664  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
