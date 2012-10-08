@@ -81647,3 +81647,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/SpaceX-Successfully-Sends-Its-Dragon-Spacecraft-On-Its-Maiden-ISS-Resupply-Mission SpaceX Successfully Sends Its Dragon Spacecraft On Its Maiden ISS Resupply Mission
+Git - Stdout: [master f5b4497] adding new article
+ 4 files changed, 52 insertions(+), 10 deletions(-)
+ create mode 100644 articles/1349660825000_669278.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   41f75c1..f5b4497  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
