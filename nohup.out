@@ -90075,3 +90075,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Keen-On%E2%80%A6.-Hans-Vestberg:-How-Ericsson-Runs-The-Network Keen On…. Hans Vestberg: How Ericsson Runs The Network
+Git - Stdout: [master 4f79642] adding new article
+ 2 files changed, 39 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349693846000_669489.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   acbabd0..4f79642  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
