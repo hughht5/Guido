@@ -95277,3 +95277,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/T-Mobile-Will-Launch-LG%E2%80%99s-Ice-Cream-Sandwich-Powered-Optimus-L9-%E2%80%9CThis-Fall%E2%80%9D T-Mobile Will Launch LG’s Ice Cream Sandwich-Powered Optimus L9 “This Fall”
+Git - Stdout: [master 58dff0d] adding new article
+ 4 files changed, 48 insertions(+), 5 deletions(-)
+ create mode 100644 articles/1349714939000_669832.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   17e5b33..58dff0d  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
