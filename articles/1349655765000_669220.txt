@@ -27,5 +27,5 @@
 <p>Our crowdfunding method isn’t perfect. It requires that you have some resources to be able to kick off production of your product and I believe that there is room for a new model of crowdfunding.</p>
 <p>Hardware startups need a platform that would add value for customers and producers by acting as an escrow for funds while validating and assisting fledgling hardware companies with their production plans. Consequently, we are planning to open source a skeletal version of our crowdfunding app to help start this discussion.</p>
 <p>The power to ultimately go ahead and purchase a Lockitron rests with our backers. The onus is on us to justify and substantiate any delays along the way. Just as popular hardware Kickstarter projects have proven, it will be our willingness to involve excited Lockitron backers in our progress and turn them into happy customers that will drive our success.</p>
-<a href="http://techcrunch.com/2012/10/07/the-story-of-lockitron-crowdfunding-without-kickstarter/#gallery-669220-1-slideshow">Click to view slideshow.</a>
+<a href="http://techcrunch.com/2012/10/07/the-story-of-lockitron-crowdfunding-without-kickstarter/#gallery-669220-2-slideshow">Click to view slideshow.</a>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/Zm9aZ3YRB14/">here</a>.
