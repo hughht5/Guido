@@ -21,5 +21,5 @@
 <p>Let&#8217;s hope for France&#8217;s sake they make the right decisions.</p>
 <p>In the meantime, we leave you with the traditional French video explaining The Pigeons (which may well remind you of your old high school French lessons).</p>
 <p>Vive La France!</p>
-<span class='embed-youtube' style='text-align:center; display: block;'><iframe class='youtube-player' type='text/html' width='640' height='390' src='http://www.youtube.com/embed/OytDLo0tvY4?version=3&#038;rel=1&#038;fs=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' frameborder='0'></iframe></span>
+<span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/10/07/how-frances-government-screwed-its-entrepreneurs-so-hard-they-became-pigeons/"></a></span>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/SB-_jGffXZs/">here</a>.
