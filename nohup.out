@@ -84597,3 +84597,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Hey-Girl:-Meet-Juniper,-The-Monthly-Subscription-Of-Must-Haves-For-That-Time-Of-The-Month Hey Girl: Meet Juniper, The Monthly Subscription Of Must-Haves For That Time Of The Month
+Git - Stdout: [master acc114c] adding new article
+ 4 files changed, 45 insertions(+), 2 deletions(-)
+ create mode 100644 articles/1349672405000_667739.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   6d60f94..acc114c  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
