@@ -91802,3 +91802,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Alphabird-Acquires-Australian-Startup-Ventures-in-Digital-Media-To-Expand-Internationally Alphabird Acquires Australian Startup Ventures in Digital Media To Expand Internationally
+Git - Stdout: [master c9a7878] adding new article
+ 2 files changed, 44 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349701219000_669450.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   578bd53..c9a7878  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
