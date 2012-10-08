@@ -1,0 +1,9 @@
+{
+"title" : "Keen On…. Hans Vestberg: How Ericsson Runs The Network",
+"date" : "Mon, 08 Oct 2012 10:57:26 +0000",
+"author" : "Andrew Keen"
+}
+
+			<script type="text/javascript" src="http://pshared.5min.com/Scripts/PlayerSeed.js?sid=577&amp;width=640&amp;height=450&amp;colorPallet=%230A9600&amp;hasCompanion=false&amp;relatedMode=2&amp;videoControlDisplayColor=%23000000&amp;playList=517493720&amp;shuffle=0&amp;videoGroupID=133503&amp;autoStart=false&amp;playerActions=16407"></script>
+<p>Hands up if you know what <a target="_blank" href="http://www.ericsson.com/">Ericsson</a> does? Yes, we all know about that Sony-Ericsoon smartphone <a href="http://techcrunch.com/2012/01/12/hands-on-with-the-sony-ericsson-xperia-s-from-ces/">thingamajig</a>. But as Hans Vestberg, Ericsson&#8217;s CEO and President told me, Ericsson can claim, as much as any other company, to actually run the network. 40% of all the world&#8217;s digital infrastructure is provided by Ericsson and 50% of the world&#8217;s smartphone traffic goes through Ericsson, Vestberg explained to me when we met at the <a target="_blank" href="http://sime.nu/event/london/">SIME</a> conference in London. And you&#8217;ve ain&#8217;t seen nothing yet, Vestberg insists. By 2017, there will be 15 times more data traveling on the network and there will be 3 times are many</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/Drff5ikTJvU/">here</a>.
