@@ -96402,3 +96402,46 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Could not commit and push new articles: Error: Command failed: fatal: Unable to create '/data/repositories/0/nw/07/c8/99/3042983/5765556.git/refs/heads/master.lock': File exists.
+
+If no other git process is currently running, this probably means a
+git process crashed in this repository earlier. Make sure no other git
+process is running and remove the file manually to continue.
+fatal: The remote end hung up unexpectedly
+fatal: The remote end hung up unexpectedly
+
+Git - Stdout: [master 550007f] adding new article
+ 5 files changed, 38 insertions(+), 6 deletions(-)
+
+Git - Stderr: fatal: Unable to create '/data/repositories/0/nw/07/c8/99/3042983/5765556.git/refs/heads/master.lock': File exists.
+
+If no other git process is currently running, this probably means a
+git process crashed in this repository earlier. Make sure no other git
+process is running and remove the file manually to continue.
+fatal: The remote end hung up unexpectedly
+fatal: The remote end hung up unexpectedly
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
