@@ -95612,3 +95612,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Keen-On%E2%80%A6-Hans-Vestberg:-How-Ericsson-Enables-The-Internet-%5BTCTV%5D Keen On… Hans Vestberg: How Ericsson Enables The Internet [TCTV]
+Git - Stdout: [master 141210a] adding new article
+ 3 files changed, 41 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349716254000_669506.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   19fe23f..141210a  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
