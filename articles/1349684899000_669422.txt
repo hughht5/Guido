@@ -1,5 +1,5 @@
 {
-"title" : "Google Continues YouTube Original Channels Push: Expands In Europe, Adds 60+ New Channels",
+"title" : "Google Continues YouTube Original Channels Push: Expands In Europe, Adds 60+ Channels",
 "date" : "Mon, 08 Oct 2012 08:28:19 +0000",
 "author" : "Natasha Lomas"
 }
@@ -11,5 +11,4 @@
 <p>According to the YouTube blog, the original channels drive has gathered significant momentum. Kyncl notes that the top 25 original channels are now averaging more than a million views per week, while the number of people subscribing to original channels has doubled year on year.</p>
 <p>Another stat flagged up in the blog post is that 800 million YouTube users are now watching four billion hours of original channels content every month, up from three billion hours earlier this year.</p>
 <p>Further evidence of accelerated interest in YouTube&#8217;s original channels is that partners are reaching the 100,000 subscriber mark five times faster than they were two years ago, according to Kyncl.</p>
-<p>&nbsp;</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/PrCF7MZ12Yk/">here</a>.
