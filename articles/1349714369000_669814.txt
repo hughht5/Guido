@@ -12,6 +12,5 @@
 <p>We reached out to Skype for additional information on the worm&#8217;s status first thing this morning, but have yet to hear back. Likely, the response, when and if received, will be something along the lines of the worm not being widespread, or affecting a small number of users, as is usually the case with official statements.</p>
 <p><strong>Update, 2 PM ET</strong>: Skype has responded with the following statement:</p>
 <p><em>Skype takes the user experience very seriously, particularly when it comes to security. We are aware of this malicious activity and are working quickly to mitigate its impact. We strongly recommend upgrading to the newest Skype version and applying updated security features on your computer. Additionally, following links – even when from your contacts – that look strange or are unexpected is not advisable.</em></p>
-<p><strong>Update, 3:30 PM ET</strong>: Some more exact figures: Trend Micro is now seeing upwards of 400 detections in less than 12 hours, across every continent with a relatively even spread. This figure is from detections among those using its products.</p>
 <p><em>Image credit: <a target="_blank" href="http://nakedsecurity.sophos.com/2012/10/08/skype-worm-spreads/">Sophos</a></em></p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/aV3KwhdqzFI/">here</a>.
