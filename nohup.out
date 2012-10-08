@@ -95062,3 +95062,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/While-The-California-PUC-Cracks-Down-On-Ride-Sharing,-Sidecar-And-Lyft-Commit-To-Staying-On-The-Road While The California PUC Cracks Down On Ride-Sharing, Sidecar And Lyft Commit To Staying On The Road
+Git - Stdout: [master 6f2e007] adding new article
+ 2 files changed, 56 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349701240000_669352.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   66e69e7..6f2e007  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
