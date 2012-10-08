@@ -1,0 +1,11 @@
+{
+"title" : "Estonian Accelerator Startup Wise Guys Secures €1M Deal For Alumni Teams",
+"date" : "Mon, 08 Oct 2012 08:49:25 +0000",
+"author" : "Mike Butcher"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/swg-smartcap.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="swg-smartcap" title="swg-smartcap" style="float: left; margin: 0 10px 7px 0;" /><p>Tallinn-based tech accelerator <a target="_blank" href="http://startupwiseguys.com">Startup Wise Guys</a> &#8211; yes, really &#8211; has struck a useful deal for the alumni companies that pass through its programme. It&#8217;s secured a deal with a venture investor <a target="_blank" href="http://smartcap.ee">SmartCap</a>, an Estonian based VC,  where it will commit €1 million into SWG alumni companies that have a local presence. SmartCap invests along with independent co-investors  on a 50-50% basis and often takes a role of the lead investor.</p>
+<p>Wise Guys Lead Investor Herty Tammo says the news comes just before they start their second program. </p>
+<p>Twice a year Startup Wise Guys accepts up to 10 teams to participate in a 12-week intensive development program. It&#8217;s backed by 15 angel investors together with the Estonian Development Fund and takes teams from anywhere in the world. They finish with an investor day in Tallinn and London and trips to Silicon Valley. </p>
+<p>They started their first round this spring with 240 applications, and now have around 80 mentors and a network shared between Springboard London and Ignite100. The common connection here appears to be Jon Bradford, the always-on-a-plane lead guy from Springboard.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/oXbHOi0EGrk/">here</a>.
