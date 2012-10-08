@@ -1,5 +1,5 @@
 {
-"title" : "“Ransomware” Worm Now Spreading On Skype",
+"title" : "“Ransomware” Worm Now Spreading On Skype [Update: Skype Advises Users Upgrade Their Software]",
 "date" : "Mon, 08 Oct 2012 16:39:29 +0000",
 "author" : "Sarah Perez"
 }
@@ -10,5 +10,7 @@
 <p>The worm&#8217;s payload is rather vicious - after compromising the affected machine, it joins the machine to a botnet and locks users out of their computer. While in the past, Dorkbot went after user credentials, this new attack uses what&#8217;s known as &#8220;ransomware.&#8221; Users are informed that their files have been encrypted, and are warned they&#8217;ll be deleted if they don&#8217;t pay $200 within 24 hours. Sophos&#8217; Graham Cluley describes this as being like &#8220;kidnappers shooting hostages one by one, if their demands aren&#8217;t met&#8230;it&#8217;s really creepy, unpleasant behavior &#8211; and sadly becoming more common,&#8221; he says.</p>
 <p>As always, both firms remind users (for like the millionth time) not to click on unexpected links. Unfortunately, those who need to hear that message aren&#8217;t generally reading tech blogs. They&#8217;re <a target="_blank" href="http://www.restartfund.com/">reading Yahoo Answers</a>&#8230;<em>sigh</em>.</p>
 <p>We reached out to Skype for additional information on the worm&#8217;s status first thing this morning, but have yet to hear back. Likely, the response, when and if received, will be something along the lines of the worm not being widespread, or affecting a small number of users, as is usually the case with official statements.</p>
+<p><strong>Update, 2 PM ET</strong>: Skype has responded with the following statement:</p>
+<p><em>Skype takes the user experience very seriously, particularly when it comes to security. We are aware of this malicious activity and are working quickly to mitigate its impact. We strongly recommend upgrading to the newest Skype version and applying updated security features on your computer. Additionally, following links – even when from your contacts – that look strange or are unexpected is not advisable.</em></p>
 <p><em>Image credit: <a target="_blank" href="http://nakedsecurity.sophos.com/2012/10/08/skype-worm-spreads/">Sophos</a></em></p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/aV3KwhdqzFI/">here</a>.
