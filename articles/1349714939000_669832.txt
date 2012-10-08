@@ -1,0 +1,13 @@
+{
+"title" : "T-Mobile Will Launch LG’s Ice Cream Sandwich-Powered Optimus L9 “This Fall”",
+"date" : "Mon, 08 Oct 2012 16:48:59 +0000",
+"author" : "Chris Velazco"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/optimusl9.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="optimusl9" title="optimusl9" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/10/optimusl9.jpeg" rel="lightbox[669832]"></a></p>
+<p>AT&amp;T and Sprint have already laid claim to LG&#8217;s flagship Optimus G handset, but what of the rest of the Big 4 national carriers? Verizon has been keeping awfully quiet on the subject &#8212; maybe because it&#8217;s still trying to push LG&#8217;s curious Intuition phablet &#8212; and for now it seems T-Mobile is making do with another, less illustrious Korean handset.</p>
+<p>The carrier has just announced that it will launch the LG Optimus L9, but like nearly every other phone announcement made in the past few weeks, there&#8217;s nary a hint at pricing to be found. Even its release date is shrouded in secrecy &#8212; all T-Mobile will say is that it&#8217;s set to launch &#8220;later this fall&#8221;.</p>
+<p>Even though T-Mobile and LG are clearly keeping key details hush-hush at this point, they couldn&#8217;t completely keep the news <a target="_blank" href="https://twitter.com/evleaks/status/253560266715983872">under wraps</a>.</p>
+<p>Here&#8217;s the skinny on the Ice Cream Sandwich-powered L9: it packs a 4.5-inch, Gorilla Glass 2-coated display running at 960&#215;540, and a dual-core 1GHz processor of unknown make. Meanwhile, a 5-megapixel camera can be found on the 9.1mm-thick device&#8217;s rear end, while the device&#8217;s 2,150mAh battery should keep things ticking along for quite some time. Alright, fine, it&#8217;s not the most exciting spec sheet you&#8217;re going to see over these next few months, and the L9 announcement may highlight an even bigger issue for T-Mobile &#8212; what&#8217;s going to be their big holiday seller?</p>
+<p>For a while there it seemed like the natural heavy-hitter would be HTC&#8217;s One X+, which appeared on a T-Mobile document under a pseudonym. As it turns out though, the One X+ is an AT&amp;T exclusive, and the perhaps the only top-tier device that the magenta-clad carrier is expected to carry (the Galaxy Note II) is slated to launch on most other carriers as well.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/V2bv8a3IQ8A/">here</a>.
