@@ -108376,3 +108376,36 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Git - Stdout: [master ef9a6f1] adding new article
+ 2 files changed, 35 insertions(+), 2 deletions(-)
+
+Git - Stderr: remote: Unexpected system error after push was received.[K
+remote: These changes may not be reflected on github.com![K
+remote: Your unique error code: a03dcf323690d84e6a053d68e92a22f7[K
+To git@github.com:hughht5/Guido.git
+   5c8012e..ef9a6f1  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
