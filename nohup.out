@@ -104524,3 +104524,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Calxeda-Raises-$55-Million-For-ARM-Based,-Low-Powered-Server-Chips Calxeda Raises $55 Million For ARM-Based, Low Powered Server Chips
+Git - Stdout: [master 9ecc7a0] adding new article
+ 4 files changed, 47 insertions(+), 3 deletions(-)
+ create mode 100644 articles/1349751172000_670250.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   32b2bef..9ecc7a0  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
