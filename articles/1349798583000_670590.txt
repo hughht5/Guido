@@ -1,5 +1,5 @@
 {
-"title" : "Hulu, Viacom Expand Content Partnership; Hulu Plus Gets SpongeBob (And Nickelodeon Friends)",
+"title" : "Hulu, Viacom Expand Content Partnership; SpongeBob (And Nickelodeon Friends) Join Hulu Plus",
 "date" : "Tue, 09 Oct 2012 16:03:03 +0000",
 "author" : "Natasha Lomas"
 }
