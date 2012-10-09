@@ -1,0 +1,18 @@
+{
+"title" : "Jack Dorsey: I’m At Twitter On Tuesday Afternoons, And All My Reports Moved Back To Costolo In January",
+"date" : "Tue, 09 Oct 2012 15:04:58 +0000",
+"author" : "Ingrid Lunden"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/05/jack-dorsey-square.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="jack-dorsey" title="jack-dorsey" style="float: left; margin: 0 10px 7px 0;" /><p>Jack Dorsey has <a target="_blank" href="http://jacks.tumblr.com/post/33231935532/notes-on-my-work-at-twitter">spoken out to comment on the profile</a> of Twitter CEO Dick Costolo, out this weekend in the <a target="_blank" href="http://www.nytimes.com/2012/10/07/technology/dick-costolo-of-twitter-an-improv-master-writing-its-script.html?_r=2&amp;pagewanted=all&amp;">New York Times</a>, which painted a slightly less than flattering picture of his role as chairman at the company.</p>
+<p>On  his <a target="_blank" href="http://jacks.tumblr.com/post/33231935532/notes-on-my-work-at-twitter">Tumblr page</a>, Dorsey says that the operational role Costolo had asked him to take back in 2011, covering product, design, and brand, was only on an interim basis, and that interim status changed in January of 2012. </p>
+<p>At that point, all of the reports went back to Costolo, while Dorsey continued to focus on brand and logo and to work with the leadership team. </p>
+<p>He also notes that he is now turning back to the schedule he held back before he returned in the interim operational role &#8212; that is, he is coming in to Twitter now on Tuesday afternoons.</p>
+<p>The rest of the time he is spending dedicated to Square, the mobile payments company where he is the CEO.</p>
+<p>&#8220;We haven’t talked about this publicly because it’s not what people using Twitter every day care about,&#8221; he writes. (Except that actually it does seem to be something people care about. This is Twitter, superstar Jack Dorsey and Square, after all.)</p>
+<p>The full note is embedded below</p>
+<blockquote><p>There was a <a target="_blank" href="http://www.nytimes.com/2012/10/07/technology/dick-costolo-of-twitter-an-improv-master-writing-its-script.html?_r=2&amp;pagewanted=all&amp;">great profile</a> in the New York Times about Twitter’s CEO, Dick Costolo, which mentioned my work at the company. It’s not a common arrangement, so I’d like to clarify a few points.</p>
+<p>In Spring of 2011, Dick asked me to take an operational role overseeing product, design, and brand. Our shared goal was to get those organizations back under him as soon as possible, simply because it was the right thing to do for the company. We moved all of my reports back under him in January of this year after leadership was firmly in place. This allowed me to focus on refining our brand and logo, to work more with Dick and the leadership team on our direction forward, and ultimately return the majority of my time to Square, where I’m CEO. I’m back to going to Twitter on Tuesday afternoons, something I started before taking the interim operational role.</p>
+<p>We haven’t talked about this publicly because it’s not what people using Twitter every day care about.</p>
+<p>I’m fortunate in life to be a part of two foundational and mission-driven organizations, and I’m always going fight like hell to make them thrive. And they are! Now back to our work.</p></blockquote>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/09/jack-dorsey-im-at-twitter-on-tuesday-afternoons-and-all-my-reports-moved-back-to-costolo-in-january/">here</a>.
