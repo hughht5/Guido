@@ -1,5 +1,5 @@
 {
-"title" : "Freespee Raises A Further €3.3 Million For Its Mobile Click-To-Call Advertising And Analytics Service",
+"title" : "Freespee Raises Further €3.3 Million For Its Mobile Click-To-Call Advertising And Analytics Service",
 "date" : "Tue, 09 Oct 2012 08:54:06 +0000",
 "author" : "Steve O'Hear"
 }
