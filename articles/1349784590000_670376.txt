@@ -1,0 +1,11 @@
+{
+"title" : "Lastminute.com Expands Real-Time U.K. Restaurant Booking With Toptable Tie-Up",
+"date" : "Tue, 09 Oct 2012 12:09:50 +0000",
+"author" : "Natasha Lomas"
+}
+
+<img width="100" height="55" src="http://tctechcrunch2011.files.wordpress.com/2012/10/logo-toptable-reg.png?w=100&amp;h=55&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="logo-toptable-reg" title="logo-toptable-reg" style="float: left; margin: 0 10px 7px 0;" /><p>Hot on the heels of inking <a href="http://techcrunch.com/2012/09/03/myvouchercodes-adds-restaurant-booking-functionality-to-its-mobile-app-powered-by-toptable/">a partnership with MyVoucherCodes</a>, <a target="_blank" href="http://www.crunchbase.com/company/opentable">OpenTable</a>-owned restaurant-booking service <a target="_blank" href="http://www.toptable.co.uk/">Toptable</a> has snagged another big win: it&#8217;s been named as the exclusive restaurant reservation partner for <a target="_blank" href="http://www.crunchbase.com/company/lastminute">lastminute.com</a> in the U.K.</p>
+<p>The Toptable-powered booking system went live on lastminute.com at the start of this month &#8212; providing users with real-time restaurant booking across more than 3,500 restaurants in the U.K. The booking system is fully integrated with Lastminute&#8217;s restaurant offers so users can both book a table and gain any site-specific discounts being offered.</p>
+<p>Toptable&#8217;s scale appears to have been a key factor in gaining the business. Cumulatively, toptable and OpenTable have seated more than 20 million diners in the UK, according to the company.</p>
+<p>&#8220;The restaurant category is a key product line for <a target="_blank" href="http://lastminute.com/">lastminute.com</a>,&#8221; noted Tim Bishop, <a target="_blank" href="http://lastminute.com/">lastminute.com</a> Lifestyle Director, in a statement. &#8220;The breadth of restaurants served by toptable, combined with their best-in-class booking platform, made it a natural partner for our site.&#8221;</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/09/lastminute-com-expands-real-time-u-k-restaurant-booking-with-toptable-tie-up/">here</a>.
