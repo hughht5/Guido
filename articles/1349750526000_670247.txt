@@ -12,4 +12,4 @@
 <p>This would have allowed users to view home-repair histories when searching for new houses &#8212; something they could view during the search before buying to get a sense of whether or not homes were valued fairly. This could have brought some much-needed transparency to the home-buying process, but it seems that it may have been too complex and thorny for HouseFix to maneuver through the inherent legal issues and real estate industry friction on its own.</p>
 <p>We&#8217;ll update when we learn more. For now, HouseFix&#8217;s goodbye message is included below in full.</p>
 <p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-08-at-7-38-08-pm.png" rel="lightbox[670247]"></a></p>
-<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/iZJXhGXD7Cg/">here</a>.
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/08/housefix-the-carfax-for-homes-closes-up-shop/">here</a>.

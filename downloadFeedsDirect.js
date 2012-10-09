@@ -30,7 +30,7 @@ function downloadFeeds(first){
 	var options = {
 	  host: 'techcrunch.com',
 	  port: 80,
-	  path: '/feed/rss.xml',
+	  path: '/feed/',
 	  method: 'GET'
 	};
 
@@ -55,7 +55,7 @@ function downloadFeeds(first){
 
 //parse xml, convert it to JSON, and extract blog feeds.
 function parse(xml){
-//	console.log(xml);
+	console.log(xml);
 	parser.parseString(xml, function (err, result) {
 		var posts = [];
 	//console.log(result);

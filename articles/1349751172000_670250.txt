@@ -10,4 +10,4 @@
 <p>HP is working with Calxeda to develop the new micro-server technology. Last week, HP said it expects ARM-based servers to represent 15 percent of the server market within the next two years. That is more wishful thinking than anything else. There are still few engineers with deep enough knowledge to build the right infrastructure for this new generation of chip sets.</p>
 <p>But according to <a target="_blank" href="http://www.datacenterknowledge.com/archives/2012/10/02/calxeda-well-have-production-servers-by-year-end/">Data Center Knowledge</a>, Calxeda executives say they will have a production server ready by the end of the year.</p>
 <p>Calxeda is not alone in the market. Applied Micro, Cavium, Marvell, Nvidia, and Samsung are all aggressively pursuing the opportunity to take Intel market share with new low-powered servers.</p>
-<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/Ai3--eTEVlw/">here</a>.
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/08/calxeda-raises-55-million-for-arm-based-low-powered-server-chips/">here</a>.

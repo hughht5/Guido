@@ -15,4 +15,4 @@
 <p>But then what about Box hiring Writely Founder Sam Schillace as the company&#8217;s a vice president of engineering? As Lepofsky tweeted, Google acquired Writely and then made it the foundation for Google Docs.</p>
 <p>So the question becomes how Box will compete with the likes of Google, which earlier this year launched Google Drive. The service allows for syncing documents between your desktop and Google&#8217;s cloud storage and collaboration environment.</p>
 <p>In summary, though, Box is about building out features and working in third-party ecosystems, which is what it now does with Jive. But it&#8217;s also just the first day of the show, so we will have to see what else Box has to say over the next three days.</p>
-<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/ThKja2oUKHU/">here</a>.
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/08/whats-to-come-as-jives-tony-zingale-appears-on-stage-at-boxworks-with-box-ceo-aaron-levie/">here</a>.

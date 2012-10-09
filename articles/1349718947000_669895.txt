@@ -11,4 +11,4 @@
 <p>You can read the full lawsuit (via the <a target="_blank" href="http://www.cauce.org/2012/10/googles-gmail-sued-over-privacy-issues-this-time-in-canada.html">Coalition Against Unsolicited Commercial Email</a>), below:</p>
 <iframe class="scribd_iframe_embed" src="http://www.scribd.com/embeds/109372535/content?start_page=1&view_mode=&access_key=key-29f4ww5s12fvsf9mpwk1" data-auto-height="true" scrolling="no" id="scribd_109372535" width="100%" height="500" frameborder="0"></iframe>
 <div style="font-size:10px;text-align:center;width:100%"><a href="http://www.scribd.com/doc/109372535">View this document on Scribd</a></div>
-<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/Pxgvq4rro5A/">here</a>.
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/08/google-email-privacy-lawsuit-canada/">here</a>.
