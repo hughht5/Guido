@@ -1859,3 +1859,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Social-Beauty-Startup-Preen.me-Raises-$800K-From-Genesis-&-Horizons-Ventures Social Beauty Startup Preen.me Raises $800K From Genesis & Horizons Ventures
+Git - Stdout: [master 808af5c] adding new article
+ 3 files changed, 47 insertions(+), 1 deletions(-)
+ create mode 100644 articles/1349802018000_669985.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   d0a5d69..808af5c  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
