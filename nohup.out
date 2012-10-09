@@ -125368,3 +125368,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Forrester:-US-Online-Display-Ad-Spend-To-Hit-$12.7B-In-2012,-Rich-Media-+-Video-Leading-The-Charge Forrester: US Online Display Ad Spend To Hit $12.7B In 2012, Rich Media + Video Leading The Charge
+Git - Stdout: [master 800fa91] adding new article
+ 3 files changed, 54 insertions(+), 3 deletions(-)
+ create mode 100644 articles/1349792032000_670460.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   2d7342c..800fa91  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
