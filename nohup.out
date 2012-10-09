@@ -5525,3 +5525,27 @@ Git - Stdout: [master f81ae54] adding new article
 Git - Stderr: To git@github.com:hughht5/Guido.git
    99af336..f81ae54  master -> master
 
+Updating TechCrunch main feed.
+STATUS: 200
+Found 20 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
