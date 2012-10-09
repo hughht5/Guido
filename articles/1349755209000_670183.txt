@@ -1,5 +1,5 @@
 {
-"title" : "PureData – Meet IBM’s New Big Box For Big Data",
+"title" : "Meet PureData, IBM’s New Big Box For Big Data",
 "date" : "Tue, 09 Oct 2012 04:00:09 +0000",
 "author" : "Alex Williams"
 }
