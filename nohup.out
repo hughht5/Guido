@@ -111293,3 +111293,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Samsung-Backed-Pivot3-Is-Now-Powering-Samsung%E2%80%99s-Push-Into-Small-Business-Cloud-Serivces Samsung-Backed Pivot3 Is Now Powering Samsung’s Push Into Small Business Cloud Serivces
+Git - Stdout: [master 60ce8e3] adding new article
+ 2 files changed, 41 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349777933000_670360.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   852ab52..60ce8e3  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
