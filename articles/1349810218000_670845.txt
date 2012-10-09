@@ -1,5 +1,5 @@
 {
-"title" : "Founder Tim Westergren Says Some Musicians Earn Up To $3 Million A Year From Pandora",
+"title" : "Founder Tim Westergren Says Some Musicians Earn Over $2 Million A Year From Pandora",
 "date" : "Tue, 09 Oct 2012 19:16:58 +0000",
 "author" : "Josh Constine"
 }
@@ -7,8 +7,7 @@
 <img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/tim-pandora1.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Tim Pandora" title="Tim Pandora" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.pandora.com/">Pandora</a> founder Tim Westergren denied claims that musicians earn peanuts from streaming services and said lower royalty rates would bolster innovation today at <a target="_blank" href="http://www.sfmusictech.com/">SF MusicTech</a>. &#8220;There are a couple artists making over $2M on Pandora, some artists making over $100K a year&#8221;.</p>
 <p>Westergren said the rumor that artists only make $15 a year from streaming services, noting &#8220;that&#8217;s far, far from the truth.&#8221;</p>
 <p>Pandora will release a blog post of data on artist earnings soon but gave the SF MusicTech Summit crowd a preview, noting &#8220;You&#8217;d be surprised by how many artists are making more than the average [US] household income just from Pandora.&#8221;</p>
-<p>[<strong>Update</strong>: Pandora has<a target="_blank" href="http://blog.pandora.com/pandora/archives/2012/10/pandora-and-art.html"> published this blog post</a> noting that over 2000 artists will earn over $10,000 in the next year from Pandora. Over 800 will earn more $50,000, and artists like Coldplay, Adele, Wiz Khalifa, and Jason Aldean will earn over $1 million each. Finally, extremely popular artists Drake and Lil Wayne are nearing $3 million annual rate each.]</p>
-<p>He said that Pandora accounts for 6.53% of US radio listening, but &#8220;imagine if it was 30%, 40%, 50%? We&#8217;re talking about making a living.&#8221;</p>
+<p>He said that Pandora accounts for 6% of US radio listening, but &#8220;imagine if it was 30%, 40%, 50%? We&#8217;re talking about making a living.&#8221;</p>
 <p>I asked Westergren whether Spotify&#8217;s free radio service has had any negative impact on Pandora and he bluntly responded &#8220;We haven&#8217;t seen any impact on growth from anything launched in the last 5 years.&#8221;</p>
 <p>Westergren followed with a clear explanation of Spotify&#8217;s economic troubles. PrivcCo stats <a target="_blank" href="http://thenextweb.com/insider/2012/10/05/the-royalty-squeeze-spotify-booked-a-59m-net-loss-in-2011-on-244m-in-revenue/">reported by The Next Web</a> and confirmed by Spotify indicate that while revenue grew 151% to $244.5 million from 2010 to 2011, its net losses went up 60% to roughly $59 million.</p>
 <p style="text-align:left;">&#8220;Anyone who plays in the radio space has to reckon with the same thing we reckon with, and you know, it&#8217;s tough. To become an effective seller of advertising you have to be large. The &#8216;getting to large&#8217; phase is really expensive, because every additional listening hour comes with a royalty payment but you&#8217;re not that good at advertising so you burn a lot of money. It&#8217;s hard to get over the hump.&#8221;<em></em></p>
