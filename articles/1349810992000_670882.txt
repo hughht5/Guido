@@ -1,5 +1,5 @@
 {
-"title" : "If Twitter Gets Into The Video-Hosting Game, It Could Be A Wonderful, And Horrible, Thing",
+"title" : "If Twitter Gets Into The Video Hosting Game, It Could Be A Wonderful, And Horrible, Thing",
 "date" : "Tue, 09 Oct 2012 19:29:52 +0000",
 "author" : "Drew Olanoff"
 }
