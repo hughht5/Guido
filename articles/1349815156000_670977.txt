@@ -1,0 +1,11 @@
+{
+"title" : "Reed Hastings Won’t Be Returning To Microsoft’s Board, Will Skip Re-Election",
+"date" : "Tue, 09 Oct 2012 20:39:16 +0000",
+"author" : "Drew Olanoff"
+}
+
+<p>Today, Microsoft announced a shakeup on the board side of the company by announcing that Reed Hastings will not be seeking re-election.</p>
+<p>Here&#8217;s what Steve Ballmer, Microsoft CEO, had to say about the departure:</p>
+<blockquote><p>Reed has been a terrific board member, and his insights and experience have really helped guide us through a critical period of transformation for both Microsoft and the industry.</p></blockquote>
+<p>This is developing.</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/09/reed-hastings-wont-be-returning-to-microsofts-board-will-skip-re-election/">here</a>.
