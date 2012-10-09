@@ -1,0 +1,16 @@
+{
+"title" : "Web Clipping Service Clipboard Targets Evernote: Adds Note Creation, File Uploads",
+"date" : "Tue, 09 Oct 2012 16:59:32 +0000",
+"author" : "Sarah Perez"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/02/clipboard.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="clipboard" title="clipboard" style="float: left; margin: 0 10px 7px 0;" /><p>Web-clipping service <a target="_blank" href="https://www.clipboard.com/">Clipboard</a>, which <a href="http://techcrunch.com/2012/09/11/web-clipping-service-clipboard-arrives-on-iphone-adds-shared-boards-for-groups/">recently underwent a major redesign</a>, is tweaking things yet again. While previously, the company focused only on serving as an outlet where users could clip web content, organize it, and share it with others, today&#8217;s update now allows users to import local content, specifically images and text files, and create rich text notes online.</p>
+<p>Seemingly minor additions, these changes see Clipboard attempting to move even closer to becoming an Evernote competitor, a similar service which also allows both web clipping and content creation. Historically, Clipboard has been something of an iterative update on what Evernote (or OneNote, SpringPad, etc.) offer today. That is, it&#8217;s been trying to find a sweet spot somewhere in between being a public image-sharing platform like Pinterest (by also adopting a image-heavy layout), and offering more utilitarian capabilities like those provided by other online bookmarking/note-taking tools.</p>
+<p>On Clipboard, content is laid out in an attractive, easy-to-browse fashion, but it also has the benefit of remaining private.</p>
+<p><a href="http://techcrunch.com/2012/10/09/web-clipping-service-clipboard-targets-evernote-adds-note-creation-file-uploads/draganddrop/" rel="attachment wp-att-670726"></a></p>
+<p>With the update, Clipboard users can now drag and drop image or text files from their computer to Clipboard, they can create text notes within the service, and they can edit their clips in bulk (for tagging, privacy setting adjustments, etc.).</p>
+<p><a href="http://techcrunch.com/2012/10/09/web-clipping-service-clipboard-targets-evernote-adds-note-creation-file-uploads/note-11/" rel="attachment wp-att-670727"></a></p>
+<p>Clipboard&#8217;s clipper user interface has also been updated with a new look and feel. (See below screenshot).</p>
+<p><a href="http://techcrunch.com/2012/10/09/web-clipping-service-clipboard-targets-evernote-adds-note-creation-file-uploads/new-clipper-interaction/" rel="attachment wp-att-670725"></a></p>
+<p>The company says that its introduction of the note-taking tool isn&#8217;t meant to be a word processor replacement, however, and its file upload feature shouldn&#8217;t be confused with online backup. Instead, they are just meant to augment Clipboard&#8217;s current capabilities in making more complete and personal clipboards. The new features are available now on Clipboard.com.</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/09/web-clipping-service-clipboard-targets-evernote-adds-note-creation-file-uploads/">here</a>.
