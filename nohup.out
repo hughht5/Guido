@@ -128474,3 +128474,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Jack-Dorsey:-I%E2%80%99m-At-Twitter-On-Tuesday-Afternoons,-And-All-My-Reports-Moved-Back-To-Costolo-In-January Jack Dorsey: I’m At Twitter On Tuesday Afternoons, And All My Reports Moved Back To Costolo In January
+Git - Stdout: [master 7ca3745] adding new article
+ 4 files changed, 53 insertions(+), 3 deletions(-)
+ create mode 100644 articles/1349795098000_670570.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   003050d..7ca3745  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
