@@ -2435,3 +2435,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Aaron-Levie:-Box-Now-Has-140K-Active-Businesses,-14M-Users,-92%25-Of-Fortune-500 Aaron Levie: Box Now Has 140K Active Businesses, 14M Users, 92% Of Fortune 500
+Git - Stdout: [master 2acf505] adding new article
+ 5 files changed, 45 insertions(+), 3 deletions(-)
+ create mode 100644 articles/1349802646000_670709.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   b3d9a8d..2acf505  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
