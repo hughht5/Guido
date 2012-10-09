@@ -127474,3 +127474,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/November-Is-Free-Wi-Fi-Month-In-New-York-And-San-Francisco-Courtesy-Of-Windows-8 November Is Free Wi-Fi Month In New York And San Francisco Courtesy Of Windows 8
+Git - Stdout: [master db6703e] adding new article
+ 3 files changed, 44 insertions(+), 1 deletions(-)
+ create mode 100644 articles/1349792993000_670533.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   2bbc80c..db6703e  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
