@@ -125790,3 +125790,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/RSVP-Now-For-The-TC-Toronto-Meetup-On-November-5 RSVP Now For The TC Toronto Meetup On November 5
+Git - Stdout: [master 8e95f2b] adding new article
+ 2 files changed, 47 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349792443000_669645.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   e14b458..8e95f2b  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
