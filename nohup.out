@@ -128230,3 +128230,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Sprout-Social-Adds-New-Team-And-Workflow-Features-To-Social-Media-Management-Platform Sprout Social Adds New Team And Workflow Features To Social Media Management Platform
+Git - Stdout: [master ec35b5d] adding new article
+ 2 files changed, 41 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349794551000_670499.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   9b64bf2..ec35b5d  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
