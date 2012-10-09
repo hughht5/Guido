@@ -121126,3 +121126,37 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Lithium-Acquires-Social-CRM-Application-For-Call-Centers,-Social-Dynamx Lithium Acquires Social CRM Application For Call Centers, Social Dynamx
+tweeted : http://www.techcrunchlite.com/2012/10/Lithium-Acquires-Social-CRM-Application-For-Call-Centers,-Social-Dynamx Lithium Acquires Social CRM Application For Call Centers, Social Dynamx
+Git - Stdout: [master 7af85b0] adding new article
+ 3 files changed, 60 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349787615000_670180.txt
+ create mode 100644 articles/1349787631000_670203.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   5115b5c..7af85b0  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
