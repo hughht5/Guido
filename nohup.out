@@ -124610,3 +124610,39 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/CreativeLIVE-Lands-$7.5M-From-Greylock-For-Its-Free,-Online-Classroom-For-Creative-Entrepreneurs CreativeLIVE Lands $7.5M From Greylock For Its Free, Online Classroom For Creative Entrepreneurs
+tweeted : http://www.techcrunchlite.com/2012/10/CreativeLIVE-Lands-$7.5M-From-Greylock-For-Its-Free,-Online-Classroom-For-Creative-Entrepreneurs CreativeLIVE Lands $7.5M From Greylock For Its Free, Online Classroom For Creative Entrepreneurs
+tweeted : http://www.techcrunchlite.com/2012/10/CreativeLIVE-Lands-$7.5M-From-Greylock-For-Its-Free,-Online-Classroom-For-Creative-Entrepreneurs CreativeLIVE Lands $7.5M From Greylock For Its Free, Online Classroom For Creative Entrepreneurs
+Git - Stdout: [master 3750761] adding new article
+ 6 files changed, 92 insertions(+), 2 deletions(-)
+ create mode 100644 articles/1349791213000_670276.txt
+ create mode 100644 articles/1349791216000_670145.txt
+ create mode 100644 articles/1349791223000_670414.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   300621f..3750761  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
