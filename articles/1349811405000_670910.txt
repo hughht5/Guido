@@ -1,12 +1,13 @@
 {
-"title" : "Verizon Wireless To Hit 400 LTE Markets Ahead Of Schedule, Says CTO Nicola Palmer",
+"title" : "Verizon Wireless To Hit 400 LTE Market Goal Ahead Of Schedule, Says CTO Nicola Palmer",
 "date" : "Tue, 09 Oct 2012 19:36:45 +0000",
 "author" : "Chris Velazco"
 }
 
 <img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/nicola.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="nicola" title="nicola" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/10/nicola.jpg" rel="lightbox[670910]"></a></p>
-<p>It&#8217;s been less than two years since Verizon first lit up its 4G LTE network, and there&#8217;s little question that its been growing at a quick clip (especially when compared to its rivals). According to a statement delivered by Verizon Wireless CTO Nicola Palmer at MobileCON in San Diego, the carrier will light up its 400th LTE market &#8212; Marquette, Michigan &#8212; on October 18, well ahead of the &#8220;end of the year&#8221; timeframe the carrier previously forecasted.</p>
-<p>Of course, the network&#8217;s speedy growth wasn&#8217;t without its share of hiccups &#8212; VZW customers may recall that a string of nationwide LTE outages toward the end of last year made holiday gadget buying and network usage problematic. </p>
-<p>Palmer also said that a full 35% of the carrier&#8217;s wireless data traffic was sent over its 4G LTE network, but that should change sooner rather than later. She also mentioned that &#8220;it wouldn&#8217;t be long&#8221; before a majority of that data would be transmitted over LTE.</p>
+<p>It&#8217;s been less than two years since Verizon first lit up its 4G LTE network, and there&#8217;s little question that its been growing at a quick clip. To wit, according to a statement delivered by Verizon Wireless CTO Nicola Palmer at MobileCON in San Diego, the carrier will light up its 400th LTE market (Marquette, Michigan)on October 18, well ahead of the &#8220;end of the year&#8221; timeframe the carrier previously forecasted.</p>
+<p>To put that in perspective, it took Verizon Wireless about eight years to fully flesh out its 3G footprint. Now that Verizon has a stronger grasp on how the process works, the carrier aims to blanket the entirety of its 3G footprint in LTE by the end of 2013.</p>
+<p>Of course, the network&#8217;s speedy growth wasn&#8217;t without its share of hiccups &#8212; VZW customers may recall that a string of nationwide LTE outages toward the end of last year made holiday gadget buying and network usage problematic. Still, those periods of network spottiness didn&#8217;t seem to affect LTE device adoption <em>too</em> severely, seeing as how the carrier now has 11 million LTE users in its subscriber base.</p>
+<p>Palmer also said that a full 35% of the carrier&#8217;s wireless data traffic was sent over its 4G LTE network, but that should change sooner rather than later. She also mentioned that &#8220;it wouldn&#8217;t be long&#8221; before a majority of that data would be transmitted over LTE. To that end, Palmer also pointed to a handful of new LTE markets that would be brought online in the coming weeks that would push the total count to 410 live LTE areas.</p>
 <p><em>Developing&#8230;</em></p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/09/verizon-wireless-to-hit-400-lte-markets-ahead-of-schedule-says-cto-nicola-palmer/">here</a>.
