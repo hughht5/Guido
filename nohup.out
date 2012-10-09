@@ -4304,3 +4304,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/First-Round-Capital-Launches-A-Platform-For-Startups-To-Hack-PR First Round Capital Launches A Platform For Startups To Hack PR
+Git - Stdout: [master 80f48ef] adding new article
+ 3 files changed, 47 insertions(+), 1 deletions(-)
+ create mode 100644 articles/1349804564000_670772.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   f7a5d1e..80f48ef  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
