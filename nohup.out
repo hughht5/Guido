@@ -5502,3 +5502,26 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/New-Study-Shatters-Myth-Of-Tech-Savvy-Liberals-(Again) New Study Shatters Myth Of Tech-Savvy Liberals (Again)
+Could not commit and push new articles: Error: Command failed: error: Ref refs/heads/master is at f81ae5483d03e0df69d65621a982c59dbf6a08f5 but expected 99af336b375da51737aa121a3aebf62802c15220
+remote: error: failed to lock refs/heads/master[K
+To git@github.com:hughht5/Guido.git
+ ! [remote rejected] master -> master (failed to lock)
+error: failed to push some refs to 'git@github.com:hughht5/Guido.git'
+
+Git - Stdout: [master 3420aaa] adding new article
+ 3 files changed, 33 insertions(+), 3 deletions(-)
+
+Git - Stderr: error: Ref refs/heads/master is at f81ae5483d03e0df69d65621a982c59dbf6a08f5 but expected 99af336b375da51737aa121a3aebf62802c15220
+remote: error: failed to lock refs/heads/master[K
+To git@github.com:hughht5/Guido.git
+ ! [remote rejected] master -> master (failed to lock)
+error: failed to push some refs to 'git@github.com:hughht5/Guido.git'
+
+Git - Stdout: [master f81ae54] adding new article
+ 2 files changed, 36 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349806654000_670791.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   99af336..f81ae54  master -> master
+
