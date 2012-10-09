@@ -16,4 +16,6 @@
 <li>Minneapolis: 10/9</li>
 <li>San Jose/San Francisco: late October/early November</li>
 </ul>
+<p>Walmart&#8217;s test is interesting, because it sees the retail giant leveraging its local stores, not distribution centers, as the source for its online orders. Of course, those plans could change in time if the system proved successful.</p>
+<p>The company said that it decided to move to test this service following an a customer survey which asked respondents if they would consider a same-day delivery option if it was available, and over half said they would use the feature monthly or even more frequently. The customers also said that electronics, toys, video games, movies, music, books and groceries would be those that they wanted to order in this way the most. Now Walmart is testing to see if customers&#8217; stated interest equates with true demand.</p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/09/walmart-begins-testing-same-day-delivery-in-select-markets/">here</a>.
