@@ -55,13 +55,8 @@ function downloadFeeds(first){
 
 //parse xml, convert it to JSON, and extract blog feeds.
 function parse(xml){
-	console.log(xml);
 	parser.parseString(xml, function (err, result) {
 		var posts = [];
-	//console.log(result);
-	//console.log(result.rss);
-	console.log(result.rss.channel[0]);	
-
 		//for each post, collect the values and add it to the posts array
 		for (var x=0;x<result.rss.channel[0].item.length;x++){
 			var post = new Object();
