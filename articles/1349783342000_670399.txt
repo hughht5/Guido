@@ -1,5 +1,5 @@
 {
-"title" : "Invites Go Out For Microsoft Windows Phone 8 Event: WP8 To Get ‘Big Reveal’ On October 29",
+"title" : "Invites Go Out For Microsoft’s U.K. Windows Phone 8 Event: WP8 To Get ‘Big Reveal’ On October 29",
 "date" : "Tue, 09 Oct 2012 11:49:02 +0000",
 "author" : "Natasha Lomas"
 }
