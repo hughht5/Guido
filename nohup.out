@@ -2617,3 +2617,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Atlassian-Updates-Bitbucket-And-Stash,-Faces-Important-Turning-Point-In-Emerging-Battle-With-GitHub Atlassian Updates Bitbucket And Stash, Faces Important Turning Point In Emerging Battle With GitHub
+Git - Stdout: [master 57f2ca0] adding new article
+ 2 files changed, 48 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349802858000_662460.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   5ea29f3..57f2ca0  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
