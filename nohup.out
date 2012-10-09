@@ -11948,3 +11948,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Box-To-Add-%E2%80%9CLike%E2%80%9D-Feature,-Creates-A-Hybrid-Of-Facebook-And-Google-Docs Box To Add “Like” Feature, Creates A Hybrid Of Facebook And Google Docs
+Git - Stdout: [master 3d81e54] adding new article
+ 2 files changed, 44 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349814854000_670722.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   bd2a239..3d81e54  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
