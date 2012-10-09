@@ -20869,3 +20869,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Hands-On-With-The-Surprisingly-Solid,-QWERTY-Keyboard-Packing-LG-Mach Hands-On With The Surprisingly Solid, QWERTY Keyboard-Packing LG Mach
+Git - Stdout: [master 6207dbb] adding new article
+ 3 files changed, 46 insertions(+), 1 deletions(-)
+ create mode 100644 articles/1349823756000_671030.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   385af37..6207dbb  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
