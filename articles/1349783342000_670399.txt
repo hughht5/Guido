@@ -1,5 +1,5 @@
 {
-"title" : "Invites Go Out For Microsoft Windows Phone 8 Event: WP8 To Get ‘Big Reveal’ On October 29",
+"title" : "Invites Go Out For Microsoft’s Windows Phone 8 Event",
 "date" : "Tue, 09 Oct 2012 11:49:02 +0000",
 "author" : "Natasha Lomas"
 }
@@ -7,4 +7,5 @@
 <img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-09-at-12-37-51.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-10-09 at 12.37.51" title="Screen Shot 2012-10-09 at 12.37.51" style="float: left; margin: 0 10px 7px 0;" /><p>Invites have just gone out for a Microsoft press event to introduce its new Windows Phone 8 mobile operating system. An end of October unveiling for the next generation of WP had been expected but today the date has been confirmed as October 29 &#8212; or at least that&#8217;s when a London press event will be held.</p>
 <p>Microsoft has previously given strictly limited demos of WP8, keeping its powder dry ahead of the &#8216;big reveal&#8217;. It has also hinted there will be features tying the mobile OS into its desktop OS Windows 8 but not yet given specific details of how exactly that will work.</p>
 <p>More to come&#8230;</p>
+<p>&nbsp;</p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/09/invites-go-out-for-microsofts-windows-phone-8-event/">here</a>.
