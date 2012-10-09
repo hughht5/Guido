@@ -1,5 +1,5 @@
 {
-"title" : "Telefónica Wants To Turn Its Mobile Data Into A Big Data Business, Launches Dynamic Insights Unit",
+"title" : "Telefonica Wants To Turn Its Mobile Data Into A Big Data Business, Launches Dynamic Insights Unit",
 "date" : "Mon, 08 Oct 2012 23:04:27 +0000",
 "author" : "Ingrid Lunden"
 }
@@ -10,6 +10,7 @@
 <p>And in the case of Telefónica specifically, it&#8217;s actually been in the business of commercial big data for a while already.</p>
 <p>When Telefónica&#8217;s UK carrier O2 launched a <a target="_blank" href="http://paidcontent.org/2011/01/26/419-o2-building-free-wifi-network-across-the-uk-whats-the-catch/">free WiFi network</a> in the UK back in January 2011, the carrier noted that it would be using the data amassed from that network in its <a title="O2 Media" target="_blank" href="http://www.o2.co.uk/o2media">O2 Media</a> advertising and marketing services.</p>
 <p>Offering the network for free meant more people would use it, and as I wrote at the time, &#8220;the more people use the network, the more information O2 will be able to build up about their mobile activities, which they will then be able to offer to advertisers to better target their campaigns.&#8221; In that sense, you can think of Dynamic Insights as Telefónica&#8217;s idea of how to turn this concept into a bigger business.</p>
+<p>It also makes sense for Telefonica to look for new revenue streams based on data in its bid to offset declines in areas like voice and data tariffs &#8212; both of which are increasingly commoditized for big carriers.</p>
 <p>Telefónica says that Dynamic Insights&#8217; first product will be called &#8220;Smart Steps&#8221; and will be aimed at companies and public-sector organizations to &#8220;measure, compare, and understand what factors influence the number of people visiting a location at any time.&#8221;</p>
 <p>Presumably, it will combine not just user numbers over given periods but also track movements at particular locations. Telefónica notes that potential customers could include retailers looking to optimize store design, or a local council to measure the impact of, say, a free parking service for a shopping precinct.</p>
 <p>It notes that future data sets will focus on areas like fraud protection and what it calls &#8220;Smart City&#8221; technology, such as traffic management. (And although it doesn&#8217;t mention it in the release, marketing and advertising are likely to be other key areas for Dynamic Insights, as they have already been for Telefónica.)</p>
