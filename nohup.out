@@ -39001,3 +39001,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Hands-On-With-The-Optimus-L9,-LG%E2%80%99s-Most-Recent-Mid-Range-Mobile Hands-On With The Optimus L9, LG’s Most Recent Mid-Range Mobile
+Git - Stdout: [master a2f74e7] adding new article
+ 2 files changed, 51 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349841813000_671318.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   6137dce..a2f74e7  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
