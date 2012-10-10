@@ -28102,3 +28102,34 @@ written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
 tweeted : http://www.techcrunchlite.com/2012/10/Sling-Releases-Its-First-New-Hardware-In-Years,-The-Slingbox-500-And-Slingbox-350 Sling Releases Its First New Hardware In Years, The Slingbox 500 And Slingbox 350
+Git - Stdout: [master a3a2df8] adding new article
+ 2 files changed, 51 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349830830000_670949.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   d71ff60..a3a2df8  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
