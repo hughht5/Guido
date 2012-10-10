@@ -29003,3 +29003,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/The-New-King-Of-Web-Optimization?-Optimizely-Has-Run-100K-A/B-Tests-On-More-Than-1B-Visitors The New King Of Web Optimization? Optimizely Has Run 100K A/B Tests On More Than 1B Visitors
+Git - Stdout: [master dbd14de] adding new article
+ 2 files changed, 44 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349831808000_671252.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   0b32113..dbd14de  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
