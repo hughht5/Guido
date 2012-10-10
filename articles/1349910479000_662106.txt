@@ -1,5 +1,5 @@
 {
-"title" : "Grantoo Nabs $1.7M, Steals EA Canada CTO To Help Students Pay Their Tuition Bills With Social Games",
+"title" : "Grantoo Nabs $1.7M, Steals EA Canada CTO To Help Students Pay Tuition Bills By Playing Social Games",
 "date" : "Wed, 10 Oct 2012 23:07:59 +0000",
 "author" : "Rip Empson"
 }
