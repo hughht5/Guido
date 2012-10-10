@@ -55481,3 +55481,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/E-Reading-Company-Kobo-Acquires-Publishing-Platform-Aquafadas-To-Make-It-Easier-To-Bring-Content-To-Its-Wares E-Reading Company Kobo Acquires Publishing Platform Aquafadas To Make It Easier To Bring Content To Its Wares
+Git - Stdout: [master 0873a0e] adding new article
+ 2 files changed, 41 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349858297000_671393.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   233c78a..0873a0e  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
