@@ -62784,3 +62784,37 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/European-Cozy-Up:-Songkick-Chosen-To-Power-Deezer%E2%80%99s-Concert-Recommendations European Cozy Up: Songkick Chosen To Power Deezer’s Concert Recommendations
+tweeted : http://www.techcrunchlite.com/2012/10/European-Cozy-Up:-Songkick-Chosen-To-Power-Deezer%E2%80%99s-Concert-Recommendations European Cozy Up: Songkick Chosen To Power Deezer’s Concert Recommendations
+Git - Stdout: [master 1d56874] adding new article
+ 6 files changed, 65 insertions(+), 6 deletions(-)
+ create mode 100644 articles/1349882888000_671577.txt
+ create mode 100644 articles/1349884101000_670793.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   bd6d8c7..1d56874  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 1 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
