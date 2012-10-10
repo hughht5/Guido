@@ -67359,3 +67359,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Grouper-Teams-Up-With-Airbnb-&-Hipmunk-To-Offer-Engineers-&-Designers-A-Free-%E2%80%9CHackation%E2%80%9D-In-New-York Grouper Teams Up With Airbnb & Hipmunk To Offer Engineers & Designers A Free “Hackation” In New York
+Git - Stdout: [master 9fdae4d] adding new article
+ 2 files changed, 47 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349902419000_671894.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   2b82a3d..9fdae4d  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
