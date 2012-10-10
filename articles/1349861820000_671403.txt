@@ -1,5 +1,5 @@
 {
-"title" : "Deezer Pulls Back Curtain On Growth Strategy: Launching In 76 More Countries, Adds Free Version, Ramped Up Social Features",
+"title" : "Deezer Pulls Back Curtain On Growth Strategy: 76 More Countries, Adds Free Version, Social Features",
 "date" : "Wed, 10 Oct 2012 09:37:00 +0000",
 "author" : "Steve O'Hear"
 }
