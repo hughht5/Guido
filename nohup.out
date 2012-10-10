@@ -60932,3 +60932,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/OnLive-Was-OnDead-Last-Summer:-$18-Million-In-Debt,-Sold-For-$4.8-Million OnLive Was OnDead Last Summer: $18 Million In Debt, Sold For $4.8 Million
+Git - Stdout: [master 355e110] adding new article
+ 2 files changed, 41 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349876929000_671522.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   c747274..355e110  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
