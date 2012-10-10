@@ -12,8 +12,6 @@
 <p>Give it a try! Click on the Google+ Local icon in the left navigation bar, search for a local spot and click &#8220;Write a review.” Happy reviewing!</p></blockquote>
 <p>I&#8217;m really fascinated with sentiment analysis, and unfortunately there&#8217;s no way to really find out how people &#8220;feel&#8221; about something when you&#8217;re interfacing with the Internet. However, companies like Path do a really great job of that by offering up things like smiley faces and hearts. While Google isn&#8217;t going that route, I think that this is a huge upgrade:</p>
 <p><a href="http://techcrunch.com/2012/10/10/google-updates-the-business-rating-scale-on-google-local-numbers-be-gone/screen-shot-2012-10-10-at-12-07-40-pm-1/" rel="attachment wp-att-671982"></a></p>
-<p>The other nice recent addition is that you can <a target="_blank" href="https://plus.google.com/106226439354629484339/posts/d7SGrFNhfDj">see reviews that your friends have made</a> by visiting their profile. It&#8217;s something that the team removed, but it has returned, luckily. </p>
-<p><a href="http://techcrunch.com/2012/10/10/google-updates-the-business-rating-scale-on-google-local-numbers-be-gone/review-stats/" rel="attachment wp-att-672010"></a></p>
 <p>I for one don&#8217;t think in numbers, and I am more likely to rate a place that I&#8217;ve eaten at when presented with actual words to express my feelings. Unfortunately, there&#8217;s no option for &#8220;absolute suckage&#8221;, which is a phrase that I tend to use to explain a really bad experience.</p>
 <p>Oh well, maybe next time.</p>
 <p>[Photo credit: <a target="_blank" href="http://www.flickr.com/photos/crazyfarmer/544463608/">Flickr</a>]</p>
