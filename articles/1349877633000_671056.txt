@@ -11,5 +11,5 @@
 <p>For the time being, Maluuba only understands English, but the team plans to expand the range of supported languages by early next year.</p>
 <p>Also on the roadmap is <a target="_blank" href="http://blog.maluuba.com/post/32225860762/how-would-you-use-an-accurate-natural-language">an API</a> that will allow developers to tap into Maluuba&#8217;s natural language processing capabilities. This API will likely launch within the next month.</p>
 <p>Also coming soon is support for additional topic domains, including restaurant reservations, shopping and sports updates. These areas, of course, lend themselves nicely to revenue-sharing and affiliate partnerships.</p>
-<span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/10/10/android-based-siri-competitor-maluuba-goes-international-looks-to-raise-up-to-10m/"></a></span>
+<span class='embed-youtube' style='text-align:center; display: block;'><iframe class='youtube-player' type='text/html' width='640' height='390' src='http://www.youtube.com/embed/NgJchjB1ik0?version=3&#038;rel=1&#038;fs=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' frameborder='0'></iframe></span>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/qIAnxhPHD0o/">here</a>.
