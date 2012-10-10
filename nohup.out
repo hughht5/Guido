@@ -25548,3 +25548,33 @@ Git - Stdout: [master ba555ea] adding new article
 Git - Stderr: To git@github.com:hughht5/Guido.git
    08aec5c..ba555ea  master -> master
 
+Git - Stdout: [master 0fe08ad] adding new article
+ 1 files changed, 30 insertions(+), 0 deletions(-)
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   ba555ea..0fe08ad  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
