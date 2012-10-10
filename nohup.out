@@ -61117,3 +61117,36 @@ Scraping complete. Now commiting to GitHub
 tweeted : http://www.techcrunchlite.com/2012/10/Leaked-Windows-8-Ads-Confirm-Once-Again-Microsoft-Has-Given-Up-On-The-Desktop Leaked Windows 8 Ads Confirm Once Again Microsoft Has Given Up On The Desktop
 tweeted : http://www.techcrunchlite.com/2012/10/Leaked-Windows-8-Ads-Confirm-Once-Again-Microsoft-Has-Given-Up-On-The-Desktop Leaked Windows 8 Ads Confirm Once Again Microsoft Has Given Up On The Desktop
 tweeted : http://www.techcrunchlite.com/2012/10/Leaked-Windows-8-Ads-Confirm-Once-Again-Microsoft-Has-Given-Up-On-The-Desktop Leaked Windows 8 Ads Confirm Once Again Microsoft Has Given Up On The Desktop
+Git - Stdout: [master 956470a] adding new article
+ 4 files changed, 72 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349877548000_671523.txt
+ create mode 100644 articles/1349877590000_671513.txt
+ create mode 100644 articles/1349877633000_671056.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   0140e55..956470a  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
