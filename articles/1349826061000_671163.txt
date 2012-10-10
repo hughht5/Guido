@@ -1,5 +1,5 @@
 {
-"title" : "Lenovo Updates The ThinkPad Tablet & Laptop Hybrid With The ThinkPad Twist, A $849 12.5″ Ultrabook",
+"title" : "Lenovo Updates The ThinkPad Tablet & Laptop Hybrid With The ThinkPad Twist, An $849 12.5″ Ultrabook",
 "date" : "Tue, 09 Oct 2012 23:41:01 +0000",
 "author" : "Romain Dillet"
 }
