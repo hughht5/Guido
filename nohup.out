@@ -64578,3 +64578,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Google%E2%80%99s-Mod_Pagespeed-Is-Now-Out-Of-Beta-And-Ready-To-Make-Your-Sites-Faster Google’s Mod_Pagespeed Is Now Out Of Beta And Ready To Make Your Sites Faster
+Git - Stdout: [master 19b03f2] adding new article
+ 2 files changed, 44 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349891127000_671798.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   0b040f5..19b03f2  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
