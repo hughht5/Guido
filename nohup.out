@@ -61540,3 +61540,37 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Forrester:-66%25-Of-Employees-Use-2-Or-More-Devices-At-Work,-12%25-Use-Tablets Forrester: 66% Of Employees Use 2 Or More Devices At Work, 12% Use Tablets
+tweeted : http://www.techcrunchlite.com/2012/10/Forrester:-66%25-Of-Employees-Use-2-Or-More-Devices-At-Work,-12%25-Use-Tablets Forrester: 66% Of Employees Use 2 Or More Devices At Work, 12% Use Tablets
+Git - Stdout: [master 0bd32ff] adding new article
+ 3 files changed, 60 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349879154000_671527.txt
+ create mode 100644 articles/1349879278000_671533.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   d201245..0bd32ff  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
