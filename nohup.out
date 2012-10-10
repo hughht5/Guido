@@ -24587,3 +24587,34 @@ written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
 tweeted : http://www.techcrunchlite.com/2012/10/Clayton-Christensen:-%E2%80%9CDisruptive-Innovations-Create-Jobs,-Efficiency-Innovations-Destroy-Them%E2%80%9D Clayton Christensen: “Disruptive Innovations Create Jobs, Efficiency Innovations Destroy Them”
+Git - Stdout: [master 5c4ee2a] adding new article
+ 2 files changed, 52 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349827331000_670968.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   995c4be..5c4ee2a  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
