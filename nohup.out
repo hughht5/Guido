@@ -26781,3 +26781,33 @@ Git - Stdout: [master cacd811] adding new article
 Git - Stderr: To git@github.com:hughht5/Guido.git
    fb5bc3d..cacd811  master -> master
 
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Git - Stdout: [master 6d6754e] adding new article
+ 1 files changed, 30 insertions(+), 0 deletions(-)
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   cacd811..6d6754e  master -> master
+
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
