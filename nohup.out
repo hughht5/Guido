@@ -62970,3 +62970,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Stripe%E2%80%99s-New-Payments-Product-Could-Be-A-Boon-For-Collaborative-Consumption,-E-Commerce-Startups Stripe’s New Payments Product Could Be A Boon For Collaborative Consumption, E-Commerce Startups
+Git - Stdout: [master 04f9c09] adding new article
+ 3 files changed, 50 insertions(+), 1 deletions(-)
+ create mode 100644 articles/1349884859000_671647.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   283f8b4..04f9c09  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
