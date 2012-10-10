@@ -60780,3 +60780,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Google-Cultural-Institute-Adds-42-Exhibitions:-Brings-Stories-Of-D-Day,-Apartheid,-Holocaust-Online Google Cultural Institute Adds 42 Exhibitions: Brings Stories Of D-Day, Apartheid, Holocaust Online
+Git - Stdout: [master 8f5ee45] adding new article
+ 2 files changed, 51 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349876028000_671516.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   2cb527f..8f5ee45  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
