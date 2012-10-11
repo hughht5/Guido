@@ -1,5 +1,5 @@
 {
-"title" : "Good News For Brands, Managing Pages With The Google+ App Is Finally Here",
+"title" : "Good News For Brands, Managing Pages With The Google+ App Is Finally Here, Kind Of",
 "date" : "Thu, 11 Oct 2012 04:12:48 +0000",
 "author" : "Drew Olanoff"
 }
