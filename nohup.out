@@ -88296,3 +88296,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Thoughtful.org-Launches-To-Connect-Brands-And-Celebrities-To-Shake-Up-Social-Good Thoughtful.org Launches To Connect Brands And Celebrities To Shake Up Social Good
+Git - Stdout: [master f2bb28a] adding new article
+ 3 files changed, 52 insertions(+), 1 deletions(-)
+ create mode 100644 articles/1349985652000_672824.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   28c754a..f2bb28a  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
