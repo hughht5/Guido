@@ -1,0 +1,18 @@
+{
+"title" : "Good News For Brands, Google+ App Gets Page Management Support On Android And iOS",
+"date" : "Thu, 11 Oct 2012 04:12:48 +0000",
+"author" : "Drew Olanoff"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/56107224_a4120dd201_z.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="56107224_a4120dd201_z" title="56107224_a4120dd201_z" style="float: left; margin: 0 10px 7px 0;" /><p>As we&#8217;ve mentioned before, Google+ has become a place for businesses and brands to set up shop and interact with their customers. Google is making sure that these folks have everything they need to not only engage with fans, but eventually turn the actions into actual sales and traction.</p>
+<p>Today, the company has announced a pretty long-awaited feature for both versions of its Google+ mobile app, Page management for administrators.</p>
+<p>Here&#8217;s what Google&#8217;s Anish Acharya <a target="_blank" href="https://plus.google.com/u/0/108094760132961329912/posts/RaSZ3o2uZjr">had to say about the update</a>:</p>
+<blockquote><p>Today we&#8217;re rolling out v3.2 of the Google+ app to <a target="_blank" href="http://goo.gl/xaxMx">Android</a> and <a target="_blank" href="http://goo.gl/RVv2S">iOS</a>; both versions include one of our most highly-requested features: support for Google+ pages. This gives page owners the ability to post, comment, and interact with their followers directly from their mobile device.</p></blockquote>
+<p><a href="http://techcrunch.com/2012/10/10/good-news-for-brands-google-app-gets-page-management-support-on-android-and-ios/page-login-ios/" rel="attachment wp-att-672112"></a></p>
+<p>This is a pretty big deal, because up until now, brand managers had to use the web or mobile browser version to manage all of their pages. In some cases, like the NFL, there are quite a few sub-pages within its brand. This is the same thing that Facebook went through with its own Page offering, and eventually split out the experience into its own native app. I personally like Google&#8217;s approach by making account-switching super simple.</p>
+<p>Of course, companies aren&#8217;t the only ones managing brands, as plenty of people have set up ones for charitable causes, or specific topics that they&#8217;re interested in. I find it nice that Google managed to update both iOS and Android versions at the same time, keeping the experience consistent. </p>
+<p>Additionally, you can now edit your posts on the iOS version, which is also iPhone 5-ready. Its Android counterpart sports an updated widget and a revamped &#8220;Find People&#8221; section.</p>
+<p><a href="http://techcrunch.com/2012/10/10/good-news-for-brands-google-app-gets-page-management-support-on-android-and-ios/widget-final/" rel="attachment wp-att-672120"></a> <a href="http://techcrunch.com/2012/10/10/good-news-for-brands-google-app-gets-page-management-support-on-android-and-ios/find-people/" rel="attachment wp-att-672121"></a></p>
+<p>As far as I&#8217;m concerned, the UI of the Google+ app on both platforms is an enjoyable experience that doesn&#8217;t feel like you&#8217;re using a Google product at all. That&#8217;s not a stab at Google, but let&#8217;s be honest, you wouldn&#8217;t exactly describe the company as a mobile app development house. Looks like the times are a changin&#8217;. If only they would put this mobile team on the Maps app&#8230;I mean, if it were to exist.</p>
+<p>[Photo credit: <a target="_blank" href="http://www.flickr.com/photos/jacqueline-w/56107224/">Flickr</a>]</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/yG8mwk5F5YU/">here</a>.
