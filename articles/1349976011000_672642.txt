@@ -9,6 +9,7 @@
 <p>Like in the U.S., Harry Potter e-books will be available to lend. In October, the KDP select fund has been increased by $100,000 to $700,000. Amazon hints at another increase coming in November. Every time a book is borrowed, the other earns on average $2.29.</p>
 <p>Over the past couple of months, Amazon has been trying to bring its ecosystem to Europe ahead of <a href="http://techcrunch.com/2012/09/11/the-kindle-fire-hd-is-amazons-lean-mean-content-selling-machine/">Kindle Fire HD</a>&#8216;s release. Amazon makes little or no money on hardware devices and hopes that customers will actually use the device and buy content.</p>
 <p>Other companies have been trying to move away from the traditional buying model for ebooks. For example, <a href="http://techcrunch.com/2012/10/10/oyster-raises-3-million-from-founders-fund-to-finally-create-an-unlimited-subscription-service-for-books/">Oyster</a> is trying to bring the unlimited subscription model to e-books, with community and curation features.</p>
+<p>Yet, the lending library launched without the big six publishers in the U.S. Most of the books available to lend are exclusive self-published books.</p>
 <p>The lending library will be available at the end of October.</p>
 <p><i>Developing…</i></p>
 <p></p>
