@@ -89660,3 +89660,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/The-Onion-To-Launch-Weekly-TEDTalks-Competitor-On-YouTube:-%E2%80%9CNo-Mind-Will-Be-Left-Unchanged%E2%80%9D The Onion To Launch Weekly TEDTalks Competitor On YouTube: “No Mind Will Be Left Unchanged”
+Git - Stdout: [master 738fcb4] adding new article
+ 3 files changed, 51 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349991000000_672813.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   ba636ba..738fcb4  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
