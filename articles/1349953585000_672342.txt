@@ -1,5 +1,5 @@
 {
-"title" : "Sharethrough Raises $5M For Native Video Ad Platform",
+"title" : "Sharethrough Raises $5M For Its Native Video Ad Platform",
 "date" : "Thu, 11 Oct 2012 11:06:25 +0000",
 "author" : "Anthony Ha"
 }
