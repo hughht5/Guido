@@ -87754,3 +87754,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Twitter-Open-Sources-Clutch.IO,-The-Mobile-A/B-Testing-Service-It-Recently-Acquired Twitter Open-Sources Clutch.IO, The Mobile A/B Testing Service It Recently Acquired
+Git - Stdout: [master 9d98018] adding new article
+ 3 files changed, 42 insertions(+), 1 deletions(-)
+ create mode 100644 articles/1349983500000_672763.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   7fb9fc4..9d98018  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
