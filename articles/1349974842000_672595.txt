@@ -1,5 +1,5 @@
 {
-"title" : "Peek Launches To Become The Go-To Site For Travelers, Starts With California And Hawaii Trips",
+"title" : "Peek Launches To Become The Go-To Site For Travelers, Starts With California And Hawaii",
 "date" : "Thu, 11 Oct 2012 17:00:42 +0000",
 "author" : "Ryan Lawler"
 }

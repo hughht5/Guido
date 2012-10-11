@@ -85870,3 +85870,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Amazon-Releases-Kindle%E2%80%99s-Lending-Library-In-UK,-Germany,-France-With-200,000-Books,-Increases-KDP-Royalty-Fund Amazon Releases Kindle’s Lending Library In UK, Germany, France With 200,000 Books, Increases KDP Royalty Fund
+Git - Stdout: [master cd098bb] adding new article
+ 3 files changed, 41 insertions(+), 1 deletions(-)
+ create mode 100644 articles/1349976011000_672642.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   c6af359..cd098bb  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
