@@ -87260,3 +87260,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Fact-Checking-Google%E2%80%99s-New-Study-On-Political-Fact-Checking:-Mostly-Misleading Fact-Checking Google’s New Study On Political Fact-Checking: Mostly Misleading
+Git - Stdout: [master d65d001] adding new article
+ 4 files changed, 51 insertions(+), 3 deletions(-)
+ create mode 100644 articles/1349981497000_672712.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   3d5fa9e..d65d001  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 1 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
