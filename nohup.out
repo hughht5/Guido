@@ -87446,3 +87446,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/%E2%80%9CIn-the-Studio,%E2%80%9D-Graphicly%E2%80%99s-Micah-Baldwin-Leafs-Through-the-Future-of-Books “In the Studio,” Graphicly’s Micah Baldwin Leafs Through the Future of Books
+Git - Stdout: [master c8c0413] adding new article
+ 3 files changed, 43 insertions(+), 1 deletions(-)
+ create mode 100644 articles/1349982017000_638534.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   66bd5f9..c8c0413  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
