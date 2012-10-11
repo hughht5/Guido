@@ -83114,3 +83114,37 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/AppSurfer-Takes-Android-Apps-To-The-Browser,-Lets-You-Embed-Them-Anywhere AppSurfer Takes Android Apps To The Browser, Lets You Embed Them Anywhere
+tweeted : http://www.techcrunchlite.com/2012/10/AppSurfer-Takes-Android-Apps-To-The-Browser,-Lets-You-Embed-Them-Anywhere AppSurfer Takes Android Apps To The Browser, Lets You Embed Them Anywhere
+Git - Stdout: [master fe0b51c] adding new article
+ 3 files changed, 62 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349965144000_672454.txt
+ create mode 100644 articles/1349965178000_672437.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   d3a4aa1..fe0b51c  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
