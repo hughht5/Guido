@@ -1,5 +1,5 @@
 {
-"title" : "Samsung Officially Outs The Galaxy S III Mini: 4″ Mid-Range Jelly Bean In A Smaller Package",
+"title" : "Samsung Officially Debuts The Galaxy S III Mini: 4″ Mid-Range Jelly Bean In A Smaller Package",
 "date" : "Thu, 11 Oct 2012 16:13:34 +0000",
 "author" : "Jordan Crook"
 }
