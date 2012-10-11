@@ -86022,3 +86022,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/YouTube-Now-Offers-More-In-Depth-Analytics,-Including-Time-Watched-And-Annotations-Reporting YouTube Now Offers More In-Depth Analytics, Including Time Watched And Annotations Reporting
+Git - Stdout: [master e2d7499] adding new article
+ 3 files changed, 46 insertions(+), 1 deletions(-)
+ create mode 100644 articles/1349976521000_672612.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   430d6f7..e2d7499  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
