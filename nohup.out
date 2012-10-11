@@ -72357,3 +72357,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/%E2%80%9CBounce%E2%80%9D-Along-To-Apple%E2%80%99s-Latest-iPod-TV-Ad “Bounce” Along To Apple’s Latest iPod TV Ad
+Git - Stdout: [master 5b935f7] adding new article
+ 2 files changed, 43 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349921578000_672083.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   e3f01bd..5b935f7  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
