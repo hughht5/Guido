@@ -83778,3 +83778,37 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Microsoft%E2%80%99s-Windows-8-Shoehorns-Touch-Into-Desktops-And-Laptops:-This-Won%E2%80%99t-End-Well Microsoft’s Windows 8 Shoehorns Touch Into Desktops And Laptops: This Won’t End Well
+tweeted : http://www.techcrunchlite.com/2012/10/Microsoft%E2%80%99s-Windows-8-Shoehorns-Touch-Into-Desktops-And-Laptops:-This-Won%E2%80%99t-End-Well Microsoft’s Windows 8 Shoehorns Touch Into Desktops And Laptops: This Won’t End Well
+Git - Stdout: [master 29d0874] adding new article
+ 4 files changed, 74 insertions(+), 1 deletions(-)
+ create mode 100644 articles/1349967257000_670704.txt
+ create mode 100644 articles/1349967602000_672268.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   42d4512..29d0874  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
