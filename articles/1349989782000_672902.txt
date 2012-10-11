@@ -19,4 +19,7 @@
 <p><strong>Update 4</strong>: Reports now coming in that service has been restored:</p>
 <blockquote class="twitter-tweet"><p>@<a target="_blank" href="https://twitter.com/techcrunch">techcrunch</a> @<a target="_blank" href="https://twitter.com/drizzled">drizzled</a> Looks like its up again, at least in Central Europe.</p>
 <p>&mdash; Chris Ciapala (@KCiapala) <a target="_blank" href="https://twitter.com/KCiapala/status/256507920378892289">October 11, 2012</a></p></blockquote>
+<p><strong>Update 5</strong>: More reports of service restored, after at least an hour long outage:</p>
+<blockquote class="twitter-tweet"><p>@<a target="_blank" href="https://twitter.com/techcrunch">techcrunch</a> @<a target="_blank" href="https://twitter.com/drizzled">drizzled</a> FB back in France after at least 1 hour down</p>
+<p>&mdash; Alain Mevellec (@netking17) <a target="_blank" href="https://twitter.com/netking17/status/256511355463540737">October 11, 2012</a></p></blockquote>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/IFyGWNAim0k/">here</a>.
