@@ -89080,3 +89080,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/This-Is-Every-Experience-I%E2%80%99ve-Ever-Had-With-Apple%E2%80%99s-iOS-6-Maps This Is Every Experience I’ve Ever Had With Apple’s iOS 6 Maps
+Git - Stdout: [master c3f2c81] adding new article
+ 2 files changed, 43 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349988500000_672872.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   336c6c0..c3f2c81  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
