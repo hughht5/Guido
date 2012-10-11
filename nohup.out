@@ -80634,3 +80634,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Rovio%E2%80%99s-First-Book-App,-Bad-Piggies-Best-Egg-Recipes,-Takes-It-Further-Into-Non-Fiction,-Non-Gaming-Territory Rovio’s First Book App, Bad Piggies Best Egg Recipes, Takes It Further Into Non-Fiction, Non-Gaming Territory
+Git - Stdout: [master 4a05cfb] adding new article
+ 2 files changed, 43 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349954961000_672352.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   e750208..4a05cfb  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
