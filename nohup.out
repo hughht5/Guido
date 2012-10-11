@@ -89354,3 +89354,37 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Facebook-Currently-Down-For-Some-European-Users,-Anon-Hacker-Claims-Responsibiilty Facebook Currently Down For Some European Users, Anon Hacker Claims Responsibiilty
+tweeted : http://www.techcrunchlite.com/2012/10/Facebook-Currently-Down-For-Some-European-Users,-Anon-Hacker-Claims-Responsibiilty Facebook Currently Down For Some European Users, Anon Hacker Claims Responsibiilty
+Git - Stdout: [master a8c7e85] adding new article
+ 3 files changed, 157 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1349989782000_672902.txt
+ create mode 100644 articles/1349989853000_671761.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   85697ac..a8c7e85  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub

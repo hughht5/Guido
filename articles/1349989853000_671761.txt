@@ -4,7 +4,7 @@
 "author" : "Jordan Crook"
 }
 
-<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/ruler.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="ruler" title="ruler" style="float: left; margin: 0 10px 7px 0;" /><p>It was inevitable. Smartphone displays have gone from a standard 4 inches to ~5-inches in a short time, and the truth is that phones can only get so big before being too big. And so, as the tide ebbs and flows, so do smartphone design trends, and it would appear that &#8220;small&#8221; displays are <em>so in</em>.</p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/shutterstock_50381335.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="shutterstock_50381335" title="shutterstock_50381335" style="float: left; margin: 0 10px 7px 0;" /><p>It was inevitable. Smartphone displays have gone from a standard 4 inches to ~5-inches in a short time, and the truth is that phones can only get so big before being too big. And so, as the tide ebbs and flows, so do smartphone design trends, and it would appear that &#8220;small&#8221; displays are <em>so in</em>.</p>
 <p>Now, to be perfectly clear, I have no problem with big phones like the Galaxy S III and Galaxy Note II (and all the others). They are excellent phones, and other people (not myself) seem to enjoy their massive displays quite a bit. More power to you, big-handed friends!</p>
 <p>But at the end of the day, here&#8217;s the truth of the matter. A big phone (&gt; 4.5-inch display) may be uncomfortable to someone. A small phone (&lt; 4.5-inch display) isn&#8217;t uncomfortable to <em>anyone</em>. And so, OEMs have the opportunity to increase brand awareness, or simply sales, by appealing to a broad audience with these 4- to 4.3-inch handsets.</p>
 <p>It&#8217;s trendy to downsize the display, as proven by new phones from HTC, Samsung, Nokia, and Motorola, who&#8217;ve all been pushing into bigger display territory. On the other side of the coin, we have Apple, who hasn&#8217;t budged an inch for years with regards to their 3.5-inch display&#8230; Until, of course, the iPhone 5.</p>
@@ -113,4 +113,5 @@
 </ul>
 <p>Here&#8217;s a side-by-side view:</p>
 <p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/10/6phones.png" rel="lightbox[671761]"></a></p>
+<p>[Image via <a target="_blank" href="http://www.shutterstock.com/">Shutterstock</a>]</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/BgGWd-Q8vnQ/">here</a>.
