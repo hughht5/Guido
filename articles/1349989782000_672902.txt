@@ -16,4 +16,7 @@
 <p><strong>Update 3</strong>: Add Romania to the list of countries affected:</p>
 <blockquote class="twitter-tweet"><p>@<a target="_blank" href="https://twitter.com/techcrunch">techcrunch</a> @<a target="_blank" href="https://twitter.com/drizzled">drizzled</a> Facebook down in Romania too. A fix is to use google dns 8.8.8.8</p>
 <p>&mdash; Cristian Baciu (@baciucristian) <a target="_blank" href="https://twitter.com/baciucristian/status/256505668893282304">October 11, 2012</a></p></blockquote>
+<p><strong>Update 4</strong>: Reports now coming in that service has been restored:</p>
+<blockquote class="twitter-tweet"><p>@<a target="_blank" href="https://twitter.com/techcrunch">techcrunch</a> @<a target="_blank" href="https://twitter.com/drizzled">drizzled</a> Looks like its up again, at least in Central Europe.</p>
+<p>&mdash; Chris Ciapala (@KCiapala) <a target="_blank" href="https://twitter.com/KCiapala/status/256507920378892289">October 11, 2012</a></p></blockquote>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/IFyGWNAim0k/">here</a>.
