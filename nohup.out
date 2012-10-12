@@ -104426,3 +104426,37 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Best-Buy-To-Price-Match-Amazon-And-Other-Online-Retailers-This-Holiday-Season Best Buy To Price Match Amazon And Other Online Retailers This Holiday Season
+tweeted : http://www.techcrunchlite.com/2012/10/Best-Buy-To-Price-Match-Amazon-And-Other-Online-Retailers-This-Holiday-Season Best Buy To Price Match Amazon And Other Online Retailers This Holiday Season
+Git - Stdout: [master 82f94a1] adding new article
+ 3 files changed, 51 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1350049691000_673245.txt
+ create mode 100644 articles/1350049920000_673242.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   5964489..82f94a1  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
