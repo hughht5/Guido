@@ -109842,3 +109842,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Findery,-Caterina-Fake%E2%80%99s-Startup-Previously-Named-%E2%80%98Pinwheel%E2%80%99,-Debuts-In-Public-Beta Findery, Caterina Fake’s Startup Previously Named ‘Pinwheel’, Debuts In Public Beta
+Git - Stdout: [master 60925e6] adding new article
+ 3 files changed, 52 insertions(+), 1 deletions(-)
+ create mode 100644 articles/1350071482000_673476.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   dbbdc58..60925e6  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
