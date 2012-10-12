@@ -109536,3 +109536,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Inside-Network-Launches-New-Blog-%E2%80%9CInside-Social-Commerce%E2%80%9D-To-Chronicle-The-Future-Of-Shopping Inside Network Launches New Blog “Inside Social Commerce” To Chronicle The Future Of Shopping
+Git - Stdout: [master dad88b9] adding new article
+ 2 files changed, 47 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1350070212000_673442.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   50e34d4..dad88b9  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
