@@ -106820,3 +106820,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Wikileaks,-Desperate-For-Money,-Erects-Paywall-And-Angers-Hacker-Group,-Anonymous Wikileaks, Desperate For Money, Erects Paywall And Angers Hacker Group, Anonymous
+Git - Stdout: [master 25aa765] adding new article
+ 3 files changed, 46 insertions(+), 1 deletions(-)
+ create mode 100644 articles/1350059430000_673338.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   a96cb42..25aa765  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
