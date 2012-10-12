@@ -28,4 +28,5 @@
 <p>Of course, there&#8217;s always venture capital: YourSports has raised $400K in seed capital from a number of angel investors and is currently in the process of raising its series A.</p>
 <p>YourSports represents an important experiment and some big ideas, but it also feels like it&#8217;s just pulling to the starting line and there&#8217;s a marathon yet to be run ahead.</p>
 <p>For more, find <a target="_blank" href="http://www.yoursports.com/main#/">YourSports at home here.</a></p>
+<p>Readers who want to bypass the private beta process can use the code &#8220;techcrunch&#8221; to get access.</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/OZ2NvegSJB8/">here</a>.
