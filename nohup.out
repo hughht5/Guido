@@ -109780,3 +109780,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Facebook%E2%80%99s-Testing-A-Toolbar-Layout-With-Notifications-On-The-Right-Near-Ads-And-Gifts Facebook’s Testing A Toolbar Layout With Notifications On The Right Near Ads And Gifts
+Git - Stdout: [master 9a23aa9] adding new article
+ 2 files changed, 50 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1350071234000_673500.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   0d46704..9a23aa9  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
