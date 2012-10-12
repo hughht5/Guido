@@ -109598,3 +109598,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/The-New-iPod-Touch-Will-Further-Obliterate-The-Point-And-Shoot-Market The New iPod Touch Will Further Obliterate The Point-And-Shoot Market
+Git - Stdout: [master 2ec4d79] adding new article
+ 2 files changed, 80 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1350070460000_673463.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   25058b1..2ec4d79  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
