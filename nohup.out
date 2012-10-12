@@ -111652,3 +111652,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/If-Instagram-Was-More-About-Words-Than-Things,-You%E2%80%99d-Have-Whims-for-iOS If Instagram Was More About Words Than Things, You’d Have Whims for iOS
+Git - Stdout: [master 844666a] adding new article
+ 2 files changed, 46 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1350078700000_673611.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   9308daf..844666a  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
