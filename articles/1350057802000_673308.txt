@@ -1,5 +1,5 @@
 {
-"title" : "Source: Former Nokia Vet Assni Vanjoki Will Be CEO Of EQT-Owned Vertu, Android To Replace Symbian",
+"title" : "Source: Former Nokia Vet Anssi Vanjoki Will Be CEO Of EQT-Owned Vertu, Android To Replace Symbian",
 "date" : "Fri, 12 Oct 2012 16:03:22 +0000",
 "author" : "Jordan Crook and Steve O'Hear"
 }
