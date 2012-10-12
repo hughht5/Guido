@@ -112946,3 +112946,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/U.S.-Postal-Service-Plans-To-Launch-Experimental-Same-Day-Delivery-Service-In-November U.S. Postal Service Plans To Launch Experimental Same-Day Delivery Service In November
+Git - Stdout: [master 9fac20b] adding new article
+ 2 files changed, 48 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1350083875000_673677.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   3471fa0..9fac20b  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
