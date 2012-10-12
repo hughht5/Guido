@@ -1,0 +1,11 @@
+{
+"title" : "Apple’s iPad Mini Event Likely Happening October 23",
+"date" : "Fri, 12 Oct 2012 14:18:36 +0000",
+"author" : "Darrell Etherington"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/ipad-mini.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="ipad-mini" title="ipad-mini" style="float: left; margin: 0 10px 7px 0;" /><p>Apple&#8217;s iPad mini event was rumored to be happening sometime around October 17, but this week brought no invite. Now, however, there&#8217;s a very good sign that we could see it on October 23, thanks to a report <a target="_blank" href="http://allthingsd.com/20121012/apple-likely-to-unveil-ipad-mini-at-october-23-event/">from AllThingsD</a> and a confirmation from one of the best-connected bloggers in the Apple ecosystem.</p>
+<p>First, John Pacszkowski reported this morning that an event will be held October 23 at which Apple will reveal its iPad mini, according to &#8220;people familiar with the matter.&#8221; He notes that it&#8217;s unusual to have this on a Tuesday (Apple generally holds these kinds of events on Wednesday during the past few years), but he suggests Microsoft&#8217;s impending Surface launch could be a driver.</p>
+<p>Information about what we&#8217;ll see are slim, but the new report says we&#8217;ll probably see the expected 7.85-inch display and Lightning for cable connectivity, plus a slimmer design than on the current iPad. That doesn&#8217;t answer any of the <a title="Making Sense Of The iPad Mini Rumors: What To Expect, When, And Why" href="http://techcrunch.com/2012/10/03/making-sense-of-the-ipad-mini-rumors-what-to-expect-when-and-why/">big questions around Retina resolution or cost</a>, however.</p>
+<p>Pacszkowski has a good track record on his own, but <a target="_blank" href="http://www.loopinsight.com/">The Loop&#8217;s Jim Dalrymple</a> posted one of his famous monosyllabic blog entries shortly following the appearance of the report, with an affirmative &#8220;Yep.&#8221; Generally speaking, if Jim feels its worth weighing in, then that&#8217;s as close to an official confirmation as you&#8217;re going to get before the actual press invites go out.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/yLN6AuFbYJE/">here</a>.
