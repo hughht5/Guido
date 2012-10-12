@@ -107752,3 +107752,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Founder-Richard-MacManus-Departs-ReadWriteWeb-To-Work-On-A-Book Founder Richard MacManus Departs ReadWriteWeb To Work On A Book
+Git - Stdout: [master c5012e2] adding new article
+ 3 files changed, 44 insertions(+), 2 deletions(-)
+ create mode 100644 articles/1350063081000_673402.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   84e9707..c5012e2  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
