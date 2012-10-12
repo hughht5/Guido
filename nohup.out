@@ -92554,3 +92554,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Sports-Section,-2.0:-YourSports-Launches-Its-Ambitious-Project-To-Build-The-Facebook-Of-Sports Sports Section, 2.0: YourSports Launches Its Ambitious Project To Build The Facebook Of Sports
+Git - Stdout: [master 5731f4a] adding new article
+ 3 files changed, 62 insertions(+), 1 deletions(-)
+ create mode 100644 articles/1350002469000_673020.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   9e34949..5731f4a  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
