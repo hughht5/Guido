@@ -1,5 +1,5 @@
 {
-"title" : "Sports Section, 2.0: YourSports Launches Its Ambitious Project To Build The Facebook Of Sports",
+"title" : "Sports Section 2.0: YourSports Launches Its Ambitious Project To Build The Facebook Of Sports",
 "date" : "Fri, 12 Oct 2012 00:41:09 +0000",
 "author" : "Rip Empson"
 }
