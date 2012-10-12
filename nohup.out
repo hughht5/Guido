@@ -106696,3 +106696,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Storylane-Combats-Social-Media-Glibness-With-A-Sharing-Platform-For-In-Depth-Stories-And-Opinions Storylane Combats Social Media Glibness With A Sharing Platform For In-Depth Stories And Opinions
+Git - Stdout: [master b1010f8] adding new article
+ 4 files changed, 50 insertions(+), 6 deletions(-)
+ create mode 100644 articles/1350058865000_673322.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   cf483e0..b1010f8  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
