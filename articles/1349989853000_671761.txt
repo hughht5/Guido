@@ -11,7 +11,7 @@
 <p>Now, there&#8217;s finally some common ground among all three major ecosystems. Android, iOS and Windows Phone are all competing on this 4- to 4.3-inch level, all with very different arguments.</p>
 <p>If you&#8217;re anything like me, you&#8217;ve been waiting to have this many options at this size, and so we&#8217;ve put all the new ~4-inch phones together for you to check them out side-by-side.</p>
 <p>Let&#8217;s just take a look at the current lineup:</p>
-<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-11-at-3-00-26-pm1.png" rel="lightbox[671761]"></a></p>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-11-at-3-00-26-pm1.png" rel="lightbox[671761]"></a><br />
 <h3><a href="http://techcrunch.com/2012/09/05/hands-on-with-the-droid-razr-m-the-reversal-of-big-phone-syndrome-feels-wonderful/">Motorola Droid Razr M</a></h3>
 <ul>
 <li>4.3-inch Super AMOLED qHD display</li>
@@ -25,7 +25,7 @@
 <li>2,000 mAh battery</li>
 <li><strong>Drum Roll Please:</strong> &#8220;Edge-to-edge&#8221; display</li>
 </ul>
-<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-11-at-4-33-06-pm.png" rel="lightbox[671761]"></a></p>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-11-at-4-33-06-pm.png" rel="lightbox[671761]"></a><br />
 <h3><a href="http://techcrunch.com/2012/09/18/motorola-razr-i-officia/">Motorola Droid Razr i</a></h3>
 <ul>
 <li>4.3-inch Super AMOLED qHD display</li>
@@ -40,7 +40,7 @@
 <li>2,000 mAh battery</li>
 <li><strong>Drum Roll Please:</strong> Dedicated camera button</li>
 </ul>
-<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-11-at-4-35-40-pm.png" rel="lightbox[671761]"></a></p>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-11-at-4-35-40-pm.png" rel="lightbox[671761]"></a><br />
 <h3><a href="http://techcrunch.com/2012/09/05/nokia-debuts-the-4-3-lumia-820-5mp-camera-1-5ghz-dual-core-s4-processor-8gb-of-storage/">Nokia Lumia 820</a></h3>
 <ul>
 <li>4.3-inch 480&#215;800 AMOLED display (with ClearBlack)</li>
@@ -55,7 +55,7 @@
 <li>1650 mAh</li>
 <li><strong>Drum Roll Please:</strong> Interchangeable cover colors</li>
 </ul>
-<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-11-at-4-34-00-pm.png" rel="lightbox[671761]"></a></p>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-11-at-4-34-00-pm.png" rel="lightbox[671761]"></a><br />
 <h3><a href="http://techcrunch.com/2012/10/08/t-mobile-nabs-nokias-new-lumia-810-points-to-a-launch-in-the-coming-weeks/">Nokia Lumia 810</a></h3>
 <ul>
 <li>4.3-inch 480&#215;800 OLED display (with ClearBlack)</li>
@@ -69,7 +69,7 @@
 <li>1650 mAh</li>
 <li><strong>Drum Roll Please:</strong> Skype-certified video chat camera</li>
 </ul>
-<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-11-at-4-37-58-pm.png" rel="lightbox[671761]"></a></p>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-11-at-4-37-58-pm.png" rel="lightbox[671761]"></a><br />
 <h3><a href="http://techcrunch.com/2012/09/19/meet-the-htc-8s-a-crappy-mid-range-windows-phone-device-no-one-will-buy/">HTC Windows Phone 8S</a></h3>
 <ul>
 <li>4-inch 480&#215;800 S-LCD display</li>
@@ -82,7 +82,7 @@
 <li>1700 mAh</li>
 <li><strong>Drum Roll Please:</strong> Cool color options</li>
 </ul>
-<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-11-at-5-06-57-pm.png" rel="lightbox[671761]"></a></p>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-11-at-5-06-57-pm.png" rel="lightbox[671761]"></a><br />
 <h3><a href="http://techcrunch.com/2012/09/22/fly-or-die-iphone-5/">Apple iPhone 5</a></h3>
 <ul>
 <li>4-inch 1136&#215;640 LCD Retina display</li>
@@ -96,7 +96,7 @@
 <li>1440 mAh</li>
 <li><strong>Drum Roll Please:</strong> High pixel density</li>
 </ul>
-<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-11-at-4-42-24-pm.png" rel="lightbox[671761]"></a></p>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-11-at-4-42-24-pm.png" rel="lightbox[671761]"></a><br />
 <h3><a href="http://techcrunch.com/2012/10/11/samsung-officially-outs-the-galaxy-s-iii-mini-4-mid-range-jelly-bean-in-a-smaller-package/">Samsung Galaxy S III Mini</a></h3>
 <ul>
 <li>4-inch WVGA Super AMOLED display</li>
