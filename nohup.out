@@ -105092,3 +105092,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Apple%E2%80%99s-iPad-Mini-Event-Likely-Happening-October-23 Apple’s iPad Mini Event Likely Happening October 23
+Git - Stdout: [master 8c5c380] adding new article
+ 4 files changed, 44 insertions(+), 2 deletions(-)
+ create mode 100644 articles/1350051516000_673272.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   371cb96..8c5c380  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
