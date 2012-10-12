@@ -93460,3 +93460,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Co-Working-Space-Espacio-Launches-To-Turn-Medellin-Into-A-Startup-Hub Co-Working Space Espacio Launches To Turn Medellin Into A Startup Hub
+Git - Stdout: [master b17dfd0] adding new article
+ 3 files changed, 43 insertions(+), 1 deletions(-)
+ create mode 100644 articles/1350006192000_673130.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   31e6aeb..b17dfd0  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
