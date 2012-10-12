@@ -103372,3 +103372,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Microsoft-To-Go-All-In-With-$1.5B-Windows-8-Marketing-Blitz Microsoft To Go All-In With $1.5B Windows 8 Marketing Blitz
+Git - Stdout: [master dcd7091] adding new article
+ 6 files changed, 50 insertions(+), 5 deletions(-)
+ create mode 100644 articles/1350045566000_673216.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   a1d3465..dcd7091  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
