@@ -1,12 +1,12 @@
 {
-"title" : "Rumor: Verizon-Bound Nokia Lumia 822 Will Cost A Cool $49 On Contract",
+"title" : "Rumor: Verizon-Bound Nokia Lumia 822 Will Cost A Cool $49 On-Contract",
 "date" : "Sat, 13 Oct 2012 18:26:45 +0000",
 "author" : "Jordan Crook"
 }
 
-<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/lumia822.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="lumia822" title="lumia822" style="float: left; margin: 0 10px 7px 0;" /><p>You may have caught on to the Verizon-flavored Nokia handset floating around the <a href="http://techcrunch.com/2012/10/10/nokia-lumia-822-verizon-leak/">rumor mill</a>. But just in case you missed it, a few <a href="http://techcrunch.com/2012/10/10/nokia-lumia-822-verizon-leak/">recent leaks</a> have led us to believe that the red carrier will lay claim to the Nokia Lumia 822. And here&#8217;s the real shocker: it should only cost $49, according to <a target="_blank" href="http://wmpoweruser.com/some-more-info-about-the-nokia-lumia-822/">WMPowerUser</a>.</p>
-<p>Now, that could sound like only a slight variation from the Lumia 820, headed to AT&amp;T, but the new handset will be quite a bit different.</p>
-<p>For one, there will be no interchangeable back covers to match your phone&#8217;s color with your daily mood. And as you can see from the earlier leaked images, the handset itself looks quite a bit different from both the 810 and 820, with much rounder edges.</p>
-<p>According to the tipster, both documents and images can be sent via tap2send, Bluetooth, or Outlook.</p>
-<p>The phone feels a little less premium than the AT&amp;T-flavored Nokia handsets, but it&#8217;ll come with 16GB of internal storage and an LTE connection from Verizon, which is pretty damn good for $49.</p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/lumia822.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="lumia822" title="lumia822" style="float: left; margin: 0 10px 7px 0;" /><p>You may have caught on to the Verizon-flavored Nokia handset floating around the <a href="http://techcrunch.com/2012/10/10/nokia-lumia-822-verizon-leak/">rumor mill</a>. But just in case you missed it, a few <a href="http://techcrunch.com/2012/10/10/nokia-lumia-822-verizon-leak/">recent leaks</a> have led us to believe that the red carrier will lay claim to the Nokia Lumia 822. And here&#8217;s the real shocker: it should only cost $49, according to <a target="_blank" href="http://wmpoweruser.com/some-more-info-about-the-nokia-lumia-822/">WMPowerUser</a>. </p>
+<p>Now, that could sound like only a slight variation from the Lumia 820, headed to AT&amp;T, but the new handset will be quite a bit different. </p>
+<p>For one, there will be no interchangeable back covers to match your phone&#8217;s color with your daily mood. And as you can see from the earlier leaked images, the handset itself looks quite a bit different from both the 810 and 820, with much rounder edges. </p>
+<p>According to the tipster, both documents are images can be sent via tap2send, Bluetooth, or outlook. </p>
+<p>The phone feels a little less premium than the AT&amp;T-flavored Nokia handsets, but it&#8217;ll come with 16GB of internal storage and an LTE connection from Verizon, which is pretty damn good for $49. </p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/pIwGOTL24nc/">here</a>.
