@@ -1,5 +1,5 @@
 {
-"title" : "It’s Done: Early Investor Providence Equity Partners Has Sold Its Stake In Hulu For $200M",
+"title" : "It’s Done: Early Hulu Investor Providence Equity Partners Has Sold Its Stake For $200M",
 "date" : "Sat, 13 Oct 2012 00:32:57 +0000",
 "author" : "Ryan Lawler"
 }
