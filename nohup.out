@@ -124756,3 +124756,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/An-Interview-With-Josh-Bechtel,-The-Inventor-Of-The-Bicymple An Interview With Josh Bechtel, The Inventor Of The Bicymple
+Git - Stdout: [master 63a8281] adding new article
+ 2 files changed, 61 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1350130951000_673876.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   b2f8667..63a8281  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
