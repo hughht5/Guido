@@ -114092,3 +114092,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/It%E2%80%99s-Done:-Providence-Equity-Partners-Has-Sold-Its-Stake-In-Hulu-For-$200M It’s Done: Providence Equity Partners Has Sold Its Stake In Hulu For $200M
+Git - Stdout: [master f55d478] adding new article
+ 2 files changed, 41 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1350088377000_673680.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   3848a12..f55d478  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
