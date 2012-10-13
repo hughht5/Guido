@@ -131550,3 +131550,37 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Romney,-Obama-Release-Statements-On-How-To-Grow-Tech-Startups Romney, Obama Release Statements On How To Grow Tech Startups
+tweeted : http://www.techcrunchlite.com/2012/10/Romney,-Obama-Release-Statements-On-How-To-Grow-Tech-Startups Romney, Obama Release Statements On How To Grow Tech Startups
+Git - Stdout: [master 3c12984] adding new article
+ 3 files changed, 234 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1350155704000_673937.txt
+ create mode 100644 articles/1350158133000_673900.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   8f237f3..3c12984  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
