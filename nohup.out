@@ -132394,3 +132394,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Study:-Europeans-Quickest-To-Adopt-iOS-6,-Overall-Updates-Growth-Continues Study: Europeans Quickest To Adopt iOS 6, Overall Updates Growth Continues
+Git - Stdout: [master 9ca3fd1] adding new article
+ 2 files changed, 45 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1350161124000_673949.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   da147c8..9ca3fd1  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
