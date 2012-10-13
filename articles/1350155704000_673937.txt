@@ -1,0 +1,179 @@
+{
+"title" : "Romney, Obama Release Statements On How To Grow Tech Startups",
+"date" : "Sat, 13 Oct 2012 19:15:04 +0000",
+"author" : "Gregory Ferenstein"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/800px-whitehousesouthfacade-1.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="800px-whitehousesouthfacade (1)" title="800px-whitehousesouthfacade (1)" style="float: left; margin: 0 10px 7px 0;" /><p>Both presidential campaigns <a target="_blank" href="http://www.huffingtonpost.com/2012/10/12/obama-and-romney-cite-dif_n_1961425.html?utm_hp_ref=tw">released statements</a> on how they would grow the technology startup industry. In letters addressed to the regional trade organization, NYTechMeeetup, both candidates gave moderately specific answers. Obama focused on his track-record of technology policy, including the release of government data through the newly created Chief Technology Officer, the overhaul of patent reform, and the legalization of &#8220;crowdfunding&#8221;. Romney promised more high-skilled immigrants, the creation of a new free trade zone, and to fund research. We&#8217;ve included the full statements below and some bulleted point explanations on the specifics.</p>
+<p><strong>Obama</strong></p>
+<ul>
+<li>The Chief Technology is a new senior advisor position dedicated to creatively applying technology to government solutions. The current CTO, Todd Park, unveiled his plan at TechCrunch New York conference, Disrupt NY, and details can be read <a href="http://techcrunch.com/2012/05/23/the-21st-century-gold-rush-announced-at-disrupt-raw-data/">here</a>)</li>
+<li><a href="http://techcrunch.com/2012/04/05/with-jobs-act-becoming-law-crowdfunding-platforms-look-to-create-self-regulatory-body/">Crowdfunding</a> expands the number and types of investors legally allowed to fund a startup, which was ratified last april with Jumpstart Our Business Startups ACt</li>
+<li><a target="_blank" href="http://en.wikipedia.org/wiki/Leahy-Smith_America_Invents_Act">The America Invents Act</a> was the first major overhaul of the patent system since 1952 and attempted to solve ongoing problems with intellectual property in the 21st century.</li>
+<li>As an editorial side note, Obama takes the cake on eloquence (or maybe &#8220;pandering,&#8221; depending on your political persuasion). In his conclusion, he writes, &#8220;That is the legacy of Edison and Bell. That is the story of Google and Twitter. That is what landed NASA’s Curiosity on Mars, reminding us that our preeminence — not just in space. but here on Earth — depends on investing wisely in the innovation, technology, and basic research that has always made the United States the envy of the world.&#8221;</li>
+</ul>
+<p><strong>Romney</strong></p>
+<ul>
+<li>High-skilled immigration is seen as a major need for the tech industries dearth of engineers, but <a href="http://techcrunch.com/2012/09/20/meritocracy-vs-diversity-impasse-stalls-last-hope-for-immediate-immigration-reform/">Congress has so-far failed to enact meaningful reform</a>.</li>
+<li>Romney&#8217;s so-called &#8220;Reagan Economic Zone&#8221; is a <a target="_blank" href="http://www.boston.com/bostonglobe/editorial_opinion/blogs/the_angle/2011/09/on_internationa.html">plan</a> to create something like the World Trade Organization for countries who &#8220;embrace free enterprise,&#8221; which Romney later clarified as an <a target="_blank" href="http://usatoday30.usatoday.com/news/opinion/forum/story/2011-09-05/Romney-My-10-point-plan-to-create-American-jobs/50265720/1">explicit jab</a> at China in a <em>USA Today</em> op-ed.</li>
+<li>Many influential technologists <a href="http://techcrunch.com/2012/07/26/father-of-the-internet-vint-cerf-says-government-gets-credit-for-inventing-web/">credit</a> government funding with the creation of the Internet. However, Romney says that we should not &#8220;pick winners and losers,&#8221; which is perhaps a nod at new programs like those of the Small Business Association, which funds technology startups outside of the typical regions (i.e. California, New York).</li>
+</ul>
+<p>Both letters are pasted below from the NYTechMeetup <a target="_blank" href="http://nytm.org/blog/entry/12-09-2012/letters-to-the-nytm-community-from-president-obama-and-governor-romney">website</a>:</p>
+<p>ROMNEY ========================================<br />
+Dear Andrew,<br />
+Thank you to you and your members for your interest in my policies for<br />
+promoting technological innovation and business start-ups. While the<br />
+private sector is far more effective at pursuing and applying<br />
+innovation than government could ever be, I do believe that there are<br />
+key areas in which government policy must strengthen the ability of<br />
+the private sector to innovate effectively.<br />
+Over the course of my campaign, I have laid out a detailed economic<br />
+plan that seeks to strengthen the American economy by empowering<br />
+entrepreneurs and workers and rewarding innovation. This plan<br />
+emphasizes critical structural adjustments to promote growth rather<br />
+than short-term fixes.<br />
+Human Capital. We must reform America’s legal immigration system to<br />
+attract and retain the best and the brightest, and equip more<br />
+Americans with the skills to succeed. I will raise visa caps for<br />
+highly skilled foreign workers, offer permanent residence to foreign<br />
+students graduating with advanced degrees in relevant fields, and<br />
+restructure government retraining programs to empower individual<br />
+workers and welcome private sector participation.<br />
+Taxes. We must pursue fundamental tax reform that simplifies the tax<br />
+code, broadens the tax base, and lowers tax rates. I will lower the<br />
+corporate tax rate to 25 percent, strengthen and make permanent the<br />
+R&amp;D tax credit, and transition to a territorial tax system. I will cut<br />
+individual income tax rates across the board, and maintain today’s low<br />
+tax rates on investment. And I will ensure that these changes are made<br />
+permanent so that investors and entrepreneurs are not confronted with<br />
+a constantly shifting set of rules.<br />
+Regulation. We must reduce the power of unaccountable regulators by<br />
+requiring that all major regulations receive congressional approval<br />
+and by imposing a regulatory cap that prevents the addition of new<br />
+regulatory costs. In a Romney Administration. agencies will have to<br />
+limit the costs they are imposing on society and recognize that their<br />
+job is to streamline and reduce burdens, not to add new ones.<br />
+Trade. We must open new markets for American businesses and workers. I<br />
+will create a Reagan Economic Zone encompassing nations committed to<br />
+the principles of free enterprise. At the same time I will confront<br />
+nations like China that steal intellectual property from American<br />
+innovators while closing American access to their markets.<br />
+Education. America‘s K-12 education system lags behind other developed<br />
+nations, and while our higher education system remains the envy of the<br />
+world its costs are spiraling out ofcontrol. We must pursue genuine<br />
+education reform that puts the interests of parents and students ahead<br />
+of special interests and provides a chance for every child. I will<br />
+take the unprecedented step of tying federal funds directly to<br />
+dramatic reforms that expand parental choice, invest in innovation,<br />
+and reward teachers for their results instead of their tenure. I will<br />
+also ensure that students have diverse and affordable options for<br />
+higher education to give them the skills they need to succeed after<br />
+graduation.<br />
+Basic Research. President Obama‘s misguided attempts to play the role<br />
+of venture capitalist, pick winners and losers, and spend tens<br />
+ofbillions of dollars on politically-prioritized investments have been<br />
+a disaster for the American taxpayer. Yet at the same time, we must<br />
+never forget that the United States has moved forward in astonishing<br />
+ways thanks to national investment in basic research and advanced<br />
+technology. As president. I will focus government resources on<br />
+research programs that advance the development of knowledge, and on<br />
+technologies with widespread application and potential to serve as the<br />
+foundation for private sector innovation and commercialization.<br />
+Many of these policies may seem like common sense, yet they are ones<br />
+that our nation is failing to pursue today and ones that our President<br />
+has put on the back burner while trying his own hand at playing<br />
+venture capitalist and focusing on government-led growth. The results<br />
+are plain to see in a failed economic recovery that continues to<br />
+produce extraordinarily disappointing growth and job creation As<br />
+president, I will emphasize policies that once again make America the<br />
+best place in the world to make a discovery, start a business, hire a<br />
+worker, or find a job.<br />
+Sincerely,<br />
+Mitt Romney</p>
+<p>OBAMA ========================================<br />
+Dear Members of NY Tech Meetup:<br />
+Thank you for carrying forward the entrepreneurial spirit that makes<br />
+us a nation of doers, dreamers and risk takers. You understand that<br />
+innovation and job creation occur when we make smart investments in<br />
+infrastructure and technology and build an environment that encourages<br />
+entrepreneurs to change the way we live and work.<br />
+Together we’ve used that bedrock American belief to recover and<br />
+rebuild from the worst economic crisis in a generation. Today,<br />
+entrepreneurship is at record levels and the number of business<br />
+startups is up almost 10 percent since my first year in office. And<br />
+this past Friday, we learned the unemployment rate has fallen to its<br />
+lowest level since I took office. As inventors, makers and thinkers<br />
+you’ve helped get us here, believing that if anyone has a solid plan<br />
+and is willing to work hard and play by the rules, we can turn any<br />
+idea into something.<br />
+I believe it, too. That’s why I’ve been laying the foundation for an<br />
+economy built to last through investments in infrastructure and<br />
+technology. We’re expanding broadband networks to connect businesses<br />
+large and small with markets around the World. The health care law<br />
+invests in our health IT infrastructure, improving the delivery and<br />
+management of care. Wall Street reform put a consumer protection cop<br />
+on the beat, using technology to help consumers understand their<br />
+rights when buying a home or using a credit card.<br />
+Across your government, we’ve used technology to bridge the offline<br />
+and online divide to empower citizens and build a more participatory<br />
+democracy. On my first day in office I created the position of U.S.<br />
+Chief Technology Officer so we can pursue new open data initiatives to<br />
+unleash unprecedented volumes of government data related to energy,<br />
+education, international development, public safety and other areas.<br />
+We’re unlocking our resources to fuel new products, companies and<br />
+industries and connect the next generation of entrepreneurs to freely<br />
+available government data, while rigorously protecting and respecting<br />
+privacy rights. And we recently announced the first class of<br />
+“Presidential Innovation Fellows,” talented private sector innovators<br />
+who will spend six months in Washington partnering up with the<br />
+govemment’s top innovators to meet straightforward goals: improve the<br />
+lives of the American people, save taxpayer dollars and fuel job<br />
+creation across the country.<br />
+This past April, I also signed a law to help high-growth entrepreneurs<br />
+and small businesses harness “crowdfunding” to raise capital<br />
+consistent with investor protections and make it easier for young,<br />
+high- growth firms to go public. I also launched the Startup America<br />
+Partnership to improve the environment for high-growth<br />
+entrepreneurship across the country. I encourage you to join, as we’re<br />
+focusing on unlocking access to capital to fuel startup growth,<br />
+connecting mentors and education to entrepreneurs, accelerating<br />
+innovation from “lab to market” for breakthrough technologies and<br />
+unleashing market opportunities in industries like health care, clean<br />
+energy and education.<br />
+I signed patent reform into law to help American entrepreneurs bring<br />
+inventions to market sooner, leading to new businesses, jobs and<br />
+industries. But that also depends on a regulatory system that supports<br />
+our homegrown innovations. That’s why I’ll continue to stand by you to<br />
+protect the openness of the Intemet while still enforcing intellectual<br />
+property rights.<br />
+But investments in human capital remain our strongest economic asset.<br />
+We have a start-up visa program that’s allowing foreign entrepreneurs<br />
+to establish businesses in America and create American jobs. And I<br />
+have set concrete goals to create an economy built to last, including<br />
+recruiting 100,000 math and science teachers over the next 10 years<br />
+and training 2 million workers at connnunity colleges for jobs in<br />
+fields like health care, advanced manufacturing clean energy and<br />
+information technology.<br />
+As a nation. we can’t simply cut our way to prosperity or fall back to<br />
+the top-down, trickle-down economics that benefits the few, but guts<br />
+investments in our country&#8217;s future that grow our economy — and your<br />
+startups. But that’s the choice in this election between two<br />
+fundamentally different paths for our country, between moving forward<br />
+and falling back.<br />
+As your president, I will continue to stand by you because if we<br />
+combine our creativity. our innovation and our optimism, we can<br />
+achieve anything. And the reason I’ve never been more optimistic about<br />
+the future is because of all of you. You’ll be the next entrepreneur<br />
+to turn a big idea into something — a new invention or an entire new<br />
+industry. That’s the promise of America; that’s what this country is<br />
+all about.<br />
+That is the legacy of Edison and Bell. That is the story of Google and<br />
+Twitter. That is what landed NASA’s Curiosity on Mars, reminding us<br />
+that our preeminence — not just in space. but here on Earth — depends<br />
+on investing wisely in the innovation, technology, and basic research<br />
+that has always made the United States the envy of the world.<br />
+So keep doing and dreaming and moving our country forward.<br />
+Sincerely,<br />
+Barack Obama</p>
+<p>Image Credit: <a target="_blank" href="http://en.wikipedia.org/wiki/File:WhiteHouseSouthFacade.JPG">Matt H. Wade/Wikimedia</a></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/KmxOVjAY7BU/">here</a>.
