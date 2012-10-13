@@ -128034,3 +128034,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Kleiner-Perkins-On-The-Past,-Present-And-Future Kleiner Perkins On The Past, Present And Future
+Git - Stdout: [master 1e222fd] adding new article
+ 2 files changed, 90 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1350144029000_670967.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   4c1b89e..1e222fd  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
