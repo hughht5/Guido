@@ -125330,3 +125330,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Prepare-To-Pay-For-Your-Privacy Prepare To Pay For Your Privacy
+Git - Stdout: [master 0f57cc0] adding new article
+ 3 files changed, 49 insertions(+), 1 deletions(-)
+ create mode 100644 articles/1350133224000_671594.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   0fb8435..0f57cc0  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
