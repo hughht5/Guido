@@ -144288,3 +144288,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/SNL%E2%80%99s-Sketch-Pits-iPhone-5-Factory-Workers-Problems-Against-The-Tech-Critics SNL’s Sketch Pits iPhone 5 Factory Workers Problems Against The Tech Critics
+Git - Stdout: [master 9fcd1da] adding new article
+ 2 files changed, 45 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1350208927000_674042.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   d3eeb6d..9fcd1da  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
