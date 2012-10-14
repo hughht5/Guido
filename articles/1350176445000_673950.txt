@@ -1,0 +1,37 @@
+{
+"title" : "Avoiding Unnecessary Charges While Traveling Internationally With An iPhone",
+"date" : "Sun, 14 Oct 2012 01:00:45 +0000",
+"author" : "Brenden Mulligan"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/international-iphone.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="international-iphone" title="international-iphone" style="float: left; margin: 0 10px 7px 0;" /><p><strong>Editor’s Note:</strong><em> <a target="_blank" href="http://twitter.com/mulligan">Brenden Mulligan</a> is an avid traveler and entrepreneur who created Onesheet, Webbygram, TipList, ArtistData, MorningPics, and PhotoPile. You can find him on Twitter at <a target="_blank" href="http://twitter.com/mulligan">@mulligan</a>.</em><em> </em></p>
+<p>In my opinion, the smartphone is the greatest travel tool ever created. They enable you to be in a completely foreign place, yet immediately have access to maps, directions, restaurant recommendations, and more.</p>
+<p>Unfortunately, consuming data while roaming tends to get extremely expensive very quickly. Recently, U.S. carriers have become <a target="_blank" href="http://www.engadget.com/2012/05/31/att-cuts-prices-on-international-data-roaming/">a lot more reasonable</a> with data plans, but it&#8217;s far from perfect. Usually, you pay about $25 for 100 MBs of data. In comparison, Verizon charges $70 for 4,000 MBs of data in the U.S. So 100 MBs tend to get used up quickly, especially if you use media-intensive apps like Instagram, Facebook, or Path.</p>
+<p>In addition, international calling and texting plans tend to be really expensive, even if you aren&#8217;t actually trying to use them. At least with AT&amp;T, you are charged when someone leaves you a voicemail, regardless if you wait until returning home to listen to the voicemail. To me, that&#8217;s crazy. If someone leaves you a 10-minute voicemail, you pay $10.</p>
+<p>There are some small settings on your iPhone you can change to protect yourself from unnecessary charges while traveling. Here are the ones I toggle when going out of the country (NOTE: all instructions are done with iOS 6):</p>
+<p><strong>Call the carrier to activate an international plan</strong></p>
+<p>This seems obvious but sometimes people forget to do it. You need to tell your carrier you&#8217;ll be traveling so they can put you on a data-roaming plan. If you forget to do this, some carriers will let you add it after and set the start date, but better to take care of this beforehand. Otherwise, things get very very expensive.</p>
+<p><strong>Forward your phone to a Google Voice account</strong></p>
+<p>To avoid any chance of voicemail/call charges, I set up a free Google Voice number and forward my phone to that number. That way, if people call, they can leave a message and then I get an email with the transcription from Google.</p>
+<p><em>To <a target="_blank" href="http://support.apple.com/kb/HT4515">turn on call forwarding on your iPhone</a> if you&#8217;re on a GSM carrier, go to Settings → Phone → Call Forwarding. If you&#8217;re on a CDMA carrier like Verizon, you need to look it up on their website. <a target="_blank" href="http://support.verizonwireless.com/clc/devices/knowledge_base.html?id=17268">For Verizon, you dial *72 + your number to set, and *73 to cancel</a>.</em></p>
+<p><strong>Reset your Cellular Data Usage count</strong></p>
+<p>Your iPhone keeps track of how much cellular data you are using. Once your flight takes off, reset this count so you can keep track of how much you are using internationally. I usually check this every day or so just to see how close I am to hitting the limit.</p>
+<p><em>To reset this count, go to Settings → General → Usage → Cellular Usage (at bottom) → Reset Statistics.</em></p>
+<p><strong>Turn off Load Remote Images when receiving email</strong></p>
+<p>Most carrier roaming plans make it possible to send/receive email and iMessages without worrying about ever going over your limit. But attachments and remote images can make email a more data-intensive task. So I turn off the Load Remote Images setting.</p>
+<p><em>To toggle Load Remote Images, go to to Settings → Mail → Load Remote Images</em></p>
+<p><strong>Turn off Send as SMS for iMessage</strong></p>
+<p>iMessage is an international traveler&#8217;s dream. You can be anywhere in the world and text message for free with a large amount of people. This is especially nice because carriers charge an outrageous amount for international text messages. While you can&#8217;t stop SMS messages from coming in (which I think is criminal), you can stop them from being sent in one case.</p>
+<p>By default, if an iMessage fails to send, your phone will send it as an SMS. This is fine when home, but when traveling, it can get expensive. Turn this off when on the road.</p>
+<p><em>Go to Settings → Messages → Send as SMS</em></p>
+<p><strong>Only use Facetime on Wi-Fi</strong></p>
+<p>Facetime has recently been enabled to work with a cellular connection. You might want to go ahead and turn this off while traveling, just in case you don&#8217;t realize it&#8217;s a call coming through when you&#8217;re not on Wi-Fi.</p>
+<p><em>Go to Settings → Facetime → Use Cellular Data Off</em></p>
+<p><strong>Turn off 3G data transfers in individual apps</strong></p>
+<p>If you have data-intensive apps, such as music streaming apps, you might be able to set them only to sync data when connected via Wi-Fi. In Rdio specifically you can set it to only sync a collection while on Wi-Fi (Rdio → Settings → Advanced → Allow 3G Syncing Off). If you forget to do this, you might find your cellular data skyrocket while it pulls down new albums you&#8217;ve tagged.</p>
+<p>Of course, this last tip all depends on what you use. Just look at the apps you have and be smart about it.</p>
+<p><strong>Reverse everything when you get back</strong></p>
+<p>When you return home, just go through the above list and reverse everything. And don&#8217;t forget to call the carrier and turn the plan off, or they&#8217;ll keep charging you a monthly international charge.</p>
+<p>Happy traveling!</p>
+<p><a target="_blank" href="http://www.idownloadblog.com/2009/04/23/tips-traveling-internationally-iphone/">Photo Credit</a></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/4B2vio2rImE/">here</a>.
