@@ -1,0 +1,32 @@
+{
+"title" : "6 Tips To Get Your Startup Off The Ground And Score A Seed Round",
+"date" : "Sun, 14 Oct 2012 19:00:27 +0000",
+"author" : "Anthemos Georgiades"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/anthemos-georgiades.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Anthemos Georgiades" title="Anthemos Georgiades" style="float: left; margin: 0 10px 7px 0;" /><p><strong>Editor&#8217;s note:</strong> <em>Anthemos Georgiades is the CEO of Zumper, a new platform for apartment rentals being built from the ground up. Prior to Zumper he worked at the Boston Consulting Group and as an Economic Advisor in British politics. You can follow him on <a target="_blank" href="https://en.twitter.com/anthemos">Twitter</a>.</em></p>
+<p><a target="_blank" href="http://www.zumper.com/">Zumper</a>’s seed round story is far from perfect. Like most first-time founders, we screwed stuff up at every stage, from having no estimation of what valuation cap we should set, through to really stupid meeting scheduling, which led us to take several quite important calls from our Zipcar. Which echoed. A lot.</p>
+<p>Despite the challenges, we got there and are now humbled to work alongside <a href="http://techcrunch.com/2012/09/27/zumper-seed-round-1m/">a set of fantastic investors</a>.</p>
+<p>Below are some simple and hopefully immediately applicable lessons I drew from the experience of raising the round. There’s no magic formula, and the right approach will of course vary across investor classes and industries, but these lessons are consistent with those we hear from other founding friends.</p>
+<h5>1. <b>Go In Warm</b></h5>
+<p>Super simple, but super important. VCs and angels pay significantly more attention to investment decks or emails they receive that come with the token ‘please meet this great entrepreneur’ from a peer or friend of theirs.</p>
+<p>Use any means possible to get this warm intro. LinkedIn is an obvious starting place. An awkward email to your ex-girlfriend or boyfriend might be another. Hell, find me if I can help. Hustle. Hustle. Hustle. It’s a lot harder to grab their attention once you’re consigned to their ‘Other’ Inbox.</p>
+<h5><b>2. Show Data</b></h5>
+<p>There was a <a href="http://techcrunch.com/2012/09/30/you-dont-need-a-prototype-to-raise-a-seed-round/">recent article on TechCrunch</a> that argued that you don’t need to present a prototype to raise a seed round.</p>
+<p>I couldn’t disagree more.</p>
+<p>If you’re a tried and tested entrepreneur you may get away without a product or traction. But if you’re like the majority of founders, you’ll need to show that you’ve tested a couple of hypotheses and that there’s a real market opportunity out there. It’s easy to build and test a minimum viable product these days.</p>
+<p>We spent 50 percent of our time in VC meetings discussing one of our 14 slides. This particular slide – in simple graphics – portrayed the uptick we’d created for clients using our alpha site. That one slide dominated every conversation and helped us pitch the end-game of where we could be in five years.</p>
+<h5><b>3. Absolutely Don’t Tell VCs You’re Going To Crush It</b></h5>
+<p>Instead of telling them that your market is a $10 billion opportunity (watch them yawn), focus on explaining why you think that opportunity still exists. Why haven’t other startups eaten up this space, and how are you going to address these barriers?</p>
+<p><a target="_blank" href="http://www.youtube.com/watch?v=D73mm29XXAw">Humility and confidence are friends, not enemies</a>. A professor once told my graduating class that. That’s so true.</p>
+<h5><b>4. You Are Going To Get Rejected</b></h5>
+<p>A couple of years ago I had the privilege of working as an intern for Niklas Zennström, founder of Skype, now founder of Atomico Ventures. One story he told blew my mind: Skype was rejected countless times by investors before being backed. <em>Skype</em>.</p>
+<p>This is not to say you’ll definitely raise money. It’s not easy out there, and 2013 might be harder still. But, if you do get a series of early rejections, don’t necessarily give up.</p>
+<p>We were rejected several times. Some VCs told us we were too early; others told us that our market was too small. I promise that you’ll hear this. Don’t be put off until you have consistently heard the same advice multiple times. Just don’t give up early. Some of our earliest rejections are now interested in what we’re doing again.</p>
+<h5><b>5. Negotiate And Close Fast</b></h5>
+<p>First, don’t be afraid to ask investors to match the best offer you have. We improved our valuation cap by 50 percent in 48 hours by rallying our investors behind the most favorable term sheet on the table. It’s tough to go up against big VCs, but if they like you, they like you. The negotiation on valuation means less to VCs in the early stages than it will to you and your team. Play up to that imbalance. It favors you, not them.</p>
+<p>Second, &#8220;yes&#8221; does not mean &#8220;yes.&#8221; Put the Champagne back on ice. It took us four times as long to close our seed round as it did to get verbal commitments. The whole process took five months. That’s quite skewed as we had a series of VCs in our round &#8211; a different proposition to having a couple of angels &#8211; but in general it’s a fair warning. The legal back and forth takes time. Investors can be less responsive about the ‘boring’ stuff. Move quickly and get it done.</p>
+<h5><b>6. Day One Is Also Day Zero</b></h5>
+<p>You’re funded, and the money’s in the bank. What happens tomorrow? You’re raising again.</p>
+<p>From the day you’re funded, you’re raising your next round. Send monthly updates to your investors. Hang out at their events and get to know them. And don’t be scared to ask for help. I’m sure Zumper’s investors would agree that I’ve been pretty aggressive about asking them for support. Investors will respect you more as a founder if you admit there are various problems you need their help to solve. Humility is king.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/Lvgl2YI3mzE/">here</a>.
