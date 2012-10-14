@@ -151596,3 +151596,37 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Why-Startups-Are-Helping-The-Economy-More-Than-You-Think Why Startups Are Helping The Economy More Than You Think
+tweeted : http://www.techcrunchlite.com/2012/10/Why-Startups-Are-Helping-The-Economy-More-Than-You-Think Why Startups Are Helping The Economy More Than You Think
+Git - Stdout: [master 48e3dfd] adding new article
+ 5 files changed, 62 insertions(+), 3 deletions(-)
+ create mode 100644 articles/1350237608000_673936.txt
+ create mode 100644 articles/1350238046000_674110.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   60aadcc..48e3dfd  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
