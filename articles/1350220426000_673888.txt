@@ -1,5 +1,5 @@
 {
-"title" : "“Toilets Are Just Like Facebook”, A NSFW Video Parody Of Facebook’s Chair Ad",
+"title" : "“Toilets Are Like Facebook”, A NSFW Video Parody Of Facebook’s Chair Ad",
 "date" : "Sun, 14 Oct 2012 13:13:46 +0000",
 "author" : "Matt Burns"
 }
