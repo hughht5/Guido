@@ -153914,3 +153914,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Report:-Europe-Inching-Closer-To-Fining-Microsoft-Billions-Over-Failure-To-Offer-Internet-Explorer-Alternatives Report: Europe Inching Closer To Fining Microsoft Billions Over Failure To Offer Internet Explorer Alternatives
+Git - Stdout: [master e1b73b0] adding new article
+ 2 files changed, 44 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1350247344000_674190.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   6bc673d..e1b73b0  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
