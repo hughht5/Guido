@@ -1,0 +1,13 @@
+{
+"title" : "Alleged AT&T Training Document Suggests ISPs Prepping Anti-Piracy Moves",
+"date" : "Sun, 14 Oct 2012 10:29:43 +0000",
+"author" : "Mike Butcher"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/attcopyrightinfrnotimp.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="attcopyrightinfrnotimp" title="attcopyrightinfrnotimp" style="float: left; margin: 0 10px 7px 0;" /><p>A document <a target="_blank" href="http://torrentfreak.com/att-starts-six-strikes-anti-piracy-plan-next-month-will-block-websites-121012/">alleged by TorrentFreak</a> to be leaked AT&amp;T training materials suggests that the RIAA is about to get real about piracy with significant actions on the ground, in concert with the operator.</p>
+<p>According to the alleged document, notifications will be sent out to AT&amp;T customers on November 28th about the change in policy. Anyone suspected of engaging in illicit downloads will get an email alerting them to the possible copyright infringement. </p>
+<p>There has been earlier evidence of a plan for a &#8216;six-stage&#8217; notification system. The document mentions this. Anyone continuing to access &#8220;many of the most frequently visited websites&#8221; will find their service restricted &#8211; that means blocking web sites.</p>
+<p>People violating the terms will &#8211; at least according to this alleged document &#8211; end up needing to complete an online tutorial about copyright to have the restrictions to their service removed. There&#8217;s also a suggestion that the alerts may eventually result in a lawsuit.</p>
+<p>It&#8217;s worth noting that AT&amp;T is part of the MPAA and RIAA-backed Center for Copyright Information, and other members include Verizon, Comcast, Time Warner Cable and Cablevision. </p>
+<p></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/-WU_5TU8hog/">here</a>.
