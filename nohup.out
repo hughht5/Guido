@@ -147112,3 +147112,34 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Git - Stdout: [master d24c101] adding new article
+ 1 files changed, 30 insertions(+), 0 deletions(-)
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   b318d54..d24c101  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 1 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/%E2%80%9CToilets-Are-Just-Like-Facebook%E2%80%9D,-A-NSFW-Video-Parody-Of-Facebook%E2%80%99s-Chair-Ad “Toilets Are Just Like Facebook”, A NSFW Video Parody Of Facebook’s Chair Ad
