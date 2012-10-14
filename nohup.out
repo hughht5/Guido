@@ -154816,3 +154816,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Why-You-Shouldn%E2%80%99t-Build-A-Business-On-An-API-Call Why You Shouldn’t Build A Business On An API Call
+Git - Stdout: [master 3e47ef6] adding new article
+ 3 files changed, 47 insertions(+), 1 deletions(-)
+ create mode 100644 articles/1350248440000_672619.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   4a79efc..3e47ef6  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
