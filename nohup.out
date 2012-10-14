@@ -151172,3 +151172,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Watch-Felix-Baumgartner-Live:-This-Scientific-Discovery-Brought-To-You-By-Mentos,-The-Freshmaker Watch Felix Baumgartner Live: This Scientific Discovery Brought To You By Mentos, The Freshmaker
+Git - Stdout: [master fcd7e2b] adding new article
+ 2 files changed, 44 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1350236271000_674160.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   1608369..fcd7e2b  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
