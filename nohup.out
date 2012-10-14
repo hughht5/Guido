@@ -139756,3 +139756,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/A-Founder%E2%80%99s-Guide-To-Replacing-Yourself:-A-Few-Weeks-Ago-I-Made-My-Toughest-HR-Decision-Yet-%E2%80%94-I-Fired-Myself A Founder’s Guide To Replacing Yourself: A Few Weeks Ago I Made My Toughest HR Decision Yet — I Fired Myself
+Git - Stdout: [master de818f6] adding new article
+ 2 files changed, 63 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1350190807000_672810.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   280fa6d..de818f6  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
