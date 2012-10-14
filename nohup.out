@@ -136150,3 +136150,37 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Angel-Investors-Do-Make-Money,-Data-Shows-2.5X-Returns-Overall Angel Investors Do Make Money, Data Shows 2.5X Returns Overall
+tweeted : http://www.techcrunchlite.com/2012/10/Angel-Investors-Do-Make-Money,-Data-Shows-2.5X-Returns-Overall Angel Investors Do Make Money, Data Shows 2.5X Returns Overall
+Git - Stdout: [master 036a1a1] adding new article
+ 3 files changed, 96 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1350172852000_672039.txt
+ create mode 100644 articles/1350176445000_673950.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   a9324da..036a1a1  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
