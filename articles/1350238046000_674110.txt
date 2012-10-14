@@ -1,0 +1,11 @@
+{
+"title" : "Google Actually Considered Sending Felix Baumgartner To Space With Google Glass",
+"date" : "Sun, 14 Oct 2012 18:07:26 +0000",
+"author" : "Drew Olanoff"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/7465168738_15f5d3c9bb_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="7465168738_15f5d3c9bb_z" title="7465168738_15f5d3c9bb_z" style="float: left; margin: 0 10px 7px 0;" /><p>According to a conversation on Twitter between <a target="_blank" href="https://twitter.com/dannysullivan">Danny Sullivan</a> and a member of YouTube staff, Google considered sending <a href="http://techcrunch.com/2012/10/14/watch-felix-baumgartner-live-this-scientific-discovery-brought-to-you-by-mentos-the-freshmaker/">Felix Baumgartner to space for his jump</a> with a pair of Google Glass.  That would have been awesome.</p>
+<blockquote class='twitter-tweet' lang='en'><p>@<a href="https://twitter.com/dannysullivan">dannysullivan</a> @<a href="https://twitter.com/RedBullStratos">RedBullStratos</a> we discussed it but other factors prevented that from being safely deployed.</p>&mdash; <br />&nbsp; (@golding) <a href='http://twitter.com/#!/golding/status/257539727786397697' data-datetime='2012-10-14T17:53:50+00:00'>October 14, 2012</a></blockquote>
+<p>Not only would it have been a great use of Google Glass, but it would have given us a perspective that only Felix himself would ever see.</p>
+<p>[Photo credit: <a target="_blank" href="http://www.flickr.com/photos/mariachily/7465168738/">Flickr</a>]</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/hnxUzZB0DgA/">here</a>.
