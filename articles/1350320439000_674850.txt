@@ -1,0 +1,11 @@
+{
+"title" : "Google Rolls Out New Developers Console For Play",
+"date" : "Mon, 15 Oct 2012 17:00:39 +0000",
+"author" : "Klint Finley"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/03/google-play-logo.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="google-play-logo" title="google-play-logo" style="float: left; margin: 0 10px 7px 0;" /><p>Google previewed new version of the developer console for its Google Play app and media store at its annual I/O conference in June. The new version has been in private beta ever since, but as of today all developers can opt-in to the new console.</p>
+<p>To try it out either click &#8220;Try the new version&#8221; from header of your existing console, or <a target="_blank" href="https://play.google.com/apps/publish/v2/">just click right here</a>. But although Google is making it available to all developers, it&#8217;s not finished yet and there are some features missing, including: multiple APK support, APK Expansion Files and announcements.</p>
+<p>So why upgrade if there are features missing? The new version includes a new interface that Google claims loads faster and is easier to navigate, but the expanded analytics features are probably the most important additions. The new version can display graphs showing how user ratings have changed over time, broken down by device, country, language, carrier, Android version and app version.</p>
+<p>The new console also has a revamped publishing process, the ability to publish apps in 49 languages and the ability to autotranslate into different languages.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/_NRHWbSPvXc/">here</a>.
