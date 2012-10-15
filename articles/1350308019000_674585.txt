@@ -1,5 +1,5 @@
 {
-"title" : "Paperless Post Goes Retro And Begins Paper, A New Invitation Printing Business",
+"title" : "Paperless Post Goes Retro And Launches Paper, A New Invitation Printing Business",
 "date" : "Mon, 15 Oct 2012 13:33:39 +0000",
 "author" : "Ingrid Lunden"
 }
@@ -15,5 +15,6 @@
 <p>It&#8217;s also a question of business models: up to now Paperless Post has made money through the sale of premium services around its non-printed invitations &#8212; extra features on the invites and so on.</p>
 <p>But as Alexa says, &#8220;One of the great things about paper is that we can be more valuable,&#8221; by offering a larger margin on the printed product than it offers online.</p>
 <p>While PAPER is bound to keep evolving, the Hirschfelds also note that they are continuing to develop what they are offering users online. Currently, for example, paper invites are separate from the online invites, and there is no unique URL connecting those. &#8220;But they are coming,&#8221; says Alexa.</p>
-<p>The move into printing has been a learning curve of sorts for the Hirschfelds. On the one hand, the printing revolution, where companies like HP have created devices that are smaller and smaller but make better and better prints, has given companies like Paperless Post a much easier, and less expensive, entry into the market. Still, they to find the right printer to work with and the right price point with the right amount of flexibility for their service. Potentially, if they get it right, that could be used to print more than stationary someday.</p></div>
+<p>The move into printing has been a learning curve of sorts for the Hirschfelds. On the one hand, the printing revolution, where companies like HP have created devices that are smaller and smaller but make better and better prints, has given companies like Paperless Post a much easier, and less expensive, entry into the market. Still, they to find the right printer to work with and the right price point with the right amount of flexibility for their service. Potentially, if they get it right, that could be used to print more than stationary someday.</p>
+<p></div>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/kvkkyYDiZjM/">here</a>.
