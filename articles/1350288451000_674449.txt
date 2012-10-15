@@ -1,0 +1,11 @@
+{
+"title" : "Softbank Confirms It Is Buying 70% Of Sprint For $20.1B",
+"date" : "Mon, 15 Oct 2012 08:07:31 +0000",
+"author" : "Ingrid Lunden"
+}
+
+<p>Softbank has <a target="_blank" href="http://webcast.softbank.co.jp/en/pdf/20121015_01/20121015_01.pdf">confirmed</a> the news that it is buying Sprint for $20.1 billion. The announcement comes just ahead of Sprint holding a conference call to also announce the news.</p>
+<p>More to come. Full announcement below.</p>
+<iframe class="scribd_iframe_embed" src="http://www.scribd.com/embeds/110041468/content?start_page=1&view_mode=&access_key=key-ey1wra4klfu7d3rshs3" data-auto-height="true" scrolling="no" id="scribd_110041468" width="100%" height="500" frameborder="0"></iframe>
+<div style="font-size:10px;text-align:center;width:100%"><a href="http://www.scribd.com/doc/110041468">View this document on Scribd</a></div>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/CicbMCB89bQ/">here</a>.
