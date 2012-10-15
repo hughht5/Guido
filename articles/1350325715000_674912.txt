@@ -1,0 +1,14 @@
+{
+"title" : "Report: Cloud Storage Services Now Have Over 375M Users, Could Reach 500M By Year-End",
+"date" : "Mon, 15 Oct 2012 18:28:35 +0000",
+"author" : "Frederic Lardinois"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/cloud_storage.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="cloud_storage" title="cloud_storage" style="float: left; margin: 0 10px 7px 0;" /><p>According to market intelligence firm <a target="_blank" href="http://www.isuppli.com/">iHS iSuppli</a>, the market for paid and free cloud storage services continues to grow rapidly and the total number of Internet users who use paid and free cloud storage services is currently around 375 million. By year-end, the company&#8217;s analysts say, that number will likely reach 500 million and by 2013, the company projects, about 625 million Internet users will use these services.</p>
+<p>iSuppli admits that it&#8217;s hard to get precise numbers for personal online storage subscriptions, so it&#8217;s probably wise to take these numbers with a grain of salt. iSuppli also notes that it doesn&#8217;t have any firm numbers for 2011 because &#8220;it was relatively new and untested.&#8221; The company&#8217;s best estimate, however, is that there were about 150 million Internet users who subscribed to a cloud storage service in 2011.</p>
+<p><a href="http://techcrunch.com/?attachment_id=674917" rel="attachment wp-att-674917"></a></p>
+<p>As IHS&#8217;s director of consumer and communications Jagdish Rebello rightly notes in a canned statement today, though, &#8220;the cloud is a game changer in an age of near-ubiquitous mobile broadband, offering benefits to consumers and cloud service providers alike.&#8221;</p>
+<h2>&#8220;Independent providers will find it extremely difficult to remain financially viable.&#8221;</h2>
+<p>Today&#8217;s report also argues that offering cloud storage can still be costly for both technology giants like Microsoft, Google and Apple and startups like Dropbox, SugarSync and Mozy. Pure cloud offerings, IHS&#8217;s analysts believe, will continue to lose money&#8221; and independent providers will find it extremely difficult to remain financially viable.&#8221;</p>
+<p>While more diversified companies like Google and Microsoft can look at cloud storage as a loss leader, startups are forced to offer relatively generous amounts of free storage space to their users. The IHS report, however, also notes that this creates an opportunity for these pure-play providers to, for example, partner with mobile network operators.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/dZ-YCClhCdo/">here</a>.
