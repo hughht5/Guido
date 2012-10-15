@@ -1,0 +1,16 @@
+{
+"title" : "Tweetie Creator Loren Brichter’s Next Act: Atebits 2.0 To “Make Fun And Useful Things” [Like Games]",
+"date" : "Mon, 15 Oct 2012 21:49:49 +0000",
+"author" : "Romain Dillet"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-15-at-5-50-41-pm.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-10-15 at 5.50.41 PM" title="Screen Shot 2012-10-15 at 5.50.41 PM" style="float: left; margin: 0 10px 7px 0;" /><p>Tweetie creator and UX mentor Loren Brichter just announced a new project, <a target="_blank" href="http://www.atebits.com/news/atebits-2-0/">Atebits 2.0</a>. Atebits was the name of his previous company that was bought by Twitter in 2010. He announced as well that his first project will be a game.</p>
+<p>In November 2011, Brichter announced that he would <a href="http://techcrunch.com/2011/11/04/loren-brichter-creator-of-official-twitter-apps-for-mac-and-iphone-leaves-twitter/">leave</a> Twitter for other projects. Now we finally know what he is up to, and it seems to be a return to his previous endeavours.</p>
+<p>His app has been in review for 11 days now according to his personal Twitter account:</p>
+<p>[twitter 257866744796958720]</p>
+<p>Here is the full blog post:</p>
+<blockquote><p>In 2007 I left Apple and started my own company. In 2010 that company was acquired by Twitter. Today I&#8217;m giving it another shot. Say hello to atebits 2.0.</p>
+<p>My goal is simple. Make things. Fun things, useful things, new things, improved things. Some may be popular, some may be failures. But I love creating, so that&#8217;s what I&#8217;m going to do.</p>
+<p>The first thing will be an app and that app will be a game. Can&#8217;t wait to share it with you.</p></blockquote>
+<p><i>Developing…</i></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/avFkmbAyyS4/">here</a>.
