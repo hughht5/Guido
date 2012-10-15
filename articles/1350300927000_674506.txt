@@ -1,5 +1,5 @@
 {
-"title" : "Calling All Young Entrepreneurs: Applications Open for Peter Thiel’s 2013 ’20 Under 20′ Fellowships",
+"title" : "Calling All (Very) Young Entrepreneurs: Applications Open for Peter Thiel’s 2013 ’20 Under 20′ Fellowships",
 "date" : "Mon, 15 Oct 2012 11:35:27 +0000",
 "author" : "Natasha Lomas"
 }
