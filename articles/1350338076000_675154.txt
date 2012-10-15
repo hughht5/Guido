@@ -1,5 +1,5 @@
 {
-"title" : "Google Opens The Doors A Bit Wider For Gmail Results Within Its Main Search Experience",
+"title" : "Google Opens The Doors A Bit Wider For Gmail Results Within Its Main Search Experience, Adds Google Drive",
 "date" : "Mon, 15 Oct 2012 21:54:36 +0000",
 "author" : "Drew Olanoff"
 }
@@ -9,5 +9,6 @@
 <blockquote><p>We’ve gotten very positive feedback from those of you testing it out &#8212; such as this note: “The Gmail results feature is awesome! The fact that it&#8217;s all integrated into one screen is huge.” Many testers have requested being able to find Drive files as well &#8212; as one of you put it, “It would be awesome if I could search my google drive from google search as well  ”.</p>
 <p>So starting today, you can sign up for a new and expanded field trial that makes it easier to find your stuff across Google, whether you’re searching on Google.com or searching in Gmail.</p></blockquote>
 <p><a href="http://techcrunch.com/2012/10/15/google-opens-the-doors-a-bit-wider-for-gmail-results-within-its-main-search-experience/gmailsearch/" rel="attachment wp-att-675269"></a></p>
+<p>For some, this seems a bit creepy, but when you remember that Google isn&#8217;t &#8220;looking&#8221; at your email, and this is completely opt-in, it&#8217;s pretty cool actually. Not only is it a time-saver, but it makes complete sense, since Google is optimizing and unifying its experience over all products.</p>
 <p>Just <a target="_blank" href="https://www.google.com/experimental/gmailfieldtrial">click here to join the trial</a>, and let us know what you think about getting email results in your regular search experience on Google.</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/djfuVbqqb0k/">here</a>.
