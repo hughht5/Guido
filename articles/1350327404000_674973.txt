@@ -1,5 +1,5 @@
 {
-"title" : "Head Cam Footage From Felix Baumgartner’s Edge-Of-Space Skydive",
+"title" : "First-Person Footage From Felix Baumgartner’s Edge-Of-Space Skydive",
 "date" : "Mon, 15 Oct 2012 18:56:44 +0000",
 "author" : "Gregory Ferenstein"
 }
