@@ -29,4 +29,5 @@
 <p>The app should be available shortly at <a target="_blank" href="http://blog.cir.ca/2012/10/15/circa-news-iphone-app-launch/">this link.</a></p>
 <blockquote class='twitter-tweet'><p>Excited to be revealing @<a href="https://twitter.com/Circa">Circa</a> today. <a href="http://blog.cir.ca/2012/10/15/circa-news-iphone-app-launch/"> blog.cir.ca/2012/10/15/cir…</a> Still waiting for it to go live in the App Store. Stay tuned!&mdash; <br />Matt Galligan (@mg) <a href='http://twitter.com/#!/mg/status/257895065513500673' data-datetime='2012-10-15T17:25:49+00:00'>October 15, 2012</a></p></blockquote>
 <p><b>UPDATE:</b> The <a target="_blank" href="https://itunes.apple.com/app/circa-news/id517114354?ls=1&amp;mt=8">app is now available here</a>.</p>
+<p><b>UPDATE 2:</b> It looks like Circa has drawn a lot of attention and is making its way through some technical speedbumps. Hang tight.</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/X3V-TbAMu7U/">here</a>.
