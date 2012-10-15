@@ -11,4 +11,5 @@
 <p>Alec Saunders, VP Developer Relations at RIM said in a statement: &#8220;The opening of this first BlackBerry Tech Centre underscores our ongoing commitment to actively engage with and support the efforts of our developer community. This new centre in our EMEA headquarters designates space where developers can draw on the resources and skill set of our experienced developer evangelist team to help them create compelling apps for the new BlackBerry 10 platform.&#8221;</p>
 <p>&#8220;I’m looking forward to seeing the apps that will come from the UK developer community over the weeks and months ahead,&#8221; he added.</p>
 <p>It&#8217;s not clear how many developer-friendly Tech Centres RIM plans to open globally. We&#8217;ve reached out to ask and will update with any response.</p>
+<p><strong>Update</strong>: RIM says it plans to open Centres in Silicon Valley, Vancouver, India and Indonesian &#8212; in addition to the one in Slough. The company says there is also one in Waterloo, Canada.</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/cMg-RkNYbhA/">here</a>.
