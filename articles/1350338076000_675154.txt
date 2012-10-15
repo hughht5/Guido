@@ -1,0 +1,13 @@
+{
+"title" : "Google Opens The Doors A Bit Wider For Gmail Results Within Its Main Search Experience",
+"date" : "Mon, 15 Oct 2012 21:54:36 +0000",
+"author" : "Drew Olanoff"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/flight-google-search-520x195.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="flight-Google-Search-520x195" title="flight-Google-Search-520x195" style="float: left; margin: 0 10px 7px 0;" /><p>A few months ago, <a target="_blank" href="http://thenextweb.com/google/2012/08/08/google-introduces-exclusives-field-trial-for-gmail-to-make-search-really-useful/">Google announced a new field trial</a> for a search experience that rocked my world. Basically, you could search within your emails by using the regular old Google.com, if you were logged into your account. For me, this has been awesome for finding flight information and meeting requests within my email, of which I have a lot.</p>
+<p>Today, the company announced that the field trial would open up a little wider. Here&#8217;s what the company had to say:</p>
+<blockquote><p>We’ve gotten very positive feedback from those of you testing it out &#8212; such as this note: “The Gmail results feature is awesome! The fact that it&#8217;s all integrated into one screen is huge.” Many testers have requested being able to find Drive files as well &#8212; as one of you put it, “It would be awesome if I could search my google drive from google search as well  ”.</p>
+<p>So starting today, you can sign up for a new and expanded field trial that makes it easier to find your stuff across Google, whether you’re searching on Google.com or searching in Gmail.</p></blockquote>
+<p><a href="http://techcrunch.com/2012/10/15/google-opens-the-doors-a-bit-wider-for-gmail-results-within-its-main-search-experience/gmailsearch/" rel="attachment wp-att-675269"></a></p>
+<p>Just <a target="_blank" href="https://www.google.com/experimental/gmailfieldtrial">click here to join the trial</a>, and let us know what you think about getting email results in your regular search experience on Google.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/djfuVbqqb0k/">here</a>.
