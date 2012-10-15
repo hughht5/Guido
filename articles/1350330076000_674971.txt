@@ -1,0 +1,23 @@
+{
+"title" : "Meet The New Foursquare, The One That You’ve Helped Build And Continue To Power",
+"date" : "Mon, 15 Oct 2012 19:41:16 +0000",
+"author" : "Drew Olanoff"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/5295175015_07eac72d42_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="5295175015_07eac72d42_z" title="5295175015_07eac72d42_z" style="float: left; margin: 0 10px 7px 0;" /><p>As I&#8217;ve said before, I&#8217;m an avid user of <a href="http://techcrunch.com/2012/10/11/dennis-crowley-foursquare-considered-selling-is-the-best-local-search-tool-in-the-planet/">foursquare</a>, and it has become the de facto service for me when it comes to finding new places to grab dinner or just chill out with a drink. I&#8217;ve been using the service since it launched in 2009, and I&#8217;ve found it to be a fun way to chronicle the vast world that I live in. One day, I will be able to show my kids the history of check-ins and information that I&#8217;ve built up on the service and they&#8217;ll get an idea of how wild my traveling days were. I really believe that, and that&#8217;s why I use it religiously.</p>
+<p>I&#8217;m not sure if others use the service in the same way, but for those of you who really love checking in and leaving tips about venues on foursquare, your &#8220;hard work&#8221; has paid off. Today, the company has launched a new homepage experience for those people who aren&#8217;t logged in or signed up. It feels a bit like Google search, I think. </p>
+<p>Have a look:</p>
+<p><a href="http://techcrunch.com/2012/10/15/meet-the-new-foursquare-the-one-that-youve-helped-build-and-continue-to-power/snapshot-101512-1229-pm/" rel="attachment wp-att-675038"></a></p>
+<p>I&#8217;ve been <a target="_blank" href="http://thenextweb.com/apps/2012/07/18/foursquare-isnt-just-for-exploring-with-local-updates-you-can-connect-with-nearly-1m-merchants/">chronicling foursquare&#8217;s movements</a> as a company over the past few years, and everything that I&#8217;ve seen and that the company has said, is now becoming true.</p>
+<p>All of your check-ins, tips, photos and social connections have now been turned into one of the most impressive location-based search and exploration experiences that the Web has ever seen. I don&#8217;t take those words lightly, so just know that I&#8217;m serious.</p>
+<h3>Huge. But Why?</h3>
+<p>This is a huge direction that the company is going in, and it&#8217;s not just a shot at Google and Yelp. Foursquare is creating its own unique space in the location vertical, and continues to redefine it and bring its users along for the ride. Why? Because we power the experience. We built the experience. As long as we keep using foursquare, the service will get better and better.</p>
+<p>Most startups only think short-term about how much money they can raise, who will write about them and perhaps cashing out to the highest bidder. What foursquare has done is taken a pre-meditated slow-paced, highly advanced approach to building a world-class standalone service. Many have called foursquare a &#8220;feature, not a company&#8221; in the past. </p>
+<p>All I can now is, &#8220;Told you so.&#8221;</p>
+<p>It&#8217;s not just the homepage, the &#8220;Explore&#8221; experience has been peppered throughout the site, and it&#8217;s awesome:</p>
+<p><a href="http://techcrunch.com/2012/10/15/meet-the-new-foursquare-the-one-that-youve-helped-build-and-continue-to-power/snapshot-101512-1239-pm/" rel="attachment wp-att-675061"></a></p>
+<p>What this shift does for foursquare is open up brand new possibilities for monetization as well as draw in new people to install the app. The more people that use it, the better and more robust the service will get. It&#8217;s quite simple, actually.</p>
+<p>I know that many have stayed away from foursquare for privacy reasons, but you can check-in without telling the world where you are. You can be choosey on which friends you connect with, and who sees where you are. If you take that approach, foursquare is your best friend. In a way, foursquare feels more &#8220;real&#8221; now as a company and business.</p>
+<p>Nice work, Internet. You made foursquare, and foursquare is giving back with great tools. We&#8217;re all mayors today.</p>
+<p>[Photo credit: <a target="_blank" href="http://www.flickr.com/photos/wiredwitch/5295175015/">Flickr</a>]</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/pflekyNByco/">here</a>.
