@@ -1,0 +1,17 @@
+{
+"title" : "TinyCo Launches Revenue Sharing Program For Mobile Game Developers",
+"date" : "Mon, 15 Oct 2012 14:29:23 +0000",
+"author" : "Kim-Mai Cutler"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/tinyco-egg.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="tinyco-egg" title="tinyco-egg" style="float: left; margin: 0 10px 7px 0;" /><p>How bad is the fight to get more users in mobile apps? </p>
+<p>Tough enough that TinyCo, an Andreessen Horowitz-backed mobile gaming company, is doing a revenue share with developers that successfully drive them traffic. </p>
+<p>The company, <a href="http://techcrunch.com/2011/02/25/tinyco-raises-18-million-from-andreessen-horowitz-for-mobile-gaming/">which has raised $18 million</a>, says it will give developers a 50 percent split or more if they send them customers that ultimately end up spending inside of their games. </p>
+<p>Developers can drive up the revenue share in their favor if they do special integrations that really promote TinyCo&#8217;s work. An example is Fluik&#8217;s game Office Jerk, where the company actually lets players throw an egg at their annoying co-worker instead of a stapler or a roll of toilet paper. The egg is a reference to TinyCo&#8217;s game Tiny Monsters. </p>
+<p><a href="http://techcrunch.com/2012/10/15/tinyco-partners-revenue-share/tinyco-egg-1/" rel="attachment wp-att-674679"></a> </p>
+<p>&#8220;If a partner sends us a user that stays within our game for 1.5 years who ends up spending $1,000 in revenue, then we&#8217;ll split that revenue 50-50 with them,&#8221; said Andrew Green, who is a director of business development for TinyCo. Green says partners will get a dashboard that shows them how much the users they&#8217;ve sent TinyCo are spending. </p>
+<p>Like many other mobile game developers, TinyCo has done all kinds of experimentation to see how they can get high-spending and loyal users cheaply. Fiksu, a Boston-based company that helps developers mediate between all sorts of marketing channels to get users, <a href="http://techcrunch.com/2012/09/27/app-marketing-costs-decline-in-august-as-developers-held-their-breath-for-the-iphone-5/">said that the average cost to acquire a loyal user</a>, or one that opens an app three times, was $1.34 in August.</p>
+<p>Many gaming studios, especially the mid-size ones that have about 100 to 150 employees, tend to balance between 30 different methods for acquiring users. They use everything from free-app-a-day promotion methods to banner ads to full-screen ads that interrupt gameplay in other apps. Some spend millions of dollars every month on app marketing, which crimps their profit margins. </p>
+<p>Green said the partner integrations the company is gunning for with this new program tend to be more valuable. He said that integrations like the Fluik one above hat a 12.3 percent conversation rate, compared to a 3.5 percent conversion rate for regular, old mobile banner ads.</p>
+<p>&#8220;We have a situation with discoverability. Marketing is kind of choking the industry,&#8221; Green said. &#8220;We&#8217;re trying more of an affiliate model, which isn&#8217;t currently being done.&#8221; TinyCo had worked on other experiments in the past, including a $5 million fund to finance third-party games (which would grow the size of their user network).  </p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/axW9SVy2o2E/">here</a>.
