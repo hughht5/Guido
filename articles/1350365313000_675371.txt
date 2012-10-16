@@ -6,7 +6,7 @@
 
 <img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/5499502593_84981c67d2_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="5499502593_84981c67d2_z" title="5499502593_84981c67d2_z" style="float: left; margin: 0 10px 7px 0;" /><p>Remember when Path was super quiet with your nice group of fifty people? That&#8217;s all going to change now. As I broke at TNW, <a target="_blank" href="http://thenextweb.com/apps/2012/07/26/huge-new-path-users-can-import-all-their-facebook-statuses-instagram-photos-and-foursquare-check-ins/">Path has been tinkering with the notion of importing items</a> from other social networks. The feature has now been released in the latest update to the app.</p>
 <p>You can now import Facebook status updates, Instagram photos and Foursquare check-ins right to your Path stream. Is this something that you really want? We&#8217;ll get to that.</p>
-<p>Here&#8217;s everything that&#8217;s new:</p>
+<p>Here&#8217;s everything that&#8217;s <a target="_blank" href="https://itunes.apple.com/us/app/path/id403639508?mt=8">new on Path</a>:</p>
 <blockquote><p>What&#8217;s New in Version 2.5.6<br />
 ★ Sharing — Write about, tag, and share moments easier.<br />
 ★ Camera — Quicker access to your photo library.<br />
@@ -15,6 +15,9 @@
 ☂ Bug fixes.</p></blockquote>
 <p>Take a look at the new settings page within the app, which lets you connect to these three networks:</p>
 <p><a href="http://techcrunch.com/2012/10/15/path-might-get-a-bit-noisier-it-now-lets-you-import-things-from-facebook-foursquare-and-instagram/photo-112/" rel="attachment wp-att-675427"></a></p>
-<p><i>This is developing.</i></p>
+<p>The idea of Path is that it&#8217;s a private social network, shielded from the cold nasty world of the &#8220;real&#8221; Internet. You don&#8217;t see links on the network or self promotion of any kind. Will this change now that people are importing feeds from other places?</p>
+<p>As you know, <a href="http://techcrunch.com/2012/10/12/facebooks-having-some-issues-with-twitter-cross-posting-but-nobody-cares-for-reasons/">I&#8217;m not a fan of cross-posting</a>. Anything that is automatic, outside of media, can get annoying. I&#8217;m glad that Instagram and Foursquare are involved in this update, because those types of cross-posts are contextually interesting. Facebook status updates? I&#8217;m not so sure, honestly. Photos? Sure. Videos? Absolutely. Anything else? That&#8217;s pushing it.</p>
+<p>This is a completely optional setting, of course, and it will be interesting to see the feedback that comes in from hardcore Path users. Remember, since your network can only reach 150 people, the feedback on what you&#8217;re posting will be much louder and way more personal. Basically, if you take 100 Instagram photos a day, you&#8217;re going to piss people off.</p>
+<p>Good move by Path? What do you think?</p>
 <p>[Photo credit: <a target="_blank" href="http://www.flickr.com/photos/benhusmann/5499502593/">Flickr</a>]</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/SSG72VHfo4g/">here</a>.
