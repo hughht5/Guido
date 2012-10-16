@@ -1,0 +1,15 @@
+{
+"title" : "Gridstore Raises $12.5 Million In Series A Financing For Grid-Based Scale-Out Storage",
+"date" : "Tue, 16 Oct 2012 04:20:05 +0000",
+"author" : "Alex Williams"
+}
+
+<img width="100" height="26" src="http://tctechcrunch2011.files.wordpress.com/2012/10/gridstore_logo.png?w=100&amp;h=26&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="gridstore_logo" title="gridstore_logo" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://gridstore.com/">Gridstore </a>has raised $12.5 million in Series A funding for its scale-out storage offering. The round was led by GGV Capital with participation from Onset Ventures and existing investors. The investment brings the company&#8217;s total venture funding to $15 million.</p>
+<p>Gridstore offers a software-based storage system that provides a simple &#8220;building block,&#8221; method for scaling out storage.  Essentially, Gridstore virtualizes all aspects of its storage offering.</p>
+<p><a href="http://techcrunch.com/2012/10/15/gridstore-raises-12-5-million-in-series-a-financing-for-grid-based-scale-out-storage/gridstorevirtualstotage/" rel="attachment wp-att-675403"></a></p>
+<p>As blocks are added, the size of the virtual storage pool increases.  An unlimited number of virtual controllers means that the storage pools can be allocated appropriately. The controller essentially gets distributed, allowing for more bandwidth as additional storage blocks are added.</p>
+<p>Gridstore poses another threat to the legacy storage providers such as EMC, IBM and NetApp. Those providers monolithic systems are built on architectures of another age when about all that they needed to manage were software solutions, not the scaling amount of data that companies these days have to manage.</p>
+<p>The company offers a pay as you go service. A company adds more blocks to the grid as it sees fit.</p>
+<p><a href="http://techcrunch.com/2012/10/15/gridstore-raises-12-5-million-in-series-a-financing-for-grid-based-scale-out-storage/storageblock-1/" rel="attachment wp-att-675410"></a></p>
+<p>Gridstore represents a new generation of storage providers that are causing considerable market disruption. Gridstore&#8217;s challenge cones down to scaling out its offering. Big storage providers may not have cutting edge technology but they do have sales and marketing channels that they can use to sell their newest offerings, often which are sold to customers often willing to stay with a trusted established vendor.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/PLlCRRep83U/">here</a>.
