@@ -1,0 +1,17 @@
+{
+"title" : "Opinsy Launches Into Public Beta To Create The ‘Opinion Graph’",
+"date" : "Tue, 16 Oct 2012 12:07:25 +0000",
+"author" : "Mike Butcher"
+}
+
+<img width="100" height="52" src="http://tctechcrunch2011.files.wordpress.com/2012/10/197147v1-max-250x250.png?w=100&amp;h=52&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="197147v1-max-250x250" title="197147v1-max-250x250" style="float: left; margin: 0 10px 7px 0;" /><p>You&#8217;ve heard of the social graph and the interest graph &#8211; but it may be time for the Opinion Graph.<br />
+<a target="_blank" href="http://Opinsy.com">Opinsy</a>, a new platform which lets people build viral communities and followings around their opinions, beliefs and ideas comes out of the private beta which we <a href="http://techcrunch.com/2012/06/25/opinsy-launches-beta-to-create-the-opinion-graph/">previously reported</a>. The long term idea is not to be a destination but a platform.</p>
+<p>The process is pretty simple. You create an opinion, add a link to an example article which is then auto-categorised. Suggested images are pulled from a licensed Getty database and then you share you opinion page. You also have a profile page, and this show all the opinions your&#8217;re involved with. There is also a Chrome Bookmarklet where you can select text and auto create an opinion. A mobile iOS app is due later but the site works well on the iPad already. One could see celebrities potentially wanting their own Opinsy page.</p>
+<p><a target="_blank" href="http://Menshn.com">Menshn</a> <a href="http://techcrunch.com/2012/06/19/mensch-launches-menshn-for-us-elections-a-new-platform-for-realtime-topical-chat/">is one competitor</a>, though probably too Twitter-like to be a serious contender, while <a target="_blank" href="http://www.crunchbase.com/company/amen-2">Amen</a> is concentrating on mobile right now.</p>
+<p>Founder Ankur Shah argues that Amen &#8211; is too counter intuitive &#8211; as in you Amen or Hell Know something, therefore there is no nuance to opinions.  More major competitors could include <a target="_blank" href="http://www.crunchbase.com/company/opinionaided">Thumb</a>, which raised $3m and <a target="_blank" href="http://State.it">State.it</a>. Perhaps even Quora is competitive but that feels very, very different.</p>
+<p>Yes, Facebook and Twitter dominate public conversations right now, but having been given a thorough demonstration, it&#8217;s our opinion, that Opinsy is bringing something quite new to the party. </p>
+<p>Visualising the actual debate in terms of agree versus disagree, providing more resources and feeds creates a better experiencing than anything I&#8217;ve seen on Facebook for instance, which seems locked into the newsfeed scenario. But because Opinsy is heavily integrated into both Facebook and Twitter, it can use those as sharing platforms. Opinsy wants to be the YouTube of Opinions &#8211; a platform where opinions are turned into channels.</p>
+<p>Clearly that&#8217;s eventually a potential advertising play, but may also be more.</p>
+<p>The team consists of about 5 people, is based out of London and is part of an ideas factory Shah &#8211; who previously exited from Techlightenment &#8211; is setting up called <a target="_blank" href="http://www.wushilabs.com">Wushi Labs</a>.</p>
+<p></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/vF4JoT9OiYc/">here</a>.
