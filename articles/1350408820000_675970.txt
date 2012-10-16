@@ -1,11 +1,15 @@
 {
-"title" : "LinkedIn Announces Massive Update To Its “Pilar Product”, The Profile",
+"title" : "LinkedIn Announces Massive Update To Its “Pillar Product”, The Profile",
 "date" : "Tue, 16 Oct 2012 17:33:40 +0000",
 "author" : "Drew Olanoff"
 }
 
 <p>Senior VP of Products and User Experience of LinkedIn, Deep Nishar, <a href="http://techcrunch.com/2012/10/16/live-from-the-meet-the-new-linkedin-event-watch-the-transformation-of-the-worlds-1-professional-social-network/">discussed the company approach</a> to design and iteration, which is extremely interesting. He says that since January 2009, its members has gone from 32M members to 175M+ members. That&#8217;s quite a lift for a niche network, especially one that isn&#8217;t all fun and games like Facebook.  Aaron Bronzan, Product Manager of LinkedIn is showing off the new profile right now.</p>
 <p>It&#8217;s been rebuilt from the ground up, and we&#8217;re taking a look at it now. LinkedIn has made it super easy to add new things to your profile, such as skills and has added people you may know. There is now a visualization of profile completeness, which is rad.</p>
-<p><a href="http://techcrunch.com/2012/10/16/linkedin-announces-massive-update-to-its-pilar-product-the-profile/photo-2-48/" rel="attachment wp-att-676031"></a><br />
-<strong>You can <a href="http://techcrunch.com/2012/10/16/live-from-the-meet-the-new-linkedin-event-watch-the-transformation-of-the-worlds-1-professional-social-network/">view the event live, now</a>.</strong></p>
+<p><a href="http://techcrunch.com/2012/10/16/linkedin-announces-massive-update-to-its-pilar-product-the-profile/photo-2-48/" rel="attachment wp-att-676031"></a></p>
+<p>There&#8217;s now the notion of cross-referencing your details with connections. You can see where you&#8217;re alike, or have crossed paths in the past.</p>
+<p><a href="http://techcrunch.com/2012/10/16/linkedin-announces-massive-update-to-its-pilar-product-the-profile/photo-3-37/" rel="attachment wp-att-676043"></a></p>
+<p>&#8220;We&#8217;ve made it easy for you to build and manage your own identity on LinkedIn. You can now stay engaged with your network and get insights to help you stay informed every day&#8221;, Bronzan says.</p>
+<p>The product update will be rolling out today.</p>
+<p><strong>You can <a href="http://techcrunch.com/2012/10/16/live-from-the-meet-the-new-linkedin-event-watch-the-transformation-of-the-worlds-1-professional-social-network/">view the event live, now</a>.</strong></p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/Q5NKW6qOCPk/">here</a>.
