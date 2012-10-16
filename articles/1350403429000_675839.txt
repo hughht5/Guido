@@ -4,7 +4,7 @@
 "author" : "Ingrid Lunden"
 }
 
-<p>Twitter has made another acquisition to expand its platform development operation. It has <a target="_blank" href="http://www.cabanaapp.com/blog/cabana-is-joiningtheflock/">bought Cabana</a>, a platform for making mobile apps. Terms of the deal have not been disclosed, but the team behind the app are joining Twitter, and Cabana as it is known today is shutting down.</p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-16-at-17-05-42.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="cabana logo" title="cabana logo" style="float: left; margin: 0 10px 7px 0;" /><p>Twitter has made another acquisition to expand its platform development operation. It has <a target="_blank" href="http://www.cabanaapp.com/blog/cabana-is-joiningtheflock/">bought Cabana</a>, a platform for making mobile apps. Terms of the deal have not been disclosed, but the team behind the app are joining Twitter, and Cabana as it is known today is shutting down.</p>
 <p>More to come. Blog post below. Refresh for updates.</p>
 <blockquote><p>&nbsp;</p>
 <p>We are writing today with some exciting news: Cabana has been acquired by Twitter and our team is #JoiningTheFlock!</p>
