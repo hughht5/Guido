@@ -14,14 +14,12 @@
 <p>IBM&#8217;s <a target="_blank" href="http://finance.yahoo.com/q?s=IBM">share price</a> has been rallying lately and the stock just hit a multiyear high earlier this month and is up about 11 percent year to date.</p>
 <p>Here are some details for IBM&#8217;s various business units:</p>
 <ul>
-<li>Software revenue down 1 percent, up 3 percent adjusting for currency;</li>
-<li>Services revenue down 5 percent, flat adjusting for currency;</li>
-<li>Services backlog of $138 billion, up 1 percent;</li>
-<li>Systems and Technology revenue down 13 percent, down 12 percent adjusting for currency;</li>
-<li>Growth markets revenue down 1 percent, up 4 percent adjusting for currency;
-	</li>
-<li>BRIC countries up 4 percent, up 11 percent adjusting for currency;</li>
-<li>Business analytics revenue up 14 percent year to date;</li>
-<li>Smarter Planet revenue up more than 20 percent year to date</li>
+<li><strong>Software revenue</strong> down 1 percent, up 3 percent adjusting for currency;</li>
+<li><strong>Services revenue</strong> down 5 percent, flat adjusting for currency;</li>
+<li><strong>Services backlog</strong> of $138 billion, up 1 percent;</li>
+<li><strong>Systems and Technology</strong> revenue down 13 percent, down 12 percent adjusting for currency;</li>
+<li><strong>Growth markets</strong> revenue down 1 percent, up 4 percent adjusting for currency;</li>
+<li><strong>Business analytics</strong> revenue up 14 percent year to date;</li>
+<li><strong>Smarter Planet</strong> revenue up more than 20 percent year to date</li>
 </ul>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/-uP67Yzte68/">here</a>.
