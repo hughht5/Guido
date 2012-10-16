@@ -1,0 +1,10 @@
+{
+"title" : "Here’s What Accessory Manufacturers Expect The iPad Mini To Look Like",
+"date" : "Tue, 16 Oct 2012 10:56:21 +0000",
+"author" : "John Biggs"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/mail-attachment.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Mail Attachment" title="Mail Attachment" style="float: left; margin: 0 10px 7px 0;" /><p>What you see here is a mock-up provided by an Shenzhen-based accessories manufacturer who is planning to build cases and hardware for the iPad Mini. Although they will most likely be wrong about the specifics, the mock-up is a fairly clean representation of what we should expect out of Cupertino <a href="http://techcrunch.com/2012/10/15/report-well-see-the-13-inch-retina-macbook-pro-october-23-as-well-as-the-ipad-mini/">later this month</a>.</p>
+<p>Mockups like these &#8211; and like the physical ones we&#8217;ve already seen &#8211; are usually made before impending launches to allow designers to experiment with sizes and colors of upcoming products. This, in turn, allows them to launch their products as quickly as possible because their designers will already have some understanding of the shape and size of the device. </p>
+<p>Quite obviously this isn&#8217;t the real <a href="http://techcrunch.com/tag/iPad">iPad</a> Mini, so don&#8217;t go canceling your Nexus 7 or Kindle Fire HD order just yet. However, it is a very close approximation based on all of the leaks we&#8217;ve seen so far and, more important, the relationships this manufacturer already has with parts suppliers in Shenzhen. It&#8217;s also interesting to note that these manufacturers are already flogging their wares at resellers in preparation for the launch. It&#8217;s wild that the Apple product ecosystem is such a well-oiled machine dedicated, in short, to outguessing Apple.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/4BAiBX90TMk/">here</a>.
