@@ -1,0 +1,11 @@
+{
+"title" : "UK Government Blocks Hacker Gary McKinnon’s US Extradition On Human Rights Grounds",
+"date" : "Tue, 16 Oct 2012 12:45:27 +0000",
+"author" : "Natasha Lomas"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2009/05/pentagon.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Image (1) pentagon.jpg for post 88853" title="Image (1) pentagon.jpg for post 88853" style="float: left; margin: 0 10px 7px 0;" /><p>It&#8217;s been a very long fight but British hacker <a target="_blank" href="http://en.wikipedia.org/wiki/Gary_McKinnon">Gary McKinnon</a> has finally won his battle to avoid extradition to the US under the controversial <a target="_blank" href="http://www.legislation.gov.uk/ukpga/2003/41/contents">Extradition Act</a>. The US requested McKinnon&#8217;s extradition back in 2002 after McKinnon accessed NASA and Pentagon computers. He has admitted hacking into US government computers but always said he was looking for evidence of UFOs. McKinnon is an Asperger&#8217;s sufferer and it&#8217;s his medical condition &#8212; and the associated suicide risk &#8212; that formed the basis for the Home Secretary&#8217;s decision to block his extradition.</p>
+<p>Announcing the decision today, Theresa May said there is no doubt he is &#8220;seriously ill&#8221; and the risk of him taking his own life meant it would breach his human rights to allow his extradition. &#8220;I have concluded that Mr McKinnon’s extradition would give rise to such a high risk of him ending his life the decision to extradite Mr McKinnon would be incompatible with his human rights. I have therefore withdrawn the extradition order against Mr McKinnon,&#8221; she said.</p>
+<p>The UK&#8217;s Director of Public Prosecutions will now have to review McKinnon&#8217;s case to decide whether charges should be brought against him in the UK.</p>
+<p>&nbsp;</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/fzGnU9g8wCY/">here</a>.
