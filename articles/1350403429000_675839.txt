@@ -1,0 +1,19 @@
+{
+"title" : "Twitter Acqui-Hires Mobile App Development Platform Cabana, Shuts Its Down",
+"date" : "Tue, 16 Oct 2012 16:03:49 +0000",
+"author" : "Ingrid Lunden"
+}
+
+<p>Twitter has made another acquisition to expand its platform development operation. It has <a target="_blank" href="http://www.cabanaapp.com/blog/cabana-is-joiningtheflock/">bought Cabana</a>, a platform for making mobile apps. Terms of the deal have not been disclosed, but the team behind the app are joining Twitter, and Cabana as it is known today is shutting down.</p>
+<p>More to come. Blog post below. Refresh for updates.</p>
+<blockquote><p>&nbsp;</p>
+<p>We are writing today with some exciting news: Cabana has been acquired by Twitter and our team is #JoiningTheFlock!</p>
+<p>We built Cabana because we are passionate about empowering people to develop interactive content in new and innovative ways. That same passion for innovation and the democratization of content creation is also shared by the amazing team at Twitter.</p>
+<p>Over the past few months, we’ve gotten to know the Twitter team and discovered the tremendous amount of technological synergy and alignment of our visions. The more we explored this synergy, the more excited we became about joining forces and working together.</p>
+<p>Starting today we will be joining Twitter’s platform team, and will build tools to help third-party developers create new experiences on Twitter and empower the larger Twitter ecosystem.</p>
+<p>This means that we will no longer be offering Cabana as a standalone mobile app development environment.</p>
+<p>Cabana will be shutting down on December 1st 2012. If you have any questions about our rolldown, please email us at rolldown@cabanaapp.com.</p>
+<p>Rest assured that the ideas and passion behind Cabana will live on, albeit in a slightly different form &#8211; at Twitter!</p>
+<p>We want to thank all of you, from our users and investors to our family and friends, who made this journey possible.</p>
+<p>We’re excited for what the future with Twitter holds!</p></blockquote>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/Ory_pi8F8Vs/">here</a>.
