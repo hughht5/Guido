@@ -1,0 +1,14 @@
+{
+"title" : "AppDirect Acquires Open Source Billing Company jBilling",
+"date" : "Tue, 16 Oct 2012 13:00:14 +0000",
+"author" : "Klint Finley"
+}
+
+<img width="100" height="63" src="http://tctechcrunch2011.files.wordpress.com/2012/10/appdirect-logo.jpg?w=100&amp;h=63&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="appdirect-logo" title="appdirect-logo" style="float: left; margin: 0 10px 7px 0;" /><p>Today cloud app store company <a target="_blank" href="http://www.appdirect.com/">AppDirect</a> announced its acquisition of open source billing company <a target="_blank" href="http://jbilling.com/">jBilling</a>. Terms of the deal were not disclosed. AppDirect co-CEO Daniel Saks says existing jBilling won&#8217;t be affected and AppDirect will continue to sell and support jBilling products.</p>
+<p>AppDirect makes &#8220;white label&#8221; software-as-a-service app stores. Saks says its customers are mostly local IT consulting companies who want to be able to sell SaaS applications like Google Apps, DocuSign, New Relic, and SendGrid.</p>
+<p>The company was founded in 2009 by Saks, co-CEO Nicolas Desmarais (previouslyof Bain Capital) and technical co-founder Andy Sen (who worked at Salesforce.com on its enterprise app store AppExchange). Saks was an investment banker at in the SaaS market at Viant Capital and saw that many had trouble reaching businesses users. </p>
+<p>&#8220;Businesses don&#8217;t know where to find and purchase software. They mostly go through local consultants or buy boxed software through companies like Office Depot.&#8221; That meant the new wave of cloud services weren&#8217;t finding their way to traditional businesses. </p>
+<p>AppDirect makes it possible to sell several different SaaS apps, and provides a universal login system based on OpenID. It&#8217;s also quite possibly enabling, through its partnership with <a href="http://techcrunch.com/2012/08/01/appfog-and-rackspace-want-to-break-your-app-out-of-amazons-walled-garden/">Rackspace and AppFog</a>, the sort of &#8220;platform-as-a-service app stores&#8221; that I <a href="http://techcrunch.com/2012/07/28/why-platform-clouds-need-to-be-more-like-app-stores/">previously postulated</a>.</p>
+<p>The company raised a $3.25 round of seed funding in 2011, and a <a href="http://techcrunch.com/2012/07/18/appdirect-pins-down-8-5m-to-build-a-cloud-app-store-empire-in-the-sky-rackspace-newest-partner/">$8.5 million series A from iNovia Capital last summer</a>.</p>
+<p>jBilling is based in Ottowa, Canada and was founded in 2002. It follows an &#8220;open core&#8221; business model &#8212; it developers a free Community Edition along with commercial versions for different verticals, including telcos and SaaS providers. It has major clients such as Constant Contact, VeriFone and Sage. </p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/dS9BJSczt_A/">here</a>.
