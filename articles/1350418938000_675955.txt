@@ -1,0 +1,12 @@
+{
+"title" : "Intel Beats The Street With Q3 Revenues Of $13.5B",
+"date" : "Tue, 16 Oct 2012 20:22:18 +0000",
+"author" : "Alex Williams"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2011/11/intel_logo.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="intel_logo" title="intel_logo" style="float: left; margin: 0 10px 7px 0;" /><p>Intel just reported its third quarter 2012 earnings with revenues of $13.5 billion, flat compared to the prior year. Intel’s net income was $3.8 billion and its diluted earnings per share were at $0.58 cents per share, a 7.4% increase from last year. Analysts expected Intel to report earnings of $0.50 per share on revenues of $13.2 billion for Q3, and $2.11 for FY 2012.</p>
+<p><a href="http://techcrunch.com/2012/10/16/intel-beats-the-street-with-q3-revenues-of-13-5b/intel-q312/" rel="attachment wp-att-676221"></a></p>
+<p>CEO Paul Otellini said its third-quarter results reflected a continuing tough economic environment with the world of computing in the midst of a period of innovation and creativity. Looking to the fourth quarter, Intel expects continued progress in Ultrabooks and phones. They also expressed optimism about the range of Intel-based tablets coming to market.</p>
+<p>Last month, Intel cut sales projections to $13.2 billion. At the time they cited excess inventory, lower chip demand and weak demand in emerging markets. Intel also announced last month its plans to lower its workforce at its McAfee data security division.</p>
+<p>(More information to come as news becomes available.)</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/wXslNOiCbjY/">here</a>.

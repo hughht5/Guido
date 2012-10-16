@@ -1,5 +1,5 @@
 {
-"title" : "IBM Reports Q3 Earnings In Line With Expectations: $24.7B in Revenue, $4.2B Net Income, $3.62 EPS",
+"title" : "IBM Reports Q3 Earnings In Line With Expectations: $24.7B In Revenue, $4.2B Net Income, $3.62 EPS",
 "date" : "Tue, 16 Oct 2012 20:18:24 +0000",
 "author" : "Frederic Lardinois"
 }
