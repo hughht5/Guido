@@ -1,0 +1,12 @@
+{
+"title" : "Infogr.am Launches To Kill The Careers Of Struggling Infographic Designers",
+"date" : "Tue, 16 Oct 2012 08:08:31 +0000",
+"author" : "Mike Butcher"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-15-at-22-27-25.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-10-15 at 22.27.25" title="Screen Shot 2012-10-15 at 22.27.25" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://Infogr.am">Infogr.am</a> wants to create a sort of Adobe Illustrator in the Cloud, allowing anyone to create cool info-graphics on the fly. Back in February European accelerator <a target="_blank" href="http://HackFwd.com">HackFwd</a> invested in the startup from Riga, Latvia, and now it&#8217;s fully launched its service. It&#8217;s competing in the space with <a target="_blank" href="http://piktochart.com/">Piktochart</a> and <a target="_blank" href="http://www.easel.ly/">Easel.ly</a>. And not to mention one or two infographic designers out there&#8230;</p>
+<p>It&#8217;s launched with 20 new data visualization formats from the simple like pie charts and graphs to the complex like multi-layer data-grids.</p>
+<p>The web-based Infogr.am needs no programming or design skills, and works in the same way that you can snap a photo and share it on your social networks. Users make a statement or an argument graphically and then share it. </p>
+<p>With a built-in spreadsheet engine and simple drag-and-drop interface, an infographic can be created and embedded on a page or shared as a link or an image directly. Uldis Leiterts, Founder, says the sites supports data import from XLS and CSV. </p>
+<p>Is this going to put info graphics designers out of business? Let us know your thoughts in the comments.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/mos4tNY8ouM/">here</a>.

@@ -5,7 +5,7 @@
 }
 
 <img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/5499502593_84981c67d2_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="5499502593_84981c67d2_z" title="5499502593_84981c67d2_z" style="float: left; margin: 0 10px 7px 0;" /><p>Remember when <a href="http://techcrunch.com/2012/10/12/according-to-path-its-users-really-cant-get-enough-of-the-hunger-games-heres-their-top-10-watched-films/">Path</a> was super quiet with your nice group of fifty people? That&#8217;s all going to change now. As I broke at The Next Web (my former employer), <a target="_blank" href="http://thenextweb.com/apps/2012/07/26/huge-new-path-users-can-import-all-their-facebook-statuses-instagram-photos-and-foursquare-check-ins/">Path has been tinkering with the notion of importing items</a> from other social networks. The feature has now been released in the latest update to the app for all users.</p>
-<p>You can now import Facebook status updates, Instagram photos and Foursquare check-ins right to your Path stream. Is this something that you really want? We&#8217;ll get to that, because it&#8217;s huge. </p>
+<p>You can now import Facebook status updates, Instagram photos and Foursquare check-ins right to your Path stream. We&#8217;re told that this was in a version a few weeks ago, but wasn&#8217;t publicized and discussed. Is this something that you really want? We&#8217;ll get to that, because it&#8217;s huge. </p>
 <p>Here&#8217;s everything that&#8217;s <a target="_blank" href="https://itunes.apple.com/us/app/path/id403639508?mt=8">new on Path</a>:</p>
 <blockquote><p>What&#8217;s New in Version 2.5.6<br />
 ★ Sharing — Write about, tag, and share moments easier.<br />
