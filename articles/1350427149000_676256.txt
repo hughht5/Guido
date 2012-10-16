@@ -1,0 +1,18 @@
+{
+"title" : "Head Of Facebook’s Seattle Office Ari Steinberg Is Departing To Launch A Travel Startup",
+"date" : "Tue, 16 Oct 2012 22:39:09 +0000",
+"author" : "Josh Constine"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/ari-steinberg.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Ari Steinberg" title="Ari Steinberg" style="float: left; margin: 0 10px 7px 0;" /><p>In his six years at Facebook, <a target="_blank" href="http://www.facebook.com/ari">Ari Steinberg </a>sired the Platform, ran the news feed, and started the Seattle engineering office, but now he&#8217;s decided to move on, TechCrunch has learned and Facebook as well as Steinberg have confirmed. Friday will be his last day working for the social network.</p>
+<p>Steinberg verified that founding a travel startup is first on his post-Facebook itinerary.</p>
+<p>Ari had a storied tenure, joining Facebook back when it was holed up in modest digs in downtown Palo Alto. He&#8217;s known as an instrumental figure that helped turn the news feed into one of the site&#8217;s most beloved features. He also crafted the Facebook Platform in 2007 with Dave Morin, making the social network a home for third-party apps.</p>
+<p>More recently, Steinberg moved to <a href="http://techcrunch.com/2010/09/04/facebook-seattle/">Seattle to open Facebook&#8217;s first remote engineering office</a>. There he built <a href="http://techcrunch.com/2011/11/21/messenger-for-windows/">Facebook Messenger For Windows</a>, the company&#8217;s first official piece of desktop software.</p>
+<p>But after being at the social network for so long, it seems he wants a new challenge. That shouldn&#8217;t be taken as a sign Facebook is having trouble retaining talent, but more that he&#8217;s grown and learned enough to take his own shot at entrepreneurship. Steinberg tells me &#8220;I&#8217;ve had an amazing 6 and a half years here, I feel lucky to have worked on such cool stuff with such talented people, and I&#8217;m looking forward to trying something new.&#8221;</p>
+<p>Facebook will need to attract fresh blood or pull from its deep bench of talent as veteran employees like Steinberg, <a href="http://techcrunch.com/2012/06/15/bret-taylor/">CTO Bret Taylor</a>, and <a href="http://techcrunch.com/2012/07/24/facebook-carl-sjogreen/">Platform leader Carl Sjogreen depart</a>. In this case, the company has already chosen long-time Facebook software engineer Wayne Change and more recent hire Rohit Wad as the new co-heads of the Seattle office.</p>
+<p></p>
+<p>Steinberg&#8217;s Facebook knowledge will surely serve him at his new startup, as travel is quickly becoming a very social industry.</p>
+<p>Apps like <a target="_blank" href="http://developers.facebook.com/blog/post/2012/09/03/developer-spotlight--tripl/">Tripl</a> and <a target="_blank" href="http://developers.facebook.com/blog/post/2012/03/29/developer-spotlight--cities-i-ve-visited/">Cities I&#8217;ve Visited</a> have seen huge growth on the platform Ari built. Meanwhile, travel companies are seeing huge returns from Facebook ads, with <a target="_blank" href="http://www.insidefacebook.com/2012/10/15/travel-company-sees-25-in-bookings-for-every-1-spent-using-facebook-custom-audience-targeting/">Inside Facebook reporting</a> that one got $25 in bookings for each dollar in Facebook ad spend.</p>
+<p>Travel also looks like a good fit for Steinberg&#8217;s passions. He was on safari in Tanzania&#8217;s Ngorongoro Conservation Area earlier this month.</p>
+<p></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/7z8P80L8Pcs/">here</a>.
