@@ -1,5 +1,5 @@
 {
-"title" : "European Data Regulators Slam Google Over Privacy Policy: It’s “Too Large” And Users Need More Control",
+"title" : "European Data Regulators Slam Google Over Privacy Policy: “Too Large” And Users Need More Control (But Not Illegal)",
 "date" : "Tue, 16 Oct 2012 08:57:30 +0000",
 "author" : "Ingrid Lunden"
 }
