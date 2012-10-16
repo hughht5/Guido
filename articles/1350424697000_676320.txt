@@ -13,7 +13,7 @@
 <p>Here&#8217;s what it used to look like:</p>
 <p><a href="http://techcrunch.com/2012/10/16/google-streamlines-the-email-you-get-when-someone-shares-a-google-drive-document-with-you/snapshot-101612-253-pm/" rel="attachment wp-att-676330"></a></p>
 <p>The old design was well&#8230;<del datetime="2012-10-16T21:54:06+00:00">old</del> ugly as hell. When I used to open them, I&#8217;d completely miss the point of what was being sent because the font was small and it just wasn&#8217;t jumping out at me. While this is a small update, it&#8217;s quite useful if you&#8217;re an email scanner like I am. I don&#8217;t read every email I get, I jump through them as fast as I can so that I can take action quickly.</p>
-<p>That old green box used to remind me of a birthday present, but most of the documents that are sent to me are anything but.</p>
+<p>That old green box in the top left corner used to remind me of a birthday present, but most of the documents that are sent to me are anything but.</p>
 <p>This particular tweak helps me scan a bit better, and its good to see the Google teams working together to improve the overall experience of all of its products. Yay.</p>
 <p>[Photo credit: <a target="_blank" href="http://www.flickr.com/photos/brianbass270/124286877/">Flickr</a>]</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/6Qkkm4FiPgw/">here</a>.
