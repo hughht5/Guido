@@ -8,7 +8,5 @@
 <p><a href="http://techcrunch.com/2012/10/16/intel-beats-the-street-with-q3-revenues-of-13-5b/intel-q312/" rel="attachment wp-att-676221"></a></p>
 <p>CEO Paul Otellini said its third-quarter results reflected a continuing tough economic environment with the world of computing in the midst of a period of innovation and creativity. Looking to the fourth quarter, Intel expects continued progress in Ultrabooks and phones. They also expressed optimism about the range of Intel-based tablets coming to market. Intel expects fourth quarter revenues of $13.6 billion, &#8220;plus or minus $500 million.&#8221;</p>
 <p>Last month, Intel cut sales projections to $13.2 billion. At the time they cited excess inventory, lower chip demand and weak demand in emerging markets. Intel also announced last month its plans to lower its workforce at its McAfee data security division.</p>
-<p>Otellini said in the earnings call that PC sales were half of what was expected this past summer. He also expects revenues to be half off for the fourth quarter as well. As a result, the company is cutting back production.</p>
-<p>The &#8220;cloud segment,&#8221; showed revenues up 50% with storage hitting record levels, up 27%. Data center revenues were mixed. Intel had strong growth in the public cloud but there was weakness in the enterprise sector.</p>
 <p>(More information to come as news becomes available.)</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/wXslNOiCbjY/">here</a>.
