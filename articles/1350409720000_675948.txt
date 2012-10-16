@@ -22,5 +22,5 @@
 <li>A language <a target="_blank" href="http://www.dartlang.org/docs/spec/?utm_source=chromium&amp;utm_medium=blog&amp;utm_campaign=m1">specification</a> describing the Dart semantics, including new <a target="_blank" href="http://www.dartlang.org/articles/m1-language-changes/?utm_source=chromium&amp;utm_medium=blog&amp;utm_campaign=m1">features</a>.</li>
 </ul>
 </blockquote>
-<span class='embed-youtube' style='text-align:center; display: block;'><iframe class='youtube-player' type='text/html' width='640' height='390' src='http://www.youtube.com/embed/5KlnlCq2M5Q?version=3&#038;rel=1&#038;fs=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' frameborder='0'></iframe></span>
+<span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/10/16/a-year-after-launch-google-launches-the-first-sdk-for-its-dart-javascript-alternative/"></a></span>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/OcXxenMU4Os/">here</a>.
