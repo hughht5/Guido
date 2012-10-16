@@ -1,0 +1,14 @@
+{
+"title" : "Leaked T-Mo Photo Points To ISIS Mobile Wallet Debut On October 22",
+"date" : "Tue, 16 Oct 2012 13:12:54 +0000",
+"author" : "Jordan Crook"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/isis-mobile-wallet-screenshot1.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="isis-mobile-wallet-screenshot1" title="isis-mobile-wallet-screenshot1" style="float: left; margin: 0 10px 7px 0;" /><p>The mobile wallet space is heating up — in that sun-peaking-over-the-mountains-and-evaporating-the-dew sort of way — and T-Mobile and co. won&#8217;t be left behind.</p>
+<p><a href="http://techcrunch.com/2012/02/27/isis-revealed-carrier-led-mobile-payments-venture-shows-off-its-new-app-announces-banking-partners/">Isis</a>, the joint venture mobile payments service formed by AT&amp;T, T-Mobile, and Verizon, lets Chase, Capital One and Barclaycard include their credit, debit and prepaid cards into Isis’s forthcoming mobile wallet.</p>
+<p>But forthcoming when?</p>
+<p>That&#8217;s been the question of late, but a new leaked photo (below) from <a target="_blank" href="http://www.tmonews.com/2012/10/t-mobile-isis-mobile-wallet-pilot-launching-october-22nd/">TmoNews</a> may clear that up for us a bit. According to an image of what appears to be a leaked internal T-Mo document, the Isis app will launch on Google Play on October 22.</p>
+<p>However, only certain cities will be able to enjoy the fun. For one, users must have an Isis SIM card, which will only be available in retail stores in Salt Lake City, Utah and Austin, Texas. Plus, users will have to own a Samsung Galaxy S III, Galaxy S II, or Relay 4G to partake in the NFC payments goodness.</p>
+<p>But it&#8217;s coming. And after hearing about this thing for <a href="http://techcrunch.com/2012/02/27/isis-revealed-carrier-led-mobile-payments-venture-shows-off-its-new-app-announces-banking-partners/">most of the year</a>, it&#8217;ll be nice to see some real action.</p>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/10/tmoisis.jpg" rel="lightbox[675581]"></a></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/zNWnEEabfnk/">here</a>.
