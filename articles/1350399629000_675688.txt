@@ -1,0 +1,14 @@
+{
+"title" : "Moolah Media Launches Real-Time Bidding Platform For Mobile Ads, Says It’s Seeing $1M+ In Monthly Revenue",
+"date" : "Tue, 16 Oct 2012 15:00:29 +0000",
+"author" : "Anthony Ha"
+}
+
+<img width="100" height="54" src="http://tctechcrunch2011.files.wordpress.com/2012/10/moolah-media-logo.png?w=100&amp;h=54&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="moolah-media-logo" title="moolah-media-logo" style="float: left; margin: 0 10px 7px 0;" /><p>Performance-based mobile ad startup <a target="_blank" href="http://www.moolahmedia.com">Moolah Media</a> is announcing that it&#8217;s taking its real-time bidding platform out of beta. It&#8217;s also sharing its revenue numbers today.</p>
+<p>The company had already talked up its RTB platform (namely, its technology allowing the advertisers to manage the bidding on multiple ad networks and exchanges) as a big selling point behind <a href="http://techcrunch.com/2012/03/07/moolah-media-display-network/">the display advertising network</a> that it launched in March, highlighting the fact that advertisers can determine the specific sites where their ads can and can&#8217;t be shown.</p>
+<p>Now, however, Moolah is officially taking the RTB feature out of beta. When I discussed the technology with CEO Shawn Scheuer last week, he emphasized its speed. The company has placed its ad serving hubs geographically close to its publishing partners, leading to response times of less than 30 milliseconds. That&#8217;s crucial, he said, because when publishers are trying to fill an ad, they&#8217;re often need to check with multiple networks in less than a second.</p>
+<p>Although Moolah&#8217;s big selling point has been its performance-based pricing model, the RTB platform supports pricing based on impressions (CPM), actions (CPA), and clicks (CPC). It&#8217;s built using the RTB 2.0 Standard.</p>
+<p>The company is also announcing that it&#8217;s now bringing in $1 million a month in revenue. That&#8217;s about double what Moolah was making a year ago, Scheuer said, and he expects to double revenue again next year. Not that the growth has been entirely smooth — he said it usually works more like a &#8220;step function&#8221;, with revenue staying fairly steady, and then making a big leap as new employees join and get up-to -peed.</p>
+<p>Moolah would have grown more quickly, Scheuer said, if it had raised outside funding — he pitched VCs early on, but they were skeptical the company could actually make the performance model work on mobile. So by necessity, the company has had to focus on profitability.</p>
+<p>&#8220;I think we&#8217;ll prove that you can build a mobile advertising company that&#8217;s profitable, that it can be done at our scale, without any external investment,&#8221; he said.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/oZ_Z8fC_hYU/">here</a>.
