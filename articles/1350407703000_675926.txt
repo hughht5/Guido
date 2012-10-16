@@ -1,0 +1,14 @@
+{
+"title" : "Live From The “Meet The New LinkedIn” Event, Watch The Transformation Of The World’s #1 Professional Social Network",
+"date" : "Tue, 16 Oct 2012 17:15:03 +0000",
+"author" : "Drew Olanoff"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/6290003115_7788c41563_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="6290003115_7788c41563_z" title="6290003115_7788c41563_z" style="float: left; margin: 0 10px 7px 0;" /><p>Today at an event in Mountain View called &#8220;Meet The New LinkedIn&#8221;, the company discussed its direction and will announce some new things. <a href="http://techcrunch.com/2012/09/06/linkedin-company-page-redesign/">LinkedIn</a>, the public company that serves as a social network for professionals, has been integrating social features into its product for the past few years. Lately, this has been ramped up.</p>
+<p>Over time, LinkedIn has dashed in a flavor of Twitter and Facebook style features, allowing you to like news, share it and follow a company for updates.</p>
+<p>CEO Jeff Weiner discussed the history of LinkedIn and how it is being used today. He says that it&#8217;s for connecting talent to companies, which mirrors LInkedIn&#8217;s missions statement. He says &#8220;Our exclusive focus is professionals. There&#8217;s really only a few companies in the world that connect millions of peoples in a nanosecond, and one that connects professionals. LinkedIn.&#8221;</p>
+<p>You can watch the full stream live right now:</p>
+<p><iframe frameborder="0" width="488" height="310" src="http://wpcomwidgets.com/?frameborder=0&#038;scrolling=no&#038;resize=1&#038;replace_attributes=1&#038;fallback=%3Cp+class%3D%22protected-embed-fallback%22%3EThis+embed+is+invalid%3C%2Fp%3E&#038;width=480&#038;height=302&#038;style=border%3A+0px+none+transparent%3B&#038;_data=PGlmcmFtZSB3aWR0aD0iNDgwIiBoZWlnaHQ9IjMwMiIgc3JjPSJodHRwOi8vd3d3LnVzdHJlYW0udHYvZW1iZWQvOTQ2MzM3OT92PTMmYW1wO3dtb2RlPWRpcmVjdCIgc2Nyb2xsaW5nPSJubyIgZnJhbWVib3JkZXI9IjAiIHN0eWxlPSJib3JkZXI6IDBweCBub25lIHRyYW5zcGFyZW50OyI%2BICAgIDwvaWZyYW1lPg%3D%3D%2C620c38bd85695f0de84371e966b51f22a964862f&#038;_tag=protected-iframe&#038;_hash=d7af5ec2e231c549d49e25e87fed40d1" id="d7af5ec2e231c549d49e25e87fed40d1"></iframe><br />
+<br /><a target="_blank" href="http://www.ustream.tv/" style="padding:2px 0 4px;width:400px;background:#ffffff;display:block;color:#000000;font-weight:normal;font-size:10px;text-decoration:underline;text-align:center;">Live broadcast by Ustream</a></p>
+<p>[Photo credit: <a target="_blank" href="http://www.flickr.com/photos/sheilascarborough/6290003115/">Flickr</a>]</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/CO7eWtg4K08/">here</a>.
