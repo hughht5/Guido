@@ -4,17 +4,13 @@
 "author" : "Chris Velazco"
 }
 
-<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/05/gs323.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="gs323" title="gs323" style="float: left; margin: 0 10px 7px 0;" /><p>Samsung has already begun to roll out Android 4.1 Jelly Bean updates for international Galaxy S III owners (<a target="_blank" href="http://www.androidpolice.com/2012/10/17/official-galaxy-s-iii-jelly-bean-updates-continue-rolling-out-across-europe-now-in-france-spain-romania-and-austria/">Spain, France, Austria, and Romania</a> have recently joined the Jelly Bean party), but what about all the GSIII owners locked into contracts with Verizon, AT&amp;T, and the like? Well, the Korean electronics giant has announced that it plans to begin to release the update in the U.S. in &#8220;the coming months,&#8221; and asked users to keep their collective eyes peeled for firmer dates from their carriers.</p>
-<p>The Jelly Bean changelog has been<a href="http://techcrunch.com/2012/06/27/android-jelly-bean-official/"> tackled</a> and dissected more than <a href="http://techcrunch.com/2012/09/24/samsung-galaxy-s-iii-android-4-1-jelly-bean-update-starts-hitting-europe-gradually-heading-to-other-markets/">a few times</a>, but here&#8217;s a quick rundown of the standout tweaks:</p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/05/gs323.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="gs323" title="gs323" style="float: left; margin: 0 10px 7px 0;" /><p>Samsung has already begun to roll out Android 4.1 Jelly Bean updates for international Galaxy S III owners (<a target="_blank" href="http://www.androidpolice.com/2012/10/17/official-galaxy-s-iii-jelly-bean-updates-continue-rolling-out-across-europe-now-in-france-spain-romania-and-austria/">Spain, France, Austria, and Romania</a> have recently joined the Jelly Bean party), but what about all the GSIII owners locked into contracts with Verizon, AT&amp;T, and the like? Well, the Korean electronics giant has announced that it plans to begin releasing the update in the U.S. in &#8220;the coming months,&#8221; and asked users to keep their collective eyes peeled for firmer dates from their carriers.</p>
+<p>The Jelly Bean changelog has been <a href="http://techcrunch.com/2012/06/27/android-jelly-bean-official/">tackled</a> and dissected more than <a href="http://techcrunch.com/2012/09/24/samsung-galaxy-s-iii-android-4-1-jelly-bean-update-starts-hitting-europe-gradually-heading-to-other-markets/">a few times</a>, but here&#8217;s a quick rundown of the standout tweaks:</p>
 <ul>
-<li>Pop-Up Play windows can now be resized (thank goodness)
-</li>
-<li>Live filters can be applied while using the camera or camcorder
-</li>
-<li>Samsung has introduced an Easy Mode for smartphone amateurs that &#8220;focuses on device essentials&#8221;
-</li>
+<li>Pop-Up Play windows can now be resized (thank goodness)</li>
+<li>Live filters can be applied while using the camera or camcorder</li>
+<li>Samsung has introduced an Easy Mode for smartphone amateurs that &#8220;focuses on device essentials&#8221;</li>
 </ul>
-<p>Interestingly, U.S. Galaxy S IIIs will get a little something that its international cousins will have to live without: ESPN&#8217;s ScoreCenter app is now baked directly into the update. </p>
+<p>Interestingly, U.S. Galaxy S IIIs will get a little something that its international cousins will have to live without: ESPN&#8217;s ScoreCenter app is now baked directly into the update.</p>
 <p>It&#8217;s not exactly a surprise to see domestic device owners get the shaft when it comes to these sorts of updates, and though I&#8217;m getting tired of companies trotting out the &#8220;coming months&#8221; line, wireless carriers are likely to be the big bottleneck here. As <a href="http://techcrunch.com/2011/12/07/motorola-and-sony-ericsson-weigh-in-on-the-android-4-0-upgrade-process/">Motorola and Sony </a>were eager to point out back when Ice Cream Sandwich updates were all the rage, carriers conduct extensive testing on new software updates before they can be certified and pushed to corresponding devices over the air.</p>
-<p><em>Developing&#8230;</em></p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/YLjIrA4In9A/">here</a>.
