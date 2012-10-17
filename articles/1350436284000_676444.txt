@@ -1,0 +1,18 @@
+{
+"title" : "The New Internet Explorer For Xbox May Be Clumsy, But Wait Til It Gets Kinected",
+"date" : "Wed, 17 Oct 2012 01:11:24 +0000",
+"author" : "Josh Constine"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/miorityreport.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="miorityreport" title="miorityreport" style="float: left; margin: 0 10px 7px 0;" /><p>Internet Explorer suddenly became one of the most widely available Internet TV browsers today as it <a target="_blank" href="http://blogs.windows.com/ie/b/ie/archive/2012/10/16/ie-comes-to-the-living-room-with-xbox.aspx">starts rolling out to Xboxes</a>. And early reports say its joystick-based interface is awful. Whatever. It&#8217;s v1. What matters is that Microsoft has united the world&#8217;s most popular motion sensor tech and one of the world&#8217;s most &#8220;popular&#8221; web browsers.</p>
+<p>Wave hello to the future of the Internet.</p>
+<p></p>
+<p><a target="_blank" href="http://www.engadget.com/2012/10/16/xbox-360-dashboard-update--2012/">Engadget&#8217;s Sean Buckley has a deep, hands on review</a> of the Xbox&#8217;s build of Internet Explorer. A key flaw is that you have to use a free-floating, joystick-controlled cursor to type and click windows on screen. What would be better is the familiar &#8220;traditional locked-grid, hunt-and-peck&#8221; control, as Buckley calls it. That&#8217;s what we&#8217;re used to for console game keyboards and menu navigation.</p>
+<p>You know what might be even better than that, and is well within reach? Motion navigation through Kinect &#8212; 20 million of which have been sold. It&#8217;s not available yet on Xbox&#8217;s Internet Explorer, but I bet it&#8217;s in the works. You can use voice controls over Kinect to navigate the &#8220;Web Hub&#8221; of recently visited and favorite sites. but motion navigation could be huge.</p>
+<p>Imagine just waving or pointing at buttons to click them, swiping between photos, or pulling open a navigation menu. Depending on how accurate it gets, typing a few characters through Kinect&#8217;s motion sensor might not be so bad either. I&#8217;ve seen some <a target="_blank" href="http://vimeo.com/49144067#">impressive motion tech</a> like this built on Kinect by <a target="_blank" href="http://oblong.com/">Oblong Industries</a>, who created the motion-controlled screens in the film Minority Report.</p>
+<p></p>
+<p>Kinect is one area where Microsoft seems firmly ahead of its competition. Niether Google nor Apple, both very interested in the Internet-connected TV market, have a popular motion sensing television input. With all the users, Kinect is getting data that&#8217;s surely making it better.</p>
+<p>A truly laid-back, couch-ready web browsing experience is going to need motion detection. One day I imagine we&#8217;ll use our second-screens / phones for complex television controls, and everything else we&#8217;ll do with our bodies. Even if its not ready yet, and it starts out awkward, IE&#8217;s deployment to Kinect-equipped Xboxes means Microsoft is stumbling in the right direction.</p>
+<pre><div class='embed-vimeo' style='text-align:center;'><iframe src='http://player.vimeo.com/video/49144067' width='400' height='300' frameborder='0'></iframe></div>
+<em>[Image Credit: <a target="_blank" href="http://www.ripten.com/2010/11/27/kinect-web-browsing-is-one-step-towards-the-future/">ripten</a>]</em></pre>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/HrpbUT1eORY/">here</a>.
