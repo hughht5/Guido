@@ -1,5 +1,5 @@
 {
-"title" : "Source: Apple Accessory Partner Seminar To Be Held November 7-8, Will Cover Lightning Accessory Guidelines",
+"title" : "Source: Apple Accessory Partner Seminar Coming November 7-8, Will Cover Lightning Guidelines",
 "date" : "Wed, 17 Oct 2012 11:18:23 +0000",
 "author" : "Darrell Etherington"
 }
