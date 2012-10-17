@@ -12,7 +12,7 @@
 <p>The startup is kicking off an <a target="_blank" href="http://www.crunchbase.com/company/indie-gogo">Indiegogo</a> on October 29 with the aim of raising $90,000, and hopes to be ready to ship in April 2013. First taker backers will be able to snag the device for an extremely tasty price of $89, after which it will be sold for $119 &#8212; which is still pretty neat considering it undercuts some of Amiigo&#8217;s less-capable competitor devices.</p>
 <p>Also neat: Amiigo will be releasing an SDK for the device so app makers can explore additional uses. The startup tells me it could envisage various alternative use-cases for the hardware, such as enhanced patient care monitoring or chronic care monitoring, or &#8212; tapping up the Wii-style motion sensors inside Amiigo &#8212; even gaming scenarios.</p>
 <p>The startup has been working on the device for around 10 months so far &#8212; with a core team of four, including &#8220;tech talent&#8221; from MIT.</p>
-<p><a href="http://techcrunch.com/?attachment_id=676014" rel="attachment wp-att-676014"></a></p>
-<p><a href="http://techcrunch.com/?attachment_id=676016" rel="attachment wp-att-676016"></a></p>
-<p><a href="http://techcrunch.com/?attachment_id=676019" rel="attachment wp-att-676019"></a></p>
+<p><a href="http://techcrunch.com/2012/10/17/amiigo-is-a-fitness-bracelet-plus-app-that-knows-what-type-of-exercise-youre-doing-and-what-its-doing-to-you/amiigo-bracelet-blue/" rel="attachment wp-att-676014"></a></p>
+<p><a href="http://techcrunch.com/2012/10/17/amiigo-is-a-fitness-bracelet-plus-app-that-knows-what-type-of-exercise-youre-doing-and-what-its-doing-to-you/amiigo-bracelet-flat/" rel="attachment wp-att-676016"></a></p>
+<p><a href="http://techcrunch.com/2012/10/17/amiigo-is-a-fitness-bracelet-plus-app-that-knows-what-type-of-exercise-youre-doing-and-what-its-doing-to-you/amiigo-shoe-clip-blue/" rel="attachment wp-att-676019"></a></p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/Zct-g_i6pUI/">here</a>.
