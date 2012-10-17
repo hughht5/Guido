@@ -16,5 +16,4 @@
 </ul>
 <p>Interestingly, U.S. Galaxy S IIIs will get a little something that its international cousins will have to live without: ESPN&#8217;s ScoreCenter app is now baked directly into the update. </p>
 <p>It&#8217;s not exactly a surprise to see domestic device owners get the shaft when it comes to these sorts of updates, and though I&#8217;m getting tired of companies trotting out the &#8220;coming months&#8221; line, wireless carriers are likely to be the big bottleneck here. As <a href="http://techcrunch.com/2011/12/07/motorola-and-sony-ericsson-weigh-in-on-the-android-4-0-upgrade-process/">Motorola and Sony </a>were eager to point out back when Ice Cream Sandwich updates were all the rage, carriers conduct extensive testing on new software updates before they can be certified and pushed to corresponding devices over the air.</p>
-<p><em>Developing&#8230;</em></p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/YLjIrA4In9A/">here</a>.
