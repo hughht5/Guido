@@ -4,11 +4,9 @@
 "author" : "Josh Constine"
 }
 
-<p>App developers pay huge sums for ads that gets them installs, and Facebook wants to gobble up that spend. <a target="_blank" href="http://developers.facebook.com/blog/post/2012/10/17/drive-installs-and-discovery-with-mobile-app-install-ads/">So today Facebook begins</a> allowing all developers to buy its <a href="http://techcrunch.com/2012/08/07/facebook-mobile-app-ads/">recently announced</a> app install ads that appear in the mobile News Feed. Until now, just a few partners access.</p>
+<p>App developers pay huge sums for ads that gets them installs, and Facebook wants to gobble up that spend. <a target="_blank" href="http://developers.facebook.com/blog/post/2012/10/17/drive-installs-and-discovery-with-mobile-app-install-ads/">So today Facebook begins</a> allowing all developers to buy its <a href="http://techcrunch.com/2012/08/07/facebook-mobile-app-ads/">recently announced</a> app install ads that appear in the mobile News Feed. Until now, just a few partners had access.</p>
 <p>Facebook is making a big bet on the app economy, and wants to be the top source of discovery outside of the app stores.</p>
 <p>A few lessons were learned in the trial that started 2 months ago. People can&#8217;t go on an app&#8217;s name, short description  and icon alone. They want social proof that hey should download. That&#8217;s why the ads now show an app&#8217;s ratings from the Facebook App Center, as well as which friend use it.</p>
 <p>Now to be clear, these are still non-social ads. They don&#8217;t require a friend to have Liked or installed the app for an ad to reach your news feed. That means Facebook has to be careful not to show too many, or it risks drowning out organic friend content.</p>
-<p>But if users dig them, this could be the great mobile hope for Facebook&#8217;s bottom line. Mobile app installs are a huge industry. With the time spent on Facebook&#8217;s own apps, these ads could make sure any time a company launch&#8217;s a new app, it&#8217;s paying Facebook.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p>But if users dig them, this could be the great mobile hope for Facebook&#8217;s bottom line. Mobile app installs are a huge industry. With the time spent on Facebook&#8217;s own apps, these ads could make sure any time a company launches a new app, it&#8217;s paying Facebook.</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/ytFt6BN9Kxc/">here</a>.
