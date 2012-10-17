@@ -1,5 +1,5 @@
 {
-"title" : "Microsoft Will Finally Release A Preview Of IE10 for Windows 7 In November",
+"title" : "Microsoft Will Finally Release A Preview Of IE10 For Windows 7 In November",
 "date" : "Wed, 17 Oct 2012 18:29:28 +0000",
 "author" : "Frederic Lardinois"
 }
