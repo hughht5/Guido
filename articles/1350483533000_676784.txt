@@ -1,0 +1,9 @@
+{
+"title" : "Samsung Mobile: Jelly Bean Updates Will Hit U.S. Galaxy S IIIs In “The Coming Months”",
+"date" : "Wed, 17 Oct 2012 14:18:53 +0000",
+"author" : "Chris Velazco"
+}
+
+<p>Samsung has already begun to rollout out Android 4.1 Jelly Bean updates for international Galaxy S III owners (<a target="_blank" href="http://www.androidpolice.com/2012/10/17/official-galaxy-s-iii-jelly-bean-updates-continue-rolling-out-across-europe-now-in-france-spain-romania-and-austria/">Spain, France, Austria, and Romania</a> have recently joined the Jelly Bean party), but what about all the GSIII owners locked into contracts with Verizon, AT&amp;T, and the like? Well, the Korean electronics giant has announced that it plans to begin to release the update in the U.S. in &#8220;the coming months,&#8221; and asked users to keep their collective eyes peeled for firmer dates from their carriers.</p>
+<p><em>Developing&#8230;</em></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/YLjIrA4In9A/">here</a>.
