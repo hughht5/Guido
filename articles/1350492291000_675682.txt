@@ -15,6 +15,6 @@
 Earlier this year, Twilio released Twilio Client iOS and Android SDKs, allowing mobile developers to easily add voice capability to their apps. One such service, <a target="_blank" href="http://www.ringdna.com/">RingDNA</a>, is over the moon about Twilio. Here&#8217;s what its CEO, Howard Brown, had to say:</p>
 <blockquote><p>Because of Twilio&#8217;s rock-solid client for iOS SDK, our developers could focus on RingDNA&#8217;s core cloud marketing, sales and service features without bearing the prohibitive cost of creating the telephony API ourselves.</p></blockquote>
 <p>Stay tuned for more news from Twiliocon 2012.</p>
-<p><span class='embed-youtube' style='text-align:center; display: block;'><iframe class='youtube-player' type='text/html' width='640' height='390' src='http://www.youtube.com/embed/KMU0tzLwhbE?version=3&#038;rel=1&#038;fs=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' frameborder='0'></iframe></span></p>
+<p><span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/10/17/twilios-client-product-now-supports-googles-cutting-edge-open-source-webrtc/"></a></span></p>
 <p>[Phone callers photo credit: <a target="_blank" href="http://www.flickr.com/photos/eggplant/2213026615/">Flickr</a>]</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/OIXWhtLSIdk/">here</a>.
