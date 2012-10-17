@@ -1,0 +1,11 @@
+{
+"title" : "Pinterest Adds Ability To Block And Report Other Users To Keep ‘Positive And Respectful’",
+"date" : "Wed, 17 Oct 2012 19:46:23 +0000",
+"author" : "Colleen Taylor"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/pinterest.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="pinterest" title="pinterest" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.pinterest.com">Pinterest</a> is generally known as a mostly female user base gathers to share images and video of shiny and happy things such as cute animals, pretty clothing, and tasty recipes. But in any community made up of millions of people, some bad apples are going to turn up.</p>
+<p>So today, Pinterest announced a new feature that lets people block other users and report bad activity on the site. Users can report specific pins or other users&#8217; profiles entirely. These features will roll out over the next week, Pinterest says. In a <a target="_blank" href="http://blog.pinterest.com/post/33785122869/announcing-blocking-more-controls">company blog post</a> published today, Pinterest software engineer Dannie Chu writes:</p>
+<p>&#8220;People use Pinterest to discover new ideas and be inspired by a community who share similar interests. We’ve recently added the ability to block and report a user to help keep our community positive and respectful.&#8221;</p>
+<p>Along with the ability to block and report a user, Pinterest has also added more granular email settings that let people dictate when they receive notifications about things like repinning and commenting activity.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/5Bi_nYpwK6c/">here</a>.
