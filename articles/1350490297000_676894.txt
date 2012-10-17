@@ -1,0 +1,10 @@
+{
+"title" : "Klout Updates iPhone App With Passbook Integration, Wants You To “Show Off” With Klout Card",
+"date" : "Wed, 17 Oct 2012 16:11:37 +0000",
+"author" : "Darrell Etherington"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/klout-udpate.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="klout-udpate" title="klout-udpate" style="float: left; margin: 0 10px 7px 0;" /><p>Online social influence is something that can really rub people the wrong way. Klout obviously believes in it wholeheartedly; <a target="_blank" href="http://mattdemers.com/post/22844271976/klout-is-stupid-and-you-shouldnt-care-about-it">others, not so much</a>. Now, in a move that&#8217;s sure to generate its fair share of criticism, Klout has updated its iPhone app with Passbook support, allowing users to create their own &#8220;Klout Card,&#8221; which lives in Passbook and can help users &#8220;show off [their] influence to get special service and experiences&#8221; from businesses.</p>
+<p>Klout hasn&#8217;t said much about where or how exactly that will work, or what businesses are signed up to recognize it, (we&#8217;ve reached out to them for more info, and will update accordingly), but the card will include your user name, profile photo and Klout Score, so that you can tell anyone anywhere that you&#8217;re kind of a big deal on web-based social services. I&#8217;m having terrifying visions of people flashing these things at social outings to try to settle debates about who know more on any given topic. Please don&#8217;t let that happen.</p>
+<p>Other features of the update include iPhone 5 display optimization, as well as notifications for Klout Perk eligibility and the ability to claim right from your iPhone. But let&#8217;s be honest, this is all about the card, which for Klout could be a way to get more local businesses on board with its brand and potentially its Perks platform.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/7xKJmP6QPoQ/">here</a>.
