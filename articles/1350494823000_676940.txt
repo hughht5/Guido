@@ -1,5 +1,5 @@
 {
-"title" : "Twilio Is Crushing It: 150K Developers, 1.5M API Calls A Day, 1B Total Phone Calls, Expanding To 20 More Countries",
+"title" : "Twilio Is Crushing It: 150K Devs, 1.5M API Calls/Day, 1B Total Phone Calls, 20 New Countries",
 "date" : "Wed, 17 Oct 2012 17:27:03 +0000",
 "author" : "Josh Constine and Ingrid Lunden"
 }
