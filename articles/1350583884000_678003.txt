@@ -1,0 +1,16 @@
+{
+"title" : "Facebook Reaffirms Its Commitment To Stop Cyber Bulling With New Activist Page, Partnership With The Ad Council",
+"date" : "Thu, 18 Oct 2012 18:11:24 +0000",
+"author" : "Jordan Crook"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/facebook1.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="facebook" title="facebook" style="float: left; margin: 0 10px 7px 0;" /><p>Facebook just launched <a target="_blank" href="https://www.facebook.com/safety/bullying">a new page</a> in the Family Safety Center to help raise awareness during Bullying Prevention Month. It helps users navigate through different partners and all the specific actions that can be taken to prevent bullying, like how to report bullying and education around the <a href="http://techcrunch.com/2012/04/26/facebook-support-dashboard/">Support Dashboard</a>.</p>
+<p>The mutlifunctional Support Dashboard launched earlier this year and Facebook <a href="http://techcrunch.com/2012/10/02/facebook-redesigns-help-center-to-suggest-answers-completes-roll-out-of-support-dashboard/">recently announced</a> it&#8217;s available to 100% of its users. This tool lets users track reports they&#8217;ve made about bullying or abuse as they&#8217;re being resolved. </p>
+<p>Facebook has had a comprehensive system in place for a while to field <a target="_blank" href="http://www.facebook.com/note.php?note_id=196124227075034">social reporting</a>, but users often complained that they didn&#8217;t know what happened after they made reports. </p>
+<p>The social network is also collaborating with the Ad Council to launch a massive bullying prevention advertising campaign for TV, print and online. </p>
+<p>Ad Council content will be prevalent within Facebook&#8217;s <a target="_blank" href="https://www.facebook.com/stopbullyingspeakup?ref=ts&amp;fref=ts">&#8220;Stop Bullying: Speak Up&#8221;</a> program which has gone into its second year with more than one million likes. </p>
+<span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/10/18/facebook-reaffirms-its-commitment-to-stop-cyber-bulling-with-new-activist-page-partnership-with-the-ad-council/"></a></span>
+<p>October is Bullying Prevention Month, and today, we are launching a new page in our Family Safety Center to raise awareness about the specific actions people can take on Facebook to prevent bullying. The page builds on our commitment to keep people safe online by offering new and existing resources in one convenient location.</p>
+<p>We are also standing with the Ad Council as it launches its bullying prevention advertising campaign on TV, in print and online. We are deeply integrating the Ad Council content into our Stop Bullying: Speak Up program, now in its second year with more than a million “likes” and more than 140,000 young people and adults who have taken the pledge to be more than a bystander. </p>
+<p>To learn more, read a note on the Facebook Safety page. </p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/AIi72cDOFxs/">here</a>.
