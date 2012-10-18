@@ -1,0 +1,17 @@
+{
+"title" : "Despite NYC Delay, Uber Launches Taxi Option In SF",
+"date" : "Thu, 18 Oct 2012 01:35:16 +0000",
+"author" : "Colleen Taylor"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-17-at-6-33-11-pm.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="uber" title="uber" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.uber.com">Uber</a>, the technology startup best known for its flagship app that lets people summon and pay for transportation in private black limousines, is starting to look like it&#8217;s the subject in a nationwide game of whack-a-mole with local regulators  &#8212; it is shot down in one place, only to pop its head up in another. </p>
+<p>The latest example of this: <a target="_blank" href="http://www.uber.com">Uber</a> just announced in a <a target="_blank" href="http://blog.uber.com/2012/10/17/taxi-is-arriving-in-san-francisco/">blog post</a> that today it is launching the lower-priced &#8220;Taxi&#8221; version of its car service in San Francisco. </p>
+<p>The announcement comes just one day after Uber confirmed it had <a href="http://techcrunch.com/2012/10/16/ubers-taxi-services-shutting-down-in-nyc-ceo-still-says-to-expect-rollouts-in-many-more-cities-soon/">discontinued the beta version</a> of UberTAXI in New York City after much regulatory opposition. In a blog post yesterday, Uber&#8217;s CEO Travis Kalanick vowed to continue pushing the rollout of UberTAXI to other cities &#8212; and today&#8217;s news shows that he really wasn&#8217;t kidding.</p>
+<p>Here are excerpts from the blog post outlining basic facts of Uber Taxi in San Francisco:</p>
+<blockquote><p>
+&#8220;TAXI will be live in San Francisco starting today. We’re releasing it gradually to make sure things are going smoothly. If you don’t see it right away, don’t worry. You will within a few days.</p>
+<p>Drivers will continue to use the meter in their taxis and will input the fare into their Uber iPhones at the end of the trip. This will include all tolls and out-of-city surcharges that would normally apply for any SF taxi ride<br />
+A 20% gratuity will be added to your fare, plus a $1 booking fee. This will be done automatically and charged to your credit card, exactly like a standard Uber ride.</p>
+<p>Uber TAXI is a new choice for Uber users. You can keep using all the Uber options exactly as you did before.&#8221;</p></blockquote>
+<p><em>Updating.</em></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/XwQDQwbxDGQ/">here</a>.
