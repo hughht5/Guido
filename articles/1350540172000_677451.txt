@@ -10,12 +10,12 @@
 <p><a href="http://techcrunch.com/2012/10/17/watch-the-videos-from-googles-zeitgeist-event-featuring-eric-schmidt-and-ceo-larry-page/snapshot-101712-1055-pm/" rel="attachment wp-att-677454"></a></p>
 <p>Here are a few of the more interesting talks, but definitely go <a target="_blank" href="https://www.youtube.com/user/zeitgeistminds">check all of them out</a>.</p>
 <p><b>Eric Schmidt: The World Around Us</b></p>
-<span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/10/17/watch-the-videos-from-googles-zeitgeist-event-featuring-eric-schmidt-and-ceo-larry-page/"></a></span>
+<span class='embed-youtube' style='text-align:center; display: block;'><iframe class='youtube-player' type='text/html' width='640' height='360' src='http://www.youtube.com/embed/kUHF43xjMJM?version=3&#038;rel=1&#038;fs=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' frameborder='0'></iframe></span>
 <p><b>Larry Page Q&amp;A</b></p>
-<span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/10/17/watch-the-videos-from-googles-zeitgeist-event-featuring-eric-schmidt-and-ceo-larry-page/"></a></span>
+<span class='embed-youtube' style='text-align:center; display: block;'><iframe class='youtube-player' type='text/html' width='640' height='360' src='http://www.youtube.com/embed/4Mzlp6mIaC4?version=3&#038;rel=1&#038;fs=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' frameborder='0'></iframe></span>
 <p><b>Sir Ken Robinson</b></p>
-<span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/10/17/watch-the-videos-from-googles-zeitgeist-event-featuring-eric-schmidt-and-ceo-larry-page/"></a></span>
+<span class='embed-youtube' style='text-align:center; display: block;'><iframe class='youtube-player' type='text/html' width='640' height='360' src='http://www.youtube.com/embed/w9-SYa_82TI?version=3&#038;rel=1&#038;fs=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' frameborder='0'></iframe></span>
 <p><b>Andrew Ross Sorkin: The World We Design</b></p>
-<span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/10/17/watch-the-videos-from-googles-zeitgeist-event-featuring-eric-schmidt-and-ceo-larry-page/"></a></span>
+<span class='embed-youtube' style='text-align:center; display: block;'><iframe class='youtube-player' type='text/html' width='640' height='360' src='http://www.youtube.com/embed/mQkRg6YwrTc?version=3&#038;rel=1&#038;fs=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' frameborder='0'></iframe></span>
 <p>[Photo credit: <a target="_blank" href="http://www.flickr.com/photos/loiclemeur/8090757353/in/photostream">Loic</a>]</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/16W72WBsG2U/">here</a>.
