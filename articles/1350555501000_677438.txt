@@ -10,5 +10,5 @@
 <p>What more than a few wireless buffs spent time pondering in the days leading up to this release was what effect Verizon Wireless’s Share Everything plans would have on the company’s average revenue per user. After all, those shared plans (which are compulsory for new customers) can be more expensive for some individual users, while families and small businesses can end up spending less on service than before. Thanks to the new plans, the retail ARPA grew 6.5% over last year&#8217;s levels to $145.42 per month. Verizon is now reporting on an per-account basis (ARPA) rather than a per-user basis (ARPU)</p>
 <p>Verizon did not specify sales of individual devices including the iPhone 5.</p>
 <p>Today&#8217;s release detailed the 4G LTE rollout, stating that Verizon&#8217;s next-gen network is now available to more than 250M people in 419 markets across the US.</p>
-<p><em>Developing&#8230;</em></p>
+<p>Verizon&#8217;s wireline service reported an operating lose of $9.9 billion, a decline of 2.3% over last year. ARPU increased to $103.86, up 10.3% compared to last year.</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/GYcgQPUO_ck/">here</a>.
