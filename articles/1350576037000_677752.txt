@@ -1,0 +1,13 @@
+{
+"title" : "Flit Lets You Shop Across 1,000 Online Stores From A Single iPad App",
+"date" : "Thu, 18 Oct 2012 16:00:37 +0000",
+"author" : "Leena Rao"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/flit-shopping-for-ipad-on-the-itunes-app-store.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Flit Shopping for iPad on the iTunes App Store" title="Flit Shopping for iPad on the iTunes App Store" style="float: left; margin: 0 10px 7px 0;" /><p>Online shopping has failed to capture the natural activity of shopping between stores, and with friends. If you want to purchase something at Macy&#8217;s but also want to see if Nordstrom has a similar item, you have to open a new tab and conduct a new search. <a target="_blank" href="http://www.flit.com/">Flit</a> is launching today as a way to solve this problem by providing one app that lets you shop across 1,000 stores. The startup offers and iPad app that aggregates all of a user’s favorite stores and styles in one app.</p>
+<p>Flit&#8217;s iPad app automatically fields a user’s search through hundreds of shops in the apps’ database. Basically, Flit’s patent-pending technology eliminates the issue of switching between multiple browser tabs to view multiple shopping sites.</p>
+<p>Users can also label a product as “Cute,” to save the item to purchase later or share the item. A comparison feature gives shoppers the opportunity to compare price, full product details and style in a side-by-side format of up to three items at one time. Additionally, users can buy items from within the app (Flit collects an affiliate fee), and the app will alert users when their favorite stores have new arrivals or items have gone on sale.</p>
+<p>Going beyond traditional commerce sites like Macy&#8217;s, Flit also incorporates flash sales sites like Gilt.</p>
+<p>Flit has raised an undisclosed amount of funding from institutional investors and angels.</p>
+<p><a href="http://techcrunch.com/?attachment_id=677824" rel="attachment wp-att-677824"></a></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/4QHg-Rggr2o/">here</a>.
