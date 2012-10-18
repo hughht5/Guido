@@ -6,7 +6,7 @@
 
 <img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-18-at-11-46-26.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-10-18 at 11.46.26" title="Screen Shot 2012-10-18 at 11.46.26" style="float: left; margin: 0 10px 7px 0;" /><p>The former world number one mobile maker Nokia has announced its <a target="_blank" href="http://press.nokia.com/2012/10/18/nokia-corporation-q3-2012-interim-report/">Q3 financial results today</a>, reporting yet another quarterly loss &#8212; posting an operating loss of  €576 million ($754 million). Net sales for the quarter were €7.239 billion ($9.49 billion).</p>
 <p>Nokia said sales of its Lumia line of Windows Phone 7-based smartphones decreased quarter-on-quarter to 2.9 million units (down from four million in the previous quarter) &#8212; attributing this decline to the looming launch of Windows Phone 8-based devices due at the end of the month.</p>
-<p>Total smartphone sales were 6.3 million. While sales of its Series 40-based Asha range totalled 155 million.</p>
+<p>Total smartphone sales were 6.3 million (down from 10.2 million in the previous quarter). While sales of its Series 40-based Asha range totalled 155 million.</p>
 <p>The company also noted shrinking cash reserves. Nokia&#8217;s net cash fell to €3.6 billion ($4.7 billion) by the end of the quarter, down from €4.2 billion in June.</p>
 <p>Commenting on the results, Nokia CEO Stephen Elop said in a statement:</p>
 <blockquote><p>As we expected, Q3 was a difficult quarter in our Devices &amp; Services business; however, we are pleased that we shifted Nokia Group to operating profitability on a non-IFRS basis.</p>
