@@ -1,0 +1,10 @@
+{
+"title" : "Google Q3 2012 Earnings Leak: Revenue Up 45 Percent To $14.10B, Net Income Down 20 Percent To $2.18B",
+"date" : "Thu, 18 Oct 2012 16:51:06 +0000",
+"author" : "Romain Dillet"
+}
+
+<p>Google&#8217;s earnings for Q3 were leaked early in a SEC document. Revenues are up 45 percent compared to Q3 2011 and now represents $14.10 billion. However, GAAP net income is down 20 percent to $2.18 billion. Google fell short on expectations and stock is down today.</p>
+<p>Non-GAAP earnings per share is at $6.53 a share.</p>
+<p><i>Developing…</i></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/wvAj10FHN54/">here</a>.
