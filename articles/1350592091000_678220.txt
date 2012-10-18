@@ -8,5 +8,6 @@
 <p>Here&#8217;s their <a target="_blank" href="https://status.github.com/">status update</a> posted at 1:05 p.m.</p>
 <blockquote><p>We&#8217;re experiencing some connectivity issues at the moment. GitHub.com is currently unavailable while we resolve this.</p></blockquote>
 <p>Last month,  a database migration went awry  on GitHub causing an outage and poor availability.</p>
+<p>Disruptions have nagged GitHub over the past week. Two minor disruptions occurred yesterday and the day before.</p>
 <p>(We will update about the GitHub outage as it become available)</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/jqiM-KVIrf8/">here</a>.
