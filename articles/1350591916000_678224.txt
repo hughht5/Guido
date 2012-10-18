@@ -5,7 +5,9 @@
 }
 
 <img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/05/youtube.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="youtube" title="youtube" style="float: left; margin: 0 10px 7px 0;" /><p>I bet Google is having a worse day than you are. First it was its <a href="http://techcrunch.com/2012/10/18/googles-stock-takes-a-dive-after-mid-day-earnings-release-trading-halted/">earnings being leaked by its printer</a>. Then it was a <a href="http://techcrunch.com/2012/10/18/chromebook-samsung-249/">product announcement that leaked</a> before its planned embargo time. And now, YouTube is down. Right before Google&#8217;s earnings call, which is hosted on &#8212; yep, you guessed it &#8212; YouTube. </p>
+<p><em>(Updating as we learn more&#8230;)</em></p>
 <p><strong>Update:</strong> Annnnnndddddd&#8230; It&#8217;s back. I want to thank all my coworkers for alerting me after I published but before I managed to dig in too deeply. But for those who care, this is what it looked like:</p>
 <p><a href="http://techcrunch.com/2012/10/18/youtube-goes-down-adding-to-googles-no-good-rotten-very-bad-day/screen-shot-2012-10-18-at-1-22-39-pm/" rel="attachment wp-att-678262"></a></p>
-<p><em>(Updating as we learn more&#8230;)</em></p>
+<p>And to prove I wasn&#8217;t the only one:</p>
+<p><a href="http://techcrunch.com/2012/10/18/youtube-goes-down-adding-to-googles-no-good-rotten-very-bad-day/screen-shot-2012-10-18-at-1-33-06-pm/" rel="attachment wp-att-678272"></a></p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/yNZlS324wyg/">here</a>.
