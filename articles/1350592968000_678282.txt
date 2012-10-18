@@ -1,0 +1,9 @@
+{
+"title" : "Google’s Mobile Run Rate Is Now $8 Billion, Up From $2.5 Billion A Year Ago",
+"date" : "Thu, 18 Oct 2012 20:42:48 +0000",
+"author" : "Leena Rao"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/largenewgooglelogofinalflat-a-1.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="largenewgooglelogofinalflat-a-1" title="largenewgooglelogofinalflat-a-1" style="float: left; margin: 0 10px 7px 0;" /><p>In Google&#8217;s earnings call today, Larry Page revealed that its mobile run rate is now $8 billion. That&#8217;s up from <a href="http://techcrunch.com/2011/10/13/page-google-plus-40-million-mobile-2-5-billion/">$2.5 billion</a> a year ago. The company&#8217;s mobile ad revenue has more than tripled over the past year.</p>
+<p><strong>UPDATING</strong></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/u8dQWDEIsaA/">here</a>.
