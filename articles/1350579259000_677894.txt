@@ -1,0 +1,9 @@
+{
+"title" : "Google Announces A Thinner, Lighter Samsung Chromebook For $249",
+"date" : "Thu, 18 Oct 2012 16:54:19 +0000",
+"author" : "Anthony Ha"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/google-chromebook.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="google chromebook" title="google chromebook" style="float: left; margin: 0 10px 7px 0;" /><p>Google is announcing a new $249 Chromebook manufactured by Samsung, which you&#8217;ll be able to order starting next week. It will feature a 11.6-inch screen, weigh 2.5 pounds, be 0.8 inches thick, and run for more than 6.5 hours on battery.</p>
+<p>I&#8217;ll be updating this post with more details from the press conference, but in the meantime, you can also check out <a target="_blank" href="http://www.google.com/intl/en/chrome/devices/">the new Chromebook product site</a>.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/GErTXR1tYpo/">here</a>.
