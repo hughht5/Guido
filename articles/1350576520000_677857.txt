@@ -1,0 +1,13 @@
+{
+"title" : "HotelTonight Extends Its Reach To Ireland As The Euro Clones Start To Attack",
+"date" : "Thu, 18 Oct 2012 16:08:40 +0000",
+"author" : "Mike Butcher"
+}
+
+<p><a target="_blank" href="http://HotelTonight.com">HotelTonight</a> announced it was extending to Ireland at at the <a target="_blank" href="http://websummit.net">Dublin Web Summit</a> today. The last-minute hotel booking app is already live in the UK. The news means every day at noon local time, HotelTonight offers same-day hotel deals and personalised hotel options in 65+ destinations in Ireland. Some of the hotel partners include The Croke Park Hotel, The Gresham Dublin and The Westbury Hotel. The app, downloaded 3.5 million times to date, launched in the UK three months ago and recently added Amsterdam. Other Western European markets are on the cards. However, HotelTonight has some local competition in the form of <a target="_blank" href="http://www.blinkbooking.com/">Blink</a> a startup backed by PROFounders Capital, which is currently live in 7 countries an 97 cities in Europe.</p>
+<p>Co-founder and CEO Sam Shank told us &#8220;We&#8217;re aware of it &#8211; but what people underestimate is it&#8217;s easy to launch an app but hard to build the back end and hard to build that supply of inventory. 80% of the tech in HotelTonight is not seen by the user. The irony is that a simple app takes a loft to complexity. You can&#8217;t clone the back end.&#8221;</p>
+<p>HotelTonight recently secured a $23 million Series C investment, led by U.S. Venture Partners with continued participation from Accel Partners, Battery Ventures and First Round Capital. This latest round has helped to fuel the company&#8217;s worldwide expansion.</p>
+<p>European operations are being overseen by London-based Heather Leisman, managing director, Europe who was previously at Jetsetter.</p>
+<p>Each day at noon local time, HotelTonight offers three same-day hotel deals in each of its destinations, with deep discounts of up to 70 percent off. All hotels are vetted by HotelTonight staff.</p>
+<p>First time bookers can get 20 euros off their first booking by using promo code TONIGHT.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/2UHCaeY3TUY/">here</a>.
