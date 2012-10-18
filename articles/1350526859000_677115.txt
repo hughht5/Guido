@@ -1,0 +1,26 @@
+{
+"title" : "Big Data To Drive $232 Billion In IT Spending Through 2016",
+"date" : "Thu, 18 Oct 2012 02:20:59 +0000",
+"author" : "Alex Williams"
+}
+
+<img width="100" height="36" src="http://tctechcrunch2011.files.wordpress.com/2011/10/gartner.png?w=100&amp;h=36&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="gartner" title="gartner" style="float: left; margin: 0 10px 7px 0;" /><p>Big data will drive $232 billion in spending through 2016. It will directly or indirectly drive $96 billion of worldwide IT spending in 2012, and is forecast to drive $120 billion of IT spending in 2013.</p>
+<p><a target="_blank" href="http://www.gartner.com/">Gartner Research</a> published the results today. They draw several conclusions from their research:</p>
+<ul>
+<li>Big data is not a distinct market. More so, data is everywhere, impacting business in any imaginable way. Its influx will force a change in products, practices and solutions. The change is so rapid that companies may have to retire early existing solutions that are not up to par.</li>
+<li>In 2012, &#8220;IT spending driven by big data functional demands will total $28 billion.&#8221;Most of that will go toward adapting existing solutions to new demands driven by machine data, social data and the unpredictable velocity that comes with it.</li>
+<li>Making big data something that has a functional use will drive $4.3 billion in software sales in 2012. The balance will go toward IT services such as outside experts and internal staff.</li>
+<li>New spending will go toward social media, social network analysis and content analytics with  up to 45% of new spending each year.</li>
+<li>It will cost a significant amount in services to support big data efforts &#8212; as much as 20 times higher relative to software purchases. Peopel with the right skill sets are rare and in high demand.</li>
+</ul>
+<p>That&#8217;s part of the story but the dynamics of memory, storage, and CPU capability provide context for what is happening in the market:</p>
+<ul>
+<li>Memory doubled.</li>
+<li>High speed and high-capacity networking technology pricing has decreased considerably.</li>
+<li>Storage technology is moving from spinning disk to solid state disk and flash.</li>
+<li>Enhanced CPU performance.</li>
+</ul>
+<p>Storage management tops the list of sub-markets influenced by big data spending:</p>
+<p><a href="http://techcrunch.com/2012/10/17/big-data-to-drive-232-billion-in-it-spending-through-2016/itspending-submarkets-1/" rel="attachment wp-att-677355"></a></p>
+<p>Big data technologies abound but customers need to consider how technologies will adapt over time. The Gartner report outlines how spending will initially grow due to the high need for services. People just don&#8217;t know how to get the value out of the data. Over time, the capabilities of the technology will decrease the need for services as practices standardize.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/LKIDugfuObo/">here</a>.
