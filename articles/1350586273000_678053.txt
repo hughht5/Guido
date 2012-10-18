@@ -17,4 +17,5 @@
 <p>The key misunderstanding a lot of people make is that Facebook is competing with iOS and Android. It&#8217;s not. Facebook wants to be the social layer in apps on all devices. And more and more of those devices are Androids do to their lower cost and popularity in emerging international markets where Facebook wants to grow.</p>
 <p>So while a software development kit release might sound boring to some, getting more little green robot apps built on its platform translates to more big green dollars in its bank account.</p>
 <p></p>
+<p><em>[Image Credits: <a target="_blank" href="http://anythingbutiphone.com/14289">AnythingButiPhone</a>, <a target="_blank" href="http://www.engadget.com/2011/03/17/apple-and-android-get-drafted-soldier-centric-army-apps-coming/">Engadget</a>]</em></p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/XTD9nVc-gkA/">here</a>.
