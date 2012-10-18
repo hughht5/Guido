@@ -4,7 +4,7 @@
 "author" : "Romain Dillet"
 }
 
-<p>Google&#8217;s earnings for Q3 were leaked early in a SEC document. Revenues are up 45 percent compared to Q3 2011 and now represents $14.10 billion. However, GAAP net income is down 20 percent to $2.18 billion. Google fell short on expectations and stock is down today.</p>
-<p>Non-GAAP earnings per share is at $6.53 a share.</p>
+<p>Google&#8217;s earnings for Q3 were leaked early in a <a target="_blank" href="http://sec.gov/Archives/edgar/data/1288776/000119312512426975/d426664dex991.htm">SEC document</a>. Revenues are up 45 percent compared to Q3 2011 and now represents $14.10 billion. However, GAAP net income is down 20 percent to $2.18 billion. Non-GAAP earnings per share is at $6.53. Google fell short on expectations and stock is down today.</p>
+<p>Analysts were <a target="_blank" href="http://investing.businessweek.com/research/stocks/earnings/earnings.asp?ticker=GOOG">expecting</a> $14.7 billion in revenue. Google missed by $600 million on those estimates.</p>
 <p><i>Developing…</i></p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/jge-begcoPE/">here</a>.
