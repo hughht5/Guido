@@ -1,0 +1,13 @@
+{
+"title" : "Now In The Cloud, Digitization Company YesVideo Brings Your Old Home Movies To Facebook Timeline",
+"date" : "Thu, 18 Oct 2012 19:54:04 +0000",
+"author" : "Ryan Lawler"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/08/yesvideo2.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="yesvideo" title="yesvideo" style="float: left; margin: 0 10px 7px 0;" /><p>Digitization company YesVideo is more than a decade old, but it&#8217;s rapidly moving to make customers&#8217; photos and videos available wherever they want to view or share them. That&#8217;s especially true since Greystripe founders <a href="http://techcrunch.com/2012/07/12/greystripe-founders-yesvideo/">Michael Chang and Andy Choi joined and invested $5 million</a> into it. What started as just moving those files to the cloud is now moving to making files available on users&#8217; social networks.</p>
+<p>Historically, YesVideo operated a business where you sent the company all your old photos and home movies and they digitized them and sent them back on disk. More recently, YesVideo has moved to making those same assets available through its cloud storage, even going so far as to provide customers of the service with free unlimited cloud storage once their assets were digitized.</p>
+<p>There are advantages to doing so, of course. Customers no longer have to copy and backup all those files on new computers, and family members don&#8217;t actually have to be present to show them off. Instead, customers can now send links to files they want to share via email and on social networks. </p>
+<p>YesVideo has made that sharing even easier, with Facebook integration that lets users post their vintage videos directly on their Timelines. According to Chang, about 40 percent of YesVideo customers are connected to Facebook, and 25 percent of those connected have shared videos on the social network. About 20 percent of all new users get referred through Facebook, so the integration, while good for users, is also a good lead generator.</p>
+<p>With the Timeline integration, users will be able to title, time-stamp, and add metadata to a piece of content &#8212; whether it be a photo or an indexed video clip &#8212; and it will automatically appear in Timeline in the year in which it was shot. That will allow customers to pinpoint the exact date that certain milestones or events happened.</p>
+<p>Making vintage content digital, shareable, and available anywhere will hopefully keep users coming back. But making that content social will help bring in new users.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/aQPBm1U5P8M/">here</a>.
