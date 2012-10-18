@@ -1,0 +1,12 @@
+{
+"title" : "GitHub Goes Down With “Major Disruption”",
+"date" : "Thu, 18 Oct 2012 20:28:11 +0000",
+"author" : "Alex Williams"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2010/07/github-logo.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="github-logo" title="github-logo" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://github.com">GitHub</a> is down again for the second time in the span of a month.</p>
+<p>Here&#8217;s their <a target="_blank" href="https://status.github.com/">status update</a> posted at 1:05 p.m.</p>
+<blockquote><p>We&#8217;re experiencing some connectivity issues at the moment. GitHub.com is currently unavailable while we resolve this.</p></blockquote>
+<p>Last month,  a database migration went awry  on GitHub causing an outage and poor availability.</p>
+<p>(We will update about the GitHub outage as it become available)</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/jqiM-KVIrf8/">here</a>.
