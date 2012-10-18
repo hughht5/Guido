@@ -11,5 +11,5 @@
 <blockquote><p>We&#8217;re experiencing some connectivity issues at the moment. GitHub.com is currently unavailable while we resolve this.</p></blockquote>
 <p>Last month,  a database migration went awry  on GitHub causing an outage and poor availability.</p>
 <p>Disruptions have nagged GitHub over the past week. Two minor disruptions occurred yesterday and the day before.</p>
-<p><strong>Update</strong>: GitHub has in its site that says oerformance is stabilizing.  They are investigating additional mitigation strategies to harden against future attacks, similar or otherwise.</p>
+<p><strong>Update</strong>: GitHub has in its site that says performance is stabilizing.  They are investigating additional mitigation strategies to harden against future attacks, similar or otherwise.</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/jqiM-KVIrf8/">here</a>.
