@@ -17,5 +17,5 @@
 <p>And so on.</p>
 <p>It terms of how TappingStone plans to make money, it will follow a <a href="http://techcrunch.com/2012/10/17/twilio-is-crushing-it-150k-developers-1-5m-api-calls-a-day-1b-total-phone-calls-expanding-to-20-more-countries/">similar model to Twilio</a> and charge developers per-usage, priced per data size and per prediction calls. I’m assured it will be cheap or possibly free for smaller startups but will scale competitively for something like a Pinterest.</p>
 <p>“We haven&#8217;t decided the exact price range yet. But it&#8217;ll be dirt cheap, especially compared to in-house data scientists”, says Chan.</p>
-<p>TrappingStone is currently self-funded, while its CTO can&#8217;t be named as he is currently seeing out his notice period. You gotta love startup life.</p>
+<p>TappingStone is currently self-funded, while its CTO can&#8217;t be named as he is currently seeing out his notice period. You gotta love startup life.</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/FaqPB-LLRcg/">here</a>.
