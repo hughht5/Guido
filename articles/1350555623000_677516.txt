@@ -1,0 +1,13 @@
+{
+"title" : "Apple Vs Samsung: U.K. Appeal Court Upholds ‘Galaxy Tab Not Cool Enough To Copy iPad’ Ruling",
+"date" : "Thu, 18 Oct 2012 10:20:23 +0000",
+"author" : "Natasha Lomas"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/galaxy-tab-10-11.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="galaxy tab 10.1" title="galaxy tab 10.1" style="float: left; margin: 0 10px 7px 0;" /><p>Apple has lost an appeal against a ruling in a U.K. High Court that Samsung&#8217;s Galaxy Tab does not infringe the iPad&#8217;s design. The <a target="_blank" href="http://www.judiciary.gov.uk/media/judgments/2012/samsung-apple-judgment-09072012">original ruling</a> by Judge Colin Birss said Samsung&#8217;s tablets were <a target="_blank" href="http://www.guardian.co.uk/technology/2012/jul/09/samsung-apple-cool-ipad-tablet">not cool enough</a> to be confused with Apple&#8217;s because they lacked the &#8220;extreme simplicity&#8221; of the iPad. That ruling has now been upheld by the Court of Appeal.</p>
+<p>The original ruling also stated that Apple must run adverts on its website and in newspaper saying Samsung did not copy the iPad. <a target="_blank" href="http://uk.reuters.com/article/2012/10/18/us-apple-samsung-idUKBRE89H0DW20121018">Reuters</a> reports that the Court of Appeal&#8217;s Judge Kitchin said today the notices must be in a font size no smaller than Ariel 14.</p>
+<p>We&#8217;ve reached out to Apple and Samsung for comment and will update with any response.</p>
+<p>The BBC quotes a Samsung spokeswoman providing the following statement</p>
+<blockquote><p>We continue to believe that Apple was not the first to design a tablet with a rectangular shape and rounded corners and that the origins of Apple&#8217;s registered design features can be found in numerous examples of prior art.</p>
+<p>Should Apple continue to make excessive legal claims in other countries based on such generic designs, innovation in the industry could be harmed and consumer choice unduly limited.</p></blockquote>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/9Faqfr0koGI/">here</a>.
