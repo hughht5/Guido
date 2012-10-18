@@ -1,0 +1,13 @@
+{
+"title" : "Google Books Ngram Viewer Gets A Larger Dataset, Now Understands Parts Of Speech",
+"date" : "Thu, 18 Oct 2012 15:51:34 +0000",
+"author" : "Frederic Lardinois"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/ngram-viewer.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="ngram-viewer" title="ngram-viewer" style="float: left; margin: 0 10px 7px 0;" /><p>Google&#8217;s <a target="_blank" href="http://books.google.com/ngrams">Ngram Viewer for Google Books</a>, a tool that lets you see how the usage of specific words has increased and decreased over time, <a target="_blank" href="http://googleresearch.blogspot.com/2012/10/ngram-viewer-20.html">just got an update</a>. The Ngram Viewer now draws upon a larger dataset (though Google sadly doesn&#8217;t say how large exactly it now is) and got a few new features for more advanced analysis.</p>
+<p>Most importantly, though, the Ngram Viewer is now a lot smarter. Last year, Google&#8217;s Natural Language Processing group built a system that can reliably identify parts of speech. Thanks to this, the Ngram Viewer now knows how often a given word in its corpus was used as a noun or verb, for example.</p>
+<p>As far as new features go, the main new tool in this release is the ability to add, subtract, multiply and divide Ngram counts. This, says Google, allows you to see &#8220;how &#8216;record player&#8217; rose at the expense of &#8216;Victrola,&#8217;&#8221; for example.</p>
+<p><a href="http://techcrunch.com/?attachment_id=677804" rel="attachment wp-att-677804"></a></p>
+<p>In addition, the Ngram Viewer team also added support for Italian to the current set of available languages (English, Chinese, Spanish, French, German, Hebrew and Russian).</p>
+<p>At first glance, it would seem as if a tool like this would mostly be <a target="_blank" href="http://en.wikipedia.org/wiki/N-gram">of interest</a> to historical linguists in academia, but the project has actually been a major mainstream success for Google. As Google Engineering Manager and the project&#8217;s co-creator Jon Orwant notes in today&#8217;s announcement, he and the rest of the team were surprised by &#8220;its popularity among casual users.&#8221; Since its launch in 2010, he writes, the Ngram Viewer has been used about 50 times per minute and over 45 million graphs have been created with it.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/l9WLhOuJbGQ/">here</a>.

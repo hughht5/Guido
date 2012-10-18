@@ -1,0 +1,12 @@
+{
+"title" : "Redeem&Get Offers Daily Deals Sites A New Way Out Of The Offers Mess",
+"date" : "Thu, 18 Oct 2012 15:52:52 +0000",
+"author" : "Mike Butcher"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/160127v1-max-250x250.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="160127v1-max-250x250" title="160127v1-max-250x250" style="float: left; margin: 0 10px 7px 0;" /><p>Last year Groupon <a href="http://techcrunch.com/2011/12/07/groupon-debuts-scheduler-to-streamline-online-bookings-for-merchants-consumers/">bought OpenCal</a>. It&#8217;s since launched Groupon Scheduler, a management tool for merchants using Groupon. However, there remains a problem in the Daily Deals market. A lot of deal sites use other kinds of platforms for deals, and the market is becoming increasingly confusing. So there remains a gaping hole for an enterprise solution allowing Daily Deal sites to be competitive against groupon and offer better merchant services.</p>
+<p>Irish startup <a target="_blank" href="http://www.redeemandget.com/">Redeem&amp;Get</a> set out to address this issue with a Deal Manager Pro, aimed at helping online marketeers leverage daily deals by managing special offers for local merchants. A sort of ‘Google AdWords certification for daily deals’. Now it&#8217;s launched an enterprise service. </p>
+<p>This gives daily deal publishers the ability to provide their merchants with voucher redemption management and customer scheduling software.</p>
+<p>Redem&amp;Get argues this gives Daily Deal sites a technological advantage in that they can address the problem of being overwhelmed by large volumes of customers hitting their business on the days and weeks following their deal. The platform has real-time redemption analytics.</p>
+<p>Redeem&amp;Get is a graduate of NDRC Launchpad accelerator program, an Enterprise Ireland iHPSU company and winner of the Electric Ireland Spark of Genius Award 2011.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/4PH_0nLVMPo/">here</a>.
