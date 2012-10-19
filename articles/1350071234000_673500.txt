@@ -1,0 +1,20 @@
+{
+"title" : "Facebook’s Testing A Navigation Bar Layout With Notifications On The Right Near Ads And Gifts",
+"date" : "Fri, 12 Oct 2012 19:47:14 +0000",
+"author" : "Drew Olanoff"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/4388396268_87224c6556_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="4388396268_87224c6556_z" title="4388396268_87224c6556_z" style="float: left; margin: 0 10px 7px 0;" /><p>Facebook likes to test things out on the live site, getting feedback in real-time. Sometimes, things make their way to some of your friends, but not to you. Some would call this an &#8220;inconsistent experience&#8221;, but I actually like how Facebook goes about this. I would personally like to see all of the new stuff that the company tests, from a journalist perspective&#8230;but hey, you can&#8217;t have everything.</p>
+<p>A few tipsters are reporting to TechCrunch that they&#8217;re seeing a brand new layout for the navigation bar on Facebook&#8217;s website. The new layout shows a complete swap for where the notifications, friend requests and messages sit.</p>
+<p>Have a look:</p>
+<p><a href="http://techcrunch.com/2012/10/12/facebooks-testing-a-toolbar-layout-with-notifications-on-the-right-near-ads-and-gifts/image-23/" rel="attachment wp-att-673539"></a></p>
+<p>The reasoning for this &#8220;A/B test&#8221; might be that Facebook wants to put more focus on the right-hand side of the site, which is the place that houses birthdays, engagement or marriage updates, gifts, and of course&#8230;<a href="http://techcrunch.com/2012/10/11/facebook-custom-audience-ads/">advertising</a>.</p>
+<p>As a left-handed person, I tend to look for everything that&#8217;s important on the left, and have grown accustomed to having the navigation bar display things there. I could get used to this, of course, but I hope that if this is something that the social network is considering, it&#8217;s released as a user-decided option.</p>
+<p>User experience is key for any site, especially Facebook. One tipster said very dramatically:</p>
+<blockquote><p>now the notifications are on the right hand side.</p>
+<p>holy crap.</p>
+<p>my life is terrible now.</p></blockquote>
+<p>While their life might not be &#8220;over&#8221;, it is difficult to learn new navigation for a site that you&#8217;ve used for years, every single day.</p>
+<p>There&#8217;s no way to tell if this is something that might be rolling out worldwide, but Facebook has confirmed that this is indeed a test. Are you seeing this change? Let us know what you think about it in the comments!</p>
+<p>[Pics of change: <a target="_blank" href="http://www.flickr.com/photos/spcbrass/4388396268/">Flickr</a>]</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/ETM2Ig5uv18/">here</a>.

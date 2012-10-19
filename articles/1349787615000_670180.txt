@@ -1,0 +1,12 @@
+{
+"title" : "Lithium Acquires Social CRM Application For Call Centers, Social Dynamx",
+"date" : "Tue, 09 Oct 2012 13:00:15 +0000",
+"author" : "Leena Rao"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/social-dynamx.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="social-dynamx" title="social-dynamx" style="float: left; margin: 0 10px 7px 0;" /><p>Social CRM company <a target="_blank" href="http://www.lithium.com/">Lithium Technologies</a> has acquired fellow customer care application <a target="_blank" href="http://www.socialdynamx.com/">Social Dynamx</a>. The financial terms of the deal were not disclosed.</p>
+<p>Social Dynamx&#8217;s platform is designed for large enterprises and customer call centers to identify, prioritize and manage millions of one-to-one social conversations on blogs, social networks and more in real-time. Lithium Technologies was founded in 2001 and focuses on a broad range of social CRM solutions. Lithium previously <a href="http://techcrunch.com/2010/05/11/its-official-lithium-technologies-acquires-brand-monitoring-platform-scout-labs/">acquired</a> brand tracking application Scout Labs.</p>
+<p>Lithium says the combined offering with Social Dynamx will be available immediately as Lithium Social Web. Lithium Social Web allows companies to serve their customers on social channels, respond to their needs and enlist them as brand advocates or experts. The product, according to Lithium, improves agent productivity more than 25 percent.</p>
+<p>Social Dynamx customers include Time Warner Cable, DISH Network and Convio.</p>
+<p>Social Dynamx CEO Mike Betzer will join Lithium’s executive team, and will lead the Lithium Social Web business. Lithium plans to maintain Social Dynamx’s Austin, Texas office and all Social Dynamx regular employees are expected to join Lithium as part of the acquisition.</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/09/lithium-acquires-social-crm-application-for-call-centers-social-dynamx/">here</a>.

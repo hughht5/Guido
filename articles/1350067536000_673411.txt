@@ -1,0 +1,15 @@
+{
+"title" : "Velti Report: With iPhone 5 and iOS 6, Apple Reclaims Ad Marketshare, While Photos Apps Decline",
+"date" : "Fri, 12 Oct 2012 18:45:36 +0000",
+"author" : "Anthony Ha"
+}
+
+<img width="100" height="63" src="http://tctechcrunch2011.files.wordpress.com/2012/10/velti-logo.jpg?w=100&amp;h=63&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="velti logo" title="velti logo" style="float: left; margin: 0 10px 7px 0;" /><p>The September mobile ad report from Velti is dominated by the launch of the iPhone 5 and iOS 6. For one thing, after two months where Android seemed to be gaining on iOS in mobile ad impressions, iOS saw an increase of 5 percentage points.</p>
+<p>Actually, the iPhone 5 also played a big role in <a href="http://techcrunch.com/2012/09/14/velti-august-report-iphone-5/">Velti&#8217;s last report</a> — even though the device wasn&#8217;t available yet, the company was making predictions based on previous Apple launches. And indeed, the company says iOS saw a similar increase after the launch of the iPhone 4S. Apple&#8217;s mobile operating system now claims 62 percent of total impressions, while Android has 38 percent.</p>
+<p>Of all the ad impressions from the iPhone 5, 43 percent came from the United States, 14 percent came from Japan, and 8 percent came from the United Kingdom. As for what people were doing with their brand-new  iPhones, Velti says 27 percent of usage in the first weekend came from social networking apps, and 22 percent came from games. Photo apps, meanwhile, declined to a low of 8 percent. One explanation: The improved camera functionality and panorama feature, which the report says &#8220;could be holding users off from using third party apps to enhance photos.&#8221;</p>
+<p><a href="http://techcrunch.com/2012/10/12/velti-september-report-iphone-5/iphone-5-ad-impressions/" rel="attachment wp-att-673462"></a></p>
+<p>The report also says that iOS 6 saw rapid gains, with 40 percent of users upgrading in the first week. Virtually all of those upgrades came from users with iOS 5, while there&#8217;s still a small group (11 percent) of iPhone owners who are holding out and sticking with iOS 4. (<a href="http://techcrunch.com/2012/10/05/after-early-boom-new-numbers-suggest-ios-6-adoption-may-be-reaching-a-plateau/">A recent report from Chartboost</a> suggests that after the early growth, iOS 6 adoption may have plateaued.)</p>
+<p>In addition to reporting on the new device and operating system, Velti also says that eCPMS (the price paid by advertisers per thousand impressions) rose 15 percent overall.</p>
+<p>The report is based on data from Velti&#8217;s Mobclix ad exchange, which serves ads to more than 33,500 apps. To draw the above conclusions about app usage Velti combined the usual ad impression data with third-party research.</p>
+<p>You can <a target="_blank" href="http://www.velti.com/data_reports.html">read the full report here</a>.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/oesi-v-mUtQ/">here</a>.

@@ -1,0 +1,14 @@
+{
+"title" : "Skyfire Raises $10M To Bring Its Mobile Optimization Tools To Global Carriers",
+"date" : "Thu, 11 Oct 2012 16:02:21 +0000",
+"author" : "Anthony Ha"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/skyfire-logo.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="skyfire logo" title="skyfire logo" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.skyfire.com">Skyfire</a>, which makes mobile browser products for both carriers and consumers, has raised $10 million in Series D funding.</p>
+<p>The company&#8217;s main carrier product is currently the Skyfire Rocket Optimizer, which can supposedly reduce the bandwidth needed to download videos by 60 percent and images by 50 percent. Skyfire says that with its carrier partnerships, it&#8217;s delivering optimized video to &#8220;tens of millions of Americans.&#8221; The company also <a href="http://techcrunch.com/2012/09/27/skyfire-horizon-toolbar/">launched its Horizon Toolbar</a> last month, which allows users to access services like Facebook and Wikipedia while browsing other websites.</p>
+<p>And although its focus has shifted to creating products for mobile carriers, Skyfire <a target="_blank" href="http://skyfire.com/en/for-consumers/iphone">continues to offer its mobile browser</a>, whose selling points include the ability to play Flash video.</p>
+<p>CEO Jeff Glueck tells me the funding will allow Skyfire to grow internationally. All of the company&#8217;s current carrier customers are in North America, he says, although we can expect some international announcements soon. The company also plans to open new offices (it&#8217;s based in Silicon Valley, with an office in London) to help with expansion into Eastern Europe, Japan, Southeast Asia, and Australia.</p>
+<p>Glueck argues that the US has become &#8220;unlike a decade ago, really a leading indicator for where everywhere else is going,&#8221; particularly in the strain that smartphones are placing on carrier bandwidth. (In the funding press release, he calls the trend &#8220;mobile warming.&#8221;) Which is good for Skyfire, since that&#8217;s one of the main problems it&#8217;s trying to solve.</p>
+<p>The round was led by new investor Panorama Capital (spun out from JP Morgan), with participation from existing investors Verizon Ventures, Matrix Partners, Trinity Ventures, and Lightspeed Venture Partners.</p>
+<p>Skyfire has now raised more than $40 million in funding. Asked about a potential financial exit for the company, Glueck says, &#8220;Honestly, we&#8217;re focused on the growth stage we&#8217;re in and building a great company. We&#8217;re not too focused on the ultimate disposition.&#8221;</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/wdJA11HAeIs/">here</a>.

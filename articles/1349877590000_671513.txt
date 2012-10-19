@@ -1,0 +1,11 @@
+{
+"title" : "Stylecaster Acquires Beauty Tool And Facial Recognition Startup Daily Makeover",
+"date" : "Wed, 10 Oct 2012 13:59:50 +0000",
+"author" : "Leena Rao"
+}
+
+<img width="100" height="60" src="http://tctechcrunch2011.files.wordpress.com/2010/02/style.jpg?w=100&amp;h=60&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Image1 for post StyleCaster Nets $4 Million For Personalized Fashion Community" title="Image1 for post StyleCaster Nets $4 Million For Personalized Fashion Community" style="float: left; margin: 0 10px 7px 0;" /><p>Interactive fashion community <a target="_blank" href="http://www.stylecaster.com/">StyleCaster</a> has acquired facial recognition startup and beauty tool <a target="_blank" href="http://www.dailymakeover.com/">Daily Makeover</a>. Financial terms of the deal were not disclosed, but StyleCaster says that the company has raised an additional $2 million in funding.</p>
+<p>StyleCaster aims to be a one-stop-shop for fashionistas. The online fashion community encourages users to share photos of their styles, and lets users access style tips optimized for each individual, news, videos and content on the latest fashion and beauty trends.</p>
+<p>Daily Makeover&#8217;s <a href="http://techcrunch.com/2009/08/23/daily-makeover-tries-to-re-create-the-beauty-counter-online/">proprietary facial recognition technology</a> lets women upload a picture of themselves (or use a model’s picture) and then try on makeup, fashion and hair styles virtually. Women can try on specific brands of makeup, clothes and more in all different shades and styles. The site powers more than 20 million makeovers monthly.</p>
+<p>StyleCaster says it has seen its traffic triple since last year and with the acquisition, the startup will double its revenue and its team size. The new funding will be used to further scale the team, particularly in sales.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/MCRt7FqdhXU/">here</a>.

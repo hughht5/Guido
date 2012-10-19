@@ -1,0 +1,19 @@
+{
+"title" : "Stripe’s New Payments Product Could Be A Boon For Collaborative Consumption, E-Commerce Startups",
+"date" : "Wed, 10 Oct 2012 16:00:59 +0000",
+"author" : "Kim-Mai Cutler"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/stripe-connect.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="stripe-connect" title="stripe-connect" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="https://stripe.com/blog">Stripe</a>, the YC-backed payments startup funded by Sequoia and PayPal&#8217;s original founders, <a target="_blank" href="https://stripe.com/blog">is launching a new way for marketplaces and collaborative consumption startups</a> to let their users directly accept payments.</p>
+<p>It could be a huge win for early-stage peer-to-peer marketplaces, since many more mature companies in the space like Airbnb have had to go through the hassle of building in payments and fraud detection themselves.</p>
+<p>&#8220;Airbnb had to practically build a version of Stripe in-house to let users accept payments,&#8221; said co-founder John Collison. &#8220;We thought about how we could make it very simple for websites to let their users sell, because it&#8217;s not about the visible damage of having to build this yourself. It&#8217;s the invisible economic damage of all the companies that don&#8217;t get started because it&#8217;s so hard to build a marketplace.&#8221;</p>
+<p>Called Stripe Connect, the product lets users of any partner website directly receive payments. Before, an individual user would have to go through a time-consuming process of applying for a merchant account.</p>
+<p>Some early users of the platform include Reddit, which is letting its users accept donations with Stripe Connect, and Skillshare, the community where anybody can teach others. Another wine-focused site is directly allowing its wineries to handle transactions with Stripe.</p>
+<p>To handle fraud, Stripe has to collect details like bank account information, Social Security numbers and so on to get a sense of whether a website&#8217;s user is reliable.</p>
+<p>&#8220;There are never any silver bullets, but with all of this information, we can get a high degree of confidence,&#8221; Collison said.</p>
+<p>Collison adds that the system can easily integrate into all sorts of analytics and customer relationship management tools. Stripe&#8217;s API lets developers use their payments data and history to build new kinds of apps.</p>
+<p>Overall, Stripe isn&#8217;t disclosing how many customers it has or how many transactions it is facilitating. The company publicly launched last year and it&#8217;s attracted the backing of some of Silicon Valley&#8217;s most storied investors, including Sequoia Capital and members of PayPal&#8217;s founding team like Peter Thiel, Elon Musk and Max Levchin. It was co-founded by two brothers Patrick and John Collison, who came to the U.S. from Ireland and became affiliated with Y Combinator very early on when their company Auctomatic was sold in 2008.</p>
+<p>&#8220;What we&#8217;re doing with Stripe is building a very broad, economic infrastructure for the Internet,&#8221; Collison said. &#8220;When we started Stripe, we felt it was hard to build a business online. And specifically, what I mean is that payments online was very exclusionary, slow and difficult.&#8221;</p>
+<p>Although Stripe faces a competitive field including the original PayPal and Accel-backed Braintree, Collison says the market opportunity is just so large that there is plenty of room for the company to grow.</p>
+<p><a href="http://techcrunch.com/2012/10/10/stripe-connect/stripe-analytics/" rel="attachment wp-att-671683"></a></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/yFPaUhQMiaM/">here</a>.

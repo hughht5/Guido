@@ -1,0 +1,23 @@
+{
+"title" : "Windows 8 Gets A Post-RTM Update To Improve Battery Life, Media Playback And General Compatibility",
+"date" : "Tue, 09 Oct 2012 17:38:39 +0000",
+"author" : "Frederic Lardinois"
+}
+
+<img width="100" height="51" src="http://tctechcrunch2011.files.wordpress.com/2012/10/windows8.png?w=100&amp;h=51&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="windows8" title="windows8" style="float: left; margin: 0 10px 7px 0;" /><p>Microsoft just <a target="_blank" href="http://blogs.msdn.com/b/b8/archive/2012/10/09/updating-windows-8-for-general-availability.aspx">announced</a> a post-RTM update for Windows 8 that will bring a number of improvements to the company&#8217;s new operating system ahead of its full launch on October 26. This update, which follows a similar update to virtually all of the <a href="http://techcrunch.com/2012/10/04/microsoft-announces-updates-for-virtually-all-of-its-built-in-windows-8-apps/">built-in Windows 8 Metro apps</a> earlier this week, will bring improvements &#8220;in broad areas of performance, power management and battery efficiency, media playback, and compatibility.&#8221;</p>
+<p>As Microsoft&#8217;s Steven Sinofsky notes in today&#8217;s announcement, Microsoft often shipped similar updates to its OEMs ahead of the launch of a new version of Windows. &#8220;We would often create dozens of changes for each OEM for these new PCs. Those changes would be deployed during manufacturing of those PCs and thus would be invisible to customers,&#8221; he writes. Most users, however, would only see these updates after Microsoft released the first service pack for any given version of Windows.</p>
+<p>This time around, however, Microsoft has decided to build the necessary tools to deliver these &#8220;post-RTM&#8221; updates to all users long before the release of the first service pack. If you are an MSDN or enterprise customer with Windows 8 already installed on your PC, the so-called &#8220;General Availability Cumulative Update&#8221; should now be available via Windows Update. Microsoft says these updates will follow the standard Windows Update rhythm (a.k.a. <a target="_blank" href="http://en.wikipedia.org/wiki/Patch_Tuesday">Patch Tuesday</a>), which pushes out new code every second Tuesday of each month.</p>
+<p>Here is the <a target="_blank" href="http://support.microsoft.com/kb/2756872">full changelog</a>:</p>
+<blockquote><p><strong>Improvements:</strong></p>
+<ul>
+<li>Increased power efficiency to extend battery life</li>
+<li>Performance improvements in Windows 8 applications and Start screen</li>
+<li>Improved audio and video playback in many scenarios</li>
+<li>Improved application and driver compatibility with Windows 8</li>
+</ul>
+<p><strong>Known issues:</strong></p>
+<ul>
+<li>When you turn a Windows feature on or off, the computer may require a restart. For example, this action may be necessary when you turn Remote Access on or off.</li>
+</ul>
+</blockquote>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/09/windows-8-gets-a-post-rtm-update-to-improve-battery-life-media-playback-and-general-compatibility/">here</a>.

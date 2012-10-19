@@ -1,0 +1,15 @@
+{
+"title" : "This Is Every Experience I’ve Ever Had With Apple’s iOS 6 Maps",
+"date" : "Thu, 11 Oct 2012 20:48:20 +0000",
+"author" : "Drew Olanoff"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/3328409947_4106c1cdf0_b.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="3328409947_4106c1cdf0_b" title="3328409947_4106c1cdf0_b" style="float: left; margin: 0 10px 7px 0;" /><p>I&#8217;ve not had great results when using <a href="http://techcrunch.com/2012/09/13/apple-maps-google-maps-ios-6-user-experience/">Apple&#8217;s iOS 6 Maps app</a>, in fact, my fiancee has banned me from using it completely after Siri tried to send us over a cliff. Clearly we didn&#8217;t follow the directions, which quickly recalculated. </p>
+<p>I cannot wait until Google decides to submit its own native Maps app, I mean&#8230;<a href="http://techcrunch.com/2012/09/19/if-i-were-google-i-wouldnt-release-a-native-ios-6-maps-app-for-six-months/">if it&#8217;s into that kinda thing</a>.</p>
+<p>This video sums up every experience that I&#8217;ve ever had with iOS 6 Maps:</p>
+<p><span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/10/11/this-is-every-experience-ive-ever-had-with-apples-ios-6-maps/"></a></span></p>
+<p>Scary.</p>
+<p>Also, here&#8217;s a bonus Batman version:</p>
+<p><span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/10/11/this-is-every-experience-ive-ever-had-with-apples-ios-6-maps/"></a></span></p>
+<p>[Photo credit: <a target="_blank" href="http://www.flickr.com/photos/polesen/3328409947/sizes/l/">Flickr</a>]</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/Syz_7KTcolo/">here</a>.

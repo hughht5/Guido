@@ -1,0 +1,17 @@
+{
+"title" : "Open Source Search Engine Apache Lucene/Solr Gets Big Update",
+"date" : "Fri, 12 Oct 2012 21:43:45 +0000",
+"author" : "Klint Finley"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/solr-logo.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Apache Solr logo" title="Apache Solr logo" style="float: left; margin: 0 10px 7px 0;" /><p>Today the Apache Foundation released a major update to the open source search engine building tools <a target="_blank" href="http://lucene.apache.org/">Lucene</a> and <a target="_blank" href="http://lucene.apache.org/solr/">Solr</a>. Version 4.0 adds several new features aimed at making Solr easier to use, more scalable and more customizable.</p>
+<p>Although they&#8217;re jointly developed, Lucene and Solr are actually two different things. Lucene is just a Java library, not a stand alone search engine. Solr is a search engine server built with Lucene as its core.</p>
+<p>Lucene was created in 1999 by Doug Cutting, better known as the creator of <a target="_blank" href="http://hadoop.apache.org">Apache Hadoop</a>, and has been used both companies like AOL and LinkedIn to power search features. Solr was created by Yonik Seeley in 2004. It can be used as a custom search engine, or be used to power search for a separate application.</p>
+<p>Scalability was the Solr/Lucene team&#8217;s biggest focus for today&#8217;s release, according to <a target="_blank" href="http://searchhub.org/dev/2012/10/12/apache-solr-and-lucene-4-0-0-released/">Search Engine Hub</a> &#8212; particularly scaling out as opposed to scaling up.</p>
+<p>Web companies like Google and Amazon.com have popularized scaling out in recent years. To over simplify: when you scale up, you replace your existing servers with more powerful ones when you need more capacity. When you scale out you add more servers to your environment to add capacity. This approach is generally seen to provide more bang for the buck, but clusters of servers can be difficult to setup and manage, and distributing data across a cluster introduces a number of challenges.</p>
+<p>To address these issues version 4.0 introduces a collection of tools designed to make it easier to build and manage Solr server clusters, including a new indexing system designed to deliver near real-time search results in a distributed environment.</p>
+<p>These features will help Solr compete with <a target="_blank" href="http://www.elasticsearch.org/">ElasticSearch</a>, an open source, Lucene-based search engine server that has long focused on distributed environments. </p>
+<p>Other new features in 4.0 include a new web based UI, a spell checker and better support for spatial data (which will be useful for anyone doing geographic searches). The new version will also give users more customization and control.</p>
+<p><a target="_blank" href="http://www.lucidworks.com/">LucidWorks</a>, a company founded by Seeley, offers commercial support for the Solr.</p>
+<p></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/0MJEVEgUBCo/">here</a>.

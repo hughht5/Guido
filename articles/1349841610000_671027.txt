@@ -1,0 +1,14 @@
+{
+"title" : "Zillow Puts Its RentJuice Acquisition To Work, Launches A Free Marketplace For Rental Professionals",
+"date" : "Wed, 10 Oct 2012 04:00:10 +0000",
+"author" : "Frederic Lardinois"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/05/zillow-1.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="zillow-1" title="zillow-1" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://zillow.com">Zillow</a> just announced the launch of <a target="_blank" href="http://rentalpro.zillow.com/">Zillow Rentals</a>, the company&#8217;s new ad-free marketplace for rental professionals and landlords. Zillow Rentals, the company says, will allow it to help serve rental professionals to better market and manage their listings.</p>
+<p>This new product, the company told us, was made possible by Zillow&#8217;s <a href="http://techcrunch.com/2012/06/01/zillow-completes-its-40m-rentjuice-acquisition/">June 2012 acquisition of the San Francisco-based rental relationship management service RentJuice</a>. All of RentJuice&#8217;s tools and services, including the company&#8217;s mobile apps, have now been re-branded as Zillow Rentals. Zillow Rentals, the company says, will offer &#8220;best-in-class productivity tools and resources to help them manage and market their listings, for free.&#8221;</p>
+<p><a href="http://techcrunch.com/2012/10/09/zillow-puts-its-rentjuice-acquisition-to-work-launches-a-free-marketplace-for-rental-professionals/zillow-rentals-screenshot/" rel="attachment wp-att-671106"></a></p>
+<p>As Zillow CEO Spencer Rascoff noted in a prepared statement today, &#8220;the RentJuice acquisition four months ago laid the foundation for this expansion in rentals, and today’s announcement brings us one step closer toward our vision of rewiring the rental industry.”</p>
+<p>Besides the free offering, Zillow is also introducing Zillow Rental Premier, which will allow landlords to syndicate their listings across 30 consumer websites and offer tools like credit screening and an email marketing platform.</p>
+<p>Indeed, rentals are clearly a focus of Zillow&#8217;s expansion plans. With its Zillow Rental Network, it already owns the largest rental network on the Web, according to the company&#8217;s own data. Over 6 million renters, says Zillow, visit its web and mobile services every month. This July, the company also expanded its relationship with Yahoo Homes to include rentals. The company is now Yahoo&#8217;s exclusive provider for for-sale and for-rent listings.</p>
+<p>The RentJuice team, Zillow tells us, is staying in San Francisco (Zillow&#8217;s headquarters is in Seattle) and is currently hiring.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/P8VbQr0ryoc/">here</a>.

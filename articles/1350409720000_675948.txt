@@ -1,0 +1,26 @@
+{
+"title" : "Google Releases The First Stable SDK For Its Dart JavaScript Alternative",
+"date" : "Tue, 16 Oct 2012 17:48:40 +0000",
+"author" : "Frederic Lardinois"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/happy-birthday-dart.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="happy birthday dart" title="happy birthday dart" style="float: left; margin: 0 10px 7px 0;" /><p>Google launched <a target="_blank" href="http://www.dartlang.org/?utm_source=chromium&amp;utm_medium=blog&amp;utm_campaign=m1">Dart</a>, its class-based object-oriented language for writing complex web apps, <a target="_blank" href="http://blog.chromium.org/2011/10/dart-language-for-structured.html?utm_source=chromium&amp;utm_medium=blog&amp;utm_campaign=m1">exactly year ago</a> and to celebrate its birthday, the Dart team is launching the first stable version of the <a target="_blank" href="http://www.dartlang.org/docs/sdk/">Dart software development kit</a> (SDK) today. According to the Dart team, this new version of the SDK offers a faster virtual machine that can even outperform Google&#8217;s efficient V8 JavaScript engine on some benchmarks.</p>
+<p>The SDK, which is available for Windows, Mac and Linux, also includes Google&#8217;s open source <a target="_blank" href="http://www.dartlang.org/docs/editor/getting-started/?utm_source=chromium&amp;utm_medium=blog&amp;utm_campaign=m1">Dart Editor</a> and a <a target="_blank" href="http://www.dartlang.org/dartium/?utm_source=dartnews&amp;utm_medium=blog&amp;utm_campaign=m1">Chromium build</a> with native Dart support.</p>
+<p>It&#8217;s worth noting that Google&#8217;s own Chrome browser does not currently offer built-in support for the Dart VM (and neither does any other mainstream browser). Developers can, however, use the Dart to JavaScript translator (which is also part of the SDK) to generate code for any browser.</p>
+<p>Dart is obviously a very ambitious project, but without support from major browser vendors, its future remains unclear. Google clearly remains committed to the project, though, and as Dart&#8217;s inventor Lars Bak notes in today&#8217;s announcement, his team plans to &#8220;continue to work hard to evolve the SDK, improve Dart’s robustness and performance, and fine-tune the language while maintaining backwards compatibility.&#8221;</p>
+<p>Here is a full list of the improvements the Dart team announced today:</p>
+<blockquote>
+<ul>
+<li>A faster Dart Virtual Machine that on some <a target="_blank" href="https://developers.google.com/octane/">Octane</a> tests outperforms even <a target="_blank" href="https://developers.google.com/v8/">V8</a>.</li>
+<li>A new Dart to JavaScript translator that generates fast and compact output.</li>
+<li>An <a target="_blank" href="http://api.dartlang.org/docs/continuous/dart_html.html?utm_source=chromium&amp;utm_medium=blog&amp;utm_campaign=m1">HTML library</a> that works transparently on modern browsers.</li>
+<li>A library to <a target="_blank" href="https://github.com/dart-lang/js-interop?utm_source=chromium&amp;utm_medium=blog&amp;utm_campaign=m1">interoperate with JavaScript</a> code.</li>
+<li>An easy to use <a target="_blank" href="http://www.dartlang.org/docs/editor/getting-started/?utm_source=chromium&amp;utm_medium=blog&amp;utm_campaign=m1">editor</a>.</li>
+<li><a target="_blank" href="http://pub.dartlang.org/?utm_source=chromium&amp;utm_medium=blog&amp;utm_campaign=m1">Pub</a>, a new package manager</li>
+<li><a target="_blank" href="http://www.dartlang.org/dartium/?utm_source=chromium&amp;utm_medium=blog&amp;utm_campaign=m1">Dartium</a>, a Chromium build with native Dart support.</li>
+<li>A <a target="_blank" href="http://api.dartlang.org/docs/continuous/dart_io.html?utm_source=chromium&amp;utm_medium=blog&amp;utm_campaign=m1">server-side I/O library</a>.</li>
+<li>A language <a target="_blank" href="http://www.dartlang.org/docs/spec/?utm_source=chromium&amp;utm_medium=blog&amp;utm_campaign=m1">specification</a> describing the Dart semantics, including new <a target="_blank" href="http://www.dartlang.org/articles/m1-language-changes/?utm_source=chromium&amp;utm_medium=blog&amp;utm_campaign=m1">features</a>.</li>
+</ul>
+</blockquote>
+<span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/10/16/a-year-after-launch-google-launches-the-first-sdk-for-its-dart-javascript-alternative/"></a></span>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/OcXxenMU4Os/">here</a>.

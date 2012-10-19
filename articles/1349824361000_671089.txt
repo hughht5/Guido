@@ -1,0 +1,15 @@
+{
+"title" : "Lenovo Introduces The IdeaPad Yoga 11 and 13, The First Tablet & Laptop Ultrabook Hybrid",
+"date" : "Tue, 09 Oct 2012 23:12:41 +0000",
+"author" : "Romain Dillet"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-09-at-7-10-24-pm.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-10-09 at 7.10.24 PM" title="Screen Shot 2012-10-09 at 7.10.24 PM" style="float: left; margin: 0 10px 7px 0;" /><p>Tonight in New York, Lenovo introduced two brand new tablet/laptop hybrids under the name of IdeaPad Yoga. Those two devices will be Windows 8 powered. Two screen sizes are available, 11&#8243; and 13&#8243;. The 13&#8243; model is the first hybrid laptop that meets the Ultrabook requirements.</p>
+<p>The 13-inch model features a Core i7 ULV processor, a 1600&#215;900 16:9 screen resolution, Intel HD 4000 Graphics, up to 256GB SSD storage and up to 8GB of RAM. It has a USB 3.0 connector built-in and more traditional connectivity features such as a USB 2.0 connector, a SD card reader, a HDMI output and Bluetooth 4.0. All of this comes in a 1.54kg (3.40 ounces) package.</p>
+<p>The 11-inch model, on the other hand, will trade the Intel processor for an ARM-based NVIDIA Tegra 3 (T30) processor. It comes with 2 GB of RAM and a mere 64 GB of flash storage. It feels limited in capacity compared to its bigger brother, which sure looks more interesting. It still weighs 1.27kg (2.8 ounces). But Lenovo promises 13 hours of battery life, which could attract some users for potential niche cases.</p>
+<p>Contrarily to the <a href="http://techcrunch.com/2012/10/09/lenovo-updates-the-thinkpad-tablet-laptop-hybrid-with-the-thinkpad-twist-a-849-12-5-ultrabook/">ThinkPad Twist</a>, you just push the display for a full round. The keyboard will still be exposed below the screen.</p>
+<p>The Yoga 13 will be available starting October 12 for $1,099 and the Yoga 11 in December for $799. Those prices are for the default configurations.</p>
+<p>In the coming weeks, an ad directed by Martin Campbell will run in movie theaters and on TV with the tagline &#8220;Lenovo, for those who do.&#8221;</p>
+<p>Here are some pictures. The orange ones are for the 11 model and the grey ones for the Yoga 13:</p>
+<a href="http://techcrunch.com/2012/10/09/lenovo-introduces-the-ideapad-yoga-11-and-13-the-first-tablet-laptop-ultrabook-hybrid/#gallery-671089-2-slideshow">Click to view slideshow.</a>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/pmKgIRnux2M/">here</a>.

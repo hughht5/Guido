@@ -1,0 +1,13 @@
+{
+"title" : "The Bicymple Disrupts The Traditional Bike Design And I Like It",
+"date" : "Thu, 11 Oct 2012 10:49:37 +0000",
+"author" : "John Biggs"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/bicymple.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="bicymple" title="bicymple" style="float: left; margin: 0 10px 7px 0;" /><span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/10/11/bicymple/"></a></span>
+<p>Fixie riders are a special breed, to be sure, and very excitable. But what would happen if you took away their gear-less chain systems and just slapped some pedals on their rear wheels? Blam. Heads exploding all throughout Williamsburg is what. The Bicymple aims to accomplish this by creating one of the oddest new bike styles I&#8217;ve seen in years.</p>
+<p>The front and rear wheels are surprisingly close together on this odd bike and there is no chain. In fact, the pedals are attached to the rear wheel and you sort of sit over that wheel, making this more a two-wheeled unicycle than a real fixie. Creator Josh Bechtel writes:</p>
+<div style="margin-left:30px;margin-right:30px;padding-left:15px;border-left:3px solid #ccc;font-style:italic;">More than just a stylish concept bike, the bicymple is comfortable, easy to ride, and brilliantly simple to maintain. The lightweight design and short wheelbase make for a nimble ride. The optional rear-steer mode is reminiscent of custom &#8220;swing bikes&#8221; and allows tighter turns and &#8220;crab-riding&#8221;.</div>
+<p>There is no pricing or availability although I suspect we&#8217;ll hear something very soon as interest builds. I&#8217;d be totally willing to ride around on one of these if it meant never having to align derailleurs or mess with a greasy chain in the middle of a big bike race.</p>
+<p><a target="_blank" href="http://www.bicymple.com">Product Page</a></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/jPk-DGo_Ol8/">here</a>.

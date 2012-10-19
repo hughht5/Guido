@@ -1,0 +1,17 @@
+{
+"title" : "Bridging The Gap Between Pawn Shop And Bank, Borro Raises $26M Led By Canaan Partners",
+"date" : "Thu, 11 Oct 2012 07:01:27 +0000",
+"author" : "Jordan Crook"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/borro.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="borro" title="borro" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="https://www.borro.com/us">Borro</a>, a personal asset lending platform, has just received a massive $26 million funding round led by <a target="_blank" href="http://www.crunchbase.com/financial-organization/canaan-partners-3">Canaan Partners</a>. The service essentially classes up the idea of collateral loans, offering up to $1 million secured against high-end personal assets.</p>
+<p>This includes fine art, jewelry, antiques, luxury watches, classic cars, fine wine, or anything else you own that is worth more than a few Benjamins. And if that weren&#8217;t good enough, most of the process is conducted online, saving the user time and energy.</p>
+<p>Essentially, it&#8217;s all about liquidity. People may have valuable goods but not enough cash capital to make a certain investment, handle unexpected expenses, etc. borro allows these individuals to do so.</p>
+<p>After applying for a loan, which includes information about your goods such as make and model, condition, etc., your belongings undergo appraisal by experts. Once the value of your stuff is estimated, you&#8217;ll receive a loan with interest rates between 2.99 and 3.99 percent.</p>
+<p>You have a six-month period to pay back your loan, unless you get an extension, and if you fail to pay back borro, the company will inevitably sell your stuff and refund you the excess of the loan amount plus interest.</p>
+<p>I spoke to Dan Ciporin, partner at Canaan Partners, who mentioned that this is nothing like a pawn shop, where average loan amounts are around $200. In borro&#8217;s case, the average loan is around $8,000, secured with personal assets, and aims at a &#8220;decidedly upscale&#8221; market.</p>
+<p>He also had this to say:</p>
+<blockquote><p>One of the key reasons we invested in the company is frankly my experience at Lending Club, where I saw an incredibly ossified industry (unsecured consumer lending) get completely disrupted by the brand new category of a P2P lending marketplace. We invested in Lending Club in 2007 at a single digit million dollar valuation, and in June of this year completed a round done at nearly $600 million; based on the secondary indications of interest we have received recently that valuation is already well under market. As a result I have been on the prowl for other massively disruptive plays in consumer finance, and I think we have found it with borro.</p></blockquote>
+<p>Ribbit Capital also invested in the round, which is meant to continue the company&#8217;s expansion in the U.S. and UK, as well as adding new features to the product.</p>
+<p>Borro has raised a total of $40.6 million, including today&#8217;s $26 million.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/LcXkFSI5oYc/">here</a>.

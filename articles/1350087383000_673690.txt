@@ -1,0 +1,25 @@
+{
+"title" : "Defining A Successful IPO: $FB “Flopped” Yet Workday “Wins” By Handing $470M To Investors?",
+"date" : "Sat, 13 Oct 2012 00:16:23 +0000",
+"author" : "Josh Constine"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/mo-money-mo-problems-facebook1.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Mo Money Mo Problems, Facebook" title="Mo Money Mo Problems, Facebook" style="float: left; margin: 0 10px 7px 0;" /><p>Congratulations, Workday. Its share popped 74 percent when it IPOed today. Or should I say condolences? $470 million ended up in the pockets of investors instead of the cloud startup&#8217;s war chest.</p>
+<p>Meanwhile, Facebook is called a flop for filling its coffers with $10 billion by pricing shares at nearly twice its current value. This all raises the question: How should Silicon Valley define a successful IPO?</p>
+<p>Let&#8217;s be clear that I&#8217;m no career financial analyst, and this article will be a simplification. But there seem to be two conflicting motives in IPOs: raising the most money vs. displaying the most momentum.</p>
+<h4>Mo&#8217; Money</h4>
+<p>Facebook maximized the former, an asset with concrete value. To buy out disrupters and fight off other giants like Google for top-tier talent, it needed gobs of cash. That&#8217;s what it got.</p>
+<p></p>
+<p>The only problem is that Facebook&#8217;s share price has sunk so low since that it&#8217;s generating scrutiny and may be hurting team morale. People are wary to invest in, develop on, or work for a loser, and if you look at the NASDAQ, that&#8217;s what Facebook is.</p>
+<p>Luckily it has natural defenses against the momentum loss. If you work there, you build something a billion people, most of your friends, and maybe your Grandma use. You&#8217;re creating things that help people connect and share. It moves fast with a declared Hacker Culture. These make Facebook attractive to potential hires and third-party developers, offsetting the post-IPO slump.</p>
+<h4>Mo&#8217;mentum</h4>
+<p>Now let&#8217;s look at Workday. It either grossly underestimated demand, or it purposefully maximized for momentum. Either way it generated a massive pop, and <a target="_blank" href="http://www.techmeme.com/121012/p21#a121012p21">got very little flack for it</a>.</p>
+<p>The share prices <a target="_blank" href="http://www.marketwatch.com/story/workday-soars-as-ipo-rides-cloud-trend-2012-10-12?link=MW_latest_news">soared!</a> That sounds great, except as <a target="_blank" href="http://www.businessinsider.com/ipo-pops-2012-5">Henry Blodget puts in a sharp Business Insider article</a>, &#8220;Pops provide no advantage to the company other than a bit of extremely expensive and ephemeral excitement and PR.&#8221; I don&#8217;t fully agree, though. Maybe PR isn&#8217;t as reliable as money in the bank, but I believe public perception is actually quite important when you&#8217;re amidst a tech talent crunch.</p>
+<p>Enterprise cloud software is critical and challenging to build. But despite becoming more consumer rather than CTO-focused, I wouldn&#8217;t say it&#8217;s sexy like a social network. Most people don&#8217;t grow up giddy to build the cloud. If Workday wants the smartest minds to work for it after it&#8217;s IPOed and the biggest rewards may have already been dealt out, it needs to look like a clear winner.</p>
+<p>Meanwhile, having watched the vultures descend on Facebook, Workday may have played it safe, pricing shares conservatively to ensure positive momentum. It might not have needed those extra $450 million to buy anyone who looks dangerous. Seventy-four percent may have been overkill, but maybe prioritizing a rising price was the right move for Workday.</p>
+<h4>What Really Matters</h4>
+<p>So if you consider IPOs from this perspective, it&#8217;s not necessarily about raising the most money or getting the biggest first-day pop.</p>
+<p>Workday only &#8220;wins&#8221; if it doesn&#8217;t end up without enough money to buy the scrappy new cloud kid on the block who might eat it&#8217;s lunch in three years. And Facebook only &#8220;flopped&#8221; if all the money it raised can&#8217;t convince people to board or stay on a sinking share price ship. Mo&#8217; Money, Mo&#8217; Problems, if you will.</p>
+<p>What really matters is a company getting what it needs, not just the purse or the share price.</p>
+<span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/10/12/defining-ipo-success/"></a></span>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/7TqBV_HRy9A/">here</a>.

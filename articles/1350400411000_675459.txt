@@ -1,0 +1,27 @@
+{
+"title" : "A Look Into The Magical Shop Of The Microsoft Surface – A Clinking, Clacking PC-Like Tablet",
+"date" : "Tue, 16 Oct 2012 15:13:31 +0000",
+"author" : "Alex Williams"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/surface-red-touch-cover-front-view1.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Surface; Red Touch Cover Front View" title="Surface; Red Touch Cover Front View" style="float: left; margin: 0 10px 7px 0;" /><p>Clink, snap, click, swipe &#8211; the sounds and the feel of the new Microsoft Surface comes alive today out of Microsoft&#8217;s self-described Willy Wonka style workshops. This is the birthplace of the Microsoft Surface.</p>
+<p>Darrell Etherington broke the news this morning of the pricing, which Microsoft mistakenly posted on its website and then quickly took down. The entry-level Surface will cost $499, but the Touch Cover keyboard runs an additional $100. At the top of the line, a 64GB version with the Touch Cover included costs $699. The Surface hits stores on October but it can be pre-ordered today.</p>
+<p>I arrived yesterday to the Redmond campus for an afternoon tour that promised around 20 bloggers and journalists a peek into the Surface&#8217;s inner sanctum at Studio B on the Microsoft campus, a place it compares to the fantasy world of &#8220;Willy Wonka and the Chocolate Factory.&#8221; (Lawl)</p>
+<p>The theme played out all day. Each of us received a Willy Wonka chocolate bar with a gold bill, our symbolic invitation to the chocolate factory &#8212; a place no outsider has seen before.</p>
+<p>Here&#8217;s a bit for how the day was set up by Steven Sinofsky, president, Windows and Panos Panay, general manager of the Surface team.</p>
+			<script type="text/javascript" src="http://pshared.5min.com/Scripts/PlayerSeed.js?sid=577&amp;width=640&amp;height=450&amp;colorPallet=%230A9600&amp;hasCompanion=false&amp;relatedMode=2&amp;videoControlDisplayColor=%23000000&amp;playList=517508806&amp;shuffle=0&amp;videoGroupID=133503&amp;autoStart=false&amp;playerActions=16407"></script>
+<p>The Surface tour showed how much effort went into the development of this PC-style tablet. Throughout the tour, Microsoft executives put particular attention on the clicking magnets that connect the detachable touch-style keyboard, the sound of the kickstand, and the resolution.</p>
+<p>Here you can see Surface with the standard keyboard.</p>
+<p><a href="http://techcrunch.com/2012/10/16/microsoft-surface/surface-black-touch-cover/" rel="attachment wp-att-675870"></a></p>
+<p>In the demos at the lab, Microsoft showed how the kickstand snaps into place. Here is a back view: </p>
+<p><a href="http://techcrunch.com/2012/10/16/microsoft-surface/surface-cyan-touch-cover-back-view/" rel="attachment wp-att-675913"></a></p>
+<p>But perhaps more importantly, Microsoft explained the tangibility of the tablet, and it&#8217;s truly unique engineering. Through a process called VaporMg, which essentially allows Microsoft to mold components and chassis together at less than credit card-level thinness, the tablet feels solid and compact in the hand. Seamless, even.</p>
+<span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/10/16/microsoft-surface/"></a></span>
+<p>On the tour, I got the sense that Microsoft almost does not want you to experience the software as much as the experience of this clicking, book-like device. The ads, the briefings and the stories shared by the designers and engineers are all about the magnesium casing, the emphasis on the user experience and the drop tests that showed the hardware&#8217;s durability. It&#8217;s all about the hardware with the Microsoft Surface.</p>
+<p>But I did get a sense of Oompa Loompas in the midst as I toured Studio B with my colleague as we were about to step into a room where a group of industrial designers worked on Surface designs. I rested my arm on a pile of prototypes that looked like different-sized books stacked on a student&#8217;s desk.</p>
+<p>We are told the first inspiration for Surface came from Moleskine sketch pads. They turned that into a cardboard mock-up that they then used as a prototype to create hundreds of hard plastic slabs that they used to get the concept in place.</p>
+<p>Throughout the tour, the team showed the great care they took in making Surface. We had the chance to touch and feel the detachable soft keyboard that when typing sounds like fingers tapping on a deep wood surface covered with a thick tablecloth.</p>
+<p><a href="http://techcrunch.com/2012/10/16/microsoft-surface/surface-layered-touch-cover/" rel="attachment wp-att-675917"></a></p>
+<p>They talked about the tradeoffs so they could get ultimate resolution without losing power.</p>
+<p>All in all, it was impressive but hardly a mention was given to the software. That to me is interesting. It either shows how much more they care about the elegance of the device or their insecurity about its PC software on a post-PC device.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/hTnnP4Dyqnc/">here</a>.

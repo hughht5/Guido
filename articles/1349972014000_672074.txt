@@ -1,0 +1,17 @@
+{
+"title" : "Samsung Officially Debuts The Galaxy S III Mini: 4″ Mid-Range Jelly Bean In A Smaller Package",
+"date" : "Thu, 11 Oct 2012 16:13:34 +0000",
+"author" : "Jordan Crook"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-11-at-12-11-24-pm.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-10-11 at 12.11.24 PM" title="Screen Shot 2012-10-11 at 12.11.24 PM" style="float: left; margin: 0 10px 7px 0;" /><p>The <a href="http://techcrunch.com/2012/06/19/samsung-galaxy-s-iii-review/">Samsung Galaxy S III</a> is the next big thing, and as Samsung&#8217;s marketing squad won&#8217;t let us forget, it&#8217;s <a href="http://techcrunch.com/2012/01/24/i-didnt-think-samsung-could-top-its-anti-apple-ads-until-i-saw-these/">already here</a>. But another &#8220;big thing&#8221; in a decidedly smaller package is making its way to center stage as we speak.</p>
+<p>Yes, you&#8217;ve <a href="http://techcrunch.com/2012/10/10/samsung-targets-europe-with-smaller-flagship-phone-galaxy-s-iii-mini-to-pack-iphone-5-sized-screen/gs3-mini-lead/">heard about it before</a>, but this time it&#8217;s official. Meet the <a target="_blank" href="http://www.samsungmobilepress.com/2012/10/11/Samsung-Introduces-GALAXY-S-III-mini,-a-compact-yet-powerful-smartphone">Galaxy S III Mini</a>.</p>
+<p>We learned <a href="http://techcrunch.com/2012/10/10/samsung-targets-europe-with-smaller-flagship-phone-galaxy-s-iii-mini-to-pack-iphone-5-sized-screen/">just yesterday</a> that it would in fact be called the Galaxy S III Mini and that it came with a 4-inch display, but we knew little else. Reuters suspected it would land in Europe. Little phones are so in right now.</p>
+<p>In terms of specs, we&#8217;re looking at a 4-inch Super AMOLED display with an 800&#215;480 resolution. Samsung has also opted to use a 1GHZ dual-core chip instead of that quad-core EXYNOS proc, along with throwing 1GB of RAM and an NFC chip under the hood. There&#8217;s also a 5-megapixel camera around back (capable of 720p video), and a VGA front-facing camera for video chat.</p>
+<p>Perhaps most importantly, the Galaxy S III Mini will ship with Android 4.1 Jelly Bean.</p>
+<p>The little guy will come in 8GB and 16GB flavors, expandable via a microSD slot. And you&#8217;ll have a relatively standard 1,500mAh battery.</p>
+<p>As you may be inferring, this is most certainly a mid-range device.</p>
+<p>Samsung has diluted the Galaxy brand by throwing the word Galaxy on just about everything. But calling this phone a Galaxy S III mini is a step beyond that. The design is the same, sure, but the design is hardly what makes the Galaxy S III great. In fact, it&#8217;s one of the flagship&#8217;s few shortcomings.</p>
+<p>That&#8217;s not to say it&#8217;s an awful phone. But the screen resolution, in particular, and the lack of LTE connectivity definitely puts a damper on things.</p>
+<a href="http://techcrunch.com/2012/10/11/samsung-officially-outs-the-galaxy-s-iii-mini-4-mid-range-jelly-bean-in-a-smaller-package/#gallery-672074-1-slideshow">Click to view slideshow.</a>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/tb76NnpDM10/">here</a>.

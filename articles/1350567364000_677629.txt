@@ -1,0 +1,12 @@
+{
+"title" : "Financial SaaS Company Intacct Raises $13.5M Led By Split Rock Partners, Secures $6M Line Of Credit From Silicon Valley Bank",
+"date" : "Thu, 18 Oct 2012 13:36:04 +0000",
+"author" : "Natasha Lomas"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/intacct-logo.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="INTACCT LOGO" title="INTACCT LOGO" style="float: left; margin: 0 10px 7px 0;" /><p>San Jose-based SaaS/cloud financial management company <a target="_blank" href="http://us.intacct.com/">Intacct</a> has raised $13.5 million in a new funding round from existing investors, with Split Rock Partners leading the round with a $7.5 million investment. Bessemer Venture Partners, Emergence Capital, Sigma Partners, and Sutter Hill Ventures also participated. The remainder of the funding was made up by a $6 million line of credit secured from Silicon Valley Bank.</p>
+<p>Intacct said it plans to use the new investment to drive continued growth &#8212; also today <a target="_blank" href="http://media.prnewswire.com/en/jsp/main.jsp?clientid=26388&amp;option=cip&amp;view=releases&amp;resourceid=5749295">it announced</a> 97 percent year-over-year overall growth in new customers bookings &#8212; by extending its product range and expanding distribution channels. <b><br />
+</b></p>
+<p>The company sells cloud-based software for financial functions &#8212; including applications for accounting, contract management, revenue management, inventory management, purchasing, vendor management, financial consolidation and reporting. It says its applications are in use by more than 5,000 organizations &#8212; &#8220;from startups to public companies&#8221; &#8212; offering advantages over legacy accounting systems such as scalability and real-time reporting.</p>
+<p>&#8220;Cloud business applications are in the midst of a surge in adoption and Intacct has positioned itself to be a major player in this space for the long term,&#8221; noted Jim Simons, managing director at Split Rock Partners, in a statement. &#8220;We&#8217;ve been extremely impressed with Intacct&#8217;s execution and growth since we first invested in the company back in 2011. We are excited to have the opportunity to provide additional backing and help the company achieve its lofty goals.&#8221;</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/_9NzxR3-MsY/">here</a>.

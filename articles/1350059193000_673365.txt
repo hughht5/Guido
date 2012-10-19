@@ -1,0 +1,12 @@
+{
+"title" : "YouTube Changes Its Search Ranking Algorithm To Focus On Engagement, Not Just Clicks",
+"date" : "Fri, 12 Oct 2012 16:26:33 +0000",
+"author" : "Frederic Lardinois"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/03/youtube-logo.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="youtube logo" title="youtube logo" style="float: left; margin: 0 10px 7px 0;" /><p>YouTube just <a target="_blank" href="http://youtubecreator.blogspot.com/2012/10/youtube-search-now-optimized-for-time.html">announced</a> that it is changing its search ranking algorithm to highlight videos that keep viewers engaged. The idea here, says YouTube, is to &#8220;reward engaging videos that keep viewers watching.&#8221; Because of this change, YouTube expects that the time viewers spent watching videos from search will increase in the near future.</p>
+<h2>YouTube Search: Now Optimized For Time Watched</h2>
+<p>Today&#8217;s announcement doesn&#8217;t come as a total surprise. Earlier this year, the company already <a target="_blank" href="http://youtubecreator.blogspot.com/2012/08/youtube-now-why-we-focus-on-watch-time.html">explained</a> its focus on &#8216;watch time.&#8221; When it updated its suggested videos algorithm, YouTube noted that it did so to &#8220;better surface the videos that viewers actually watch, over those that they click on and then abandon.&#8221;</p>
+<p>Previous to this, smart video producers had noticed that YouTube would reward clicks more than actual views, so they would ensure that their video thumbnails were <a target="_blank" href="http://www.youtube.com/results?search_query=cleavage&amp;oq=cleavage&amp;gs_l=youtube.3..0l10.18510.22260.0.22355.13.8.3.2.2.0.55.427.8.8.0...0.0...1ac.1.l7E9bsS6BmQ">as provocative as possible</a>. YouTube, however, is obviously more interested in getting its users to engage with videos (and ads).</p>
+<p>This search ranking change also comes just a day after the company <a target="_blank" href="http://youtubecreator.blogspot.com/2012/10/youtube-analytics-now-includes-time_11.html">announced</a> that it would add data like time watched to YouTube Analytics. Thanks to this, the YouTube team noted today, video producers &#8220;have even more tools to evaluate the performance of [their] videos and channel.&#8221;</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/ECBhqE91GG4/">here</a>.

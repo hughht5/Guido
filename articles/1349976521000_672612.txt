@@ -1,0 +1,13 @@
+{
+"title" : "YouTube Now Offers More In-Depth Analytics, Including Time Watched And Annotations Reporting",
+"date" : "Thu, 11 Oct 2012 17:28:41 +0000",
+"author" : "Frederic Lardinois"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/04/youtube-logo.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="youtube logo" title="youtube logo" style="float: left; margin: 0 10px 7px 0;" /><p>YouTube just <a target="_blank" href="http://youtubecreator.blogspot.com/2012/10/youtube-analytics-now-includes-time_11.html">announced</a> a number of updates that will allow video creators to see more in-depth analytics for how users are watching their videos. YouTube&#8217;s analytics now, for example, put a stronger emphasis on audience engagement and allow publishers to see an estimate of how many minutes a video was watched in total.</p>
+<p><a href="http://techcrunch.com/2012/10/11/youtube-now-offers-more-in-depth-analytics-including-time-watched-and-annotations-reporting/time_watched/" rel="attachment wp-att-672636"></a>Another new feature the company is launching is a beta version of its annotations report. With this, publishers can see a detailed breakdown of click-through rates and close rates for their annotations. According to Google, &#8220;annotations are one of the most used features to drive audience engagement in YouTube,&#8221; and this new analytics data should help publishers optimize them for their audiences.</p>
+<p>Another feature YouTube power users will appreciate is the service&#8217;s new-found ability to compare trends and patterns across two different metrics.</p>
+<p>With this update, YouTube is also introducing a few small design changes to Analytics, including an easier to use data slider for selecting date ranges, as well as video hovercards that allow you to see a thumbnail of your video and some basic information about it when you hover over a link.</p>
+<p>Google <a target="_blank" href="http://youtube-global.blogspot.com/2011/11/announcing-youtube-analytics-next.html">launched</a> the current incarnation of YouTube Analytics, which replaces YouTube Insight, last November.</p>
+<p><a href="http://techcrunch.com/2012/10/11/youtube-now-offers-more-in-depth-analytics-including-time-watched-and-annotations-reporting/annotations_beta/" rel="attachment wp-att-672639"></a></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/HScDP3Ku0c0/">here</a>.

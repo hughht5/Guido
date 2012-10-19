@@ -1,0 +1,18 @@
+{
+"title" : "Larry Page To Google’s Investors: “You Should All Run Out And Buy The Nexus 7 For $199″",
+"date" : "Thu, 18 Oct 2012 20:48:55 +0000",
+"author" : "Frederic Lardinois"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/page-large-logo.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="page-large-logo" title="page-large-logo" style="float: left; margin: 0 10px 7px 0;" /><p>During its<a target="_blank" href="http://www.youtube.com/googleir"> Q3 2012 earnings call</a>, Google&#8217;s Larry Page, whose voice still sounded very hoarse and is clearly not back to where it was a year ago, used the first couple of minutes of the call to highlight some of Google&#8217;s hardware initiatives. Not only did he put in a plug for Google&#8217;s new <a href="http://techcrunch.com/2012/10/18/chromebook-samsung-249/">Chromebook</a>, but also for the Nexus 7 tablet. Indeed, he told the assembled investors, press and analysts on the call that they should &#8220;all run out and buy the Nexus 7 for $199.&#8221;</p>
+<p><a href="http://techcrunch.com/2012/07/23/google-affirms-the-nexus-7s-main-fault-with-this-adorable-commercial/nexus-7-4/" rel="attachment wp-att-613721"></a>One topic that was clearly on Page&#8217;s mind during this introduction was the fact that Google is trying to provide a full spectrum of devices for its users. Page noted that Google wants to help its users to easily transition between devices. He stressed, for example, how users can keep their searches in sync between different devices, as well as the advantages of using Chrome on Android.</p>
+<p>&#8220;Most people,&#8221; Page said, &#8220;thought we were nuts&#8221; when Google launched Android, but he also stressed how mobile advertising is now a significant part of Google&#8217;s advertising revenue. Throughout the call, Google&#8217;s various executives stressed how multi-screen is now huge for video and mobile and how Google expects to improve its abilities to monetize better in this multi-screen environment.</p>
+<p>Here is a transcript of this part of Page&#8217;s remarks:</p>
+<blockquote><p>I switch between my Nexus phone, Nexus 7 tablet and my new Chromebook that we just announced today many times a day.</p>
+<p>While this abundance causes disruption, it also creates amazing opportunity. And Google is super well-placed to take advantage of these disruptive opportunities.</p>
+<p>Why? Because our search query volumes have grown this quarter as measured year over year. And we are seeing tremendous innovation in advertising which, I believe, will help us monetize mobile queries more effectively than desktop today. Indeed our mobile monetization per query is already a significant fraction compared to desktop.</p>
+<p>In short, as we transition from one screen to multiscreens, Google has enormous opportunities to innovate and drive ever higher monetization. Just like Search in 2000.</p>
+<p>Now we took a big bet on Android back in 2005. We believed that aligning standards around an open source operating system would drive innovation across the industry. Most people thought we were nuts.</p>
+<p>Today there are over half a billion Android devices-half a billion &#8211; with 1.3 million more being activated every day. You should all run out and buy the Nexus 7 tablet for $199. It’s had rave reviews and recently won “Gadget of the Year” from T3, the gadget experts. You’ll love the integration with Google Play. It is an amazing device.</p></blockquote>
+<p><a target="_blank" href="http://www.techcrunch.com/tag/goog12q3"></a></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/sT5lGAh8NCE/">here</a>.

@@ -1,0 +1,14 @@
+{
+"title" : "Facebook Starts Showing Birthdays And Selling Gifts At The Top Of The Mobile News Feed",
+"date" : "Wed, 10 Oct 2012 19:26:38 +0000",
+"author" : "Josh Constine"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/android-birthday-gifts-done.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Android Birthday Gifts Done" title="Android Birthday Gifts Done" style="float: left; margin: 0 10px 7px 0;" /><p><a href="http://techcrunch.com/2012/09/27/facebook-gifts/">Facebook Gifts</a> could make a lot of money on mobile by getting you to buy presents for friends, but birthdays were buried in Events and celebrations weren&#8217;t shown on mobile. So today Facebook for iOS and Android began displaying birthdays and celebrations atop the mobile news feed for users in the Gifts Beta, Facebook has confirmed.</p>
+<p>Soon on iOS and today on Android you can click through these alerts to buy a Gift, earning Facebook a cut.</p>
+<p>For now, the announcements of birthdays and celebrations like weddings, engagements, and pregnancies can only be seen on the news feed by people who are in the Gifts tests group, which includes press, people randomly admitted, and anyone who has received a Gift. As Gifts continues to roll out, more people will see these birthday alerts. Without them, there was essentially no mobile way to discover who to give Gifts to or be reminded to actually buy them.</p>
+<p>Even if this wasn&#8217;t to aid Gifts, showing alerts about special occasions on the mobile news feed is good for the user experience. Birthdays and celebrations are shown prominently on the full-sized web version of Facebook, but if you predominantly access the social network from mobile, you&#8217;re liable to miss them.</p>
+<p>Android users can click through an icon on the news feed alert to buy people Gifts. Facebook will then earn an undisclosed percentage of sales revenue on the gifts you purchase.</p>
+<p>You can&#8217;t actually buy gifts from iOS yet, you just see a list of birthdays and clicking through gives you the option to write on their walls. However Facebook says Gift giving will be <a href="http://techcrunch.com/2012/09/27/facebook-gifts/">unlocked in an upcoming update</a>, and the &#8216;buy from news feed&#8217; icon is likely to come with it.</p>
+<p>So while that little birthdays tile on the news feed might not seem like much, it could mean hundreds of millions of dollars to a company in dire need of proof it can monetize mobile.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/ioMc2-u6jt8/">here</a>.

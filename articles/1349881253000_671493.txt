@@ -1,0 +1,11 @@
+{
+"title" : "Social Network For Fashion Photos Trendabl Raises $800K From Khosla Ventures",
+"date" : "Wed, 10 Oct 2012 15:00:53 +0000",
+"author" : "Leena Rao"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/trendabl.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Trendabl" title="Trendabl" style="float: left; margin: 0 10px 7px 0;" /><p>Social network for fashion photos <a target="_blank" href="http://www.trendabl.com/">Trendabl</a> has raised $835,000 from Khosla Ventures, Forerunner Ventures and other angels.</p>
+<p>Trendabl is aiming to be an Instagram-like platform for fashion photos. Users are able to take a photo and tag it with descriptive information such as the brand of the item and share it with the Trendabl community. Users are able to follow their friends as well as various brands, retailers, magazines and celebrities. Currently the startup only offers an iOS app, but is looking to expand to the web as well.</p>
+<p>The company&#8217;s advisors include Mary Kate &amp; Ashley Olsen, and Angelo Sotira (CEO/Founder Deviant Art). Trendabl has also been able to sign on a number of well-known fashion brands to use the service, including Michael Kors, Barneys New York, Diane Von Furstenberg, Carolina Herrera, Monique Lhuillier, BCBG, Elizabeth and James, Nicky Hilton and others.</p>
+<p>In the future, Trendabl is exploring how incorporating commerce into the app makes sense. The startup faces competition from Go Try It On, Chicisimo, Polyvore, and Fashism.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/Zj-cZ3RHQeQ/">here</a>.

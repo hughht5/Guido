@@ -1,0 +1,15 @@
+{
+"title" : "Move Over, LG: Sony’s New “Nexus X” Smartphone Reportedly Caught On Film",
+"date" : "Mon, 15 Oct 2012 16:01:05 +0000",
+"author" : "Chris Velazco"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/nexusx2.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="nexusx2" title="nexusx2" style="float: left; margin: 0 10px 7px 0;" /><p>At this point LG’s rumored Nexus phone is pretty much a lock, but a newly leaked pair of images may indicate that the so-called Nexus 4 won’t be in the Google Play Store alone.<a target="_blank" href="http://www.xperiablog.net/2012/10/15/is-this-the-sony-nexus-x/?utm_source=dlvr.it&amp;utm_medium=twitter"> XperiaBlog</a> happened upon photos of a Sony-made “Nexus X” smartphone on Picasa (where more than a few devices are outed ahead of schedule), which jibe well with an earlier report claiming Google was working on Nexus hardware with a handful of manufacturing partners.</p>
+<p>The device in question bears a bit of resemblance to recently announced handsets like the Xperia T, but this thing (whatever it is) is far from a straight rebrand. The so-called Nexus X naturally appears to run an untouched version of Android unlike its cousins, though exactly which is nearly impossible to discern since it’s far from final &#8212; the missing Google search bar and app labels attest to that.</p>
+<p>A quick peek confirms that there’s no Xperia branding to be found either — rather, there’s a sizable Google logo plastered along the device’s rear end. Speaking of rear ends, the device’s back also seems to curve inward at the middle before flaring out at the top and bottom. It’s a classic Sony design choice, and one that could help the device stand out among a potential crowd of Nexus-branded competitors.</p>
+<p>Though the jury&#8217;s still out on the veracity of the images, I still can&#8217;t help but think a partnership like this could end up working out really nicely. After all, Sony’s no slouch when it comes to designing and crafting hardware (I was quite fond of the Xperia ion, myself), but the company’s fans often lament its slow turn-around time when it comes to tweaking and pushing out new Android updates. Of course, there are bigger implications to consider if the Nexus X turns out to be real &#8212; Google has never backed more than one standard-bearing Android phone at a time, so what does that mean for the Nexus brand as a whole?</p>
+
+<a href='http://techcrunch.com/2012/10/15/sony-nexus-x-rumor/nexusx1/' title='nexusx1'></a>
+<a href='http://techcrunch.com/2012/10/15/sony-nexus-x-rumor/nexusx2/' title='nexusx2'></a>
+
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/wZpikCo9D1U/">here</a>.

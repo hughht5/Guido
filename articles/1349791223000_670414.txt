@@ -1,0 +1,22 @@
+{
+"title" : "Google Updates Search Appliance – Adds Google Translate API To Target Global Market",
+"date" : "Tue, 09 Oct 2012 14:00:23 +0000",
+"author" : "Alex Williams"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/googleappliance.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="googleappliance" title="googleappliance" style="float: left; margin: 0 10px 7px 0;" /><p>Google is <a target="_blank" href="http://googleenterprise.blogspot.com/">updating its search appliance</a>, adding the <a target="_blank" href="https://developers.google.com/translate/">Google Translate API</a> and better recommendations in a new push for the global enterprise market.</p>
+<p><a target="_blank" href="http://www.google.com/enterprise/search/">Google Search Appliance (GSA)</a> has not had an update since last September. <a target="_blank" href="http://www.realstorygroup.com/Blog/2379-Farewell-Google-Mini-What-Next-for-Google-Search-Appliance">Some have wondered</a> if it would go the way of the <a target="_blank" href="http://googleblog.blogspot.co.uk/2012/07/spring-cleaning-in-summer.html">Google Mini</a>, the appliance discontinued last spring that once stood as a hallmark of Google&#8217;s enterprise search efforts.</p>
+<p>Today, though, Google executives say they are doubling down on the appliance with plans to go after the world&#8217;s largest corporations.</p>
+<p>Matthew Eichner, general manager, global enterprise search, said Google is taking a different posture than in the past.</p>
+<p>Eichner said there is still a lot of open territory. And he said the effort fits with Google&#8217;s mission to organize the world&#8217;s information and make it easily accessible.</p>
+<p>The updates to GSA 7.0 fall into three buckets:</p>
+<ul>
+<li>Universal Search:  Capability to do search across all the silos in the enterprise. That means new connectors to Sharepoint, SAP and all the other software applications where relevant information is kept. GSA is available across any device.</li>
+<li>Better Search Quality: Google has made enhancements to its algorithms for better relevance in its search results. Assisted navigation provides refined search results, and requires no manual configuration from administrators. Entity Recognition automatically identifies and suggests content. GSA 7.0 also allows employees to add their own search results.</li>
+<li>Deeper Reach: Google Translate and better suggestions through dynamic navigation.</li>
+</ul>
+<p>But Google Translate&#8217;s API integration will set GSA apart. It provides secure and automatic translations display in search results, in more than 60 languages. Eichner said GSA borrows from Google&#8217;s deep investments in developing a language library. Google operates at such a huge scale, making the level of quality radically better than open-source alternatives.</p>
+<p>Google has also added document previews, moderated social suggestions and expert search to find people relevant to the results people get.</p>
+<p>Open-source search providers are GSA&#8217;s deepest competition. <a target="_blank" href="http://www.lucidworks.com/">LucidWorks</a> is one of the leaders in providing enterprise search. In May, it launched a data beta project, <a target="_blank" href="http://www.lucidworks.com/products/lucidworks-big-data">LucidWorks Big Data</a>, which certifies and integrates <a target="_blank" href="http://www.apache.org/">Apache</a> open source components to develop and manage big data applications.</p>
+<p>Yes, Google does have an edge in search overall but what I don&#8217;t see is GSA&#8217;s application to big data applications. That is in large part due to Google&#8217;s other cloud efforts and its extensive network of APIs. But if GSA represents the company&#8217;s enterprise search efforts then the company needs to be more clear about its context within its other search offerings.</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/09/google-search-appliance-gets-update-adds-google-translate-api/">here</a>.

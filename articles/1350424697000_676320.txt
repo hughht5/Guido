@@ -1,0 +1,19 @@
+{
+"title" : "Google Streamlines The Email You Get When Someone Shares A Google Drive Document With You",
+"date" : "Tue, 16 Oct 2012 21:58:17 +0000",
+"author" : "Drew Olanoff"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/124286877_f971912ad3_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="124286877_f971912ad3_z" title="124286877_f971912ad3_z" style="float: left; margin: 0 10px 7px 0;" /><p>You get an email, and it&#8217;s a pretty important one. If you&#8217;re using Gmail, there&#8217;s a lot of things you can do with it to make it stand out. Basically, so you don&#8217;t lose it. You can filter it to have a label, give it a star or mark it for your priority inbox. Once you open the email though, it&#8217;s important that all of the information presented to you is useful and concise.</p>
+<p>Today, Google shared that it has <a target="_blank" href="https://plus.google.com/u/0/112893701314508522131/posts/1NW5QuCQApc">streamlined the look of the email you get when someone shares a Google Drive document:</p>
+<blockquote><p>Sharing emails just got a facelift.</p>
+<p>You may have noticed a more streamlined email design when someone shares a file with you from Google Drive. This new format will hopefully make it easier and faster for you to open files from your email.</p></blockquote>
+<p>Here&#8217;s a look:</p>
+<p></a><a href="http://techcrunch.com/2012/10/16/google-streamlines-the-email-you-get-when-someone-shares-a-google-drive-document-with-you/emailsharing/" rel="attachment wp-att-676327"></a></p>
+<p>Here&#8217;s what it used to look like:</p>
+<p><a href="http://techcrunch.com/2012/10/16/google-streamlines-the-email-you-get-when-someone-shares-a-google-drive-document-with-you/snapshot-101612-253-pm/" rel="attachment wp-att-676330"></a></p>
+<p>The old design was well&#8230;<del datetime="2012-10-16T21:54:06+00:00">old</del> ugly as hell. When I used to open them, I&#8217;d completely miss the point of what was being sent because the font was small and it just wasn&#8217;t jumping out at me. While this is a small update, it&#8217;s quite useful if you&#8217;re an email scanner like I am. I don&#8217;t read every email I get, I jump through them as fast as I can so that I can take action quickly.</p>
+<p>That old green box in the top left corner used to remind me of a birthday present, but most of the documents that are sent to me are anything but.</p>
+<p>This particular tweak helps me scan a bit better, and its good to see the Google teams working together to improve the overall experience of all of its products. Yay.</p>
+<p>[Photo credit: <a target="_blank" href="http://www.flickr.com/photos/brianbass270/124286877/">Flickr</a>]</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/6Qkkm4FiPgw/">here</a>.

@@ -1,0 +1,13 @@
+{
+"title" : "UrbanSitter Raises $6M To Harness The Power Of Social Recommendations In Child Care",
+"date" : "Mon, 15 Oct 2012 11:30:52 +0000",
+"author" : "Leena Rao"
+}
+
+<img width="100" height="64" src="http://tctechcrunch2011.files.wordpress.com/2012/10/urban.jpg?w=100&amp;h=64&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="urban" title="urban" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.urbansitter.com/">UrbanSitter</a>, an online service for parents and sitters to connect, has raised $6 million in Series A funding led by Canaan Partners with First Round Capital, Menlo Ventures, Rustic Canyon Partners and several angels participating.</p>
+<p>UrbanSitter harnesses the power of social recommendations in a space where a friend’s recommendation is critical—child care. UrbanSitter leverages Facebook Connect so parents can view sitters that their friends already know, trust and recommend. You sign up on the site, and connect your Facebook account, and can view sitters known through friends or affiliations—including schools, sports teams and parent groups. </p>
+<p>Similar to how people use OpenTable for dinner reservations, parents can search for sitter availability by date and time and then book jobs (or interviews) real-time. After the job completed, parents can pay online and add reviews, ratings and Facebook Likes to sitter profiles. You can also search for sitters by various filters such as part-time, full-time etc.</p>
+<p>Also, UrbanSitter is now also available as a mobile app, which enables parents and sitters to connect and book jobs anywhere, anytime via their iOS devices.</p>
+<p>Since launching in San Francisco in Sept. 2011, the company has increased the number of sitter bookings at an average rate of 35 percent per month. The service is available in a dozen cities, including New York, Los Angeles, Boston, Chicago, Seattle and Denver. The company also recently launched an iOS app that enables parents to search and book sitters on the go.</p>
+<p>The new funding will be used for product development, to advance the company’s mobile efforts and further expansion into new markets.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/S_0K5TprdRc/">here</a>.

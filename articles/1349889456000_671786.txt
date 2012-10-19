@@ -1,0 +1,13 @@
+{
+"title" : "LocalResponse Can Now Target Ads Based On Historical Tweets And Check Ins",
+"date" : "Wed, 10 Oct 2012 17:17:36 +0000",
+"author" : "Anthony Ha"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/lr-historicals_10_10.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="LR-historicals_10_10" title="LR-historicals_10_10" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.localresponse.com">LocalResponse</a> just announced a new way for its customers to target their ads.</p>
+<p>Previously, the startup&#8217;s advertisers could reach audiences based on social network activity — for example, after someone checked in to a specific store, they could be targeted with ads that were relevant while in the store. Now those advertisers can also look at historical data, including posts from Twitter, Instagram, and Foursquare.</p>
+<p>The company says its historical intent targeting (HIT) combines its own technology with <a href="http://techcrunch.com/2012/08/21/datasift-debuts-more-powerful-tools-to-help-businesses-analyze-social-data/">social media monitoring tools from DataSift</a>.</p>
+<p>CEO and co-founder Nihal Mehta tells me this feature will be available to all of the company&#8217;s advertisers, but he&#8217;s really focusing on a few industries for now, particularly retail and entertainment, because that&#8217;s where this feature is most obviously useful. With HIT, a retailer could lure customers to return by offering special deals to people who checked into their store in the past few months.</p>
+<p>Or when a movie studio releases a Blu-Ray/DVD, it could target ads toward people who tweeted about the movie when it was in theaters. LocalResponse says it tested the technology in a pilot program with Sony Pictures over the summer.</p>
+<p>The company claims to work with more than 125 advertisers. That&#8217;s up from July, when <a href="http://techcrunch.com/2012/06/19/localresponse-7-billion/">Mehta said the number was 75</a>. (He also said LocalResponse was serving more than 7 billion impressions per month.)</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/rkwkd8Sfwhg/">here</a>.

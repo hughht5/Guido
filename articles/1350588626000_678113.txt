@@ -1,0 +1,31 @@
+{
+"title" : "Ride-Sharing Service Lyft Adds A Waitlist, Cancellation Fee, And More Drivers To Meet Growing Demand",
+"date" : "Thu, 18 Oct 2012 19:30:26 +0000",
+"author" : "Ryan Lawler"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/08/lyftstache.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="lyftstache" title="lyftstache" style="float: left; margin: 0 10px 7px 0;" /><p>If you&#8217;ve tried using on-demand ride-sharing service Lyft in San Francisco recently, you&#8217;ve probably had the experience of opening the app only to find that there are no drivers available, or at least none nearby. <a href="http://techcrunch.com/2012/08/25/lyft-san-francisco-launch/">Made available to the public just two months ago</a>, it&#8217;s become insanely popular &#8212; so popular you can barely catch a ride anymore. Well, it&#8217;s trying to solve that problem through a number of initiatives, including an increase in driver supply, as well as a few updates to the service that will reduce the number of new users and cancellations that it sees. </p>
+<p>Lyft community manager Emily Castor just sent out an email to the community, highlighting changes in the app as the service fights overwhelming demand from users. First and foremost, Lyft is trying to meet demand by increasing supply. It currently has a fleet of 250 drivers, but even so, demand is outstripping supply. So it&#8217;s asking users to apply to drive or to refer friends who could drive, offering them $100 in Lyft credit for drivers who are accepted.</p>
+<p>In the meantime, it&#8217;s also trying to slow growth in demand from new and existing users. On the new user side, Lyft has begun instituting a wait list for new users. That means anyone trying to download and use Lyft for the first time will be placed on a waitlist and added as supply becomes available. Existing users won&#8217;t be affected, but new users will be asked to hold tight until it has enough drivers to get every one where they need to go.</p>
+<p>It&#8217;s also instituting a $5 cancellation fee for users who request a ride but cancel before the driver arrives. The fee will only apply to users who cancel after waiting for a ride for five minutes; rides cancelled before that won&#8217;t be charged. The fee is mainly being instituted to keep users from making errant ride requests, and to save drivers from going off duty to pick someone up who&#8217;s later decided to take the bus or a cab.</p>
+<p>In an e-mail, co-founder John Zimmer explained, &#8220;&#8230;With such high demand, we want to make sure we continue to provide a great experience to users.  As we continue to scale drivers quickly, these changes also help to address this.  Like any new marketplace, it&#8217;s very important to balance supply and demand.&#8221;</p>
+<p>Lyft&#8217;s Castor also alluded to the service&#8217;s <a href="http://techcrunch.com/2012/10/08/cpuc-ride-sharing-c-and-d/">run-in with the California Public Utilities Commission</a>and the support that it&#8217;s gotten from users. While the CPUC sent it a cease-and-desist letter, it&#8217;s devoted to staying on the road in the meantime. Now hopefully it&#8217;ll get enough driver so it&#8217;s there when you need it.</p>
+<p>Full text of the community email is below:</p>
+<blockquote><p>Hi [User],</p>
+<p>Thanks to your support, the Lyft community has grown quickly in our first few months. We have more than 250 community drivers—and we&#8217;re just getting started! With such high demand for the service, we know it&#8217;s sometimes hard to get a Lyft. So we want to share some of what we&#8217;re doing to change that.</p>
+<p>First, we’re announcing two ways YOU can help:</p>
+<ul>
+<li>Rock the &#8216;stache yourself! Apply to become a Lyft driver.</li>
+<li>Refer a friend and receive $100 in Lyft Credit if they start driving. (Have them mention you in their driver application.)</li>
+</ul>
+<p>We&#8217;re also rolling out a few changes to make it easier to get Lyfted:</p>
+<ul>
+<li>Waitlist: To keep rides available for our loyal passengers (you!), Lyft will become invite-only for new users. This will not affect your account status; however, you may be overwhelmed by a sudden feeling of exclusivity.</li>
+<li>Cancellation Fee: Starting today, we&#8217;re adding a $5 cancellation fee. The fee will apply if you cancel a ride more than 5 minutes after your driver was assigned. This keeps the Lyft ecosystem more efficient, improving driver availability.</li>
+<li>More Drivers: We are rapidly expanding our community and growing faster each week. More drivers = more Lyfting.</li>
+</ul>
+<p>Fist bumps,</p>
+<p>Emily Castor<br />
+Lyft Community Manager </p>
+<p>P.S. As a community, we recently faced our first regulatory hurdle. Thanks for all your kind words of support as we continue to operate! Check out a message from our founders on the Lyft blog and sign up as a Lyftvangelist if you&#8217;d like to help the cause.</p></blockquote>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/RPWS2Gskxbo/">here</a>.

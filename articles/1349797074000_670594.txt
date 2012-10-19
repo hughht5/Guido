@@ -1,0 +1,20 @@
+{
+"title" : "Financial Planning Startup Wealthfront Woos Silicon Valley Workers With A Once-Secret Investment Trick",
+"date" : "Tue, 09 Oct 2012 15:37:54 +0000",
+"author" : "Kim-Mai Cutler"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/tax-alpha.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="tax-alpha" title="tax-alpha" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.wealthfront.com">Wealthfront</a>, a Palo Alto-based startup that wants to democratize wealth management, is giving users access to a <a target="_blank" href="https://blog.wealthfront.com/sell-stock-harvest-tax-loss/">once-exclusive investment trick called tax loss harvesting that lets them boost their long-term returns.</a> </p>
+<p>It sounds wonky, but the strategy basically entails selling poorly performing investments at the end of the year so that they can be written off against gains in a portfolio, reducing an overall tax bill. (There&#8217;s a video that explains it below.)</p>
+<p>Wealthfront says that this technique can boost after-tax returns by more than 1 percent a year. Over 20 years, that could be more than $50,000 more in returns on a $100,000 portfolio. </p>
+<p>&#8220;We&#8217;ve always wanted to bring what premier endowments and wealth managers do to the masses,&#8221; said CEO Andy Rachleff, who also co-founded one of the Valley&#8217;s better-known venture firms Benchmark Capital. &#8220;Tax-loss harvesting used to be done all manually and it was only available to people with $10 to 20 million.&#8221;</p>
+<p>Offering tax-loss harvesting is yet another lure for potential customers. Wealthfront, which used to be known as Kaching and was a social investment site, changed strategies over the past few years to offer low-cost, long-term investment management services. </p>
+<p>Based on your age and risk tolerance, the site will recommend a certain balance between higher-risk investments like stocks and lower-risk ones like bonds. It takes a lower management fee of around 0.25 percent (instead of the 1 to 1.5% rate a mutual fund might charge.) </p>
+<p>They can offer lower-management fees by automatically offering a mix of investments in exchange-traded funds (which have lower fees). Wealthfront doesn&#8217;t get any affiliate revenue for recommending certain funds over others, so Rachleff says this makes them relatively unbiased.</p>
+<p>Rachleff says assets under management are growing at roughly 15 percent month over month (but he&#8217;s not disclosing the raw amount.) He says that the site&#8217;s largest accountt is $2.5 million and the smallest is $5,000. The average is around $50,000.</p>
+<p>The 20-person startup is focused on growing clientele among Silicon Valley&#8217;s &#8220;working&#8221; class, like engineers and product managers that want to manage their savings or recent windfalls from acquisitions or IPOs. </p>
+<p>The thinking is that these types of customers will be more comfortable having another startup manage part of their savings. That&#8217;s why Wealthfront has been doing <a target="_blank" href="https://blog.wealthfront.com/startup-employee-equity-compensation/">these savvy and very viral infographics</a> on startup compensation. </p>
+<p>&#8220;If you&#8217;re fortunate enough to work for a successful company, we can manage the investment of those proceeds and do it in a really high-quality and low-cost fashion,&#8221; Rachleff said. </p>
+<p><div class='embed-vimeo' style='text-align:center;'><iframe src='http://player.vimeo.com/video/49947209' width='500' height='281' frameborder='0'></iframe></div>
+<p><a target="_blank" href="http://vimeo.com/49947209">What is Tax-Loss Harvesting?</a> from <a target="_blank" href="http://vimeo.com/wealthfront">Wealthfront</a> on <a target="_blank" href="http://vimeo.com">Vimeo</a>.</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/09/wealthfront-tax-loss-harvesting/">here</a>.

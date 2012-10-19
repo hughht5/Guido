@@ -1,0 +1,26 @@
+{
+"title" : "IBM Reports Q3 Earnings Mostly In Line With Expectations: $24.7B In Revenue, $4.2B Net Income, $3.62 EPS",
+"date" : "Tue, 16 Oct 2012 20:18:24 +0000",
+"author" : "Frederic Lardinois"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/ibm_logo.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="ibm_logo" title="ibm_logo" style="float: left; margin: 0 10px 7px 0;" /><p>IBM just released its Q3 2012 financials. Big Blue&#8217;s GAAP earnings came in at $3.8 billion, up 3% from the last quarter. Non-GAAP earnings were $4.2 billion. Overall, the company reported revenue of $24.7 billion, down from $25.8 billion in Q2.</p>
+<p>Ahead of the earnings release, most analyst expected that Big Blue would report robust earnings. The <a target="_blank" href="http://finance.yahoo.com/q/ae?s=IBM+Analyst+Estimates">consensus</a> was that earnings per share would increase to around $3.62 (up from last quarter&#8217;s $3.51 non-GAAP EPS), but that overall revenue would decline to about $25.4 billion from $25.8 billion last quarter. With $24.7 billion, the company missed the analysts&#8217; expectations.</p>
+<p><a href="http://techcrunch.com/2012/10/16/ibm-reports-q3-earnings-in-line-with-expectations-24-7b-in-revenue-4-2b-net-income-3-62-eps/ibm-q312/" rel="attachment wp-att-676253"></a></p>
+<p>IBM&#8217;s last quarterly earnings were mixed. While revenue was down 3 percent compared to the previous quarter, IBM noted that, after adjusting for currency, it was actually up 1 percent. This time around, the company argued that, after adjusting for currency, its revenue would still have been down 2 percent. Currency fluctuations impacted revenue growth by nearly $1 billion.</p>
+<p>IBM&#8217;s non-GAAP gross profit margin for Q2 2012 was 47.6 percent. For Q3, the company reported an improved non-GAAP profit margin of 48.1 percent.</p>
+<p>The company did not provide any guidance for Q3 in its last earnings release, but it did raise its full-year EPS expectations to at least $15.10 in its last quarterly release.</p>
+<blockquote><p>&#8220;In the third quarter, we continued to drive margin, profit and earnings growth through our focus on higher-value businesses, strategic growth initiatives and productivity,&#8221; said Ginni Rometty, IBM chairman, president and chief executive officer.</p>
+<p>&#8220;Looking ahead, we see good opportunity with a strong product lineup heading into this quarter and annuity businesses that provide a solid base of revenue, profit and cash. We are reiterating our full-year 2012 operating earnings per share expectation of at least $15.10.&#8221;</p></blockquote>
+<p>IBM&#8217;s <a target="_blank" href="http://finance.yahoo.com/q?s=IBM">share price</a> has been rallying lately and the stock just hit a multiyear high earlier this month and is up about 11 percent year to date.</p>
+<p>Here are some details for IBM&#8217;s various business units:</p>
+<ul>
+<li><strong>Software revenue</strong> down 1 percent, up 3 percent adjusting for currency</li>
+<li><strong>Services revenue</strong> down 5 percent, flat adjusting for currency</li>
+<li><strong>Services backlog</strong> of $138 billion, up 1 percent</li>
+<li><strong>Systems and Technology</strong> revenue down 13 percent, down 12 percent adjusting for currency</li>
+<li><strong>Growth markets</strong> revenue down 1 percent, up 4 percent adjusting for currency</li>
+<li><strong>Business analytics</strong> revenue up 14 percent year to date</li>
+<li><strong>Smarter Planet</strong> revenue up more than 20 percent year to date</li>
+</ul>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/-uP67Yzte68/">here</a>.

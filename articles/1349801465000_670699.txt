@@ -1,0 +1,12 @@
+{
+"title" : "Here’s The Upcoming Nexus Superphone Made By LG",
+"date" : "Tue, 09 Oct 2012 16:51:05 +0000",
+"author" : "Matt Burns"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/user2804463_pic28572_1349644969.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="user2804463_pic28572_1349644969" title="user2804463_pic28572_1349644969" style="float: left; margin: 0 10px 7px 0;" /><p>The next Nexus phone is not official yet, but <a target="_blank" href="http://androidcommunity.com/lg-e960-leaks-in-the-wild-could-be-the-lg-optimus-g-nexus-20121008/">a ton</a> <a target="_blank" href="http://www.tapscape.com/galaxy-note-2-and-iphone-5-step-aside-the-lg-optimus-g-nexus-is-real/">of pics</a> of the phone have leaked, providing a clear look at the upcoming superphone. But let&#8217;s hope it has a different name than rumors suggest.</p>
+<p>The upcoming Nexus is made by LG and reportedly carries the model number of E960. It runs Android 4.1.2 and ships unlocked, allowing the GSM phone to run on both AT&amp;T and T-Mobile in the U.S. It apparently sports a Qualcomm 1.5 GHz quad-core Snapdragon S4 Pro processor with Adreno 320 GPU, meaning it&#8217;s probably a bit of a powerhouse.</p>
+<p>The phone looks similar to the Galaxy Nexus with a rounded, slightly bulky body. No word on the screen, but it&#8217;s probably packing a pretty high density screen.</p>
+<p>With an official unveiling likely weeks away, more details will probably leak out. The Nexus phones have never sold in massive, iPhone-killing numbers, and this one, as it&#8217;s strangely made by LG, will probably not break any sales records. Still, with class-leading specs, it will likely be a favorite among Android fans and developers. Rumors state the phone will be called the LG Optimus G Nexus &#8212; let&#8217;s hope that&#8217;s wrong &#8217;cause it&#8217;s horrible.</p>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/10/lg-optimus-nexus-g-1.jpg" rel="lightbox[670699]"></a></p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/09/heres-the-upcoming-nexus-superphone-made-by-lg/">here</a>.

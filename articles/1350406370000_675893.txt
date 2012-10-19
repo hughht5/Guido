@@ -1,0 +1,24 @@
+{
+"title" : "Snapjoy Launches Its iOS App So You Can View Every Photo That You’ve Ever Taken",
+"date" : "Tue, 16 Oct 2012 16:52:50 +0000",
+"author" : "Drew Olanoff"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/6341009608_6eecd0b8df_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="6341009608_6eecd0b8df_z" title="6341009608_6eecd0b8df_z" style="float: left; margin: 0 10px 7px 0;" /><p>I&#8217;ve been using Y Combinator service <a href="http://techcrunch.com/2012/09/26/snapjoy-prepares-for-full-launch-adds-brilliant-copy-feature-to-its-photo-offering/">Snapjoy</a> for some time now to host all of my photos and I absolutely love it. What I dig about it so much is that it lets me go back and see all of my photos that I&#8217;ve uploaded in a lovely timeline view, something that came out before Facebook&#8217;s own Timeline.</p>
+<p>The last time you heard from me about Snapjoy, I was playing around with its <a href="http://techcrunch.com/2012/09/27/first-look-at-snapjoys-ios-app-for-photo-viewing-apple-take-notice/">iOS app, which was in private beta</a>. I snuck out some screenshots because I&#8217;m a photo geek and luckily they weren&#8217;t too mad. Having said that, the app is now available to the world, and it&#8217;s even better than when I shared it with you last time.</p>
+<p>First, head on over to <a target="_blank" href="http://www.snapjoy.com">Snapjoy</a> and sign up if you haven&#8217;t already. Then, import all of your photos from services like Flickr and Instagram, or upload them from your hard drive. Or all of the above.</p>
+<p>Now <a target="_blank" href="https://itunes.apple.com/us/app/snapjoy/id565848821?mt=8">download the app for iOS</a>.</p>
+<h3>Snapjoy is my private DeLorean</h3>
+<p>Using the app, you can take a step back in time and see all of the photos you&#8217;ve taken within the context of date and time. You can go as far as to look at photos taken in the early evening of July 15th, 2007. It&#8217;s simply amazing.</p>
+<p><a href="http://techcrunch.com/2012/10/16/snapjoy-launches-its-ios-app-so-you-can-view-every-photo-that-youve-ever-taken/photo-2-46/" rel="attachment wp-att-675903"></a> <a href="http://techcrunch.com/2012/10/16/snapjoy-launches-its-ios-app-so-you-can-view-every-photo-that-youve-ever-taken/photo-3-36/" rel="attachment wp-att-675904"></a></p>
+<p>As you navigate around, you&#8217;ll find yourself spending a bunch of time looking at photos that you&#8217;ve forgotten about. I&#8217;ve looked at things from when I lived in Seattle that I simply didn&#8217;t remember at all.</p>
+<p>Taking a stroll through memory lane is a fantastic experience, and its one of the reasons why I really love services like foursquare and Timehop. Yes, it sounds self-serving&#8230;but you know what? It is. And that&#8217;s ok. I have over 17k photos hosted on Snapjoy now and it&#8217;s fantastic.</p>
+<p><a href="http://techcrunch.com/2012/10/16/snapjoy-launches-its-ios-app-so-you-can-view-every-photo-that-youve-ever-taken/photo-1-56/" rel="attachment wp-att-675905"></a></p>
+<h3>Why Snapjoy?</h3>
+<p>I spoke with one of Snapjoy&#8217;s founders, Michael Dwan, and he told me a bit about why the team created the service, and why it built this iOS app:</p>
+<blockquote><p>You can now access your entire photo library right from your pocket. Snapjoy for iOS allows you to relive a lifetime of photos from anywhere. Don’t want to use up all the free space on your phone just to load photos? Now you don’t have to. Your photos are organized automatically and presented just the way you remember them.</p></blockquote>
+<p>When it comes to the simplicity of the service, that&#8217;s the way the team wants it, and that&#8217;s why I like what they&#8217;re doing. Dwan continued:</p>
+<blockquote><p>Your photos are the focus, with no ads and super fast load times optimized for your iPhone. You can quickly browse through years of photos, or shuffle randomly through your library, pulling up memories you may have forgotten about.</p></blockquote>
+<p>Dwan tells me that the team is already worked on things like photo-sync for a next version. It&#8217;s worth giving a shot, so if you have 5K photos stored on your camera roll, get them off of there, drop them on Snapjoy and enjoy.</p>
+<p>[Photo credit: <a target="_blank" href="http://www.flickr.com/photos/needleandawl/6341009608/">Flickr</a>]</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/IuUEtexshhs/">here</a>.

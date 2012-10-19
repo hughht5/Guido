@@ -1,0 +1,11 @@
+{
+"title" : "Apple Agrees To License Iconic Swiss Federal Railways’ Clock Design Used In iOS 6",
+"date" : "Fri, 12 Oct 2012 13:52:00 +0000",
+"author" : "Natasha Lomas"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/ipad_clock1.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="ipad_clock" title="ipad_clock" style="float: left; margin: 0 10px 7px 0;" /><p>Late last month Apple was <a href="http://techcrunch.com/2012/09/20/swiss-federal-railways-accuses-apple-of-copying-its-railway-clock-design-for-ipad-clock-app/">accused of copying</a> the design of the iconic 1940s Swiss Railway Station Clock owned by SBB (Swiss Federal Railways) for the clock design used in iOS 6. Now Cupertino has agreed to license the design from SBB (h/t to the <a target="_blank" href="http://www.theverge.com/2012/10/12/3492896/apple-sbb-licensing-agreement-ios-6-clock-app">Verge</a> for spotting <a target="_blank" href="http://www.sbb.ch/sbb-konzern/medien/medienmitteilungen.newsdetail.2012-10-1210_1.html">SBB&#8217;s release</a>).</p>
+<p>The release notes that Apple and SBB have reached an agreement to license the design &#8220;for use on devices like iPad and iPhone&#8221;. Further terms of the deal &#8212; such as how much Apple is paying SBB to use its design &#8212; have not been disclosed. An SBB spokeswoman said: &#8220;The parties have agreed that the amount of the licensing fee and any further details of the licensing arrangement will remain confidential.&#8221;</p>
+<p>The licensing deal with Apple is only the third the company has entered into for the clock design &#8212; its other licensing deals are with Mondaine, which manufactures SBB-watches, and Mobatime, which produces and maintains the official clocks at SBB&#8217;s train stations.</p>
+<p>The original Swiss Railway Clock was designed in 1944 by engineer and designer Hans Hilfiker. Notable features include the use of marks rather than numbers around the dial, and a striking red second hand.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/Z8uU_CM3kLU/">here</a>.

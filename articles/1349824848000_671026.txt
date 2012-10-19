@@ -1,0 +1,18 @@
+{
+"title" : "Facebook May Ditch Its Boring Logged Out Homepage For This 3D Polygon Art Or This Cute Couple",
+"date" : "Tue, 09 Oct 2012 23:20:48 +0000",
+"author" : "Josh Constine"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/facebook-logged-out-homepage.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Facebook Logged Out Homepage" title="Facebook Logged Out Homepage" style="float: left; margin: 0 10px 7px 0;" /><p>Facebook doesn&#8217;t want to look like just another website, so it&#8217;s testing colorful new versions of Facebook.com on a very small percentage of logged out visitors. One features a 3D polygon art map of the Facebook universe, while another showcases an adorable couple.</p>
+<p>So next time you login, or finally surrender and sign up, you might be greeted with something a lot more vibrant than text inputs.</p>
+<p></p>
+<p>Our writer Drew Olanoff called the tested poloygon design &#8220;ugly as sin&#8221; and &#8220;very busy&#8221;. Personally I dig it, though it does make finding the email address and password inputs a bit more difficult.</p>
+<p>Facebook confirmed the images sent in by our awesome readers and watermarked by us are real but otherwise just gave the standard &#8220;we&#8217;re constantly testing new products and features across the site. We have nothing more to share at this time.&#8221; The data could prove that these designs confuse people are reduce or delay logins. That could lead get them scrapped, never to be seen again.</p>
+<p>However, I&#8217;d expect Facebook will debut a more exciting log out page soon, maybe with a rotating set of photos and artwork that appeal to different demographics. For example, instead of  the same photo of a couple for everyone, visitors might see photos of people from their country or part of the world.</p>
+<p></p>
+<p>Along with the very small test of the polygon art, Facebook is showing some users a logged out home page with the <a href="http://techcrunch.com/2012/10/04/facebook-launches-brand-advertising-campaign-aimed-at-users-in-13-countries/">&#8220;Chairs Are Like Facebook&#8221;</a> brand video it released to commemorate <a href="http://techcrunch.com/2012/10/04/facebook-forever/">reaching 1 billion users</a>.</p>
+<p>Facebook started <a href="http://techcrunch.com/2012/02/29/facebook-reveals-reach-generator-to-turn-posts-into-mobile-news-feed-ads-and-logout-page-ads/">jazzing up its logout page</a> in February. It now frequently plasters the exit screen with big banner ads, some of which are interactive like a <a href="http://techcrunch.com/2012/03/02/facebook-logout-bing-search/">Bing search page</a> or an in-line video seen below.</p>
+<p></p>
+<p>If push comes to shove with Wall Street, Facebook may end up putting ads on the logged out home page too. But that doesn&#8217;t give a very good impression to people it&#8217;s trying to convince to sign up or sign in more frequently. The polygon landscape dotted with Likes, chats, friends, and photos is much more inviting.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/-0l-aVY-TpI/">here</a>.

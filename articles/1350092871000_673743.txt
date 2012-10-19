@@ -1,0 +1,12 @@
+{
+"title" : "Sensegon Plans To Improve Ad Targeting Based On Your Personality",
+"date" : "Sat, 13 Oct 2012 01:47:51 +0000",
+"author" : "Anthony Ha"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/sensegon.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="sensegon" title="sensegon" style="float: left; margin: 0 10px 7px 0;" /><p>Adtech companies are trying get better at demographic targeting, <a href="http://techcrunch.com/2012/08/20/mthsense-launch/">especially on mobile</a>, but a startup called <a target="_blank" href="http://www.sensegon.com">Sensegon</a> aims to go a step further — targeting ads based on audience members&#8217; personalities.</p>
+<p>To illustrate the concept, CEO Omer Efrat talks about going to a car dealership with his co-founder and CTO Tal Yaari. Efrat was more interested in engine power, while Yaari was more interested in gas consumption and safety. The salesman, Efrat says, knew intuitively to direct his pitch differently towards the two men. That&#8217;s the kind of intuition that Sensegon is supposed to replicate.</p>
+<p>A normal ad campaign on a site like Facebook could target audience members based on things like age, gender, and location. With Sensegon, you get an additional piece of data — you&#8217;re not just targeting housewives in North Carolina, but also practical women or emotional women. Or you can create one version of an ad that&#8217;s targeting at one set and a second that&#8217;s targeted at another. The company&#8217;s personality types include &#8220;the status seeker,&#8221; &#8220;the emotional,&#8221; &#8220;the explorer,&#8221; and so on.</p>
+<p>To make these kinds of evaluations, Efrati says Sensegon looks at users&#8217; interactions on social networks. The company claims to look at 300 different criteria, and since it doesn&#8217;t rely on semantic analysis or keywords, it&#8217;s language independent.</p>
+<p>Efrati adds that the technology has its origins in academic research. (In fact, the company hired Dr. Shmuel Hirschmann, a behavioristic evaluation expert and former director of mental health services for Israel, as its head of research.) It initially tried to apply the technology to homeland security, before deciding to focus on advertising.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/87X7IbT5WQk/">here</a>.

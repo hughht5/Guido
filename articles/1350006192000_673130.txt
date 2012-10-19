@@ -1,0 +1,12 @@
+{
+"title" : "Co-Working Space Espacio Launches To Turn Medellin Into A Startup Hub",
+"date" : "Fri, 12 Oct 2012 01:43:12 +0000",
+"author" : "Anthony Ha"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/location-where-espacio-is-in-medellin.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Location where ESPACIO is in Medellin" title="Location where ESPACIO is in Medellin" style="float: left; margin: 0 10px 7px 0;" /><p>Got any nominees for the &#8220;Silicon Valley of Latin America&#8221;? If you&#8217;re like me (i.e. ignorant) you&#8217;re probably going &#8220;Um &#8230;&#8221; However, the founders of a new co-working space and &#8220;entrepreneurial center&#8221; called <a target="_blank" href="http://espacio.co">Espacio</a> are aiming to make Medellin, Colombia the answer to that question.</p>
+<p>&#8220;I grew up in Silicon Valley and New York, but even having had spent time there, I have decided to stay in Medellin because I see so much potential in this city,&#8221; says co-founder Conrad Egusa, who also notes that Medellin was one of only two Latin American locations (along with Sao Paulo) to be a finalist in a Wall Street Journal advertorial poll on <a target="_blank" href="http://online.wsj.com/ad/cityoftheyear">the most innovative cities in the world</a>.</p>
+<p>To launch Espacio, Egusa (who I used to work with when we both wrote for VentureBeat) has received a grant from <a target="_blank" href="http://www.go.co/">.CO</a>, the company behind the .co Web domains — including, naturally, <a target="_blank" href="http://espacio.co">Espacio.co</a>. He has also partnered with Founder Institute, the global incubator where he&#8217;s also a mentor.</p>
+<p>Espacio was co-founded by a Colombian, Edinson Alberto Arrieta Aguas, and its advisors include writer and investor Alan Colmenares (another former VentureBeatnik) and entrepreneur Alex Torrenegra. (I recently <a href="http://techcrunch.com/2012/07/09/voicebunny-crowdvoicing/">wrote about Torrenegra&#8217;s startup VoiceBunny</a>.)</p>
+<p>Egusa says he wants to turn Espacio into &#8220;a community for entrepreneurs.&#8221; In addition to desk space, it will offer classes, demo days, marketing and PR advice, and access to a part-time, in-house designer. If you&#8217;re interested in applying, <a target="_blank" href="http://espacio.co/contact/">go here</a>.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/56w9JAhD9J8/">here</a>.

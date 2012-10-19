@@ -1,0 +1,15 @@
+{
+"title" : "iFixit: New iPod Touch Is Way Harder To Repair Than iPhone 5",
+"date" : "Thu, 11 Oct 2012 14:19:38 +0000",
+"author" : "Jordan Crook"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-11-at-10-04-36-am.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-10-11 at 10.04.36 AM" title="Screen Shot 2012-10-11 at 10.04.36 AM" style="float: left; margin: 0 10px 7px 0;" /><p>A brand new <a href="http://techcrunch.com/2012/09/12/apple-outs-5th-generation-ipod-touch-with-4-inch-display-the-thinnest-6-1mm-and-lightest-88g-one-yet/">iPod touch</a> has ascended from the depths of Apple HQ, and as sure as the sun rises in the East and sets in the West, iFixit has <a target="_blank" href="http://www.ifixit.com/Teardown/iPod+Touch+5th+Generation+Teardown/10803/2">torn the thing apart</a> with heat guns and spudgers. If you kindly recall Apple&#8217;s iPhone/iPod/iTunes announcement last month, you know that the fifth-gen iPod touch has quite the spec bump, but unfortunately is more difficult to repair than the fourth generation model.</p>
+<p>In fact, it&#8217;s more difficult to repair than the <a href="http://techcrunch.com/2012/09/22/fly-or-die-iphone-5/">iPhone 5</a>, <a target="_blank" href="http://www.ifixit.com/Teardown/iPhone+5+Teardown/10525/1">by a lot</a>.</p>
+<p>iFixit gave the music player a 3 out of 10 on the repairability scale, compared to the iPhone 5&#8242;s shocking 7 out of 10. For a little perspective, the fifth generation model scored one point less than the <a target="_blank" href="http://www.ifixit.com/Teardown/iPod+Touch+4th+Generation+Teardown/3562/3">fourth generation model</a>, which got a 4 out of 10.</p>
+<p>Apparently dealing with the battery isn&#8217;t all that difficult, which is good news considering battery problems are relatively standard.</p>
+<p>But iFixit says that Apple soldered many of the components together. And to top that off, there are no external screws on the device, but rather clips and adhesive. It&#8217;s a shame considering the iPod update cycle seems generally longer for most users.</p>
+<p>Generally speaking, be careful when handling and try to avoid having to repair it altogether.</p>
+<p>In related news, Apple recently launched a new iPod TV ad called <a href="http://techcrunch.com/2012/10/10/bounce-along-to-apples-latest-ipod-tv-ad/">Bounce</a>, featuring all three updated iPod products, including the touch, nano, and shuffle. Welcome to a world of color.</p>
+<a href="http://techcrunch.com/2012/10/11/ifixit-new-ipod-touch-is-way-harder-to-repair-than-iphone-5/#gallery-672437-2-slideshow">Click to view slideshow.</a>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/jhY3mKLbcdU/">here</a>.

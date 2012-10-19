@@ -1,0 +1,21 @@
+{
+"title" : "Purple Flares Got You Down? CamHoodie Case For iPhone 5 Can Help",
+"date" : "Fri, 12 Oct 2012 15:21:02 +0000",
+"author" : "Jordan Crook"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-12-at-10-43-18-am.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-10-12 at 10.43.18 AM" title="Screen Shot 2012-10-12 at 10.43.18 AM" style="float: left; margin: 0 10px 7px 0;" /><p>Enough&#8217;s been said already about the iPhone 5&#8242;s <a href="http://techcrunch.com/2012/09/26/the-iphone-5s-camera-is-faulty-shows-a-purple-haze/">purple flaring issue</a>. It&#8217;s actually very common for modern-day optics systems, but long-time users aren&#8217;t really used to it.</p>
+<p>So the folks at <a target="_blank" href="http://fotodioxpro.com/index.php/">FotoDiox</a> have brought a fix to the table: the <a target="_blank" href="http://fotodioxpro.com/index.php/camhoodie-lens-hood-case-for-iphone-5-greatly-reduces-purple-lens-flare.html">CamHoodie case for iPhone 5</a>.</p>
+<p>The case greatly reduces the amount of purple lens flare both in stills and capturing video. It&#8217;s relatively simple in design, made of high-grade rubber and plastic.</p>
+<p>Essentially, it&#8217;s a lens hood for the iPhone 5 camera lens, and it &#8220;provide[s] a little cocoon of protection from stray light rays entering the lens elements from the edges of the frame,&#8221; according to the product page.</p>
+<a href="http://techcrunch.com/2012/10/12/purple-flares-got-you-down-camhoodie-case-for-iphone-5-can-help/#gallery-673247-1-slideshow">Click to view slideshow.</a>
+<p>That&#8217;s not to say it resolves the purple haze entirely, but it clearly makes a difference (just check out the videos below).</p>
+<p>The CamHoodie is available for <a target="_blank" href="http://fotodioxpro.com/index.php/camhoodie-lens-hood-case-for-iphone-5-greatly-reduces-purple-lens-flare.html">pre-order now</a> for $24.95, with expected delivery date of October 30. Just in time for Halloween pics.</p>
+<p>Take a look at the difference below:</p>
+<p><strong>Without:</strong><br />
+<span class='embed-youtube' style='text-align:center; display: block;'><iframe class='youtube-player' type='text/html' width='640' height='360' src='http://www.youtube.com/embed/2jfJroyimdc?version=3&#038;rel=1&#038;fs=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' frameborder='0'></iframe></span></p>
+<p><strong>With CamHoodie:</strong><br />
+<span class='embed-youtube' style='text-align:center; display: block;'><iframe class='youtube-player' type='text/html' width='640' height='360' src='http://www.youtube.com/embed/cJohGVnXV_8?version=3&#038;rel=1&#038;fs=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' frameborder='0'></iframe></span></p>
+<p>Just in case you aren&#8217;t caught up, Apple support <a href="http://techcrunch.com/2012/10/01/apple-support-purple-flaring-is-normal-behavior-for-iphone-5-camera/">responded</a> to many purple flare complaints that this was normal and to angle the camera differently. Apple even gave an <a target="_blank" href="http://support.apple.com/kb/TS4436">official response</a>.</p>
+<p>Hooray for the ecosystem!</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/fWJv0di6FBU/">here</a>.

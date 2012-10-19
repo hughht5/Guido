@@ -1,0 +1,13 @@
+{
+"title" : "Divshot Launches In Public Beta, Helping Developers Quickly Turn Mockups Into Usable Code",
+"date" : "Tue, 09 Oct 2012 17:05:43 +0000",
+"author" : "Ryan Lawler"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/divshot-logo.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="divshot-logo" title="divshot-logo" style="float: left; margin: 0 10px 7px 0;" /><p>Developers, rejoice! There&#8217;s now a quick, easy, and inexpensive way to quickly transform front-end user interfaces into usable code on the backend, thanks to <a target="_blank" href="http://divshot.com/">Divshot</a>.</p>
+<p>Los Angeles-based Divshot calls itself an interface builder for web apps. Built on the popular UI framework <a target="_blank" href="http://twitter.github.com/bootstrap/">Bootstrap</a>, the startup provides developers with a WYSIWYG editor that lets them spend less time building wireframes and mockups and more time, you know, developing. According to co-founder Michael Bleigh, the Divshot team created the product, because, as developers, it&#8217;s something they always wished they had had.</p>
+<p>So far, Divshot has had more than 2,000 developers try the product out in private beta, and has more than 9,000 on a waiting list. But it&#8217;s spent the last several weeks fixing bugs, adding features, and getting the product ready for a public beta, which opens today. While in public beta, Divshot users can sign up and try it out for free for 15 days. After that, the startup will charge developers just $9 a month for its product, allowing them to create an unlimited number of projects.</p>
+<p>Bleigh, a partner at web and mobile consultancy <a target="_blank" href="http://www.intridea.com/">Intridea</a>, began work on the project with co-founder Jake Johnson at Startup Weekend Kansas City. The idea received such an overwhelming response from other developers there that the two decided to work on the project full-time.</p>
+<p>They got another big break when they were one of 10 finalists (out of more than 700 applicants) to pitch at <a target="_blank" href="http://www.crowdfunder.com/crowdstart-la">CrowdStart LA</a>. That experience got them in front of Launchpad.LA managing director Sam Teller, who later accepted them into the incubator. So the two packed up and moved to Los Angeles to live the startup life there.</p>
+<p>Now that Divshot is live, the team is starting to raise a seed funding round, and just posted a <a target="_blank" href="https://angel.co/divshot/activity">profile on AngelList</a>.</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/09/divshot/">here</a>.

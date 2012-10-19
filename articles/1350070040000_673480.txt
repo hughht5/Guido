@@ -1,0 +1,14 @@
+{
+"title" : "Netflix Launches Its Windows 8 App",
+"date" : "Fri, 12 Oct 2012 19:27:20 +0000",
+"author" : "Frederic Lardinois"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/netflix_windows8_app.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="netflix_windows8_app" title="netflix_windows8_app" style="float: left; margin: 0 10px 7px 0;" /><p>The Windows 8 Store could sure use a few good apps before the official Windows 8 launch later this month, but at least we&#8217;re seeing a slow trickle of interesting apps from known brands now. One of these is <a target="_blank" href="http://netflix.com">Netflix</a>, which just launched its previously announced Windows 8 app.</p>
+<p>According to a Netflix press release we just received, the app &#8221; was built from the ground up to take advantage of new Windows 8 design principles and video player features.&#8221;</p>
+<p>According to Netflix, the app takes advantage of Windows 8&#8242;s graphics acceleration capabilities, which means the app shouldn&#8217;t tax your CPU and battery too much. Netflix also notes that this &#8220;Windows 8 release is just our first version, and we have more<br />
+updates and ideas in the pipeline for later this fall.&#8221;</p>
+<p><a href="http://techcrunch.com/2012/10/12/netflix-launches-its-windows-8-app/netflix_win8/" rel="attachment wp-att-673496"></a></p>
+<p>The app follows the standard Metro design principles, with a side-scrolling list of your Netflix queue and the usual Netflix categories.</p>
+<p>Indeed, the app is nice example of what a fully realized Windows 8 app should look like, but there are also some interface oddities, too. The main menu, which is presented as a long vertical bar on the left side of the screen, for example, automatically shrinks when you scroll to the right, but it actually covers most of the horizontal scroll bar. That&#8217;s obviously not a deal breaker, but it does show that most developers are still working to figure out how to best use the Windows 8 user interface on the desktop.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/KQbY1Imy5Uo/">here</a>.

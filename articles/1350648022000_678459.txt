@@ -1,0 +1,13 @@
+{
+"title" : "Self-Serve Ad Platform SiteScout Now Has 5,000 Customers, $20M In Revenue",
+"date" : "Fri, 19 Oct 2012 12:00:22 +0000",
+"author" : "Anthony Ha"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/sitescout1.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="sitescout" title="sitescout" style="float: left; margin: 0 10px 7px 0;" /><p>Digital ad startup <a target="_blank" href="http://www.sitescout.com">SiteScout</a> has <a target="_blank" href="https://www.google.com/#hl=en&amp;sclient=psy-ab&amp;q=sitescout&amp;oq=sitescout&amp;gs_l=hp.3..0l4.1002.1894.0.1947.9.8.0.0.0.0.248.785.4j2j1.7.0.les%3B..0.0...1c.1.r3VnVILEaek&amp;pbx=1&amp;bav=on.2,or.r_gc.r_pw.r_qf.&amp;fp=f41b66b96221fbec&amp;bpcl=35466521&amp;biw=1085&amp;bih=558">mostly stayed out of the tech press</a> for the past couple of years, but the company says it has been growing quickly in that time, and now it&#8217;s ready to share some of the numbers around that growth.</p>
+<p>Specifically, SiteScout says that it has now powered 30,000 campaigns for 5,000 advertisers, and that its revenue has grown 375 percent year-over-year compared to 2011. The company isn&#8217;t sharing the actual revenue numbers, but I hear from a source that SiteScout&#8217;s revenue was $20 million for the fiscal year running from the third quarter of 2011 to the same period in 2012.</p>
+<p>(This SiteScout, by the way, is not the same SiteScout that was <a href="http://techcrunch.com/2010/05/25/the-rubicon-project-buys-malware-security-company-sitescout/">acquired by ad company The Rubicon Project</a> back in 2010.)</p>
+<p>SiteScout aims its product at small and medium-sized businesses, offering them a self-serve, demand-side platform for buying banner and video ads on both the web and mobile apps. Features include &#8220;up-to-the-minute&#8221; campaign reports, a relatively small financial commitment (the minimum deposit is $500), fast sign-up (you should be able to get a campaign started in minutes), and access to technologies like retargeting.</p>
+<p>&#8220;Back in 2010, we recognized there was a void in the digital ad-buying space, especially for small to mid-sized advertisers,&#8221; said founder and CEO Paul Mokbel in a press release. &#8220;We built SiteScout to change the industry and make online advertising easier and more accessible to SMBs.&#8221;</p>
+<p>&nbsp;</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/oNdjI9p1HQo/">here</a>.

@@ -1,0 +1,13 @@
+{
+"title" : "Readmill Releases Its New PDF-Enabled App, Outlines Six New Stores",
+"date" : "Tue, 16 Oct 2012 13:12:20 +0000",
+"author" : "Mike Butcher"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/readmill.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="readmill" title="readmill" style="float: left; margin: 0 10px 7px 0;" /><p><a href="http://techcrunch.com/2012/10/02/social-reading-app-readmill-adds-adobe-drm-and-pdf-announces-new-stores/">Last week</a> Social reading iPad app <a target="_blank" href="http://Readmill.com">Readmill</a> announced it planned to put in new support for Adobe DRM-protected ePub and PDF formats, and today you can <a target="_blank" href="http://itunes.apple.com/gb/app/readmill/id438032664?mt=8">grab the updated app</a> with all the new features. Making excerpts from PDFs sharable across Readmill&#8217;s social network of users is bound to widen its appeal beyond books to anything that can be put into a PDF. Plus it will now with Google Play and the Kobo store.</p>
+<p>Readmill has also announced new partnerships with six independent bookstores, each of which has integrated the ‘Send to Readmill’ button at online checkout. That means users can automatically send their ebook purchases direct to their Readmill library, ready to consume and share from. New partner stores will include Efendi Books, Ellibs, Ebookmall, Feedbooks, Lybrary and Hacker Monthly, extending the total number of supporting retailers to around 30. More are expected.</p>
+<p>Readmill’s strategy is not to sign publishers but retailers, thus putting heat on publishers since users will follow the utility of Readmill’s experience. The app allows users to share excerpts and comments on books using a Twitter-like follow model where users can follow books, other users and, crucially, authors. In fact some authors are using Readmill to annotate their own works, providing a richer experience for the reader.</p>
+<p>Prior to these moves Readmill had been an impressive and elegant reading app but it was locked into a complex method of getting books and documents in the ePub format into its application. Kindle or Apple iBooks formats remain locked0 off, but you never know…</p>
+<p>Readmill has declined to comment on user numbers so far, but according to AppData it has a 4 star rating, though hasn&#8217;t hit any app leader boards as yet to our knowledge, reflecting its softly, softly approach.</p>
+<p>Readmill’s staff of 10 is backed by Index Ventures, Passion Capital and Wellington Partners.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/h0KKHvJS5oQ/">here</a>.

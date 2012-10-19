@@ -1,0 +1,28 @@
+{
+"title" : "Sprint’s LG Optimus G Has A Better Camera Than AT&T’s – Here’s How It Performs Hands-On",
+"date" : "Tue, 09 Oct 2012 22:52:30 +0000",
+"author" : "Darrell Etherington"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/dsc00231.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="DSC00231" title="DSC00231" style="float: left; margin: 0 10px 7px 0;" /><p>Sprint is going to be offering LG&#8217;s new Optimus G this fall. The smartphone is LG&#8217;s flagship Android device, and has the specs to own that role, with a Quad-Core 1.5GHz Qualcomm Snapdragon S4 Pro Processor and 4.7-inch, 1280 x 768 pixel display. Back in September, <a href="http://techcrunch.com/2012/09/19/lgs-quad-core-flagship-optimus-g-to-make-u-s-debut-in-q4-we-go-hands-on/">Chris went hands-on with the international version</a>, and today at CTIA MobileCon we took the Sprint version for a spin.</p>
+<p>The Sprint version boasts the same camera as its international cousin, a 13-megapixel monster that outdoes the 8-megapixel version on the AT&amp;T iteration of the phone. As you can see below, the extra pixels capture a lot of detail, but I still think colors in general look more washed out than on competing devices like the iPhone 5, despite the extra resolution. Photos look great on the device&#8217;s own screen, however, due in part to the 318 ppi display.</p>
+<p>The hardware on Sprint&#8217;s version is consistent with others, meaning a plastic case that&#8217;s screwed to the front faceplate, an unusual design choice for Android handsets that normally feature a pop-off back and more easily accessible battery. Still, the design choice works in the Optimus G&#8217;s favor – construction feels solid despite primarily plastic materials, and the weight of the phone overall feels very satisfying in the hand. Buttons are kept to a minimum, with only three total sticking out from the device (volume up/down and power). The minimalist approach is nice, keeping the overall look satisfyingly spare.</p>
+<p>Despite running Android 4.0.4, instead of Jelly Bean, the Sprint LG Optimus G felt very snappy. Transitions between screens and apps were butter-smooth, and there wasn&#8217;t any kind of lag I could detect in any applications I tried out. The phone is no doubt taking full advantage of its quad-core processing power to make that happen. And speaking of processors, LG has included an eco mode to maximize battery life over power to get the most out of the phone&#8217;s 2,100 mAh battery, which LG says can provide up to 13 hours of talk time.</p>
+<p>All told, this is a powerful, solid option in the Android field. Is it a particularly exciting one? That&#8217;s up for debate. Check out the gallery below for more on this device, including sample shots taken with the smartphone&#8217;s camera.
+<a href='http://techcrunch.com/2012/10/09/sprints-lg-optimus-g-has-a-better-camera-than-atts-heres-how-it-performs-hands-on/dsc00227/' title='DSC00227'></a>
+<a href='http://techcrunch.com/2012/10/09/sprints-lg-optimus-g-has-a-better-camera-than-atts-heres-how-it-performs-hands-on/dsc00229/' title='DSC00229'></a>
+<a href='http://techcrunch.com/2012/10/09/sprints-lg-optimus-g-has-a-better-camera-than-atts-heres-how-it-performs-hands-on/dsc00230/' title='DSC00230'></a>
+<a href='http://techcrunch.com/2012/10/09/sprints-lg-optimus-g-has-a-better-camera-than-atts-heres-how-it-performs-hands-on/dsc00231/' title='DSC00231'></a>
+<a href='http://techcrunch.com/2012/10/09/sprints-lg-optimus-g-has-a-better-camera-than-atts-heres-how-it-performs-hands-on/dsc00232/' title='DSC00232'></a>
+<a href='http://techcrunch.com/2012/10/09/sprints-lg-optimus-g-has-a-better-camera-than-atts-heres-how-it-performs-hands-on/dsc00233/' title='DSC00233'></a>
+<a href='http://techcrunch.com/2012/10/09/sprints-lg-optimus-g-has-a-better-camera-than-atts-heres-how-it-performs-hands-on/dsc00234/' title='DSC00234'></a>
+<a href='http://techcrunch.com/2012/10/09/sprints-lg-optimus-g-has-a-better-camera-than-atts-heres-how-it-performs-hands-on/dsc00238/' title='DSC00238'></a>
+<a href='http://techcrunch.com/2012/10/09/sprints-lg-optimus-g-has-a-better-camera-than-atts-heres-how-it-performs-hands-on/dsc00239/' title='DSC00239'></a>
+<a href='http://techcrunch.com/2012/10/09/sprints-lg-optimus-g-has-a-better-camera-than-atts-heres-how-it-performs-hands-on/dsc00241/' title='DSC00241'></a>
+<a href='http://techcrunch.com/2012/10/09/sprints-lg-optimus-g-has-a-better-camera-than-atts-heres-how-it-performs-hands-on/dsc00243/' title='DSC00243'></a>
+<a href='http://techcrunch.com/2012/10/09/sprints-lg-optimus-g-has-a-better-camera-than-atts-heres-how-it-performs-hands-on/dsc00244/' title='DSC00244'></a>
+<a href='http://techcrunch.com/2012/10/09/sprints-lg-optimus-g-has-a-better-camera-than-atts-heres-how-it-performs-hands-on/cam00012/' title='CAM00012'></a>
+<a href='http://techcrunch.com/2012/10/09/sprints-lg-optimus-g-has-a-better-camera-than-atts-heres-how-it-performs-hands-on/cam00013/' title='CAM00013'></a>
+<a href='http://techcrunch.com/2012/10/09/sprints-lg-optimus-g-has-a-better-camera-than-atts-heres-how-it-performs-hands-on/cam00014/' title='CAM00014'></a>
+</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/09/sprints-lg-optimus-g-has-a-better-camera-than-atts-heres-how-it-performs-hands-on/">here</a>.

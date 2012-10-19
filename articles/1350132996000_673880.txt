@@ -1,0 +1,17 @@
+{
+"title" : "Amazon Acknowledges Uneven Lighting On The Kindle Paperwhite",
+"date" : "Sat, 13 Oct 2012 12:56:36 +0000",
+"author" : "Matt Burns"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/img_0861.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="img_0861" title="img_0861" style="float: left; margin: 0 10px 7px 0;" /><p>The Kindle Paperwhite is an amazing ereader. It&#8217;s arguably the best on the market. But it&#8217;s not flawless. Some users, including several TechCrunch writers, noticed the lighting on their Paperwhite is not evenly spaced, resulting in odd, slightly distracting gaps at the bottom of the screen (see the pic). </p>
+<p>Well, in a recent statement, Amazon stepped up to the plate and addressed this lighting issue as well as reaffirming the Paperwhite model has less storage than its predecessor and lacks text-to-speech. Even with these, let&#8217;s say design decisions, the Kindle Paperwhite is a fantastic ereader. As John states out in <a href="http://techcrunch.com/2012/09/30/paperwhite-kindle-review/">our official review</a>, it&#8217;s a reader&#8217;s dream.</p>
+<p><a target="_blank" href="http://www.amazon.com/gp/feature.html/ref=amb_link_365797822_1?ie=UTF8&amp;docId=1000841011&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_s=center-6-2&amp;pf_rd_r=1FMBDY8J8P01JG7V8FHB&amp;pf_rd_t=201&amp;pf_rd_p=1404554782&amp;pf_rd_i=B007OZNZG0">Full statement</a>, </p>
+<blockquote><p>We want you to know&#8230;</p>
+<p>Kindle Paperwhite is the best Kindle we&#8217;ve ever made by far, but there are certain limitations and changes from prior generations that we want you to know about.</p>
+<p>Kindle Paperwhite does not have audio or Text-to-Speech. This makes the device smaller and lighter than it would otherwise be. Audio and an improved Text-to-Speech engine are supported on Kindle Fire and Kindle Fire HD. </p>
+<p>Under certain lighting conditions, the illumination at the bottom of the screen from the built-in light is not perfectly even. See examples of how the screen looks in different lighting conditions. These variations are normal and are located primarily in the margin where text is not present. The illumination is more even than that created by a book light or lighted cover. The contrast, resolution and illumination of the Paperwhite display is a significant step-up from our prior generation. </p>
+<p>The Kindle Paperwhite has 2 GB of storage. Some previous Kindle models had 4GB of storage. 2GB allows you to hold up to 1,100 books locally on your device. In addition, your entire Kindle library is stored for free in the Amazon cloud, and you can easily move books from the cloud onto your device.</p>
+<p>Thank you, and we hope you enjoy Kindle Paperwhite.<br />
+- The Kindle Team</p></blockquote>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/aX6mIRMK7Dc/">here</a>.

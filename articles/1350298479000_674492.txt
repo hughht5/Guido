@@ -1,0 +1,13 @@
+{
+"title" : "Microsoft’s New Windows 8 Commercial Has Lift-Off",
+"date" : "Mon, 15 Oct 2012 10:54:39 +0000",
+"author" : "John Biggs"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/image1.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="image1" title="image1" style="float: left; margin: 0 10px 7px 0;" /><span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/10/15/microsofts-new-windows-8-commercial-has-lift-off/"></a></span>
+<p><a href="http://techcrunch.com/2012/08/20/usability-expert-production-and-multitasking-are-still-best-suited-for-pcs-windows-8-appears-to-ignore-that/">Is it a cognitive burden</a> or <a href="http://techcrunch.com/2012/10/14/windows-8-isnt-half-as-bad-as-you-think-it-is/">much better than you think?</a> While I&#8217;m going to side with both camps &#8211; I think Windows 8 is going to confuse a hell of a lot of people and make a lot of people happy &#8211; the real test is for Microsoft to sell this thing to the average consumer.</p>
+<p>So here it is: the first Windows 8 commercial. Set to the tune of the Eagles of Death Metal&#8217;s &#8220;Only Want You,&#8221; the commercial is reminiscent of the original &#8220;Start Me Up&#8221; commercials that launched Windows 95: a driving beat, a focus on a brand new UI paradigm, and a lot of happy people doing good work.</p>
+<p>Is it the commercial we need right now? Perhaps it is. By focusing on people using the OS and not the jarring square elements of the UI-formerly-known-as-Metro, Microsoft can almost &#8220;hide&#8221; the potential changes from users while couching the experience in terms of novelty and excitement. I would wager &#8211; and I might be wrong &#8211; that the vast majority of Windows users are only tangentially aware of the changes afoot. This is both good and bad for Microsoft, and this commercial plays to those who may not be informed but are willing to try something fun and new and, most importantly, mobile &#8211; hence the use of Fruit Ninja, a popular mobile game, as a prominent launch title. In short, they&#8217;re turning the desktop OS into a mobile OS and hoping people will play along. It will work, but uptake will be slow.</p>
+<p>Semiotics aside, that&#8217;s a pretty kick ass song.</p>
+<span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/10/15/microsofts-new-windows-8-commercial-has-lift-off/"></a></span>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/Pp6qwVOOK10/">here</a>.

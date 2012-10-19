@@ -1,0 +1,16 @@
+{
+"title" : "YouTube Goes Down For A Few Minutes, Bored Blogger Writes 50 Words Or So About It",
+"date" : "Thu, 18 Oct 2012 20:25:16 +0000",
+"author" : "Ryan Lawler"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/05/youtube.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="youtube" title="youtube" style="float: left; margin: 0 10px 7px 0;" /><p>I bet Google is having a worse day than you are. First it was its <a href="http://techcrunch.com/2012/10/18/googles-stock-takes-a-dive-after-mid-day-earnings-release-trading-halted/">earnings being leaked by its printer</a>. Then it was a <a href="http://techcrunch.com/2012/10/18/chromebook-samsung-249/">product announcement that leaked</a> before its planned embargo time. And later in the day, YouTube went down for about 5-10 minutes at around 4:15 to 4:20 PM Eastern.* That was right before Google&#8217;s earnings call, which was hosted on &#8212; yep, you guessed it &#8212; YouTube. </p>
+<p><strong>Update:</strong> Annnnnndddddd&#8230; It&#8217;s back. I want to thank all my coworkers for alerting me after I published but before I managed to dig in too deeply. </p>
+<p><strong>Update 2:</strong> YouTube has issued the following statement: &#8220;Some users encountered errors, or a slower than normal experience on YouTube today. Our engineers worked quickly to address the issue and fixed the problem within minutes. We&#8217;re sorry for any inconvenience this caused our users.&#8221; </p>
+<p>Glad to hear that there were engineers after all, and not trained monkeys, working on bringing YouTube back.</p>
+<p><strong>Update 3:</strong> Approximate outage times thanks to network monitoring firm Apica. </p>
+<p>For those who care, this is what it looked like:</p>
+<p><a href="http://techcrunch.com/2012/10/18/youtube-goes-down-adding-to-googles-no-good-rotten-very-bad-day/screen-shot-2012-10-18-at-1-22-39-pm/" rel="attachment wp-att-678262"></a></p>
+<p>And to prove I wasn&#8217;t the only one:</p>
+<p><a href="http://techcrunch.com/2012/10/18/youtube-goes-down-adding-to-googles-no-good-rotten-very-bad-day/screen-shot-2012-10-18-at-1-33-06-pm/" rel="attachment wp-att-678272"></a></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/yNZlS324wyg/">here</a>.

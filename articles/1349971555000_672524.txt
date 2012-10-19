@@ -1,0 +1,15 @@
+{
+"title" : "Google Launches A New Zagat App For Android",
+"date" : "Thu, 11 Oct 2012 16:05:55 +0000",
+"author" : "Frederic Lardinois"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/zagat.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="zagat" title="zagat" style="float: left; margin: 0 10px 7px 0;" /><p>Google just <a target="_blank" href="http://blog.zagat.com/2012/10/find-local-favorites-with-zagat-app-for.html">gave</a> the old-school dining guide <a target="_blank" href="http://zagat.com">Zagat</a>, which it acquired last September, a <a target="_blank" href="https://play.google.com/store/apps/details?id=com.google.zagat&amp;feature=search_result#?t=W251bGwsMSwyLDEsImNvbS5nb29nbGUuemFnYXQiXQ..">brand new (and free) Android app</a>. The new app is available for free and, according to Google, was &#8220;re-built from the ground up.&#8221; The old paid Zagat app for Android has been <a target="_blank" href="http://www.tnooz.com/2012/09/24/news/zagat-drops-paid-apps-will-it-drop-quality-as-well/">discontinued</a> and will stop functioning on October 15, 2012. To use the new app, users are required to have a Google+ account.</p>
+<p>In total, the app gives users access to reviews of about 30,000 restaurants and lets you filter your searches by cuisines, Zagat scores, cost and dining features like outdoor seating. Users can also post reviews right from the app. Public reviews that you post from the app will appear on Google+ local, either under your full name or as &#8220;A Zagat User,&#8221; depending on your preferences.</p>
+<p>The new app, Google also notes, was optimized for 10-inch and 7-inch Android tablets.</p>
+<p><a href="http://techcrunch.com/2012/10/11/google-launches-a-new-zagat-app-for-android/zagatapp/" rel="attachment wp-att-672542"></a></p>
+<p>Earlier versions of the Zagat app cost around $10, while the new app is free. Users who paid for the old app are <a target="_blank" href="http://www.zagat.com/mobile">eligible</a> to receive a free (printed) Zagat guide.</p>
+<p>Zagat, which wasn&#8217;t exactly known for being tech savvy before the acquisition, published its previous mobile apps for Android and iOS through partners like Handmark. The iOS app is also scheduled to expire by the beginning of next week and Google will likely launch a new iOS app by that time as well, though <a target="_blank" href="http://www.zagat.com/mobile">Zagat&#8217;s website</a> doesn&#8217;t currently list any iOS apps in its mobile section.</p>
+<p>Given the deep integration between Google+ Local, Google Maps and Zagat, as well as the fact that Google offers virtually the same feature set (and Zagat ratings) in the &#8216;Local&#8217; section of the Google+ app, it&#8217;s interesting to see that Google is still keeping these standalone Zagat apps alive.</p>
+<p><em>(hat tip: <a target="_blank" href="https://plus.google.com/u/0/106226439354629484339/posts/BdrPt8AB3fR">#googleplusupdates</a>)</em></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/OkWzxA1ZsQk/">here</a>.

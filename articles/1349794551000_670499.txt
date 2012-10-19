@@ -1,0 +1,11 @@
+{
+"title" : "Sprout Social Adds New Team And Workflow Features To Social Media Management Platform",
+"date" : "Tue, 09 Oct 2012 14:55:51 +0000",
+"author" : "Leena Rao"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/sprout-social.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="sprout-social" title="sprout-social" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://sproutsocial.com/">Sprout Social</a>, a social management and publishing tool suite, is introducing new team and workflow features to its management console. The Chicago-based startup also hit a few milestones—Sprout Social added its 10,000th customer and is processing 30 million customer interactions per month.</p>
+<p>Sprout, <a href="http://techcrunch.com/2010/08/26/sprout-social-debuts-social-media-management-platform-for-businesses/">founded</a> in 2010, offers users tools for social media monitoring and engagement, a “smart inbox” that combines social feeds, collaborative tools and analytics, among other features.</p>
+<p>Sprout Social manages social media relationships between its customers and more than 100 million consumers, and is processing more than 30 million inbound messages per month for customers like McDonald’s, Yammer, AMD, Pepsi and Twilio.</p>
+<p>Sprout Social&#8217;s recent feature additions are shared customer history records, and team workflow and customer service tools including recent integrations with Zendesk, UserVoice. The company&#8217;s CEO Justyn Howard explains that the ability to allow multiple team members to work on a social media issue is more important now than ever. Where 2-3 person teams were managing social channels a year ago, Sprout now sees teams of dozens performing the same tasks.</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/09/sprout-social-adds-new-team-and-workflow-features-to-social-media-management-platform/">here</a>.

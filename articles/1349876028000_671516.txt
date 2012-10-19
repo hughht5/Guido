@@ -1,0 +1,21 @@
+{
+"title" : "Google Cultural Institute Adds 42 Exhibitions: Brings Stories Of D-Day, Apartheid, Holocaust Online",
+"date" : "Wed, 10 Oct 2012 13:33:48 +0000",
+"author" : "Sarah Perez"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/dday-1944.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="dday-1944" title="dday-1944" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.google.com/culturalinstitute">Google&#8217;s Cultural Institute</a> expanded its work with museums, foundations and other archives to bring online 42 new historical exhibitions which help tell the stories of several major events taking place over the past century. Working with 17 partners on this latest effort, the online exhibitions debuting today include stories of Apartheid, D-Day, and the Holocaust told through letters, photos, video and other documents.</p>
+<p>The exhibitions are housed at the Cultural Institute&#8217;s website, which is where Google organizes and features these historical and immersive collections of manuscripts, old photographs, artifacts, and videos related to historical events. As with Google&#8217;s efforts to digitize the <a target="_blank" href="http://googleblog.blogspot.nl/2011/09/from-desert-to-web-bringing-dead-sea.html">Dead Sea Scrolls</a>, you can zoom in and out on the photos on the site as well as search across the archive for specific persons, places, events or dates.</p>
+<p>Today&#8217;s new additions include the following, Google <a target="_blank" href="http://googleblog.blogspot.com/2012/10/bringing-history-to-life.html">announced</a> via blog post this morning:</p>
+<ul>
+<li><a target="_blank" href="http://www.google.com/culturalinstitute/#!exhibit:exhibitId=gRatYvcU">Tragic love at Auschwitz</a> - the story of Edek &amp; Mala, a couple in love who try to escape Auschwitz</li>
+<li><a target="_blank" href="http://www.google.com/culturalinstitute/#!exhibit:exhibitId=QR_UaCtP">Jan Karski, Humanity’s hero</a> - first-hand video testimony from the man who attempted to inform the world about the existence of the Holocaust</li>
+<li><a target="_blank" href="http://www.google.com/culturalinstitute/#!exhibit:exhibitId=wQm-K2dy">Faith in the Human Spirit is not Lost</a> - tracing the history of Yad Vashem’s efforts to honor courageous individuals who attempted to rescue Jews during the Holocaust</li>
+<li><a target="_blank" href="http://www.google.com/culturalinstitute/#!exhibit:exhibitId=AQq1-VUP">Steve Biko</a> - a 15-year-old’s political awakening in the midst of the Apartheid movement featuring nine documents never released in the public domain before</li>
+<li><a target="_blank" href="http://www.google.com/culturalinstitute/#!exhibit:exhibitId=gQcirO57">D-Day</a> - details of the famous landings including color photographs, personal letters and the D-Day order itself from Admiral Ramsay</li>
+<li><a target="_blank" href="http://www.google.com/culturalinstitute/#!exhibit:exhibitId=QRV1Gj9m&amp;position=0%2C-1">The Coronation of Queen Elizabeth II</a> - an account of the 1953 Coronation including color photographs</li>
+<li><a target="_blank" href="http://www.google.com/culturalinstitute/#!exhibit:exhibitId=gRN8jY1y">Years of the Dolce Vita</a> - a look at the era of the “good life” in Italy including the fashion, food, cars and culture</li>
+</ul>
+<p>Google has a history of working with museums to expand its own content archives. This summer, the company announced it would offer <a href="http://techcrunch.com/2012/07/10/google-adds-20-museums-to-indoor-google-maps-says-more-on-the-way/">indoor Google Maps</a> for dozens of museums across the U.S., for example. It also offers <a target="_blank" href="http://www.googleartproject.com/">Google Art Project</a>, which allows visitors to virtually explore art from museums around the world through high-res photos.</p>
+<span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/10/10/google-cultural-institute-adds-42-exhibitions-brings-stories-of-d-day-apartheid-holocaust-online/"></a></span>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/o9U53IX3kuM/">here</a>.

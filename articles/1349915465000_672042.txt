@@ -1,0 +1,18 @@
+{
+"title" : "Nokia’s Not-So-Shy Lumia 822 Caught On Camera Clad In Verizon Branding",
+"date" : "Thu, 11 Oct 2012 00:31:05 +0000",
+"author" : "Chris Velazco"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/822-3.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="822-3" title="822-3" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/10/822-3.jpg" rel="lightbox[672042]"></a><br />
+AT&amp;T and T-Mobile have already pulled back the curtains (well, mostly) on their stock of Nokia Lumia Windows Phones, but rival carrier Verizon has remained awfully quiet on the matter. That may soon change though, as a pair of <a target="_blank" href="http://wmpoweruser.com/verizon-nokia-lumia-822-real-life-pictures-leak/">newly leaked images</a> point to the existence of a Lumia 820 variant meant for Verizon’s airwaves.</p>
+<p>As you’d expect, the device — which <a target="_blank" href="http://wmpoweruser.com/verizon-nokia-lumia-822-real-life-pictures-leak/">WMPowerUser</a>’s tipster refers to as the Lumia 822 — reportedly packs the same WVGA display and 8-megapixel rear camera that its cousin the 820 does, and there’s a strong chance that internals remain similarly unchanged. That tell-tale stamp on the 822’s butt means the device is also meant to play nice with Verizon’s 4G LTE network as well, though that’s really not much of a surprise.</p>
+<p>Nokia has clearly taken some liberties with regard to industrial design here, as the 822 appears to be a much rounder affair and the other 800 series Windows Phones the Finnish company has signed off on. Thankfully, it doesn’t seem quite as thick as the downright brick-like Lumia 810 that T-Mobile recently laid claim to. It&#8217;s also worth noting that the model number attached to the device seems like a peculiar choice for a Lumia, but it’s not like Nokia doesn&#8217;t throw the occasional numerical curveball.</p>
+<p>Perhaps naturally, this is isn’t the first time Verizon’s Lumia has been spotted. This whole sordid turn of events began earlier this week, when the notorious leaker(s) behind the <a target="_blank" href="https://twitter.com/evleaks/status/255563196017025024/photo/1">@evleaks</a> Twitter account distributed a render of the Verizon-bound Windows Phone (codenamed “Atlas”) for all to see, and it just so happens these new leaked photos match up quite nicely. Of course, a render can only tell you so much. Hell, even with these new images to consider, a number of the Lumia 822’s particulars still can’t be discern with any real degree of certainty. For now we&#8217;ll just have to wait until Verizon comes clean on this little guy&#8217;s existence &#8212; or for some new leaks to blow everything wide open.</p>
+
+<a href='http://techcrunch.com/2012/10/10/nokia-lumia-822-verizon-leak/822-3/' title='822-3'></a>
+<a href='http://techcrunch.com/2012/10/10/nokia-lumia-822-verizon-leak/822-2/' title='822-2'></a>
+<a href='http://techcrunch.com/2012/10/10/nokia-lumia-822-verizon-leak/822-1/' title='822-1'></a>
+<a href='http://techcrunch.com/2012/10/10/nokia-lumia-822-verizon-leak/822-4/' title='822-4'></a>
+
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/6IG5YU4Yanw/">here</a>.

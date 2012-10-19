@@ -1,0 +1,24 @@
+{
+"title" : "Twitter’s Lame Attitude To A Startupper’s Hijacked Account Could Be The Tip Of The Iceberg",
+"date" : "Thu, 11 Oct 2012 13:33:22 +0000",
+"author" : "Mike Butcher"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/before-yung-hack.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="before yung hack" title="before yung hack" style="float: left; margin: 0 10px 7px 0;" /><p>Twitter&#8217;s CEO may <a target="_blank" href="http://www.nytimes.com/2012/10/07/technology/dick-costolo-of-twitter-an-improv-master-writing-its-script.html?_r=1&amp;pagewanted=all">well be a former comedian</a>, but the many people who suffer the harsh experience of having their Twitter account hijacked surely think it no laughing matter.</p>
+<p>I&#8217;ve been following the case of <a target="_blank" href="http://www.linkedin.com/in/jennyejung">Jenny Jung</a>, a startup co-founder in Berlin who had her <a target="_blank" href="http://twitter.com/jung">Twitter account hacked</a> into and stolen six days ago. Jung is one of the key people putting together a massive new startup space in Berlin called <a target="_blank" href="http://FactoryBerlin.com">Factory Berlin</a>.</p>
+<p>Given Twitter&#8217;s size &#8211; 140 million users &#8211; it&#8217;s unlikely that her case is isolated. There are bound to be many others out there who have woken up to find, somehow, that their account has been hijacked. But Twitter&#8217;s &#8216;shrug shoulders&#8217; reaction to her plight has me worried.</p>
+<p>When her account was hacked (it had a strong password and it was not done via an email reset) she did what most people do and posted on Facebook that people should not think she had gone crazy. That whoever had her account &#8211; it looked like some teenager &#8211; was definitely not speaking for her.</p>
+<p>Worse &#8211; they now had access to her Direct Messages history. To say that you would feel violated is an understatement.</p>
+<p>The nightmare started six days ago when she was sent an email from Twitter saying there had been odd activity on her account. Moments later she got an email saying her account password had been changed.</p>
+<p>Initially she was not even able to register a support ticket because the email address on the account had been changed. She eventually managed to get one and was told the matter had been escalated, but still nothing has happened. Six days later her account still has not been handed back to her, despite enormous evidence that it&#8217;s been hacked.</p>
+<p>Here&#8217;s her account before the hack:</p>
+<p></p>
+<p>And here&#8217;s the account afterwards:</p>
+<p></p>
+<p>Because of her position in the startup world, I&#8217;ve also done my best to alert Twitter&#8217;s people that this has happened. But still nothing has been done.</p>
+<p>Now, if this is Twitter&#8217;s reaction to the plight of someone so well connected in the tech industry, imagine what is happening with the thousands of people who have no idea how to retrieve a stolen account? This must surely be happening hundreds of times a day.</p>
+<p>We&#8217;ve checked out how the issue may have happened. You used to be able to control some settings via actual tweets such as tweeting &#8220;url http://newurl.com&#8221; and it would update your bio url. These actions <a target="_blank" href="https://support.twitter.com/articles/14020-twitter-sms-commands">are left over from the old SMS-driven days of Twitter</a>.</p>
+<p>Another option may be that her account was &#8216;phished&#8217; in some way via a rogue app connected to it. At any rate, it&#8217;s clear Twitter has a problem which needs to be fixed.</p>
+<p>Twitter has become one of those things that people just can&#8217;t really live without, not unlike Facebook. It&#8217;s introduction of vanity URLs a few years ago, set the touch-paper alight on how we think of ourselves in terms of identity. To have a Twitter handle of your own is to have real estate on the Internet and an identity many people hold dear. Twitter has also become a vital method of communication.</p>
+<p>It&#8217;s clearly unsettling that all this can be so easily taken away.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/Sbi-D9jFXrI/">here</a>.

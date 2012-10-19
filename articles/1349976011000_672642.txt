@@ -1,0 +1,15 @@
+{
+"title" : "Amazon Releases Kindle’s Lending Library In UK, Germany, France With 200,000 Books, Increases KDP Royalty Fund",
+"date" : "Thu, 11 Oct 2012 17:20:11 +0000",
+"author" : "Romain Dillet"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/07/amazon-logo.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Amazon-logo" title="Amazon-logo" style="float: left; margin: 0 10px 7px 0;" /><p>Amazon continues to roll out its content offerings in Europe. Soon, Amazon Prime members will be able to borrow books from the Kindle owners&#8217; lending library. 200,000 books are available at the time of this writing. Amazon will increase the KDP Select program fund to catch up with the increase of demand in book lending.</p>
+<p>According to Amazon, authors who choose to enroll in the Kindle Direct Publishing program and skip the publisher step earns <a href="http://techcrunch.com/2012/08/28/amazons-kindle-only-titles-downloaded-over-100m-times/">77 percent more</a> royalties on average than other authors.</p>
+<p>Like in the U.S., Harry Potter e-books will be available in the lending library. In October, the KDP select fund has been increased by $100,000 to $700,000. Amazon hints at another increase coming in November. Every time a book is borrowed, the author earns on average $2.29.</p>
+<p>Over the past couple of months, Amazon has been trying to bring its ecosystem to Europe ahead of <a href="http://techcrunch.com/2012/09/11/the-kindle-fire-hd-is-amazons-lean-mean-content-selling-machine/">Kindle Fire HD</a>&#8216;s release. Amazon makes little or no money on hardware devices and hopes that customers will actually use the device and buy content.</p>
+<p>When it comes to book lending, other companies have been trying to move away from the traditional buying model for ebooks. For example, <a href="http://techcrunch.com/2012/10/10/oyster-raises-3-million-from-founders-fund-to-finally-create-an-unlimited-subscription-service-for-books/">Oyster</a> is trying to bring the unlimited subscription model to e-books, with community and curation features.</p>
+<p>Yet, the lending library launched last year without any of the big six publishers in the U.S. Most of the books available to lend are self-published books. Some restrictions apply as well. For example, you can only read one book at a time. But when you are a Prime subscriber, it&#8217;s a nice addition.</p>
+<p>The lending library will be available the U.K., Germany and France at the end of October.</p>
+<p></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/sx8pWfPYh8Y/">here</a>.

@@ -1,0 +1,13 @@
+{
+"title" : "PayPal Debuts New National Marketing Campaign Featuring Actor Jeff Goldblum",
+"date" : "Mon, 15 Oct 2012 16:00:01 +0000",
+"author" : "Leena Rao"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/paypal.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="paypal" title="paypal" style="float: left; margin: 0 10px 7px 0;" /><p>Payments giant PayPal is going through a transition. New President David Marcus has been <a href="http://techcrunch.com/2012/10/07/ebay-battles-back-with-mobile-local-personalization-and-a-more-streamlined-paypal/">trying to reinvent the company</a>, restructuring product strategy and more. There are even <a target="_blank" href="http://www.bloomberg.com/news/2012-10-12/paypal-said-to-be-cutting-as-many-as-400-jobs.html">reports of layoffs,</a> as Marcus is overhauling the organization. Today, the company is debuting its first ever national marketing campaign featuring actor Jeff Goldblum. You can view the campaign <a target="_blank" href="https://www.paypal-promo.com/onewaytopay/">here.</a></p>
+<p>As PayPal spokesperson Anuj Nayar explained to me, Marcus is focused on two things at the moment: PayPal&#8217;s customers and iterating on the actual payments product. Many of the changes with the product itself involve becoming for user-friendly and customer focused.</p>
+<p>This campaign aims to spread the message that PayPal doesn&#8217;t just offer one way to pay—the platform gives users the option of online, mobile and in-store payments. The ads, which will be featured in online placements in the U.S., feature Goldblum talking about all the ways you can use PayPal and its advantages. The clips are short, around 30-seconds each.</p>
+<p>As Nayar <a href="http://techcrunch.com/2012/10/12/paypal-do-not-call-us-a-mobile-payments-company/">wrote in a blog post</a> last week, the company doesn’t want to be pigeonholed into being just a mobile payments company. And PayPal wants consumers to know they don&#8217;t need to adopt a new technology, because they can use their existing PayPal accounts for payments.</p>
+<p>&#8220;The PayPal of today is different from that a few years ago and it was time to educate consumers on the ways that PayPal can be used and how the technology can make their lives easier, &#8221; explained Nayar in an interview. He says that the campaign is the start of the holiday shopping push.</p>
+<p>We should also be seeing new usage numbers and data for PayPal this week as eBay announces Q3 earnings on Wednesday.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/xuw5G_5ZoX0/">here</a>.

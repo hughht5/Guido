@@ -1,0 +1,12 @@
+{
+"title" : "Sprint Confirms Talks With Japanese Wireless Carrier Softbank Corp",
+"date" : "Thu, 11 Oct 2012 15:17:00 +0000",
+"author" : "Jordan Crook"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/sprintblack.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="sprintblack" title="sprintblack" style="float: left; margin: 0 10px 7px 0;" /><p>Sprint has confirmed that it is, in fact, <a target="_blank" href="http://www.techmeme.com/121011/p13#a121011p13">in talks with Japanese mobile carrier Softbank</a>. The <a target="_blank" href="http://www.reuters.com/article/2012/10/11/us-sprint-softbank-idUSBRE89A0I520121011">news leaked</a> earlier today that Softbank may be making a $12.8 billion investment in Sprint, which &#8220;could involve a change of control of Sprint,&#8221; according to the official statement.</p>
+<p>Here&#8217;s the <a target="_blank" href="http://newsroom.sprint.com/article_display.cfm?article_id=2414">official word</a> from Sprint:</p>
+<blockquote><p>Sprint (NYSE: S) today confirmed that it is currently engaged in discussions with Softbank regarding a potential substantial investment by Softbank in Sprint. Although there can be no assurances that these discussions will result in any transaction or on what terms any transaction may occur, such a transaction could involve a change of control of Sprint. Sprint does not intend to comment further unless and until an agreement is reached.</p></blockquote>
+<p>Reuters sources claim that Softbank is talking to various banks to finance a bid. Clearly, Sprint has declined to comment on any specific number, but if that $12.8 billion figure holds true, Softbank would be taking over two-thirds of the company.</p>
+<p><em>Developing&#8230;</em></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/FtQz9GnvRqY/">here</a>.

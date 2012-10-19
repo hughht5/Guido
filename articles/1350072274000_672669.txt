@@ -1,0 +1,21 @@
+{
+"title" : "Academia.Edu Overhauls Profiles As The Onus Falls On Researchers To Manage Their Personal Brands",
+"date" : "Fri, 12 Oct 2012 20:04:34 +0000",
+"author" : "Kim-Mai Cutler"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/academia-profile.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="academia-profile" title="academia-profile" style="float: left; margin: 0 10px 7px 0;" /><p><a href="http://techcrunch.com/2012/10/12/academia-edu-profiles/academia-profile/" rel="attachment wp-att-672737"></a></p>
+<p>Even though it&#8217;s taken for granted that you have to manage your own personal brand on the web, that still isn&#8217;t necessarily the case in the slower-moving world of academia.</p>
+<p>But it&#8217;s starting to happen, with individual brands beginning to eclipse the importance of being published in a well-known (and often exorbitantly expensive) journal.</p>
+<p><a target="_blank" href="http://academia.edu/">Academia.edu</a>, a social network for professors and researchers, is taking advantage of this <a target="_blank" href="http://blog.academia.edu/post/33367449879/academia-edu-launches-new-profile-page">by overhauling its profile pages</a>.</p>
+<p>The company&#8217;s CEO Richard Price says that academics are starting to want more of a direct connection with their audiences. So Academia.edu&#8217;s new profiles let researchers showcase their best work and track analytics on views and followers.</p>
+<p>Academics can now organize their research into different sections with places for published papers, drafts, book reviews and conference presentations. There&#8217;s also a new bio box at the top of the profile where they can show key career achievements. In addition, there is a section where they can link to their profiles on other sites like LinkedIn or Twitter.</p>
+<p>This all sounds very basic, like a standard set of features you&#8217;d expect in any consumer-facing web or mobile product today. But career advancement in a university or research setting is still very much tied to where you publish, not how much or how influential a following you have on a social network.</p>
+<p>&#8220;We&#8217;re shifting away from a world where the journal industry sits between the academic and the audience,&#8221; Price said. &#8220;We&#8217;re now moving to a world that&#8217;s more reflective of social media, where the academic is becoming the key node of distribution of research.&#8221;</p>
+<p>As for the Academia.edu itself, the site is approaching 2 million users with 4,000 joining every day. Price estimates that there are 17 million academics globally, so Academia&#8217;s numbers would suggest that they&#8217;ve registered up to 10 percent of the population. (A portion of the 2 million users are probably enthusiasts, not actual academics, however.)</p>
+<p>He adds that every month, the site sees 4.5 million monthly unique visitors. That figure has grown by 30 percent in the last month. It&#8217;s growing fast enough where the site is starting to pick up on trending papers or research that is being actively discussed among members. Price said it&#8217;s often not the most recent paper that gets the most attention.</p>
+<p>&#8220;The journal industry is focused on what&#8217;s new, new, new,&#8221; Price said. &#8220;But a paper is kind of like a jigsaw puzzle. When it first comes out, it doesn&#8217;t always fit into the scientific conversation.&#8221;</p>
+<p>The hope is that as the site grows larger and accumulates more network effects, it will democratize dissemination of scientific research.</p>
+<p>&#8220;A high school student in Japan should be able to access these papers and nurture their intellect,&#8221; Price said. &#8220;They shouldn&#8217;t just be for the scientific population.&#8221;</p>
+<p>The company is backed with close to $7 million in funding from investors, including Spark Capital and True Ventures. It currently earns revenue through advertising and job listings.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/7BK1zOshxrM/">here</a>.

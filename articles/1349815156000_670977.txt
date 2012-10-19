@@ -1,0 +1,16 @@
+{
+"title" : "Reed Hastings Won’t Be Returning To Microsoft’s Board, Will Skip Re-Election",
+"date" : "Tue, 09 Oct 2012 20:39:16 +0000",
+"author" : "Drew Olanoff"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/5186327943_d0b283271d_z.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="5186327943_d0b283271d_z" title="5186327943_d0b283271d_z" style="float: left; margin: 0 10px 7px 0;" /><p>Today, <a target="_blank" href="http://www.prnewswire.com/news-releases/microsoft-announces-reed-hastings-will-not-seek-re-election-to-microsoft-board-173358441.html">Microsoft announced a shakeup</a> on the board side of the company by announcing that Reed Hastings will not be seeking re-election for the seat he currently holds.</p>
+<p>Here&#8217;s what Steve Ballmer, Microsoft CEO, had to say about the noteworthy departure:</p>
+<blockquote><p>Reed has been a terrific board member, and his insights and experience have really helped guide us through a critical period of transformation for both Microsoft and the industry.</p></blockquote>
+<p>To say that Hastings is a busy person is an understatement. He currently sits on the boards of Netflix, Facebook, and DreamBox Learning. Oh, he&#8217;s also the CEO of Netflix. Regarding leaving Microsoft&#8217;s board, here&#8217;s what Hastings had to say:</p>
+<blockquote><p>I&#8217;m thrilled to have served on the board at such a pivotal time for Microsoft, including the development of Windows 8, Windows RT and Microsoft Surface, which will bring exciting new opportunities for customers and the industry as a whole. I&#8217;ve decided to reduce the number of boards I serve on, so that I can focus on Netflix and on my education work.</p></blockquote>
+<p>Since joining Microsoft&#8217;s board in 2007, Hastings has brought a fresh perspective to the company that is trying extremely hard to become relevant in the consumer space again. As Hastings noted, the Surface could assist with that.</p>
+<p>Should we see this departure as a bad thing or simply take Hastings at his word? It&#8217;s difficult not to wonder that, if the <a href="http://techcrunch.com/2012/06/18/the-microsoft-surface-a-10-6-inch-windows-8-tablet-from-microsoft/">Surface</a> was so exciting, why not stick around for it, especially if Netflix could play a part in Microsoft&#8217;s media play? Hard to tell, since I certainly don&#8217;t hold nearly the responsibility that Hastings does on a daily basis, and don&#8217;t know how he does it.</p>
+<p>Some of the board members that are seeking re-election include Bill Gates, the current Microsoft Chairman, Ballmer, and former CFO, Dina Dublon.</p>
+<p>[Photo credit: <a target="_blank" href="http://www.flickr.com/photos/jdlasica/5186327943/">Flickr</a>]</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/09/reed-hastings-wont-be-returning-to-microsofts-board-will-skip-re-election/">here</a>.

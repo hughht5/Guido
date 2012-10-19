@@ -1,0 +1,117 @@
+{
+"title" : "Which Trendy New 4-Inch Phone Is For You?",
+"date" : "Thu, 11 Oct 2012 21:10:53 +0000",
+"author" : "Jordan Crook"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/shutterstock_50381335.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="shutterstock_50381335" title="shutterstock_50381335" style="float: left; margin: 0 10px 7px 0;" /><p>It was inevitable. Smartphone displays have gone from a standard 4 inches to ~5-inches in a short time, and the truth is that phones can only get so big before being too big. And so, as the tide ebbs and flows, so do smartphone design trends, and it would appear that &#8220;small&#8221; displays are <em>so in</em>.</p>
+<p>Now, to be perfectly clear, I have no problem with big phones like the Galaxy S III and Galaxy Note II (and all the others). They are excellent phones, and other people (not myself) seem to enjoy their massive displays quite a bit. More power to you, big-handed friends!</p>
+<p>But at the end of the day, here&#8217;s the truth of the matter. A big phone (&gt; 4.5-inch display) may be uncomfortable to someone. A small phone (&lt; 4.5-inch display) isn&#8217;t uncomfortable to <em>anyone</em>. And so, OEMs have the opportunity to increase brand awareness, or simply sales, by appealing to a broad audience with these 4- to 4.3-inch handsets.</p>
+<p>It&#8217;s trendy to downsize the display, as proven by new phones from HTC, Samsung, Nokia, and Motorola, who&#8217;ve all been pushing into bigger display territory. On the other side of the coin, we have Apple, who hasn&#8217;t budged an inch for years with regards to their 3.5-inch display&#8230; Until, of course, the iPhone 5.</p>
+<p>Now, there&#8217;s finally some common ground among all three major ecosystems. Android, iOS and Windows Phone are all competing on this 4- to 4.3-inch level, all with very different arguments.</p>
+<p>If you&#8217;re anything like me, you&#8217;ve been waiting to have this many options at this size, and so we&#8217;ve put all the new ~4-inch phones together for you to check them out side-by-side.</p>
+<p>Let&#8217;s just take a look at the current lineup:</p>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-11-at-3-00-26-pm1.png" rel="lightbox[671761]"></a></p>
+<h3><a href="http://techcrunch.com/2012/09/05/hands-on-with-the-droid-razr-m-the-reversal-of-big-phone-syndrome-feels-wonderful/">Motorola Droid Razr M</a></h3>
+<ul>
+<li>4.3-inch Super AMOLED qHD display</li>
+<li>8-megapixel rear-facing camera (1080p video)</li>
+<li>ARM 1.5GHz dual-core Snapdragon S4</li>
+<li>Ice Cream Sandwich</li>
+<li>NFC</li>
+<li>LTE</li>
+<li>8GB of internal storage</li>
+<li>1GB RAM</li>
+<li>2,000 mAh battery</li>
+<li><strong>Drum Roll Please:</strong> &#8220;Edge-to-edge&#8221; display</li>
+</ul>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-11-at-4-33-06-pm.png" rel="lightbox[671761]"></a></p>
+<h3><a href="http://techcrunch.com/2012/09/18/motorola-razr-i-officia/">Motorola Droid Razr i</a></h3>
+<ul>
+<li>4.3-inch Super AMOLED qHD display</li>
+<li>8-megapixel rear-facing camera (1080p video)</li>
+<li>VGA front-facing camera</li>
+<li>x86 2GHz single-core Saltwell</li>
+<li>Ice Cream Sandwich</li>
+<li>NFC</li>
+<li>HSPDA+</li>
+<li>8GB of internal storage + microSDHC</li>
+<li>1GB RAM</li>
+<li>2,000 mAh battery</li>
+<li><strong>Drum Roll Please:</strong> Dedicated camera button</li>
+</ul>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-11-at-4-35-40-pm.png" rel="lightbox[671761]"></a></p>
+<h3><a href="http://techcrunch.com/2012/09/05/nokia-debuts-the-4-3-lumia-820-5mp-camera-1-5ghz-dual-core-s4-processor-8gb-of-storage/">Nokia Lumia 820</a></h3>
+<ul>
+<li>4.3-inch 480&#215;800 AMOLED display (with ClearBlack)</li>
+<li>8-megapixel rear-facing camera (1080p video)</li>
+<li>VGA front-facing camera</li>
+<li>ARM 1.5GHz dual-core Snapdragon S4</li>
+<li>Windows Phone 8</li>
+<li>NFC</li>
+<li>LTE</li>
+<li>8GB of internal storage + microSD</li>
+<li>1GB of RAM</li>
+<li>1650 mAh</li>
+<li><strong>Drum Roll Please:</strong> Interchangeable cover colors</li>
+</ul>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-11-at-4-34-00-pm.png" rel="lightbox[671761]"></a></p>
+<h3><a href="http://techcrunch.com/2012/10/08/t-mobile-nabs-nokias-new-lumia-810-points-to-a-launch-in-the-coming-weeks/">Nokia Lumia 810</a></h3>
+<ul>
+<li>4.3-inch 480&#215;800 OLED display (with ClearBlack)</li>
+<li>8-megapixel rear-facing camera (1080p video)</li>
+<li>1.2-megapixel front-facing camera</li>
+<li>1.5GHz dual-core processor</li>
+<li>Windows Phone 8</li>
+<li>HSPA+ 4G</li>
+<li>8GB of internal storage + microSD</li>
+<li>1GB of RAM</li>
+<li>1650 mAh</li>
+<li><strong>Drum Roll Please:</strong> Skype-certified video chat camera</li>
+</ul>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-11-at-4-37-58-pm.png" rel="lightbox[671761]"></a></p>
+<h3><a href="http://techcrunch.com/2012/09/19/meet-the-htc-8s-a-crappy-mid-range-windows-phone-device-no-one-will-buy/">HTC Windows Phone 8S</a></h3>
+<ul>
+<li>4-inch 480&#215;800 S-LCD display</li>
+<li>5-megapixel rear-facing camera (720p video)</li>
+<li>Qualcomm 1GHz dual-core Snapdragon S4 Plus MSM8627</li>
+<li>Windows Phone 8</li>
+<li>CDMA/GSM</li>
+<li>4GB of internal storage + microSD</li>
+<li>512MB of RAM</li>
+<li>1700 mAh</li>
+<li><strong>Drum Roll Please:</strong> Cool color options</li>
+</ul>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-11-at-5-06-57-pm.png" rel="lightbox[671761]"></a></p>
+<h3><a href="http://techcrunch.com/2012/09/22/fly-or-die-iphone-5/">Apple iPhone 5</a></h3>
+<ul>
+<li>4-inch 1136&#215;640 LCD Retina display</li>
+<li>8-megapixel rear-facing camera (1080p video)</li>
+<li>1.2-megapixel front-facing camera (720p video)</li>
+<li>Apple A6 dual-core 1GHz processor</li>
+<li>iOS 6</li>
+<li>LTE</li>
+<li>16GB, 32GB or 64GB</li>
+<li>1GB of RAM</li>
+<li>1440 mAh</li>
+<li><strong>Drum Roll Please:</strong> High pixel density</li>
+</ul>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-11-at-4-42-24-pm.png" rel="lightbox[671761]"></a></p>
+<h3><a href="http://techcrunch.com/2012/10/11/samsung-officially-outs-the-galaxy-s-iii-mini-4-mid-range-jelly-bean-in-a-smaller-package/">Samsung Galaxy S III Mini</a></h3>
+<ul>
+<li>4-inch WVGA Super AMOLED display</li>
+<li>5-megapixel rear-facing camera (720p video)</li>
+<li>VGA front-facing camera</li>
+<li>1GHz dual-core STE U8420</li>
+<li>Android 4.1 Jellybean</li>
+<li>HSPDA</li>
+<li>NFC</li>
+<li>16GB + microSD</li>
+<li>1GB of RAM</li>
+<li>1500 mAh</li>
+<li><strong>Drum Roll Please:</strong>It&#8217;s a tiny Galaxy S III</li>
+</ul>
+<p>Here&#8217;s a side-by-side view:</p>
+<p><br />
+[Image via <a target="_blank" href="http://www.shutterstock.com/">Shutterstock</a>]</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/BgGWd-Q8vnQ/">here</a>.

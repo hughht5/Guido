@@ -1,0 +1,16 @@
+{
+"title" : "With Its Gamification Tools, SessionM Reports A 35 Percent Lift In Retention, 250 Percent Lift In Engagement",
+"date" : "Mon, 15 Oct 2012 19:04:30 +0000",
+"author" : "Anthony Ha"
+}
+
+<img width="100" height="67" src="http://tctechcrunch2011.files.wordpress.com/2012/10/sessionm-logo.png?w=100&amp;h=67&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="sessionm logo" title="sessionm logo" style="float: left; margin: 0 10px 7px 0;" /><p>Gamification works — at least, that&#8217;s what <a target="_blank" href="http://www.sessionm.com">SessionM</a> is trying to show with some new data about its customer results.</p>
+<p>The company offers mobile publishers a platform for adding game mechanics to their apps, including a rewards system called mPoints. The goal is to increase user engagement and retention. And apparently, these efforts are actually paying off, with developers seeing a 35 percent increase in retention rate and a 25 percent lower bounce rate after integrating SessionM.</p>
+<p>By looking at publisher data and performing its own A/B testing, the company also compared activity between SessionM users and non-users. It said that SessionM led to a 250 percent lift in in-app activities per visit, and the SessionM users were 40 times more likely to perform in-app social activities, like sharing content and checking-in.</p>
+<p>I did wonder whether the difference can be solely attributed to SessionM — it may also be that people who use SessionM are just more likely to engage in these types of activities. When I brought this up while writing the post, a spokesperson responded:</p>
+<blockquote><p>So, SessionM thinks this is a fair question but we actually have seen an increase in key in-app activities among SessionM users. Moreover, SessionM metrics including the overall increase in retention and decrease in bounce rate across all app users point to a direct correlation between engagement lift and SessionM. So yes, we can confidently say we&#8217;ve driven engagement.</p></blockquote>
+<p>In addition to helping publishers with engagement, SessionM also provides an opt-in platform for advertisers. CEO Lars Albright (who previously co-founded and led mobile ad network Quattro, which was acquired by Apple) said he was particularly pleased that users seem to receptive to the company&#8217;s ad efforts. &#8220;Many&#8221; developers are actually seeing users opt-in to the ad platform at rates above 70 percent, according to SessionM.</p>
+<p>Lastly, Albright claimed that the company is seeing impressive numbers across all of its publisher categories.</p>
+<p>&#8220;We&#8217;re not just going after a gaming audience that&#8217;s young and male,&#8221; he said. &#8220;We&#8217;re going after the whole mobile audience.&#8221;</p>
+<p><a href="http://techcrunch.com/2012/05/08/sessionm-series-b/">SessionM&#8217;s investors</a> include Highland Capital Partners, Kleiner Perkins Caufield &amp; Byers, and Charles River Ventures.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/5W4dkJ-aH80/">here</a>.

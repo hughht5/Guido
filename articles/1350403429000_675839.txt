@@ -1,0 +1,25 @@
+{
+"title" : "Twitter Acqui-Hires Mobile App Development Platform Cabana, Shuts It Down",
+"date" : "Tue, 16 Oct 2012 16:03:49 +0000",
+"author" : "Ingrid Lunden"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-16-at-17-05-42.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="cabana logo" title="cabana logo" style="float: left; margin: 0 10px 7px 0;" /><p>Twitter has made another acquisition to expand its platform development operation. It has <a target="_blank" href="http://www.cabanaapp.com/blog/cabana-is-joiningtheflock/">bought Cabana</a>, a platform for making highly visual mobile apps. Terms of the deal have not been disclosed, but the team behind the app are joining Twitter, and Cabana as it is known today is shutting down, effective December 1.</p>
+<p>Cabana brings Twitter a new angle in app development, which it could use both for its own services, but also for companies that Twitter is attracting to its social platform: one product that Cabana launched in April is its <a href="http://techcrunch.com/2012/04/11/cabana-fan-page-mobilizer/">Fan Page Mobilizer</a>, which helps small businesses bring their Facebook presence to smartphones. </p>
+<p>This could be used either to help expand what Twitter does for businesses itself with its own platform, or could be used to help bridge enterprise Twitter integration with Facebook. </p>
+<p>Twitter today confirmed it looks like a third-party app developer play, with the following statement:</p>
+<p>&#8220;Reeve Thompson, Jeremy Gordon and their team have created a product that makes it easier for people to build rich mobile apps. At Twitter, they will join our platform team and build tools to help third-party developers create new experiences on Twitter.&#8221;</p>
+<p>The move also signifies a potentially new direction for Twitter &#8212; if not completely away from being text-based, possibly being more visual. The founders behind Cabana hail from places like Sega, Pixar, LucasArts, Adobe, and EA, with expertise in high-end computer graphics &#8212; useful for Twitter as it looks to further build out advertising and other forms of engagement and revenue generation.</p>
+<p>Among those backing Cabana were First Round Capital, Lerer Ventures, SVAngel, Gary Vaynerchuk, Shervin Pishevar, Kevin Rose, Chris Sacca, Dave Morin, Philip Kaplan, Tyler Crowley, Mark Silva, Jack Andrys, Bill Warner, and Alex Elenski. </p>
+<p>Blog post below. .</p>
+<blockquote><p>&nbsp;</p>
+<p>We are writing today with some exciting news: Cabana has been acquired by Twitter and our team is #JoiningTheFlock!</p>
+<p>We built Cabana because we are passionate about empowering people to develop interactive content in new and innovative ways. That same passion for innovation and the democratization of content creation is also shared by the amazing team at Twitter.</p>
+<p>Over the past few months, we’ve gotten to know the Twitter team and discovered the tremendous amount of technological synergy and alignment of our visions. The more we explored this synergy, the more excited we became about joining forces and working together.</p>
+<p>Starting today we will be joining Twitter’s platform team, and will build tools to help third-party developers create new experiences on Twitter and empower the larger Twitter ecosystem.</p>
+<p>This means that we will no longer be offering Cabana as a standalone mobile app development environment.</p>
+<p>Cabana will be shutting down on December 1st 2012. If you have any questions about our rolldown, please email us at rolldown@cabanaapp.com.</p>
+<p>Rest assured that the ideas and passion behind Cabana will live on, albeit in a slightly different form &#8211; at Twitter!</p>
+<p>We want to thank all of you, from our users and investors to our family and friends, who made this journey possible.</p>
+<p>We’re excited for what the future with Twitter holds!</p></blockquote>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/Ory_pi8F8Vs/">here</a>.

@@ -1,0 +1,10 @@
+{
+"title" : "Samsung’s Galaxy Note II Coming To T-Mobile This Fall",
+"date" : "Tue, 09 Oct 2012 18:00:43 +0000",
+"author" : "Darrell Etherington"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/samsung-galaxy-note-2.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="samsung galaxy note 2" title="samsung galaxy note 2" style="float: left; margin: 0 10px 7px 0;" /><p>Samsung and T-Mobile <a target="_blank" href="http://newsroom.t-mobile.com/articles/t-mobile-announces-samsung-galaxy-note-ii">today announced</a> that the Samsung Galaxy Note II will be arriving on T-Mobile&#8217;s network this fall, though specific dates and pricing weren&#8217;t yet revealed. An earlier leaked report says that it&#8217;ll hit on October 24, however. T-Mobile is calling Samsung&#8217;s latest phablet its &#8220;most powerful device,&#8221; which seems to indicate this will be a key flagship offering for the U.S. provider.</p>
+<p>The 5.5-inch, quad-core 1.6-GHz Exynos-powered smartphone ships with Android 4.1 Jelly Bean, and offers improved S Pen capabilities, and HSPA+ &#8220;4G&#8221; connectivity, though not LTE. Color options available through T-Mobile include Titanium Gray and Marble White, and T-Mobile says it&#8217;ll come to retail stores, online and through authorized T-Mobile dealers sometime &#8220;in the coming weeks.&#8221;</p>
+<p>T-Mobile clearly needs a big splashy phone launch in the wake of not offering the iPhone 5. The company could significantly improve its LTE standings and capabilities if the merger with MetroPCS goes through. But for now, shopping the Galaxy Note II without LTE could be a hard sell against other U.S. carriers like AT&amp;T who are offering true next-gen connectivity.</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/09/samsungs-galaxy-note-ii-coming-to-t-mobile-this-fall/">here</a>.

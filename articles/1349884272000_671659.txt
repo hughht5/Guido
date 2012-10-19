@@ -1,0 +1,20 @@
+{
+"title" : "TweetDeck Gets A Visual Refresh On All Platforms, Now Looks More “Twittery”",
+"date" : "Wed, 10 Oct 2012 15:51:12 +0000",
+"author" : "Drew Olanoff"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/3814989915_13f9ae1493_z.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="3814989915_13f9ae1493_z" title="3814989915_13f9ae1493_z" style="float: left; margin: 0 10px 7px 0;" /><p>For you hardcore Twitter users, the main app just doesn&#8217;t cut it. You need multiple windows and notifications and more windows and stuff like that. For me, I enjoy the simple original web version of Twitter, but what do I know? Today, <a target="_blank" href="http://tweetdeck.posterous.com/a-new-look-for-tweetdeck">TweetDeck for all platforms, except iOS, was updated</a>, and you can now go check it out and rejoice.</p>
+<p>The app has just hung out there for the hardcore users with no real visual enhancements after <a href="http://techcrunch.com/2011/05/02/twitter-to-buy-tweetdeck-for-40-million-50-million/">Twitter acquired the company behind it</a>. Last year, the company overhauled the back-end, but it received no new coat of paint. That changed in a big way today by letting you change your app theme and fonts. If you want to read tweets in Comic Sans, now you can. I&#8217;m kidding, you can only change the font size.</p>
+<p>Here&#8217;s what the team had to say:</p>
+<blockquote><p>Today we updated the TweetDeck app on all our supported platforms &#8211; web, Chrome, Mac and Windows. The update is live now on <a target="_blank" href="https://web.tweetdeck.com/">web.tweetdeck.com</a>. If you use the Windows app, just restart to trigger an auto-update. Chrome app users should restart Chrome to update the app and the updated Mac app is available now in the Mac App Store.</p>
+<p>This update makes TweetDeck easier to use with design enhancements, personalization options and the addition of several frequently-requested features.</p></blockquote>
+<p>Here&#8217;s a look at the freshness:</p>
+<p><a href="http://techcrunch.com/2012/10/10/tweetdeck-gets-a-visual-refresh-on-all-platforms-now-looks-more-twittery/light_theme-png-scaled1000-2/" rel="attachment wp-att-671675"></a></p>
+<p>It&#8217;s light and airy, but I&#8217;m still not going to use it. For me, TweetDeck is the perfect app for people who want to pay attention to everything without paying attention to anything. By that, I mean they like noise. I try to cancel the noise out as much as possible and use Twitter as intended, in real-time. If I miss stuff, I trust that my friends will retweet it.</p>
+<p>Don&#8217;t like the new look? Go back to the darkroom:</p>
+<p><a href="http://techcrunch.com/2012/10/10/tweetdeck-gets-a-visual-refresh-on-all-platforms-now-looks-more-twittery/theme_switcher-png-scaled500/" rel="attachment wp-att-671673"></a></p>
+<p>Having said all of that that, give TweetDeck a whirl and let us know what you think in the comments. I like consistency, and this refresh is pretty much that for Twitter&#8217;s suite of goodies.</p>
+<p>Also, I think I just coined the phrase &#8220;Twittery.&#8221; Maybe. Or not.</p>
+<p>[Fence credit: <a target="_blank" href="http://www.flickr.com/photos/vkpatel/3814989915/sizes/z/">Flickr</a>]</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/X_EZ8FkxpcM/">here</a>.

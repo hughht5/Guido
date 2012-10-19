@@ -1,0 +1,15 @@
+{
+"title" : "getTalent Helps Companies Build Relationships With Job Candidates, Raises $2.6M Led By SuccessFactors",
+"date" : "Tue, 09 Oct 2012 17:25:19 +0000",
+"author" : "Anthony Ha"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/gettalent-logo.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="gettalent logo" title="gettalent logo" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.gettalent.com">getTalent</a>, a startup offering candidate engagement tools for recruiters, is emerging from stealth mode today. It&#8217;s also announcing that it has raised $2.6 million in funding.</p>
+<p>The company&#8217;s largest investor is HR software maker <a target="_blank" href="http://www.successfactors.com">SuccessFactors</a>, which was <a href="http://techcrunch.com/2011/12/03/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz/">acquired by SAP</a> last year. Angel investors include Krutal Desai (<a target="_blank" href="http://www.linkedin.com/in/krutal">head of special projects at Automattic/WordPress</a>) and Micrel CFO <a target="_blank" href="http://www.linkedin.com/pub/ray-wallin/11/137/725">Ray Wallin</a>.</p>
+<p>Founder and CEO Abraham Shafi says getTalent&#8217;s tools are aimed at a common scenario — someone visits a company&#8217;s job&#8221; page, or an individual listing, and they don&#8217;t see anything that seems like a good fit. Shafi says that instead of just letting that visitor wander off, companies should try to build a relationship with them. After all, they might be a great fit for a job that opens up later on.</p>
+<p>So getTalent customers can add buttons to their postings asking people to join their talent community. Recruiters can also sign people up in person, say at a job fair, thanks to the startup&#8217;s resume scanning and QR code-creation tools. Once someone has signed up, employers can send them emails to notify them about new job listings and offer other content, such as articles about what it&#8217;s like to work at the company. Different content and listings can be targeted at different groups within the community.</p>
+<p><a href="http://techcrunch.com/2012/10/09/gettalent-funding/gettalent-email/" rel="attachment wp-att-670781"></a></p>
+<p>&#8220;It&#8217;s all about taking what&#8217;s happened in other industries and modeling it for this market,&#8221; Shafi says.</p>
+<p>Job listing sites like Monster and CareerBuilder allow recruiters to build similar &#8220;hooks&#8221; for engagement, he adds, but only through custom solutions that cost tens of thousands of dollars. getTalent, on the other hand, works as a standard, &#8220;out-of-the-box&#8221; online service.</p>
+<p>Even during its supposedly stealth period, getTalent was already signing up customers, including Viacom, Hearst Media, Kaiser, Box, and Hulu.</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/09/gettalent-funding/">here</a>.

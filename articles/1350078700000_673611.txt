@@ -1,0 +1,16 @@
+{
+"title" : "If Instagram Were More About Words Than Things, You’d Have Whims for iOS",
+"date" : "Fri, 12 Oct 2012 21:51:40 +0000",
+"author" : "Drew Olanoff"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/snapshot-101212-249-pm.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Snapshot 10:12:12 2:49 PM" title="Snapshot 10:12:12 2:49 PM" style="float: left; margin: 0 10px 7px 0;" /><p>Instagram is huge because it&#8217;s a network made of people who are passionate about taking pictures of things that they see and then dropping a cool filter on them to enhance their vision. It caught on immediately with everyone from geeks to Starbucks baristas. Since then, many companies have tried to duplicate the magic that Instagram used to sell itself to Facebook, but have failed.</p>
+<p>An app called <a target="_blank" href="http://www.whims.me/">Whims</a> is trying something completely different, but extremely familiar. The social network iOS app lets you express yourself with words, colors and fonts only. There are no pictures. There are no videos &#8212; just you and your thoughts.</p>
+<p>I&#8217;ve been playing with it for quite a while and I really love it.</p>
+<h3>Sweet nothings are impactful somethings</h3>
+<p>Expression is what the Internet is all about, and when services come along that allow us to express ourselves in different ways, I pay attention. <a target="_blank" href="http://www.whims.me/">Whims</a> has done just that, and the app is really fun to use. You can enter a saying, thought or anything on your mind, and then make it beautiful.</p>
+<p><a href="http://techcrunch.com/2012/10/12/if-instagram-was-more-about-words-than-things-youd-have-whims-for-ios/photo-1-52/" rel="attachment wp-att-673627"></a> <a href="http://techcrunch.com/2012/10/12/if-instagram-was-more-about-words-than-things-youd-have-whims-for-ios/photo-2-43/" rel="attachment wp-att-673628"></a></p>
+<p>The layout of the app is definitely something that will remind you of Instagram. You can follow people, and read the stream of &#8220;Whims&#8221; that fly by. You can like things and share them on Facebook or Twitter, but more importantly you can make your own:</p>
+<p><a href="http://techcrunch.com/2012/10/12/if-instagram-was-more-about-words-than-things-youd-have-whims-for-ios/photo-3-33/" rel="attachment wp-att-673630"></a> <a href="http://techcrunch.com/2012/10/12/if-instagram-was-more-about-words-than-things-youd-have-whims-for-ios/photo-4-18/" rel="attachment wp-att-673631"></a></p>
+<p>It&#8217;s simple, it&#8217;s straightforward, and it takes some creativity and imagination. These are the things that make for some great content. I really like the team behind Whims and one of its founders, Alex Khorram, was extremely persistent with pitching me on this. In fact, he used a Whim or two to get my attention, and boy did it work. <a target="_blank" href="https://itunes.apple.com/app/id560247431">Try it out</a>.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/GGWFeVHj4zc/">here</a>.

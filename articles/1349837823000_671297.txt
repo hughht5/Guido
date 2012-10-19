@@ -1,0 +1,21 @@
+{
+"title" : "T-Mobile’s Nokia Lumia 810 – We Go Hands On, But This Phone’s Literally Got No Guts",
+"date" : "Wed, 10 Oct 2012 02:57:03 +0000",
+"author" : "Darrell Etherington"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/img_9420.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="IMG_9420" title="IMG_9420" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/10/img_9420.jpg" rel="lightbox[671297]"></a>T-Mobile recently announced it would be offering the <a title="T-Mobile Nabs Nokia’s New Lumia 810 Windows Phone, Points To A Launch In “The Coming Weeks”" href="http://techcrunch.com/2012/10/08/t-mobile-nabs-nokias-new-lumia-810-points-to-a-launch-in-the-coming-weeks/">Nokia Lumia 810 Windows Phone 8 device</a> sometime in the coming weeks, and it had the handset at the Pepcom&#8217;s MobileFocus event at MobileCon today. But the hardware wasn&#8217;t really <em>the</em> hardware as such – it was a dummy unit with nothing on the inside. But it still showed off some of what the phone will offer users.</p>
+<p>The Lumia 810 from T-Mobile comes in both black and cyan variants, and will have a 4.3-inch OLEG WVGA screen that could be very good-looking in practice, one might imagine. There&#8217;s also Windows Phone 8, an 8 megapixel rear camera and a 1.2 megapixel front shooter for Skype and other communication apps, which could take very nice pictures, it&#8217;s reasonable to assume.</p>
+<p>What we do know about the 810 is that it feels quite substantial compared to most contemporary smartphones, like in a way that actually isn&#8217;t altogether a good thing. The Lumia 810 could easily use a diet, in fact, and there&#8217;s a lot of space taken up around the not-yet-active screen devoted to bezel. It&#8217;s a bold, aggressive design choice, and one that could result in a chunky chic appeal, but it could also backfire. In a world where thin and light are the name of the game, this is a phone that stands apart, as you can see by the side-by-side shots with it and the iPhone 5.</p>
+<p>Microsoft clearly doesn&#8217;t want anyone touching the Windows 8 software before it unveils it later this month. We&#8217;ll see what the 810 and its bigger brother the 920 deliver when Windows 8 finally ships.</p>
+<p><strong>Update:</strong> This device apparently has internals that could theoretically work, according to T-Mo, but in the end it might as well not, since no one who touched it could actually interact with its software or view it running.</p>
+
+<a href='http://techcrunch.com/2012/10/09/t-mobiles-nokia-lumia-810-we-go-hands-on-but-this-phones-literally-got-no-guts/img_9407/' title='IMG_9407'></a>
+<a href='http://techcrunch.com/2012/10/09/t-mobiles-nokia-lumia-810-we-go-hands-on-but-this-phones-literally-got-no-guts/img_9410/' title='IMG_9410'></a>
+<a href='http://techcrunch.com/2012/10/09/t-mobiles-nokia-lumia-810-we-go-hands-on-but-this-phones-literally-got-no-guts/img_9411/' title='IMG_9411'></a>
+<a href='http://techcrunch.com/2012/10/09/t-mobiles-nokia-lumia-810-we-go-hands-on-but-this-phones-literally-got-no-guts/img_9414/' title='IMG_9414'></a>
+<a href='http://techcrunch.com/2012/10/09/t-mobiles-nokia-lumia-810-we-go-hands-on-but-this-phones-literally-got-no-guts/img_9415/' title='IMG_9415'></a>
+<a href='http://techcrunch.com/2012/10/09/t-mobiles-nokia-lumia-810-we-go-hands-on-but-this-phones-literally-got-no-guts/img_9418/' title='IMG_9418'></a>
+<a href='http://techcrunch.com/2012/10/09/t-mobiles-nokia-lumia-810-we-go-hands-on-but-this-phones-literally-got-no-guts/img_9420/' title='IMG_9420'></a>
+
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/TiOCGoD6aao/">here</a>.

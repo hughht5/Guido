@@ -1,0 +1,13 @@
+{
+"title" : "Lenovo Updates The ThinkPad Tablet & Laptop Hybrid With The ThinkPad Twist, An $849 12.5″ Ultrabook",
+"date" : "Tue, 09 Oct 2012 23:41:01 +0000",
+"author" : "Romain Dillet"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-09-at-7-38-01-pm.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-10-09 at 7.38.01 PM" title="Screen Shot 2012-10-09 at 7.38.01 PM" style="float: left; margin: 0 10px 7px 0;" /><p>Lenovo is apparently not convinced of the post-PC lingo, with its latest series of announcements. The good old ThinkPad brand is used once again for another model, the ThinkPad Twist. It is a 12.5&#8243; tablet/laptop hybrid powered by a third-generation Intel Core i7 processor.</p>
+<p>The mechanism is different from the <a href="http://techcrunch.com/2012/10/09/lenovo-introduces-the-ideapad-yoga-11-and-13-the-first-tablet-laptop-ultrabook-hybrid/">IdeaPad Yoga</a> models. In that case, you flip the screen horizontally before &#8220;closing&#8221; the laptop with the display on the top. Let&#8217;s hope it&#8217;s sturdy enough for business-oriented users.</p>
+<p>The ThinkPad Twist will sport a 320/500 GB hard drive, or optionally a 128 GB SSD. At 12.5 inches and with a 1366 x 768 resolution, the display doesn&#8217;t look as appealing as the <a href="http://techcrunch.com/2012/10/09/lenovo-introduces-the-ideapad-yoga-11-and-13-the-first-tablet-laptop-ultrabook-hybrid/">IdeaPad Yoga 13&#8242;s</a>.</p>
+<p>The two USB ports will be USB 3.0-compatible, and an Ethernet port will still be available for those who still rely on the technology. Other tech specs include up to 8 GB of RAM and up to seven hours of battery life.</p>
+<p>At the press event, Lenovo stated that they want to become the No. 1 PC maker in the world. We&#8217;ll see if they will achieve that status with those new models as the ThinkPad Twist will come out in October.</p>
+<a href="http://techcrunch.com/2012/10/09/lenovo-updates-the-thinkpad-tablet-laptop-hybrid-with-the-thinkpad-twist-a-849-12-5-ultrabook/#gallery-671163-1-slideshow">Click to view slideshow.</a>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/VwmyxXxIOWY/">here</a>.

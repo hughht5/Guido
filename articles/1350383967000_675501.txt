@@ -1,0 +1,14 @@
+{
+"title" : "Romo, The iPhone-Powered Robot, Grows Up",
+"date" : "Tue, 16 Oct 2012 10:39:27 +0000",
+"author" : "John Biggs"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/57b890d65ee0ecea3875dab84792dc0b_large.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="57b890d65ee0ecea3875dab84792dc0b_large" title="57b890d65ee0ecea3875dab84792dc0b_large" style="float: left; margin: 0 10px 7px 0;" /><p>The first <a href="http://techcrunch.com/tag/Romo">Romo</a> was a cute little hand-made robot with a cute little face that roamed around the room, turning your phone into a rat-sized telepresence rig. The Romo folks, <a target="_blank" href="http://romotive.com">Romotive</a>, are based in Las Vegas and they assembled each Romo 1.0 by hand and shipped them out last winter.</p>
+<p>Now Romotive is back with <a target="_blank" href="http://www.kickstarter.com/projects/peterseid/romo-the-smartphone-robot-for-everyone">Romo 2.0</a>, a streamlined, redesigned model that looks more like a toy than a tool. </p>
+<p>Romo connects to your smartphone and can be controlled via another smartphone or tablet. You move Romo around the room remotely and can turn on the camera to view the scene or make a cute little blue face light up and smile when it sees people. The Romo costs $150 if you pledge now and they&#8217;re looking for $100,000 to build and ship these wee fellows.</p>
+<p>I visited Romotive a few months back and these guys are serious about their robots. They slept in apartments repurposed as manufacturing plants and, in true Shanzhai fashion, they built their products around a big table, assembling each Romo one at a time. The new Romo, on the other hand, will be produced in Shenzhen.</p>
+<p>That&#8217;s not all: the team is planning on building an entirely new app for Romo, adding some cool features like autonomous navigation, facial recognition, and computer vision. They will also add an SDK so programmers and add features to the Romo.</p>
+<p>It&#8217;s great to see little telepresence rigs like this get cooler and cooler. Maybe someday we&#8217;ll all hide behind Romos as we go about our business, our limbs atrophying and our eyes growing dim as we scoot around with our souls wedded to tiny robots, watching the world as it falls down around us, as dogs and cats grow feral and mean in the streets, and the works of man crumble into the sea and leave us naked and shivering in a virtual prison of our own making. Can&#8217;t wait.</p>
+<iframe frameborder="0" height="410px" src="http://www.kickstarter.com/projects/peterseid/romo-the-smartphone-robot-for-everyone/widget/video.html" width="640px"></iframe>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/G7eoe0-3bHs/">here</a>.

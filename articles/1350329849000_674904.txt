@@ -1,0 +1,44 @@
+{
+"title" : "The Hidden Radio: A Bluetooth Speaker With Cloistered Virtue And Some Obvious Flaws",
+"date" : "Mon, 15 Oct 2012 19:37:29 +0000",
+"author" : "Darrell Etherington"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/hidden-open.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="hidden-open" title="hidden-open" style="float: left; margin: 0 10px 7px 0;" /><p>Many of my Kickstarter dreams have come tumbling down in disappointing or non-shipping products, which isn&#8217;t a knock against the site; that&#8217;s a risk I fully accept and take with every project. But without a doubt, the <a target="_blank" href="http://www.kickstarter.com/projects/2107726947/hidden-radio-and-bluetooth-speaker">Hidden Radio Bluetooth speaker</a> was one I was really looking forward to. Now, I&#8217;ve spent some time with it, and I find myself with mixed feelings about this portable audio accessory.</p>
+<h2>Short Version</h2>
+<p>Since the Hidden Radio first debuted on Kickstarter way back in November, a lot has changed in the world of portable device speakers. Things have gotten better; <a title="Logitech UE Boombox And Mobile Boombox Review: Bluetooth Speakers With A Rich Sound" href="http://techcrunch.com/2012/09/30/logitech-ue-boombox-and-mobile-boombox-review-bluetooth-speakers-with-a-rich-sound/">a lot better, in fact</a>, with stuff like Jawbone&#8217;s Big Jambox coming along and <a title="Hands-On With the Jawbone Big Jambox: 2.7 Pounds of Audio Fury, Available May 15 for $299" href="http://techcrunch.com/2012/04/30/hands-on-with-the-jawbone-big-jambox-2-7-pounds-of-audio-fury-available-this-month-for-299/">basically making everyone fall in love with it</a>. For the Hidden Radio, long overdue according to its original manufacturing timeline, and with specs that in some areas actually fall short of those originally promised, time has not been good for this little upstart. But it is a capable, and for now, cheaper alternative to some of the market leaders.</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Portable.</li>
+<li>15-hour battery life.</li>
+<li>Works with both wired and wireless connections.</li>
+</ul>
+<p><strong>Pros:</strong></p>
+<ul>
+<li>Omni-directional speaker ensures 360-degree sound coverage.</li>
+<li>Good-looking piece of kit.</li>
+</ul>
+<p><strong>Cons:</strong></p>
+<ul>
+<li>Sound quality is not segment-leading.</li>
+<li>Volume control gimmick is cute, but turning it down also muffles audio in a way that software volume reduction doesn&#8217;t.</li>
+</ul>
+<h2>Long Version</h2>
+<p><strong>Design</strong></p>
+<p>Let&#8217;s start with the Hidden Radio&#8217;s strengths: it&#8217;s a very good-looking device, one that can live happily among a variety of decors, and one that feels particularly at home with Apple hardware. I&#8217;ve got the matte black version, and in both closed and open mode, it&#8217;s beautiful (check out the gallery below). Plus the design is sensible: when the cap is twisted shut, power is locked off and the speaker grille itself is protected from the elements. The columnar shape is also fairly compact and portable, though it might be less portable (and is definitely less rugged) than say, a Phillips ShoqBox.</p>
+<p>The other notable part of the design is the grippy pad on the bottom, which is designed to hold the Hidden Radio in place as you twist the cover open and shut to control power and volume. That part performs its task well, though as you can see in the gallery photos below, the grippy portion picks up dirt and dust very easily and will require frequent cleaning to maintain its stickiness.</p>
+<p>The bottom does have one major failing though: in what looks like  an effort to keep things &#8216;hidden,&#8221; the ports for both microUSB (charging) and 3.5mm stereo input are housed in a recessed circular crevice in the bottom of the device. It&#8217;s nice for keeping things out of the way in theory, but in practice it&#8217;s very difficult to get the microUSB cable in and out, and I&#8217;m not sure the aesthetic benefits outweigh the drawbacks.</p>
+<p><strong>Features</strong></p>
+<p>The Hidden Radio originally promised 30 hours of battery life for streaming music. It ships with 15, which is good, but obviously not as good. That 15 hours still puts it on par with the Big Jambox, and better by five hours than the more size-comparable original Jambox. Hidden also promised Bluetooth speakerphone functionality, which both the Jambox and Big Jambox offer, but that didn&#8217;t make it to the final product. An FM radio is included, but not the promised AM/FM capabilities. It&#8217;s understandable that reality would cause some changes, but when a project raises $938,771, far above its original $125,000 goal, it becomes more of an issue.</p>
+<p>Still, the Hidden Radio does pair easily with devices, and the twist-on, twist-off feature is very convenient. Also 15 hours is a lot of juice, and plenty for most users, and the FM radio is a nice touch. The original Kickstarter may have over-promised, but that shouldn&#8217;t really reflect much on the product taken as a standalone device. Still, if a pre-release notice from an established listed a number of features that didn&#8217;t make the shipping unit, they&#8217;d definitely be called on it.</p>
+<p><strong>Sound</strong></p>
+<p>This is the big area for all Bluetooth speakers, and I have to say that I&#8217;m less impressed with the Hidden Radio in this regard than I was expecting to be. Audio quality was originally one of its selling points, but it lags behind the leaders in this space. The sound is fine, and the 360-degree nature of the speaker means that it&#8217;s good for background music at small gatherings, but audiophiles will be disappointed. And sound quality deteriorates quickly if you use the hardware volume control by twisting the cap down, making stuff sound like it&#8217;s underwater – this speaker performs best if kept at full volume, with changes to auditory level controlled from the phone. Sound did seem to improve over time, however, as the speaker got broken in.</p>
+<p><strong>Conclusion</strong></p>
+<p>At $149, the Hidden Radio is a good little speaker that trades significantly longer battery life for slightly worse audio quality when compared to the Jawbone Jambox, but I&#8217;d be less eager to recommend this product at its regular stated selling price of $190 (in black and silver; $180 in white), which it climbs up to after November 15. But in a crowded market, selling features like resistance to the elements and new, more powerful designs have emerged to make standing out largely on the basis of a volume control gimmick a little more difficult, once you&#8217;re at or near price parity.
+<a href='http://techcrunch.com/2012/10/15/review-hidden-radio-bluetooth-speaker-iphone-ipad/hidden-closed/' title='hidden-closed'></a>
+<a href='http://techcrunch.com/2012/10/15/review-hidden-radio-bluetooth-speaker-iphone-ipad/hidden-slider/' title='hidden-slider'></a>
+<a href='http://techcrunch.com/2012/10/15/review-hidden-radio-bluetooth-speaker-iphone-ipad/hidden-under/' title='hidden-under'></a>
+<a href='http://techcrunch.com/2012/10/15/review-hidden-radio-bluetooth-speaker-iphone-ipad/hidden-bottom/' title='hidden-bottom'></a>
+<a href='http://techcrunch.com/2012/10/15/review-hidden-radio-bluetooth-speaker-iphone-ipad/hidden-open/' title='hidden-open'></a>
+</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/341SYyb-ckQ/">here</a>.

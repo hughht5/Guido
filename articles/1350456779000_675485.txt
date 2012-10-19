@@ -1,0 +1,19 @@
+{
+"title" : "And the 2012 Start TWS Competition Startups Are…",
+"date" : "Wed, 17 Oct 2012 06:52:59 +0000",
+"author" : "Roi Carthy"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/start-tws.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Start-TWS" title="Start-TWS" style="float: left; margin: 0 10px 7px 0;" /><p>It&#8217;s that time of the year for one of the Israeli startup community&#8217;s staple events, <a target="_blank" href="http://www.starttws.com">TWS</a>. This year the event&#8217;s founder, and <a target="_blank" href="http://pops.me/">Pops</a> CEO, Yaron Orentstein is collaborating with Israel&#8217;s most popular tech blog, <a target="_blank" href="http://www.newsgeek.co.il">Newsgeek.co.il</a> to showcase some up and coming Israeli early-stage startups (and a couple from Europe).</p>
+<p>Here are the startups presenting on-stage in Tel-Aviv this morning:</p>
+<p><a target="_blank" href="http://www.overwolf.com">Overwolf</a> adds a layer of functionality to any game without any change to the game&#8217;s code. Functionality can include Facebook, instant messaging and an in-game browser. There&#8217;s also the ability to add an in-game AppStore, a cross between between World of Warcraft&#8217;s add-ons and an Apple&#8217;s AppStore.</p>
+<p><a target="_blank" href="http://workwith.me">WorkWith.me</a> is a social recruiting network where instead of recruiters having to search for and court candidates themselves, the recruiting is crowd-sourced. When a candidate matches a position their friends will be asked by the recruiter for feedback and endorsement. The final twist is that it will be the friends who will be the ones to approach the candidate.</p>
+<p><a target="_blank" href="http://soom.la">SOOMLA</a> helps mobile game developers integrate in-game stores in minutes. The idea here is to allow these developers to reap the benefits of in-app purchases without having to write code that other developers have written time and time again.</p>
+<p><a target="_blank" href="http://www.pixplit.com">Pixplit</a> offers a free iPhone app that lets friends create image collages together on a single canvas.</p>
+<p><a target="_blank" href="http://commun.it">Commun.it</a> is a social relationship marketing manager for SMB’s. It helps small businesses tame the confusing world of social media into a manageable relationships.</p>
+<p><a target="_blank" href="http://www.neo-matix.com">Neomatix</a> helps drivers and vehicle fleets save gas and increase safety by better monitoring of their car&#8217;s tires.</p>
+<p><a target="_blank" href="http://www.totalboox.com">TotalBoox</a> lets readers download ebooks for free, by helping  authors and publishers let charge for only what was read.</p>
+<p><a target="_blank" href="http://www.minit.com">minit</a> lets users post and reply to one another in 60 seconds bursts of video. The result is presented as as sequence of conversational videos.</p>
+<p><a target="_blank" href="http://www.telcred.com">Telcred</a> develops products that use NFC to provide physical access control that make it possible to replace traditional keys.</p>
+<p><a target="_blank" href="http://www.doctrackr.com">docTrackr</a> lets users share documents while maintaing deletion and update control, no matter where they&#8217;re stored, or whomever they&#8217;re shared with.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/HD5ak0D1Hgo/">here</a>.

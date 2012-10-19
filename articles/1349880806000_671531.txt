@@ -1,0 +1,16 @@
+{
+"title" : "eBay Unveils A Pinterest-Inspired Redesign And Launches eBay Now, A Same Day Delivery Service",
+"date" : "Wed, 10 Oct 2012 14:53:26 +0000",
+"author" : "Romain Dillet"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/curated-homepage.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="curated-homepage" title="curated-homepage" style="float: left; margin: 0 10px 7px 0;" /><p>At today&#8217;s New York press event, <a target="_blank" href="http://www.ebay.com">eBay</a> set the bar high by stating that it would unveil &#8220;the new eBay&#8221; today. The company introduced eBay Now, the same day delivery service they have been testing, and a completely redesigned website with a better search experience and item pages. And it looks a lot like Pinterest.</p>
+<p>In San Francisco, eBay has been testing eBay Now with same day delivery. Customers can order from mobile with selected partners, such as Toys&#8217;R'Us or Target. Today, eBay Now is now available to everyone in San Francisco with more cities to follow. You can download the app <a target="_blank" href="http://itunes.apple.com/us/app/ebay-now/id564040819?mt=8">for iOS</a>.</p>
+<p>Mark Carges, CTO of eBay, introduced a completely redesigned website with a better search experience designed to help users more easily find what they want. Christina Mercando, responsible of Product And Design at eBay, has been walking us through the new interface. The big image grid looks a lot like Pinterest.</p>
+<p>Sellers will get user pages with the same view of their products. The new site will roll out over the coming 100 days to users around the world.</p>
+<p>&#8220;If it&#8217;s the product they want they should be able to get it anywhere, anytime,&#8221; said Devin Wenig, President of eBay. Wenig told us the philosophy behind eBay&#8217;s innovations, with a great emphasis on mobile. eBay&#8217;s mobile apps have been downloaded more than 100 million times so far in 2012. For comparison, eBay has around 100 million active users.</p>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/10/photo2.jpg" rel="lightbox[671531]"></a>Yet, eBay believes that its experience is what will help the company. &#8220;Amongst the competitive landscape, our model and our 17 years of experience set us apart,&#8221; Wenig said.</p>
+<p>&#8220;Nowhere has mobile adoption been more stunning than in our business,&#8221; said Richelle Parham, CMO of eBay North America. In July, 2 million items per week were sold through mobile applications.</p>
+<p>Today marks the introduction of eBay&#8217;s <a href="http://techcrunch.com/2012/09/13/after-17-years-ebay-debuts-a-new-sleeker-logo/">new logo</a> as well.</p>
+<a href="http://techcrunch.com/2012/10/10/ebay-unveils-a-pinterest-inspired-redesign-and-launches-ebay-now-a-same-day-delivery-service/#gallery-671531-2-slideshow">Click to view slideshow.</a>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/orYpZeVtA7o/">here</a>.

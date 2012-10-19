@@ -1,0 +1,24 @@
+{
+"title" : "IAB: 6-Month Internet U.S. Ad Revenues Hit All-Time High Of $17B But Growth Slowing Again, Mobile Booming",
+"date" : "Thu, 11 Oct 2012 15:24:28 +0000",
+"author" : "Ingrid Lunden"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/04/iab-logo.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="iab logo" title="iab logo" style="float: left; margin: 0 10px 7px 0;" /><p>The IAB has published its <a target="_blank" href="www.iab.net/AdRevenueReport">half-year sales report</a> for Internet advertising in the U.S.: it&#8217;s come out to just over $17 billion for the first six months of this year, another record for online advertising. But after two years of steady increase, we&#8217;re seeing a slowdown in growth: the increase of 14% over the same period in 2011 is down from a 23% increase the year before.</p>
+<p>Still, that 14% represents consistent growth. The last time first-half revenues declined compared to the previous year was in 2009, and before that in 2002, both years following downturns in the overall economy and the former of them in the wake of the first dot-com bust.</p>
+<p></p>
+<p>Among the highlights in the report, compiled in cooperation with PwC:</p>
+<ul>
+<li>Mobile is up 95% to $1.2 billion in half-year 2012 from $636 million the same period in 2011. (Compare that to <a href="http://techcrunch.com/2012/10/11/solomo-update-mobile-only-social-networks-to-reach-1b-users-by-2014-800m-users-of-foursquare-other-location-services-this-year/">Gartner&#8217;s figures from earlier</a> forecasting $20.6 billion in mobile ads in 2015.) That gives it about 7% of all ad spend.</li>
+<li>Digital video ads saw an increase of 18% year-over-year, bringing just over $1 billion in revenue in the first half of 2012 compared to $900 million in the first six months of 2011. (<a href="http://techcrunch.com/2012/10/09/forrester-us-online-display-ad-spend-to-hit-12-7b-in-2012-rich-media-video-leading-the-charge/">Forrester</a> the other today also singled out video and rich media as two leading components for display ads in the U.S. specifically.)</li>
+<li>Display-ads revenues were nearly $5.6 billion, 33% of 2012 half-year revenues, up 4 percent from $5.3 billion in the first half of 2011.</li>
+<li>Search revenues are still growing but also slowing a bit. They were $8.1 billion, up 19% from nearly $6.8 billion during the same timeframe in 2011. That still gave them a full 48% of all online ad revenues, up from 46% in the same period a year ago.</li>
+</ul>
+<p></p>
+<p>Although search is still the clear leader, the IAB says that growth in areas like video and mobile signify how ad buyers are becoming more diversified (although declines in proportions for display and rich media undermine that). &#8220;This report establishes that marketers increasingly embrace mobile and digital video, as well as the entire panoply of interactive platforms to reach consumers in innovative and creative ways,&#8221; writes Randall Rothenberg, president and CEO of the IAB, in the report.</p>
+<p>In terms of sectors and how they are spending on ads, it looks like the big spenders continue to be big spenders, with little in the way of big changes in rankings. Retail advertisers are the biggest buyer in internet ads, accounting for 20% of the total revenues at $3.4 billion. Automotive brought in $2.2 billion for first-half 2012.</p>
+<p></p>
+<p>That&#8217;s for people buying ads. And in terms of who is selling them, there is an even greater amount of concentration, with the top 10 ad sellers accounting for a full 73% of all revenues. The IAB doesn&#8217;t list the top 10 but typically those rankings begin with Google and Facebook and include Microsoft, Yahoo and AOL.</p>
+<p>Looking ahead, the IAB, working with PwC, has done some revenue modelling for what we might see later in the year. In past years, even those where revenues declined, revenues for the second half of the year has always been higher than the first half, most likely taking into account increased holiday spend. For that reason, the IAB and PwC believe that this year overall will break records for the biggest-ever for online ad spend.</p>
+<p></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/iFi2Cb2CM7I/">here</a>.

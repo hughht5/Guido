@@ -1,0 +1,14 @@
+{
+"title" : "Sharethrough Raises $5M For Its Native Video Ad Platform",
+"date" : "Thu, 11 Oct 2012 11:06:25 +0000",
+"author" : "Anthony Ha"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/sharethrough-logo.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="sharethrough logo" title="sharethrough logo" style="float: left; margin: 0 10px 7px 0;" /><p>Video ad startup <a target="_blank" href="http://www.sharethrough.com">Sharethrough</a> has raised $5 million in Series B funding.</p>
+<p>The round comes from its existing investors North Bridge Venture Partners and Floodgate. The key, says CEO Dan Greenberg, was speed, because he wanted to &#8220;double down, triple down, as fast as we could&#8221; on Sharethrough&#8217;s strategy of native video advertising — namely ads that are customized to a publisher&#8217;s website and feel like an organic part of the content.</p>
+<p>Interest in native advertising has exploded this year, Greenberg says, and while he doesn&#8217;t take full credit for that growth, he has tried to position himself (partly through <a href="http://techcrunch.com/2012/05/12/5-ways-native-monetization-is-changing-silicon-valley/">guest columns</a> <a href="http://techcrunch.com/2012/08/04/dear-yahoo-i-redesigned-your-website-and-took-out-512240-pixels-of-banner-ads/">at TechCrunch</a>) at the forefront of the trend, saying, &#8220;The movement needed a name and it needed a Pied Piper.&#8221;</p>
+<p>Last month, the company <a href="http://techcrunch.com/2012/09/26/sharethrough-sponsored-videos/">launched the Sharethrough Sponsored Videos platform</a>. Even before that, Sharethrough was offering native advertising units, but the platform made the process more standardized and scalable for a large number of publishers and advertisers.</p>
+<p>The platform reaches 105 million people in the United States, Sharethrough says. The company claims to distribute native ads for 50 percent of the top 100 brands more than 85 percent of the top media agencies in the U.S. It also says revenue is up 87 percent year-over-year.</p>
+<p>As part of the funding announcement, Sharethrough also notes that it has hired new executives, including Chief Revenue Officer Mike Gaffney (former CRO at Auditude) and Vice President of Operations James Navin (former senior vice president of operations at Federated Media).</p>
+<p>Sharethrough has now raised a total of $11 million.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/G8h45aqmh2g/">here</a>.

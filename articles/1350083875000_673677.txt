@@ -1,0 +1,18 @@
+{
+"title" : "U.S. Postal Service Plans To Launch Experimental Same-Day Delivery Service In November",
+"date" : "Fri, 12 Oct 2012 23:17:55 +0000",
+"author" : "Frederic Lardinois"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/usps-truck.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="usps-truck" title="usps-truck" style="float: left; margin: 0 10px 7px 0;" /><p>The <a target="_blank" href="https://www.usps.com/">United States Postal Service</a> (USPS) just informed the <a target="_blank" href="http://www.prc.gov/prc-pages/default.aspx">Postal Regulatory Commission</a> that it plans to launch an experimental same-day delivery service called Metro Post. The USPS says this test is specifically designed for e-commerce companies and will initially focus on a single (currently undisclosed) metropolitan area. The market test for Metro Post is scheduled to begin around November 12 and run for at least one year.</p>
+<p>The Postal Service notes that the daily cut-off time for making a purchase will likely be between 2pm and 3pm and delivery should occur between 4pm and 8pm. Sadly, the filing does not include the USPS&#8217;s pricing plans, which it asked to be redacted from the public version of the document.</p>
+<p>Currently, it seems, the Postal Service is looking for online e-commerce companies to partner with. To qualify, a company must have at least 10 physical locations in the U.S., and at least one of these must be in the test area. In total, the USPS plans to partner with up to 10 companies for this test.</p>
+<p>It&#8217;s worth noting that this will be a relatively small experiment at first. According to the filing, only 200 packages per day can receive same-day delivery during the first phase of the market test. The filing, however, also notes that this restriction can obviously be lifted after the initial test.</p>
+<p>Overall, however, the USPS anticipates that revenue from Metro Post could top $10 million in the first year, though due to postal regulations, the filing also notes that the Postal Service doesn&#8217;t expect that revenues will exceed $50 million in any year.</p>
+<p>Numerous e-commerce companies, of course, have been experimenting with same-day deliver lately. Amazon, for example, has slowly expanded its same-day delivery service and Walmart just launched its test <a target="_blank" href="http://www.nytimes.com/2012/10/10/business/wal-mart-tests-same-day-delivery.html?ref=technology">earlier this week</a>. With <a href="http://techcrunch.com/2012/10/11/e-commerce-delivery-startup-shutl-lands-another-3-2m-in-run-up-to-u-s-launch/">Shutl</a> and other startups, there are also currently quite a few startups that plan to compete in this market.</p>
+<p>There is clearly demand for this kind of service, though the success will also depend on how the various companies price it.</p>
+<p>Here is a copy of the filing:</p>
+<iframe class="scribd_iframe_embed" src="http://www.scribd.com/embeds/109868440/content?start_page=1&view_mode=&access_key=key-2emd6bkhv7j7dsysusn9" data-auto-height="true" scrolling="no" id="scribd_109868440" width="100%" height="500" frameborder="0"></iframe>
+<div style="font-size:10px;text-align:center;width:100%"><a href="http://www.scribd.com/doc/109868440">View this document on Scribd</a></div>
+<p>(Image credit: Flickr user <a id="yui_3_5_1_3_1350083239620_1312" target="_blank" href="http://www.flickr.com/photos/76969036@N02/7318313824/">David Guo</a>)</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/CEHX2F5o2Y0/">here</a>.

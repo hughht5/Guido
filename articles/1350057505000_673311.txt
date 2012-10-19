@@ -1,0 +1,14 @@
+{
+"title" : "Canonical’s Ubuntu One Cloud Storage Service Comes To The Mac",
+"date" : "Fri, 12 Oct 2012 15:58:25 +0000",
+"author" : "Frederic Lardinois"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/ubuntu_one_logo.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="ubuntu_one_logo" title="ubuntu_one_logo" style="float: left; margin: 0 10px 7px 0;" /><p>Canonical isn&#8217;t just the company behind the popular Linux distribution <a target="_blank" href="http://www.ubuntu.com/">Ubuntu</a>, but with <a target="_blank" href="https://one.ubuntu.com/">Ubuntu One</a>, it also offers a cloud storage service with 5GB of free storage space, as well as a music locker, and support for Android, iOS, Windows and, <a target="_blank" href="http://voices.canonical.com/ubuntuone/2012/10/11/ubuntu-one-for-mac-os-x-now-in-beta/">starting today, OS X</a>.</p>
+<p>The Mac version is officially in beta, but already includes all of the standard Ubuntu One features, though users of other cloud storage services will likely miss things like drag and drop uploading and full integration into the Finder.</p>
+<p><a href="http://techcrunch.com/2012/10/12/canonicals-ubuntu-one-cloud-storage-service-comes-to-the-mac/web_sharing/" rel="attachment wp-att-673329"></a>OS X aficionados will also notice that the interface doesn&#8217;t quite follow Apple&#8217;s user interface guidelines. The Ubuntu One team, however, stresses that &#8220;this is a beta we are still working hard fixing bugs to make the Mac client even slicker.&#8221;</p>
+<p>Similar to Dropbox, Ubuntu One&#8217;s referral program lets you bump up your free storage to up to 20GB. Additional storage costs $2.99 per month for every 20GB. The music streaming service, which includes 20GB of storage for your songs and allows you to stream your music via the web and to your Android or iOS device, costs an additional $3.99 per month.</p>
+<p><a href="http://techcrunch.com/2012/10/12/canonicals-ubuntu-one-cloud-storage-service-comes-to-the-mac/mac-client-top-img/" rel="attachment wp-att-673315"></a></p>
+<p>Ubuntu One, of course, has its fair share of rivals on the Mac, including heavyweights like <a target="_blank" href="http://dropbox.com">Dropbox</a>, <a target="_blank" href="http://drive.google.com">Google Drive</a> and Microsoft <a target="_blank" href="http://skydrive.com">SkyDrive</a>. For most Mac users, there is little reason to switch to Ubuntu One, but if you are an avid Linux user who also has a Mac at home or at work, Ubuntu One is probably worth a look.</p>
+<p>The Mac client is available for download <a target="_blank" href="https://one.ubuntu.com/downloads/mac/">here</a>.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/ADchVegKBFM/">here</a>.

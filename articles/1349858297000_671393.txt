@@ -1,0 +1,11 @@
+{
+"title" : "E-Reading Company Kobo Acquires Publishing Platform Aquafadas To Make It Easier To Bring Content To Its Wares",
+"date" : "Wed, 10 Oct 2012 08:38:17 +0000",
+"author" : "Steve O'Hear"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/koboglo.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="koboglo" title="koboglo" style="float: left; margin: 0 10px 7px 0;" /><p><a href="http://techcrunch.com/tag/kobo/">Kobo</a>, the Rakuten-owned e-reading company, has announced that it is to acquire the French digital publishing platform <a target="_blank" href="http://www.aquafadas.com">Aquafadas</a> to bolster the breadth of content available on its e-reader devices, for which it claims 10 million users in 190 countries. Terms of the deal remain undisclosed.</p>
+<p>The acquisition gives Kobo access to the Aquafadas Digital Publishing System, which the company says will enable it to bring a selection of rich media –- magazines, academic journals, comics, kids&#8217; books and more &#8212; to its customers, by providing better content creation tools for publishers.</p>
+<p>Aquafadas&#8217;s Digital Publishing System offers a complete digital publishing suite &#8212; from content design to cross-platform distribution and analytics, and combines content design tools with a &#8220;versatile library of ready-to-use apps&#8221;, ePub3 export, and a Web reader. Thus enabling publishers to create richly designed content without the need for any coding chops. The Kobo hook up is about bringing distribution directly to that publishing platform.</p>
+<p>In related news, Kobo&#8217;s self-publishing platform, Kobo Writing Life, is now available in German, French, Italian, Portuguese and Dutch, in addition to English &#8211; with several new languages planned &#8220;over the coming months&#8221;. Since its launch in July, the company says that Kobo Writing Life has doubled month over month, with authors spanning 82 countries, publishing in 17 languages. Its Writing Life self-publishing feature should also benefit from today&#8217;s acquisition with better tools.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/8U9CtZHOA_s/">here</a>.

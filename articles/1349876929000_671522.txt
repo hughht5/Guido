@@ -1,0 +1,11 @@
+{
+"title" : "OnLive Was OnDead Last Summer: $18 Million In Debt, Sold For $4.8 Million",
+"date" : "Wed, 10 Oct 2012 13:48:49 +0000",
+"author" : "John Biggs"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/01/onlive-logo.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Onlive-Logo" title="Onlive-Logo" style="float: left; margin: 0 10px 7px 0;" /><p>Another step in the <a href="http://techcrunch.com/tag/OnLive">OnLive</a> saga comes to us from the <a target="_blank" href="http://www.mercurynews.com/business/ci_21735364/onlive-assets-palo-alto-gaming-company-were-sold-4-million">Mercury News</a> where reporter Troy Wolverton writes that investor Gary Lauder paid $4.8 million for the company assets and that OnLive was $18 million in debt after raising $40 million from AT&amp;T and others. The news appeared in a letter from Joel Weinberger, CEO of Insolvency Services Group.</p>
+<p>OnLive <a href="http://techcrunch.com/2012/08/19/onlive-sold-to-onlive-and-nothing-will-change-heartbreaking-transition-notwithstanding/">sold itself to itself</a> in a clever financial maneuver last August and is now a new company using the OnLive brand and IP &#8211; and customer list. As of today the organization is still offering gaming service. Wolverton notes that this deal was the &#8220;best that OnLive could get&#8221;.</p>
+<p>The company said in an August release the &#8220;OnLive partnerships, are expected to continue without interruption and all customer purchases will remain intact; users are not expected to notice any change whatsoever.&#8221;</p>
+<p>OnLive streams video games over the network to various devices including consoles and computers. The subscription-based service allowed users to access and play multiple games at high resolution while all processing occurred in the company&#8217;s server farm.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/P_DdX0kB4M8/">here</a>.

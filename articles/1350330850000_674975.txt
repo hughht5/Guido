@@ -1,0 +1,15 @@
+{
+"title" : "Streak Raises $1.9 Million For Gmail-Based CRM App",
+"date" : "Mon, 15 Oct 2012 19:54:10 +0000",
+"author" : "Alex Williams"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/09/streak-logo.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="streak logo" title="streak logo" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.streak.com/">Streak</a> has raised $1.9 million for its CRM service that uses a Google Chrome extension to share your email and track deals through your GMail inbox.</p>
+<p>Investors include Battery Ventures, Chris Sacca of Lowercase Capital, Redpoint, Floodgate, Crunchfund, and a host of VC partners and angel investors such as <a target="_blank" href="http://www.davidtisch.com/">David Tisch</a> and <a target="_blank" href="http://en.wikipedia.org/wiki/Michael_Birch_(businessman)">Michael Birch,</a> who founded Bebo. Streak will use the funding to expand its team and focus on building out its mobile efforts.</p>
+<p>In addition to the funding, Streak is also <a target="_blank" href=" www.streak.com/api">unveiling an API</a> to programmatically pull data from Streak for access in such apps as MailChimps and Wufoo. The Streak team sees a number of use cases, including creating and editing boxes (useful for setting up web forms that submit straight to Streak); creating and editing pipelines; setting up automated reminders; searching through Streak data and getting a newsfeed for updates to a customer&#8217;s boxes and pipelines.</p>
+<p>Streak <a href="http://techcrunch.com/2012/03/21/gmail-streak/">launched last March</a> out of the winter Y Combinator class. Since then, Co-Founder Aleem Mawaani says the company has had 71% month-to-month growth. You need to take that kind of growth with a dose of reality, considering the company only launched seven months ago. But you can see its popularity in how it consolidates two different silos into one. You can manage one UI as opposed to Salesforce.com for managing leads and email for doing deals. Mawani said a friend who works for <a target="_blank" href="https://www.uber.com/">Uber</a> told him that half the company uses the Streak service to manage marketing projects and rollouts.</p>
+<p>The company targets small- and medium-sized businesses. It is free now. Premium services will come next spring.</p>
+<p>Mawani said Gmail&#8217;s deep JavaScript and HTML complexity makes it difficult to build apps. But the platform itself has 450 million active users, making it a fertile place to build out services.</p>
+<p>Streak sees a whole host of other use cases besides CRM &#8211; specifically, task management, bug tracking, deal flow and hiring.</p>
+<p>Streak competes with Salesforce.com, Sugar CRM and a host of others. It aspires to build an ecosystem of apps and help others do the same on the Gmail platform. its competitors may be much bigger but few can say they know the massive Gmail community as well as Streak.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/zULE5nFT0E4/">here</a>.

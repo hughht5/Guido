@@ -1,0 +1,19 @@
+{
+"title" : "Google+ Mobile Apps Now Support Pages, iOS App Gets iPhone 5 Support And Finally Lets You Edit Your Posts",
+"date" : "Thu, 11 Oct 2012 04:13:56 +0000",
+"author" : "Frederic Lardinois"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/unnamed.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="unnamed" title="unnamed" style="float: left; margin: 0 10px 7px 0;" /><p>Google just <a target="_blank" href="https://plus.google.com/u/0/108094760132961329912/posts/RaSZ3o2uZjr">launched</a> the latest version of its Google+ apps for <a target="_blank" href="https://play.google.com/store/apps/details?id=com.google.android.apps.plus&amp;hl=en">Android</a> and <a target="_blank" href="http://itunes.apple.com/us/app/google+/id447119634?mt=8">iOS</a>. The most important new feature in this update is <a href="http://techcrunch.com/2012/10/10/good-news-for-brands-google-app-gets-page-management-support-on-android-and-ios/">support for Google+ pages</a>. Page owners can now view, post and comment from their mobile devices, something quite a few Google+ users have been asking for ever since Google first <a target="_blank" href="http://googleblog.blogspot.com/2011/11/google-pages-connect-with-all-things.html">launched</a> pages last November.</p>
+<p>Google <a target="_blank" href="https://plus.google.com/u/0/108094760132961329912/posts/RaSZ3o2uZjr">says</a> the ability to manage pages was one of its &#8220;most highly-requested features&#8221; for the Google+ mobile apps.</p>
+<p><a href="http://techcrunch.com/2012/10/10/google-mobile-apps-now-support-pages-ios-app-gets-iphone-5-support-and-finally-lets-you-edit-your-posts/unnamed-15/" rel="attachment wp-att-672103"></a>The Android and iOS apps are getting a number of other new features as well. For the iOS version, this mostly means catching up with the Android app. The iOS app, for example, now finally lets you edit your posts after you have published them. In addition, you can now save photos to your camera roll, and the updated app now supports the iPhone5&#8242;s larger screen.</p>
+<p>One new feature that&#8217;s specifically for iPad users is the ability to search for people and posts from inside the app (the iPhone app already offered this capability before).</p>
+<p>The Android version didn&#8217;t get quite as many updates. It now offers a redesigned &#8220;Find People&#8217; experience and homescreen widget. Google also says that the app now allows you to access photos from posts with just one click.</p>
+<p>Here is the full announcement:</p>
+<blockquote><p><b>New in the mobile app: support for Google+ pages</b></p>
+<p>Today we&#8217;re rolling out v3.2 of the Google+ app to Android and iOS; both versions include one of our most highly-requested features: support for Google+ pages. This gives page owners the ability to post, comment, and interact with their followers directly from their mobile device.</p>
+<p>Additionally:<br />
+- The Android version includes an updated widget, and a new &#8216;Find People&#8217; experience.<br />
+- The iOS version adds iPhone 5 and iOS 6 support, and the ability to edit your posts.</p>
+<p>The new app is available now from Google Play (<a target="_blank" href="http://goo.gl/xaxMx">http://goo.gl/xaxMx</a>) and the App Store (<a target="_blank" href="http://goo.gl/RVv2S">http://goo.gl/RVv2S</a>), so give it a spin and let us know what you think!</p></blockquote>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/Yumb21GXHvw/">here</a>.

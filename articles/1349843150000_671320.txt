@@ -1,0 +1,25 @@
+{
+"title" : "Hands On With The Kupa UltraNote, A Modular, Customizable Tablet That Makes Windows 8 Shine",
+"date" : "Wed, 10 Oct 2012 04:25:50 +0000",
+"author" : "Darrell Etherington"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/img_9478.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="IMG_9478" title="IMG_9478" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/10/img_9470.jpg" rel="lightbox[671320]"></a>At the Pepcom MobileFocus event at CTIA MobileCon, an unlikely underdog made a very big impression on me. It was the <a target="_blank" href="http://kupaworld.com/">Kupa</a> UltraNote, and it was my first hands on with a tablet that ships with Windows 8 installed. The Kupa impressed, from its modular design that allows for ample customizability, to its pen-based, pressure-sensitive input system that makes drawing on the tablet a pleasure.</p>
+<p>The UltraNote isn&#8217;t Kupa&#8217;s first crack at a Windows tablet; the company also put out the X11, a Windows 7 device that received positive reviews from some quarters. But this is the first of its tablet products that has a truly compatible and suitable partner in the form of Windows 8, which is built from the ground up for touchscreen input. And the difference really shows in Kupa&#8217;s latest effort.</p>
+<p>The UltraNote is an Intel Ivy Bridge i7, i5 or i3-based Windows 8 device, with a 10.1-inch 1920 x 1200 IPS display. It offers 10 points of multitouch input sensitivity, comes with digitizer pen input with 1024 levels of pressure sensitivity (on par with some pro drawing tablets), ships with 4GB of RAM and is expandable up to 8GB, and offers either 64GB or 128GB of SSD storage. It also weighs only 760g, has a seven-hour battery life, or 12 hours with a docking station accessory, and even boasts a user-swappable battery that Kupa says will be inexpensive to replace.</p>
+<p>There&#8217;s also a SIM card slot on that list of pleasant surprises, and Kupa CTO Yuan Xie explained in an interview that it will work with a modular handset extension to operate as a real, practical phone. It also has two USB 3.0 slots, an HDMI out, Wi-Fi 802.11a/b/g/n/ac and 3G/4G LTE radios, as well as Bluetooth 4.0, RFID and NFC.</p>
+<p>The modularity allows the Kupa UltraNote to dock additional accessories to one side, making it possible to add additional ports, additional hardware accessories and more.</p>
+<p>Xie was also particularly proud of the screen, which avoids the typical 1920 x 1080 resolution for 10.1-inch displays Windows is pushing, and providers users with more usable screen real estate, which he says is better for productivity apps.</p>
+<p>The UltraNote ships in November, the company says, and for a price that&#8217;s yet to be determined, along with a keyboard dock accessory that&#8217;s also still not priced. We&#8217;ll have more time with the device when it&#8217;s ready to ship and will let you know how it performs in longer trials. But for now it&#8217;s a very promising early look at Win 8 on tablet hardware.
+<a href='http://techcrunch.com/2012/10/09/hands-on-with-the-kupa-ultranote-a-modular-customizable-tablet-that-makes-windows-8-shine/img_9470/' title='IMG_9470'></a>
+<a href='http://techcrunch.com/2012/10/09/hands-on-with-the-kupa-ultranote-a-modular-customizable-tablet-that-makes-windows-8-shine/img_9471/' title='IMG_9471'></a>
+<a href='http://techcrunch.com/2012/10/09/hands-on-with-the-kupa-ultranote-a-modular-customizable-tablet-that-makes-windows-8-shine/img_9472/' title='IMG_9472'></a>
+<a href='http://techcrunch.com/2012/10/09/hands-on-with-the-kupa-ultranote-a-modular-customizable-tablet-that-makes-windows-8-shine/img_9474/' title='IMG_9474'></a>
+<a href='http://techcrunch.com/2012/10/09/hands-on-with-the-kupa-ultranote-a-modular-customizable-tablet-that-makes-windows-8-shine/img_9477/' title='IMG_9477'></a>
+<a href='http://techcrunch.com/2012/10/09/hands-on-with-the-kupa-ultranote-a-modular-customizable-tablet-that-makes-windows-8-shine/img_9478/' title='IMG_9478'></a>
+<a href='http://techcrunch.com/2012/10/09/hands-on-with-the-kupa-ultranote-a-modular-customizable-tablet-that-makes-windows-8-shine/img_9479/' title='IMG_9479'></a>
+<a href='http://techcrunch.com/2012/10/09/hands-on-with-the-kupa-ultranote-a-modular-customizable-tablet-that-makes-windows-8-shine/img_9480/' title='IMG_9480'></a>
+<a href='http://techcrunch.com/2012/10/09/hands-on-with-the-kupa-ultranote-a-modular-customizable-tablet-that-makes-windows-8-shine/img_9482/' title='IMG_9482'></a>
+<a href='http://techcrunch.com/2012/10/09/hands-on-with-the-kupa-ultranote-a-modular-customizable-tablet-that-makes-windows-8-shine/img_9483/' title='IMG_9483'></a>
+</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/6-54PeewcVE/">here</a>.

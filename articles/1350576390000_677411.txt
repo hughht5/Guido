@@ -1,0 +1,33 @@
+{
+"title" : "Metaio’s New SDK Allows SLAM Mapping From 1,000 Feet",
+"date" : "Thu, 18 Oct 2012 16:06:30 +0000",
+"author" : "Jay Donovan"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/slam.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="slam" title="slam" style="float: left; margin: 0 10px 7px 0;" /><p>Munich-based augmented reality pioneers <a target="_blank" href="http://www.metaio.com/">Metaio</a> announce today a whole slew of new products. These include:</p>
+<ul>
+<li><a target="_blank" href="http://www.metaio.com/products/sdk/">A new SDK</a> - powered by a new Augmented Reality Experience Language (AREL)</li>
+<li>An update to <a target="_blank" href="http://dev.metaio.com/creator/getting-started/">Metaio Creator</a> (their AR desktop publishing tool for non-technical users)</li>
+<li>Advanced camera technologies like continuous visual search and <a target="_blank" href="http://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping">SLAM</a> (Simultaneous Localization and Mapping).</li>
+</ul>
+<p>One of the primary goals of this new set of tools is to enable beginning-to-end augmented reality content creation and deployment for non-technical individuals or businesses.</p>
+<p>And it’s all free too (more or less).</p>
+<p>Partially announced to attendees of <a target="_blank" href="http://www.metaio.com/insideAR/">their annual insideAR Conference</a> the robustness of this new offering will, according to Metaio, effectively enable “AR on anything, anywhere.”</p>
+<p>To demonstrate the new toolset’s potential, they’ve put together a couple of demo videos that would make any bonafide nerd swoon (a.k.a. flying a drone aircraft at 1,000 feet over a city and using SLAM techniques to map the terrain and houses below with 3D coordinate system and little green feature points — duh, what’s not to like?).</p>
+<span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/10/18/metaios-new-sdk-allows-slam-mapping-from-1000-feet/"></a></span>
+<p>To an AR geek like me, this SLAM tracking (based on their own proprietary algorithms) is the big news and has the most potential. Metaio have been perfecting this technology even before last year’s Mobile World Congress where <a href="http://techcrunch.com/2012/02/29/map-your-own-3d-space-with-metaio-creator-mobile/">they showed me a demo of the technology at a small scale</a> &#8211; using a city model to demonstrate. To be clear, the technology allows people to use a mobile device to &#8220;map&#8221; an area with 3D points so AR content can later be associated with those points.</p>
+<p>But aerial mapping of real, large scale terrain or buildings, in real-time (with simple, non-stereo HD cameras and Smartphones) is pretty awesome. <strong>Being able to map large physical spaces with AR content at this scale is a valuable tool.</strong></p>
+<p>This is just one more group of tools the company is releasing to reach their two-fold goal of making the <em>Augmented City</em> a practical reality and getting AR on every smartphone by 2014.</p>
+<span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/10/18/metaios-new-sdk-allows-slam-mapping-from-1000-feet/"></a></span>
+<p>But beyond this grander, content enablement strategy, Metaio have some practical updates too, like new additions to their Metaio Creator desktop publishing platform.</p>
+<p>Metaio Creator is a drag-and-drop tool that basically lets consumers or businesses map their own AR or 3D content to physical images like magazine pages. <a href="http://techcrunch.com/2011/10/02/head-mounted-displays-diy-augmented-reality-and-more-at-insidear/">The concept is demonstrated here.</a> The new update provides some magazine specific upgrades like allowing the modification of multiple, sequential images at once.</p>
+<p>This will no doubt increase the productivity of a growing number of print agencies employing this tool to add AR visualizations to their magazines.</p>
+<span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/10/18/metaios-new-sdk-allows-slam-mapping-from-1000-feet/"></a></span>
+<p>This is an exciting time for augmented reality and there are so many cool AR technologies coming to market. I probably get an email a week about this or that new app or service&#8230;there are many great ones out there.</p>
+<p>But Metaio’s offerings are quite scientific and therefore, in my mind, above the hype. The company is strategic like marketers but have the tactical planning of scientists (because, well&#8230; a bunch of them actually are scientists).</p>
+<p>In any event, as more and more developers out there consume AR SDKs I think Metaio’s will rank at the top because of the capability and innovation they continue to push. For example, they are still experimenting with new improvements in AR overlay snapping that are much more accurate than those that are based solely on GPS.</p>
+<span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/10/18/metaios-new-sdk-allows-slam-mapping-from-1000-feet/"></a></span>
+<p>Like I said, I see a lot of AR tech, but nobody is doing it (tactically) quite like this.</p>
+<p>More info at metaio.com<br />
+SLAM!</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/f8oi2sflBVw/">here</a>.
