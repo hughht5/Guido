@@ -1,0 +1,15 @@
+{
+"title" : "Wedding Startup Appy Couple Raises $1.2 Million Led By John Frankel",
+"date" : "Fri, 19 Oct 2012 14:20:13 +0000",
+"author" : "Jordan Crook"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/appycouple.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="appycouple" title="appycouple" style="float: left; margin: 0 10px 7px 0;" /><p>As you may have noticed in the last year, catering online services to women (<em>especially</em> wedding services) has turned out to be a big hit in Startup land. And one of the earlier companies out of the gates was <a href="http://techcrunch.com/2012/05/02/wedding-startup-appy-couple-has-a-wait-list-7000-strong-and-its-still-in-beta/">Appy Couple</a> founded by Sharmeen Mitha-Sehgal, which has just raised a $1.2 million seed round led by <a target="_blank" href="http://www.crunchbase.com/person/john-frankel">John Frankel</a> of <a target="_blank" href="http://www.crunchbase.com/financial-organization/ff-asset-management">ff Venture Capital</a>.</p>
+<p>Frankel will also be joining the board of directors at Appy Couple.</p>
+<p>Appy Couple lets brides create an entirely unique app for their wedding, complete with design templates and color themes. Guests, members of the wedding party, relatives, etc. can then access the app in the App Store, just like any other app, and interact with the information.</p>
+<p>Appy Couple acts as a sort of digital hub for the couple, filled with specific dates, pictures, the story of how they met, and anything.</p>
+<p>The company graduated out of the <a target="_blank" href="http://www.crunchbase.com/company/er-accelerator">ER Accelerator</a> in April with a waiting list <a href="http://techcrunch.com/2012/05/02/wedding-startup-appy-couple-has-a-wait-list-7000-strong-and-its-still-in-beta/">7,000-strong</a>, and that was for a beta product.</p>
+<p>Sharmeen says that the new round will go toward building out the product team on both the creative and development side. She hopes to add three more positions, taking her headcount from six to nine.</p>
+<p>So far, according to the Sharmeen, the most challenging piece of the puzzle has been developing for Android, with its fragmented screen sizes and resolution. These new product hires should help solve that.</p>
+<p>In related news, Appy Couple plans to be out of beta by the end of the year.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/uzvCN8KB5xk/">here</a>.
