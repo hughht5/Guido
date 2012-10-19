@@ -267,7 +267,7 @@ function tweet(posts){
 
 	//tweet all posts
 	for (var x =0; x < posts.length; x++){
-	
+		
 		var tweetText = posts[x].title;
 	
 		var tweetURL = getURL(posts[x]);
@@ -293,8 +293,8 @@ function getURL(post){
 	var date = new Date(post.pubDate);
 	var year = date.getFullYear();
 	var month = ('0'+(date.getMonth()+1)).slice(-2);
-	var result = "http://www.techcrunchlite.com/"+[year, month, encodeURI(post.title.replace(/\s/g, '-'))].join('/');
+	var url = "http://www.techcrunchlite.com/"+[year, month, encodeURI(post.title.replace(/\s/g, '-'))].join('/');
 	
-	return result;
+	return url;
 }
 
