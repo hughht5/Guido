@@ -4,11 +4,11 @@
 "author" : "Alex Williams"
 }
 
-<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2010/07/github-logo.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="github-logo" title="github-logo" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://github.com">GitHub</a> went down again for the second time in the span of a month &#8212;  this time from a Distributed Denial of Service Attack (DDoS). The site is now back up. In all, the attack kept GitHub down for about 90 minutes.</p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2010/07/github-logo.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="github-logo" title="github-logo" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://github.com">GitHub</a> went down for the second time in the span of a month &#8212;  this time from a Distributed Denial of Service Attack (DDoS). The site is now back up. In all, the attack kept GitHub down for about 90 minutes.</p>
 <p>The first report of the site going down came at 1:105 p.m. with the following  <a target="_blank" href="https://status.github.com/">status update</a>:</p>
 <blockquote><p>We&#8217;re experiencing some connectivity issues at the moment. GitHub.com is currently unavailable while we resolve this.</p></blockquote>
 <p>GitHub acknowledged the attack at 1:33 p.m:</p>
 <blockquote><p>We are experiencing issues due to a DDOS attack, working hard to restore service</p></blockquote>
-<p>Last month,  a<a href="http://techcrunch.com/2012/09/14/github-explains-this-weeks-outage-and-poor-performance/"> database migration went awry</a> on GitHub causing an outage and poor availability.</p>
+<p>Last month, a<a href="http://techcrunch.com/2012/09/14/github-explains-this-weeks-outage-and-poor-performance/"> database migration went awry</a> on GitHub causing an outage and poor availability.</p>
 <p>Disruptions have nagged GitHub over the past week. Two minor disruptions occurred yesterday and the day before.</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/jqiM-KVIrf8/">here</a>.
