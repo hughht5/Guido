@@ -1,0 +1,24 @@
+{
+"title" : "10 Reasons Why Windows 8 Will Do Just Fine In The Work World",
+"date" : "Sat, 20 Oct 2012 15:00:17 +0000",
+"author" : "Alex Williams"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/07/windows-8-metro.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="windows-8-metro" title="windows-8-metro" style="float: left; margin: 0 10px 7px 0;" /><p>There are any number of good reasons why Windows 8 will do just fine in the work world. But in today&#8217;s market,   success is not guaranteed, especially as PC sales continue to slide. Gartner Research reports that third quarter shipments for PCs are down 8% compared to last year.</p>
+<p>Still, even with the poor market for PCs, the outlook for Windows 8 looks positive in the enterprise. Here are ten reasons why, which I discussed yesterday over Skype with <a target="_blank" href="http://www.constellationrg.com/">Constellation Research</a> Founder <a target="_blank" href="http://blog.softwareinsider.org/r-ray-wang/">Ray Wang </a>:</p>
+<ul>
+<li>It&#8217;s time for enterprise customers to do a refresh from the still widely used Office 2003.</li>
+<li>Windows 8 represents the consumerization of IT in a package that the CIO understands.</li>
+<li>Microsoft got the user experience right with the tiles and the Metro-style UI.</li>
+<li>Windows 8 represents one platform that is available across multiple screens &#8212; desktop, mobile, ultrabooks, etc.</li>
+<li>It&#8217;s like chasing cats trying to manage cloud best of breed hell &#8211; you still need a corporate standard. Windows 8 fits the bill.</li>
+<li>Legacy apps will work on Windows 8, making the transition to the new operating system relatively simple.</li>
+<li>It is inconsequential that Microsoft is not the most far out in front innovator. Over time, the enterprise that adopts Windows 8 will catch up to market innovation.</li>
+<li>The CIO can consolidate under Windows 8.</li>
+<li>The Surface, which runs Windows 8 RT,  doubles as a laptop. It&#8217;s ready for the knowledge worker to do the day-to-day work that needs to get done.</li>
+<li>Windows 8 has built-in mobile device management and security, making it enterprise class.</li>
+</ul>
+<p>Big business has good reason to adopt Windows 8. But small and medium-sized businesses are far better off, in my opinion, of not adopting Windows 8. Their choices are just too numerous. They have their choice of platforms such as Google Apps or Zoho. They can use Dropbox or Box for keeping documents in one place.</p>
+<p>Big business has the option, too, of using the rich array of available apps and services. And they will do so as long as technology continues to get more affordable and easy to create. That&#8217;s inevitable. High speed networking is getting ever less expensive; storage is getting more sophisticated with the advent of solid state disk and flash; memory is doubling and the computing capabilities on clients, servers and elastic infrastructures has leaped over the past few years.  That means faster apps, with loads of data that do not require an operating system to keep running. That is, unless we are talking about mobile, which now has three dominant operating systems: iOS, Android and Windows 8.</p>
+<p>Microsoft&#8217;s propensity to shut out competitors should make customers wary. Sure there are all sorts of conveniences and capabilities that come with Windows 8. But potential customers should be weighed with the choices that are available in the market and the traps that come with being too dependent on one mobile platform.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/eeu-D3gNZe8/">here</a>.
