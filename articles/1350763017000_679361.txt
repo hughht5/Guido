@@ -1,5 +1,5 @@
 {
-"title" : "Zuck’s Advice For Startups: Explore Before You Commit, Listen, Build Something Fundamental, Don’t Copy",
+"title" : "Zuck’s Advice To Startups: Explore Before You Commit, Listen, Build Something Fundamental, Don’t Copy",
 "date" : "Sat, 20 Oct 2012 19:56:57 +0000",
 "author" : "Josh Constine"
 }
