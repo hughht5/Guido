@@ -1,0 +1,13 @@
+{
+"title" : "Facebook’s First Server Cost $85/Month",
+"date" : "Sat, 20 Oct 2012 19:59:30 +0000",
+"author" : "Rip Empson"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/10688v39-max-250x2501.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="10688v39-max-250x250" title="10688v39-max-250x250" style="float: left; margin: 0 10px 7px 0;" /><p>At Startup School today in the Memorial Auditorium at Stanford University, Facebook co-founder and CEO Mark Zuckerberg spoke to Y Combinator founder Paul Graham about the early days of Facebook. He revealed that, early on, the team did not intend for the TheFacebook.com (as it was called) to become a business. </p>
+<p>In fact, being at Harvard and all, Facebook had no cash to run the business and operated it for the first few months for $85/month, which was the cost of renting one server. Facebook&#8217;s first server.</p>
+<p>But how did Facebook support its early operations and pay for these wildly expensive servers? Banner ads! Yes, banner ads. As Zuck mentioned in the interview, it was (co-founder) Eduardo Saverin&#8217;s job early on to find ads for Facebook to use, as AdSense had just been released, for example. TheFacebook.com had a network of banner ads, but as Zuck implies, they really weren&#8217;t making any money. Just enough to pay for those $85 servers.</p>
+<p>Facebook, as the story goes, it took about a year for Facebook to reach its first million users. For most, that would be considered speedy expansion, but Zuckerberg implied that (humorously enough) the early constraints on Facebook&#8217;s scaling were having to pay for those first servers. Apparently, $85 didn&#8217;t come so easy back then. </p>
+<p>In terms of expansion, Zuckerberg told the audience the reason the co-founders chose Yale, Stanford and Columbia as the first schools at which they&#8217;d launch Facebook, was because they knew it would be tough to succeed at those schools. That was because those three schools already had some kind of simple student social network already established. </p>
+<p>If they could succeed in finding quick penetration into Yale, Stanford and Columbia, Zuck said, with nascent competition already in place, then they knew the rest would come easier. So that&#8217;s potentially some great advice for the young entrepreneurs out there: Start with the biggest challenge. If it works, the rest will seem easy in comparison. (Of course, don&#8217;t expect to get a billion users.)</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/1y01NqdsflY/">here</a>.
