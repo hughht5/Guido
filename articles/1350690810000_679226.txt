@@ -1,0 +1,27 @@
+{
+"title" : "Is Twitter Starving Pheed? New Social Network Says Its Twitter Connect Got Cut Off",
+"date" : "Fri, 19 Oct 2012 23:53:30 +0000",
+"author" : "Ingrid Lunden"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-20-at-00-45-21.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-10-20 at 00.45.21" title="Screen Shot 2012-10-20 at 00.45.21" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.pheed.com">Pheed</a> &#8212; the celeb-fuelled social networking site that has gone a bit viral in the last few days &#8212; may be going on a diet. </p>
+<p>The site says that about two hours ago, Twitter cut off access for people to log into the site using their Twitter credentials. Users can still log in with their email or Facebook accounts, but those who have already signed up by linking their Twitter accounts, or want to do so to find contacts on Pheed, currently cannot.</p>
+<blockquote class='twitter-tweet'><p>@<a href="https://twitter.com/fpace">fpace</a> we got blocked by Twitter for some reason, might be experiencing problems with twitter connect, hope it is resolved shortly&mdash; <br />&nbsp; (@Pheed) <a href='http://twitter.com/#!/Pheed/status/259429890967875584' data-datetime='2012-10-19T23:04:40+00:00'>October 19, 2012</a></p></blockquote>
+<p>We&#8217;ve reached out to Pheed, and O.D. Kobo, the CEO and co-founder, said that the last several days have seen about a million people sign up to the site. &#8220;It&#8217;s been a crazy week,&#8221; he said. </p>
+<p>Before the Twitter block, he said, about half of the signups were coming from Twitter, and the other half from Facebook (not many by email, apparently). The last hours have seen that shift, of course, to all Facebook and some email.</p>
+<p>We have also contacted Twitter about this and the company declined to comment. &#8220;We don&#8217;t generally comment on individual apps,&#8221; a spokesperson said.</p>
+<p>Pheed is a real-time social network, like Twitter, but the twist is that people can charge for content. Or, as <a target="_blank" href="http://www.forbes.com/sites/ilyapozin/2012/10/18/is-pheed-the-new-twitter/">Forbes</a> pointed out, &#8220;Think of it as Twitter, with a business plan.&#8221;</p>
+<p>People can set charges for &#8220;Pheeds&#8221; between $1.99 and $34.99 for a monthly subscription, and can also create one-off charges for individual Pheeds, priced at the same amounts. The one-offs, for example, could be used for a piece of video content for a specific event. Pheed shares the revenue from those charges 50-50.</p>
+<p>It&#8217;s hard to say what is behind the Twitter block. It could be competitive muscle, or a simple API violation:</p>
+<p>Some users have already been complaining &#8212; on Twitter &#8212; about the latter of those two, specifically around the area of auto-tweeting. </p>
+<blockquote class='twitter-tweet'><p>Pheed auto-posted to Twitter without asking me so it&#8217;s already the worst new social network ever. Die Pheed die.&mdash; <br />Sarah Lane (@sarahlane) <a href='http://twitter.com/#!/sarahlane/status/259300200680673280' data-datetime='2012-10-19T14:29:20+00:00'>October 19, 2012</a></p></blockquote>
+<p>However, when we asked Pheed about this, Kobo said that Pheed offers users a route to opt-out of auto-tweeting in their preferences. &#8220;On that aspect it’s pretty standard,&#8221; he said. The issue, perhaps, is that some of those preferences default to share your news, and you need to opt out through your settings after you sign up. This contrasts to, say, Instagram, which offers users an option to share picture-by-picture.</p>
+<p>Generally, when an app violates Twitter&#8217;s terms of service, Twitter usually notifies the developer that it is being taken down, along with why so that changes can be made. So if it&#8217;s a case of an API violation, Pheed&#8217;s feed may be fixed soon if it figures out how to modify that. </p>
+<p><strong>On more of a Friday-night/drama note</strong>: there have been some people already pitting Twitter and Pheed against each other, implying that Twitter&#8217;s refusal to innovate was what gave rise to Pheed (as others have said about app.net).</p>
+<p></p>
+<p>Although, again, that could be overdramatizing things. </p>
+<p>Twitter has had run-ins with other social networks like <a href="http://techcrunch.com/2012/08/22/twitter-tumblr/">Tumblr</a> and <a href="http://techcrunch.com/2012/09/10/reid-hoffman-linkedin-got-better-when-twitter-went-away/">LinkedIn</a>. More generally, I think the API and platform story over there is still in the middle of being played out.</p>
+<p>In the meantime, it&#8217;s a bit of a cramp in Pheed&#8217;s style if the site on which it seems to be modelled is not playing ball with it.</p>
+<p>We&#8217;ll update this story as we learn more.</p>
+<p><strong>Update</strong>: Pheed has now taken the Twitter sign-up option off its home page but it&#8217;s still on actual pages, although comes up as an error if a user tries to share to that network.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/SOoeeANzZM0/">here</a>.

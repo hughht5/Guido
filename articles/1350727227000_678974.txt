@@ -1,0 +1,678 @@
+{
+"title" : "Dublin Web Summit Picks SmartThings Out Of 100-Strong Startup Competition",
+"date" : "Sat, 20 Oct 2012 10:00:27 +0000",
+"author" : "Mike Butcher"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-19-at-19-33-44.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-10-19 at 19.33.44" title="Screen Shot 2012-10-19 at 19.33.44" style="float: left; margin: 0 10px 7px 0;" /><p>Well, many have travelled but few will make the end. <a target="_blank" href="http://smartthings.com/">SmartThings</a> won the Dublin Web Summit startup competition this week beating off the other three finalists <a target="_blank" href="http://www.vibease.com/Preorder">Vibease</a>, <a target="_blank" href="http://ovelin.com/">Ovelin</a> and <a target="_blank" href="http://Tictail.com">Tictail</a> and winning €100,000 in cash, as part of the Electric Ireland Spark of Genius competition. Over 1,000 entries to the competition were shortlisted to 100 which then pitched from two stages (social, mobile, consumer and enterprise) to over the two day international tech conference.</p>
+<p>Set up by Alex Hawkinson, SmartThings turns everyday objects into smart objects. The platform is a hub that connects to the internet and other devices that then senses and controls real-world things like a door lock, or a light or anything else. This is along the lines of the Internet of things we&#8217;ve heard so much about. It previously secured $1.2 million in a <a target="_blank" href="http://www.kickstarter.com/projects/smartthings/smartthings-make-your-world-smarter/comments?page=2">Kickstarter campaign</a> and has <a href="http://techcrunch.com/2012/09/07/kickstarter-hit-instacube-adds-facebook-photo-streaming-in-addition-to-instagram/">announced</a> a partnership with Instacube which will allows the cube to display notifications for things like visitors arriving or leaving the lights on. It’ll also be able to control home automation systems that SmartThings can operate.</p>
+<p>The other startups in the final were:</p>
+<p><br />
+<a target="_blank" href="http://www.vibease.com/Preorder">VIBEASE INC.</a><br />
+Dema Tio, Singapore<br />
+Their pitch: Vibease helps couples to stay intimate by using app and personal massager.<br />
+&#8220;Vibease is a private social network app for couples with Bluetooth personal massager. Couples can use Vibease for chatting and share their moments. The woman’s partner can control her massager using a smartphone, even though they are separated. One of the top reasons for divorce is a lack of sexual intimacy in a relationship, especially in long distance relationships. With Vibease, distance doesn’t matter.&#8221;</p>
+<p><br />
+<a target="_blank" href="http://OVELIN.com">OVELIN</a><br />
+Chris Thür Finland<br />
+Their pitch: Guitar Hero for real guitar!<br />
+Get hooked on practicing on your real instrument.<br />
+Ovelin is changing the way how people learn to play a musical instru- ment. Our first game WildChords is played with a real guitar on the iPad (no special equipment needed). The guitar learning game has won numerous awards including best European learning game, iPad game of the year, Sunday Times award and was #1 music app in 34 countries.</p>
+<p><br />
+<a target="_blank" href="http://TICTAIL.com">TICTAIL</a><br />
+Carl Waldekranz Sweden<br />
+Start a free and beautiful online store and get daily marketing advice.<br />
+Their pitch: Called “The Tumblr of e-commerce” by Wired Magazine, Tictail offers a free and easy way to start your own online store. Since beta-launch in May 2012, Tictail has been named one of top 100 startups in Europe (Wired) and the hottest startup in Sweden (IDG) and have already gained traction amongst thousands of online retailers all around the world.</p>
+<p><strong>Here is our bare-bones run though of the start-ups appearing at Dublin Web Summit&#8217;s START programme. </strong></p>
+<p>42MATTERS AG<br />
+Andrea Girardello Switzerland<br />
+Their pitch: 42matters, with its Playboard app, is a pioneer in app-discovery solutions. 42matters offers innovative app-finding solutions for smartphones. Our flagship product is Playboard, which is the Flipboard for app-dis- covery. Content is powered by algorithms and curated lists by third-party editors. Users can personalize the app, getting app-recom- mendations on what is really interesting for them.</p>
+<p>45SOUND<br />
+Cathal Furey Ireland<br />
+Their pitch: Crowd-sourced live event videos with great audio. Let the fans tell the story! 45sound solves the problem of awful-sounding fan videos of live music on YouTube. We help bands connect with their fans by automatical-ly matching fan-shot concert videos with a proper live audio record- ing so they sound great &amp; can be watched back from different angles. Artists are happy, fans are happy &amp; it’s a great marketing platform for brands.</p>
+<p>955 DREAMS INC.<br />
+Kiran Bellubbi United States<br />
+Their pitch: We make magical mobile experiences. Our flagship product: Band of the Day has been downloaded over 3M times on the iPhone and iPad. It was voted App of the Year (Runner Up) 2011 by Apple. Every single one of our apps has been App of the Week or is in the Apple Hall of Fame on the appStore.</p>
+<p>9GAG<br />
+Ray Chan Hong Kong<br />
+Their pitch: 9GAG brings more fun to the world.<br />
+9GAG is a Hong Kong based startup with an open and collaborative platform that brings more fun to the world by giving people the easi- est way to share and spread the fun they discovered or created. With more than 65 million unique visitors and a billion page views per month, 9GAG has the most actively engaged user community of any humor website.</p>
+<p>ALLMYAPPS<br />
+Thibauld Favre France<br />
+Their pitch: Allmyapps is the 1st Personal App Store.<br />
+Allmyapps is the 1st App Store for PC. Providing you with personal- ized app recommendations, Allmyapps helps you discover great apps that you’ll love. Every app you install is automatically saved in the cloud to enable easy app synchronization between your devices and you get notified as soon as app updates are available.</p>
+<p>APPDIRECT<br />
+Daniel Saks United States<br />
+We’re fundamentally changing<br />
+Their pitch: the way businesses find, buy and use software with.<br />
+Software is eating the world. We’ve created a marketplace platform that makes it easy for consumers to buy and manage that software. Whether it’s hardware manufacturers selling apps for their products, or telcos looking to sell cloud-based apps to their customers, we’re changing the way consumers and businesses discover, buy and man- age software.</p>
+<p>APPLICATION CRAFT<br />
+Freddy May United Kingdom<br />
+Their pitch: Mobile App development in our browser for developers of ALL skill levels.<br />
+15 years ago over 70% of all business applications were written in Visual Basic. In today’s mobile world there is nothing that let’s devel- opers of all skill levels build proper Apps. Application Craft’s com- pletely new approach to development empowers those who have never coded before as well as companies like Coca-Cola who certainly have!</p>
+<p>ART REMBA<br />
+Nahema Mehta United States<br />
+Their pitch: The democratization of fine art. Want acclaimed art without the sticker shock? Meet Art Remba, an online community allowing Members to discover and borrow fine art at accessible monthly rates. Collectors love us because we make accessing fine art easy. Galleries and artists love us because we place art they can’t fit on their walls directly onto the walls of desirable audiences.</p>
+<p>AVA<br />
+Oliver Segovia Philippines<br />
+Their pitch: AVA is an e-commerce platform for premium brands in the Philippines.<br />
+With 34 million internet users and growing double digit year-on-year, the Philippines is the #2 internet market in Southeast Asia. The local fashion industry is a $5 billion market. AVA helps brands disrupt tra- ditional retail by going direct to users. At the same time, AVA helps in- creasingly affluent consumers access coveted brands online.</p>
+<p>BABELVERSE<br />
+Josef Dunne Ireland<br />
+Their pitch: Babelverse is the people- powered universal translator of the spoken word<br />
+Multi award winning Babelverse is the 1st crowd-sourced solution for speech translation in any language. Machine translation is un- reliable – Babelverse preserves quality, context, cultural relevance. Multilinguals and professional interpreters gain a new source of in- come. It is to language barriers what the aeroplane was to geographi- cal barriers!</p>
+<p>BASE CRM<br />
+Uzi Shmilovici United States<br />
+Their pitch: Base is a CRM/Sales Tracking application for small businesses.<br />
+For small businesses that need a simple way to manage their sales, Base provides an intuitive 4-step process. The application allows us- ers to manage their deals and add notes, tasks and contacts. A report system and an effective dashboard help managers stay on top of their sales process and understand what are their next actions.</p>
+<p>BEHAVIOSEC<br />
+Neil Costigan Sweden<br />
+Their pitch: Continuous authentication for web&amp;mobile through patented behavioral biometrics.<br />
+Delivering next-generation Web &amp; Mobile security. We were selected by Gartner as ‘Cool vendor 2012’ for our patented technology which we have deployed with high-value paying customers TODAY. Our cus- tomers for our behavioural biometrics solution include international financial institutions, handset manufacturers’, and US DoD (DARPA).</p>
+<p>BIRDBACK<br />
+Nicolai Watzenig United Kingdom<br />
+Their pitch: Link apps to payment cards. Birdback is a london based technology based startup, building an application platform on top of the payment processing network and provides card-linking capabilities for developers and merchants. The Birdback API enables third-party developers to build apps, link them to payment cards and distribute them through a large network of publishers.</p>
+<p>BIRDBOX<br />
+Ben Nunez United States<br />
+All your photos and videos in one place, searchable, and magically organized.<br />
+Their pitch: Our photos and videos are a scattered mess. We can’t find them when we want, they’re not archived, group sharing is hard, and we rarely relive them. Birdbox changes all of this, by aggregating and index- ing our media into a beautiful searchable interface, and by giving us a simple #hashtag based way of sharing private or public memories with groups.</p>
+<p>BITCASA<br />
+Tony Gauda United States<br />
+Their pitch: Infinite storage paired with best in class security via client-side encryption.<br />
+Bitcasa provides secure, unlimited storage on any device. Users can view their entire lifetime of photos, listen to their entire music library, store all of their files and important documents and still have room for the contents of the Library of Congress. The data will always be acces- sible and shareable from any device.</p>
+<p>BIZZABO<br />
+Eran Ben-Shushan Israel<br />
+Their pitch: Bizzabo makes event networking much easier, productive and fun.<br />
+Launched in June 2012, Bizzabo has quickly become the leading event networking solution for events. Bizzabo’s multi event app was already used by world leading conferences (ad:tech, Uplinq, Grow, MLOVE, DWS, Internet Week Europe). Engagement metrics are impressive, with roughly 750 new LinkedIn and Twitter connections for every 1000 Bizzabo users.</p>
+<p>BLIPPAR<br />
+Ambarish Mitra United Kingdom<br />
+Blippar is an image recognition<br />
+platform for brand to consumer interaction.<br />
+Blippar is a revolution for traditional media and advertising offer- ing the power to turn every single piece of print collateral or physical branding in the real world into an instantaneous, interactive experi- ence. Already embraced by many global brands and projecting rapid growth with a view towards becoming the default lens and the verb to blipp.</p>
+<p>BLOGLOVIN’<br />
+Mattias Swenson Sweden<br />
+Their pitch: Discover &amp; follow your favorite blogs. We build Bloglovin’ to help blogger enthusiasts to follow their favorite blogs without going through the tedious process of opening up doz- ens of bookmarked websites. Bloglovin’ has over 1,6 million members worldwide and 3.8 million monthly unique visitors, who mainly use the service to follow &amp; discover fashion content &amp; blogs.</p>
+<p>BREWSTER<br />
+Steve Greenwood United States<br />
+Their pitch: Personalised address book app. Download the app. Connect it to google apps, facebook, twitter, four- square, linkedin, and soon a bunch more services. Brewster builds you a new address book that runs on your phone and also in the cloud. This new address book knows a lot more things about your relation- ships than you have ever entered into your address book and it is adapting.</p>
+<p>BURT<br />
+John Sjölander Sweden<br />
+Their pitch: Burt creates apps for media companies to better understand and monetize content.<br />
+Burt is the only mobile and web analytics platform that puts all the data media companies need to understand their customers and make smarter decisions in one place, using the company’s unique combi- nation of simple apps running on powerful analytics cloud capable of collecting, connecting and processing billions of digital media events per day.</p>
+<p>BUSINESSDB<br />
+Devrim Demirel Turkey<br />
+BusinessDB is a<br />
+business information company.<br />
+The company provides a vertical business search engine, a semantic business directory providing classified information about companies, products, services and locations. BusinessDB contains more than 4 million international companies in its index as well as 80.000 prod- ucts and services.</p>
+<p>CAR THROTTLE<br />
+Adnan Ebrahim United Kingdom<br />
+Their pitch: Car Throttle makes car discovery fun again.<br />
+Car Throttle makes car discovery fun again. We’re the new Top Gear aimed at a younger core demographic and we produce digital media (news, reviews, opinions and videos) that established motoring pub- lications don’t dare to. As a YouTube Partner, we also help car man- ufacturers target ‘trend spreaders’ whilst increasing their customer lifetime values.</p>
+<p>CHIRP<br />
+Patrick Bergels United Kingdom<br />
+Chirp is a new way<br />
+to share your stuff – using sound.<br />
+Their pitch: Chirp sings information from one iPhone to another. Share photos, webpages, contacts: all from your built-in speaker. The app uses spe- cial electronic birdsong to ‘chirp’ information over the air to your friends. Every chirp is a little song that links to anything you want to share. It can quickly send data to multiple devices at once without them needing to be either paired or have a wireless connection.</p>
+<p>CITIVOX<br />
+Jorge Soto Mexico<br />
+Their pitch: Share with your community. CitiVox is a new way to share and keep in touch with the communities you create or belong to. At CitiVox we want to change the way we re- late to our cities collectively, through collaborating &amp; discussing with the people living around us, sharing advice and strengthening the val- ue of being connected.</p>
+<p>CLEVERBUG<br />
+Kealan Lennon Ireland<br />
+Their pitch: Cleverbug recognises life events through personalised printed cards. We’ve created highly engaging, unique, customised content using pho- to-montage technology with integrated social sharing features, allow- ing friends &amp; family to send printed personalised cards anywhere in the world from your mobile phone, powered and influenced by your social network. Our suite of products connect Facebook with the of- fline world.</p>
+<p>CLICK A TAXI<br />
+Nikolaj Køster Denmark<br />
+Their pitch: The first taxi aggregator to provide truly international coverage for the world.<br />
+There are a lot of taxi apps out there, but only Click A Taxi gives you global and nationwide coverage. We provide the kind of service that allows our users to throw away the five different localized taxi apps sitting on their home screen, confident that they can simply use Click A Taxi to get a high quality taxi service wherever they happen to be.</p>
+<p>CLOUDVERTICAL<br />
+Ed Byrne Ireland<br />
+CloudVerticals mission is to make the Cloud more efficient.<br />
+Their pitch: The Cloud is not Pay-As-You-Go, its Pay-as-you-Provision. Across the 3,000 users CloudVertical serves, from Internet companies to Pharmaceuticals &amp; a spectrum of budgets; people only use 30% of what is deployed. CloudVertical helps understand capacity, usage &amp; costs, and how to minimise the gap between what’s being used, and what is being paid for.</p>
+<p>CLOUDWORK<br />
+Christophe Primault Spain<br />
+Their pitch: CloudWork: CloudWork is an hassle-free service to connect business apps in the cloud. It uses APIs to enable SMEs to automate their key business pro- cesses in the cloud in an easy and affordable way. Through the acqui- sition of Tarpipe, CloudWork is a service of Nubera, the company that is operating the largest marketplace for cloud apps GetApp since 2010.<br />
+CloudWork is the seamless<br />
+way for any business to connect their apps.</p>
+<p>CODERDOJO<br />
+James Whelton Ireland<br />
+Global movement of coding clubs for young people.<br />
+Their pitch: CoderDojo is an open source, community lead movement of free cod- ing clubs for young people. Professionals volunteer to run and mentor these ‘Dojos’. CoderDojo was founded just over a year ago and to date has over 110+ Dojos globally located in US, Europe, Asia and more. GitHub and Twitter have CoderDojos in their offices</p>
+<p>COLLABORATE CLOUD<br />
+Sagar Babber India A communication &amp; collaboration platform to manage your entire work effectively.<br />
+Their pitch: Collaborate Cloud is an integrated platform to facilitate communica- tion, collaboration &amp; workflow management. Powered with an App Builder &amp; Store it lets you manage your entire organisation more ef- fectively. We got apps for every business function &amp; if you don’t see something you need, build it in minutes. Get things done faster and save more time.</p>
+<p>CONTENT FLEET GMBH<br />
+Heiko Willers Germany<br />
+Content Fleet’s technology assists online publishers to write.<br />
+Their pitch: Our technology revolutionizes content creation for online publishers. A sophisticated Big-Data backend system identifies those topics and trends that will attract new audiences. Content Fleet also increases the efficiency of editorial teams, resulting in a greater number of hits and lower editorial outlay for online publishers.</p>
+<p>CONTIGUA GMBH<br />
+Arash Houshmand<br />
+Germany 10 Stamps<br />
+Connecting local merchants big or small with their customers<br />
+Their pitch: Local merchants such as restaurants and hairdressers ranging from small to big companies use 10stamps to start, understand and devel- op a relationship with their customers. While the app is free to users, partners pay a subscription fee for 10stamps’ services. 10stamps is al- ready live in more than 1000 partner stores.</p>
+<p>COURSERA<br />
+Daphne Koller United States<br />
+Combat the rising costs now endemic to higher education with web-based solutions.<br />
+Their pitch: Not-for-profit company committed to making the best education in the world freely available to any person who seeks it. Online courses in- clude short video lectures on over 100 different topics. Coursera have partnered with 33 college including Stanford and Princeton</p>
+<p>CREANDUM<br />
+Anil Hansjee United Kingdom<br />
+Creandum is an early stage Nordic based venture capital firm.<br />
+Their pitch: Between us, we have started some 15 companies as entrepreneurs, invested in close to 50 technology companies as investors and angels, and have operational experience from leading positions in all areas of a growing international technology company. These companies in- clude Spotify, Wrapp, iZettle, and Videoplaza.</p>
+<p>DIGIT GAME STUDIOS<br />
+Richard Barnwell Ireland<br />
+Cross platform hardcore social games developer.<br />
+Their pitch: VC backed games studio leading in a new generation of true simulta- neous cross platform gaming. Ireland’s largest Independent game de- veloper and home to the Digit Game Incubator. Focused on developing games with new unseen game mechanics and AAA production values targeted at the highly valuable niche hardcore social/mobile audience.</p>
+<p>DROPIFI<br />
+Their pitch: David Osei Ghana: We provide a replacement for “contact” buttons with a widget to analyse messages. Using Dropifi, companies can see incoming message trending data in relation to industry metrics, see the demographic and social media profiles of the message senders, analyze the real emotions behind the messages they receive and easily integrate with their existing CRMs and other popular services including WordPress.</p>
+<p>DUEDIL<br />
+Damian Kimmelman United Kingdom<br />
+Their pitch: The data backbone of financial services.<br />
+There’s a $250B shortfall in SME financing across Europe every year, and the deficit in other regions is at least as large. Duedil is address- ing this shortfall by transforming private company data and making it discoverable.</p>
+<p>E&amp;M LABS<br />
+Michael Woods United States<br />
+Their pitch: We make the toys that make makers.<br />
+Their pitch: What makes you who you are today? It wasn’t your schools or your jobs, but the first toy that made you question how the world works. Everyone has the spark of curiosity within; few have the opportunity to grow it into a burning passion. More should. We make the toys that make makers.</p>
+<p>EMPHAS.IS JOURNALISM EXPERIENCES LIMITED<br />
+Fanuel Dewever Ireland<br />
+Their pitch: Crowdfunded visual journalism<br />
+On Emphas.is photojournalists pitch their projects directly to the pub- lic. By agreeing to back a story, for a minimum contribution of $10, you are making sure that the issues you care about receive the in- depth coverage they deserve. In exchange you are invited along on the journey.</p>
+<p>ETHER BOOKS<br />
+Maureen Scott United Kingdom<br />
+Their pitch: Ether’s Quick Publishing Platform<br />
+connects mobile readers and writers globally<br />
+Ether’s Mobile Quick Reads are a new Mobile Content Category; orig- inal “made for mobile” content of &lt;6,000 words from living writers. Ether discovers new writers globally and publishes their work in &lt;10 minutes. Ether takes reading and writing mobile, global and social. Ether monetises content through in-app purchase; and has 4 revenue streams.</p>
+<p>EVENTICK<br />
+Thiago Diniz Brazil<br />
+Their pitch: Eventick is a simple way to manage your event.<br />
+Eventick is a simple way to manage your event. It permits events or- ganizers to maximize their benefits with online subscriptions. In few minutes, organizers can create a website for their events where people can subscribe, access their ticket on mobile devices and are encour- aged to call their friends to subscribe via social medias.</p>
+<p>EVENTOVATE<br />
+Jonathan Ruane Ireland<br />
+Their pitch: Making wedding management<br />
+more enjoyable for couples &amp; more profitable for venue.<br />
+Our online software is revolutionising the way venues and their cus- tomers (engaged couples) plan and manage weddings. The market is highly fragmented, ripe for innovation and worth €70Bn per year. Our 100 paying customers across 6 countries includes the likes of K-Club &amp; Old Course St Andrews</p>
+<p>EXCURSIOPEDIA<br />
+Kirill Sermyagin Germany<br />
+Their pitch: Excursiopedia lets you organise your own adventure connecting with locals.<br />
+Tours and Activities are the final frontier in the area of travel, and there is limited capability to pre-book standard tours and activities as tickets. No one addresses the opportunities to design and organize your own trips, excursions, or connecting local providers to interna- tional travelers &#8211; and we are here to change it!</p>
+<p>EYEEM<br />
+Florian Meissner Germany<br />
+Their pitch: The iStockPhoto of the smartphone generation.<br />
+In the age of the connected camera, we are creating a flood of pho- tos that are spread across multiple platforms and lack relevant data. EyeEm offers a cross-platform photo-sharing service that automat- ically categorizes similar photos into topical and location-based al- bums, creating a superior search for social photos and eventually a marketplace.</p>
+<p>EZAKUS<br />
+Christophe Camborde France<br />
+Their pitch: Bigdata applied to Adtech.<br />
+Ezakus provides an innovative service to qualify and target online audience. We are an online technlogy company : 25 Internet and Marketing specialists based in France. We have raised 2,2M€ from IdInvest, a venture fund focused on innovative and technological start ups (such as Criteo, Dailymotion, Viadc, Deezer, Meetic).</p>
+<p>FANTOO<br />
+Jordan Fantaay United Kingdom<br />
+Their pitch: Future of email: where your<br />
+messages are represented by relevant pictures<br />
+We’re making email fun, an experience by enabling people to visualize their messages, by associating “relevant” and personal pictures to the message protocol. A Flipboard for messages! Intelligent time predict- ing which enables users to know the time to read and reply to messag- es, making for blazing fast productivity.</p>
+<p>FARMFLO<br />
+Jason Devenney Ireland<br />
+farmflo making farm management<br />
+Their pitch: easier for farmers &#8211; farming in the cloud!<br />
+farmflo provides farmers with an easy to use, cloud based farm man- agement solution with the aim of making farm management part of the farmer’s daily working routine. It allows farmers to manage their records, meet government regulations, provide transparency of costs and in turn improving their farm’s performance.</p>
+<p>FIXATIONAL<br />
+Ronan O’Malley Ireland<br />
+Their pitch: Eye-gesture controls for apps.<br />
+Eye-gestures, like winks, are more discreet than Siri and do not re- quire space like Kinect. Our software-only solution sits in any app, analysing eyes through the camera. Starting B2C, Wink Camera for iOS was featured on TheNextWeb and reached top 25 paid apps in 3 countries. The ultimate goal is to license to devs and OEMs.</p>
+<p>FLIGHT 1337<br />
+Melinda Jacobs The Netherlands<br />
+Their pitch: We help clients increase awareness,<br />
+engagement and retention of their audiences.<br />
+We believe in the power of engagement in games. However, we don’t believe it’s game mechanics alone that are key. Rather it’s the con- text created by the game. Applying game context allows us to design with intent; we look at how all the parts relate to each other and how each contributes to the purpose of the experience. This is our secret weapon.</p>
+<p>FLUBIT LTD<br />
+Bertie Stephens United Kingdom<br />
+Their pitch: Flubit creates bespoke<br />
+offers on the exact products our users demand.<br />
+Flubit inverts the traditional marketplace. Rather than pushing deal after deal to catch the eyes of passersby, Flubit creates a better offer for our users on products they’ve demanded. Our users come to us, demand what they want, and they receive a bespoke offer just for them on exactly that product, created by Flubit. Before you buy it, flubit</p>
+<p>FLUENCY LABS<br />
+Their pitch: Joe Braidwood United Kingdom<br />
+Fluency Labs creates tools to break down the barriers between people and data.<br />
+Our mission is to break down barriers between people and data. We created SwiftKey, the world’s bestselling Android app, which uses AI to learn how you write and make smart predictions as you type. But it’s not just about keyboards. Our goal is to use intelligent engineer- ing to make technology more intuitive, productive and creative for everyone.</p>
+<p>FLUID SOFTWARE<br />
+Dave Kearney Ireland<br />
+Our first product, Fluid<br />
+Their pitch: UI is a mobile app prototyping tool. Our prototyping software is fast, user friendly and very intuitive. It has been designed from the ground up with one aim, to save us-<br />
+ers time and money when prototyping and gathering requirements. Flesh out an idea and actually interact with it on a mobile device to aid testing and design in a matter of minutes. No code or technical skills required.</p>
+<p>FOLIO<br />
+Cillian Kieran United States<br />
+Their pitch: A marketplace empowering anyone to easily buy and sell digital files and content.<br />
+Folio is a marketplace with a huge vision. To be the app store of digital files/content for regular users and breaking open the ‘Getty’ images model. Empowering content creators and users to buy and sell digi- tal assets with the ease of a song purchase applied to everything from photos and video through to Excel, Powerpoint and Word templates.</p>
+<p>FOODITY<br />
+Johnathan Agnes United Kingdom<br />
+Their pitch: E-commerce tools for packaged consumer goods purchases.<br />
+™ foodity. We build tech that encourages shoppers to start their journey towards a weekly supermarket shop by engaging with web &amp; mobile apps (and content) centred on food, wellness, beauty &amp; parenting. As they in- teract we’re able to gauge their consumer profiles and their purchas- ing intent, then help brands &amp; retailers to influence their habits &amp; purchases.</p>
+<p>FOODZY<br />
+Marjolijn Kamphuis The Netherlands<br />
+Their pitch: Foodzy is your personal food &amp; health journal.<br />
+Foodzy’s website and mobile apps for iPhone and Android help people all over the world keep track of what they eat and drink. We’ll turn your food check-ins into sweet statistics and dashboards to analyze your habits, award you with badges for healthy living and enable you to hook up your Withings and Fitbit accounts to get even more insights.</p>
+<p>GAMEANALYTICS<br />
+Morten E. Wulff Denmark<br />
+Their pitch: Empowering developers to create data-driven games to maximize retention.<br />
+Analytics &#8211; entirely for games. GameAnalytics is SaaS that works across all platforms and on any device. Easy to implement &#8211; yet able to handle the most data-intensive games. 2500+ game studios have signed up to experience the power and beauty of GameAnalytics e.g. the deep integration with Unity. FREE plan for all indie developers.</p>
+<p>GEEKLI.ST<br />
+United States<br />
+An achievement- based social street cred builder.<br />
+Their pitch: Born in San Francisco, Geekli.st is an achievement-based social street cred builder for bad-ass developers where they can communicate, share, brag and get found.</p>
+<p>GEOSHO<br />
+Paul Sandham Wales<br />
+Their pitch: We make apps with maps.<br />
+Geosho develop location based systems and applications for SMEs, ex- tending the potential of existing mapping technologies to new sectors by using an innovative web mapping platform and mobile/web API. Our apps have realistic pricing and payment terms, no prohibitive content rights issues and increased accessibility to content or data via mobile.</p>
+<p>GIDSY<br />
+Edial Dekker Germany<br />
+Their pitch: Gidsy is a community marketplace for authentic experiences.<br />
+Gidsy.com is place where anyone in the world can explore, offer and book things to do. We are connecting locals with travelers and other people who’re looking for things to do. From walking tours, to wine tastings, to truffel huntings and other authentic experiences. Gidsy is trying to become the Lonely Planet 2.0.</p>
+<p>GIVEFORWARD<br />
+Ethan Austin United States<br />
+Their pitch: Crowdfunding for medical expenses.<br />
+GiveForward provides crowdfunding pages for friends and loved ones’ out-of-pocket medical expenses. The company is on pace to do $25 mil- lion in transactions in 2012 and expects to do $100 million in 2013. It recently won an Edison Gold award as the best new social innovation in the US. It is backed by Founder Collective and First Round Capital.</p>
+<p>GOSQUARED<br />
+James Gill United Kingdom<br />
+Their pitch: GoSquared provides real- time web analytics to online businesses.<br />
+GoSquared was founded by Geoff Wagstaff, James Gill and James Taylor in 2006 at the age of 14. GoSquared analyses real-time and his- torical data to deliver insightful reports, visualisations and powerful APIs to online businesses. 20,000 websites have registered to continu- ally optimise + iterate their online presence for better results.</p>
+<p>GRADIBUS<br />
+Emin Okutan Turkey<br />
+Their pitch: A data storage, sharing and visualization system built for researchers.<br />
+Gradibus aims to make it cheaper for hospitals and researchers to store data on the web and access it anywhere. Gradibus is a web appli- cation that makes it easier to store,share and visualize data. Gradibus also makes it easier to collaborate on data collection by forming and joining research institutions.</p>
+<p>ICEOTOPE<br />
+Peter Hopton United Kingdom<br />
+Their pitch: Iceotope develops servers using next generation liquid cooling technology.<br />
+The data centre industry is growing at 19% per annum, currently set to exceed emissions of the airline industry. Iceotope manufacturer an advanced liquid cooled computing solution with the lowest possible energy consumption. Our technology not only saves on energy but on capital costs , it has the potential to revolutionise the industry.</p>
+<p>IMPOK<br />
+David Moreno Spain<br />
+A financial platform to manage your investments smartly.<br />
+Their pitch: Impok empowers the retail investor by placing the activities based on trust, like portfolio management and financial advice, away from the banks. It offers a portfolio tool to take control of your money and a so- cial platform that allows you to identify the best investors and mirror their portfolio, building a P2P portfolio management platform.</p>
+<p>INFERNUM PRODUCTIONS AG<br />
+Tobias Gerlinger Germany<br />
+Infernum is a developer and publisher of next generation online games.<br />
+Their pitch: Why free-to-play online-games? Because it ́s not about “picking hits” but about “making hits” by permanent optimization based on user analyses. The holy grail? Virtual worlds that are available anytime, anywhere across PCs, smartphones and tablets. This will result in a much broader gaming experience and permanent community bond- ing. We will get it.</p>
+<p>INFOGR.AM<br />
+Uldis Leiterts Latvia<br />
+Their pitch: A web based infographic creator. Create interactive infographics and charts with a few clicks, then place them in your article, blog post or share with friends. With more than 100 000 users and some 200 000 infographics created, it’s the fastest growing data visualization community on the planet.</p>
+<p>INISMO<br />
+Christoph Auer-Welsbach Austria<br />
+Their pitch: Interactive Enterprise- Funding &amp; Investment Management Platform.<br />
+INISMO is a secure and interactive platform for both, investors and entrepreneurs to manage their entire funding activities effectively with web-based tools and services. Founded in 2012, INISMO is dedi- cated to solve today’s problems of information asymmetry and ineffi- cient processes of funding negotiations.</p>
+<p>INZAIR<br />
+Their pitch: messaging &#8211; at the right time, in the right place!<br />
+ZMS is the next generation Social mobile messaging application ena- bling people to communicate, interact and surprise others from their mobile, by adding location and time to the messages. inZair, the ZMS platform, is built on strong geo-location integration &amp; full respect on consumer privacy. inZair, founded in 2011, has offices in Switzerland.<br />
+n arTM ZMS is next generation mobile<br />
+Nourrédine Rouibah Switzerland</p>
+<p>ISELL.COM WORLDWIDE, INC.<br />
+Joshua Odmark USA<br />
+Their pitch: iSell.com is a hyperlocal online classifieds platform.<br />
+iSell.com is a hyperlocal online classifieds platform that seeks to dis- rupt the industry by significantly increasing distribution through decentralization. By placing classified ads on 3rd-party websites and paying them per click with patent-pending technology, iSell.com will create distribution that trumps all other classified websites, combined.</p>
+<p>ISENGUA LTD, TRADING AS MOBI-LEARN<br />
+Elaine Cohalan Ireland<br />
+Their pitch: MOBi-LEARN develops interactive language learning content for mobile channels.<br />
+The best way to learn a language is through immersion in a native speaking country. Only 1% ever achieve this. The remaining 99% hence have less possibility for attaining fluency. Our solution: Mobile applications and services for individuals and schools that are native teacher-led, speech-focused, portable, fast and customisable.</p>
+<p>KWAGA<br />
+Philippe Laval France<br />
+We automagically keep your address book up-to-date.<br />
+Their pitch: Keeping up with all your contacts can be tough. People move, change their phone numbers, and otherwise outdate your address book all the time. WriteThat.Nam keeps your address book and CRM always up-to-date by scanning your Inbox.Works with Gmail, Outlook, Lotus Notes, Salesforce.</p>
+<p>LA RUCHE QUI DIT OUI !<br />
+Marc-David Choukroun France<br />
+Their pitch: Group buying to local farmers<br />
+La Ruche qui dit Oui ! is an e-commerce platform where users group themselves around communities to buy food directly from their local farmers. It’s also a complete infrastructure to make local commerce more efficient, increase the income of farmers and lower prices for consumers. In one year, 150 communities opened for commerce all through France.</p>
+<p>LAYERGLOSS<br />
+Phuong Do<br />
+The Netherlands<br />
+Their pitch: Revolutionalising app production. layer gloss<br />
+The apps use the latest technologies of Apple’s iOS. Amongst others, full-text-search, Facebook- and Twitter integration, audio, video, YouTube are available. After creating an app with LayerGloss your reader can download your app and immediately start reading.</p>
+<p>LIDYANA.COM<br />
+Hakan Bas Turkey<br />
+Their pitch: Turkey’s leading online jewelry store.<br />
+Lidyana.com is a celebrity endorsed vertical e-commerce site, offering the world’s most exclusive brands and custom designs of jewelry and accessories. Lidyana.com was selected as one of the hottest 100 Start- ups in Europe (#1 in Turkey) in the September 2012 issue of Wired Magazine.</p>
+<p>LOGENTRIES<br />
+Trevor Parsons Ireland<br />
+Logentries, Log Management and System Intelligence as a Service.<br />
+Their pitch: Logentries is an easy to use, pro-active log management solution. Think proactive CCTV for your systems. Logentries unique system intelligence proactively warns user out of the box so that their sys- tems do not fail silently. Thousands of organisations across the globe use Logentries every day to manage their log data and ultimately their systems.</p>
+<p>LUA<br />
+Michael Defranco United States<br />
+Their pitch: Simple communication &amp; coordination for mobile workforces.<br />
+Lua is the simplest way for mobile workforces to effectively commu- nicate, coordinate, and stay accountable. We’re centralizing commu- nication in massive industries that still rely on antiquated tools like walkie-talkies, paper scheduling, and shouting.</p>
+<p>LULUVISE<br />
+Alexandra Chong United States<br />
+Their pitch: Luluvise is a social and communications platform for women.<br />
+Luluvise is creating an innovative space, just for women, where you can get quick feedback from your handpicked friends. Now you can showcase your newest outfit, catch up on the latest gossip, review your current crush, all from one safe place. Share what matters to you, directly with the girls who matter to you most.</p>
+<p>LUTEBOX<br />
+Ali Ahmed United Kingdom<br />
+Their pitch: Lutebox is the easiest way to chat and share with friends while shopping.<br />
+Say you’re shopping online or in-store, and find a pair of jeans you like, but want your best friends’ advice. With Lutebox, simply snap<br />
+a photo of the product, add your friend and just like a walkie-talkie, click push to talk and leave them a quick voice message. They’ll see the product instantly and respond, giving you quick actionable feedback.</p>
+<p>LYST<br />
+Chris Morton United Kingdom<br />
+Their pitch: Lyst is a social curation platform that’s changing the way people find fashion.<br />
+Lyst.com is a social shopping site that helps you discover the best fash- ion for you. Follow your favorite designers, boutiques, bloggers and stylists to get their latest updates in your stylefeed, so you can stay on trend and never miss a sale. Search and shop from all of your favorite stores in one place and get instant sales alerts on products.</p>
+<p>MAKIELAB<br />
+Alice Taylor England<br />
+Their pitch: 3D printed toys. Makielab is fast becoming one of London’s most admired tech start- ups&#8230; Tech City Insider (Sep 2012) It’s a world first: toys designed<br />
+by the customer, printed on demand, and manufactured in London. Customisable, playful and hackable, these toys disrupt the traditional mass manufactured, box-and-retail model to offer something com- pletely new.</p>
+<p>MARKETYOU<br />
+Pep Viladomat Spain<br />
+We make people visible for their professional uniqueness.<br />
+Their pitch: We help professionals discover their real worth and connect them to job opportunities using the most advanced tech. We focus on the can- didate and by doing so, we serve companies better. We have developed proprietary measuring tools of soft and hard skills, and build a rating based on market demand.</p>
+<p>MENTION<br />
+Edouard de La Jonquière Belgium<br />
+Their pitch: Be in the know, everywhere, in real-time.<br />
+mention is a media monitoring application that allows SMB to track in real-time and react to what’s said about their names, products, com- pany, brand or competitors on the web and social networks. mention basically puts Google Alert on a turbo-charge.</p>
+<p>MINDSNACKS<br />
+Jesse Pickard United States<br />
+MindSnacks creates bite-sized educational games for iOS users of all ages.<br />
+Their pitch: MindSnacks has been releasing engaging learning apps since 2010. We currently boast a portfolio of 14 language acquisition and test prep apps for iOS that routinely rank in the top 10 in the App Store’s Education category. Apple named MindSnacks’ Spanish app “one of the best education apps of the year” in its 2011 App Store Rewind.</p>
+<p>MIXLR<br />
+Greg Lloyd United Kingdom<br />
+Their pitch: Mixlr gives artists, brands and tastemakers with the tools to interact with their fans.<br />
+Using live audio and real-life social dynamics, Mixlr provides a unique set of tools for artists, brands and tastemakers to engage with their fans. 12,000 monthly active broadcasters use our crowd view, re- al-time chat and other powerful social features to build lasting rela- tionships with their fans and followers.</p>
+<p>MIXOTV<br />
+Reda Berrehili France<br />
+Mixotv is the first social and personalized TV guide.<br />
+Their pitch: Yesterday, watching TV was easy. You could easily choose a movie<br />
+or TV Show thanks to a TV guide. But today, you have access to more than 200 channels+VOD+Catchup TV.Lot of content and no tool to help you filter.Mixotv brings technology into TV guides. We have been developing a great recommendation engine for 3 years that’ll disrupt media discovery.</p>
+<p>MOBINO<br />
+J.F. Groff Switzerland<br />
+Their pitch: We enable mobile payments for 5 billion people.<br />
+chocolat jaune d’or we move money. We believe that each citizen of the world should be able to effortlessly send and receive money with their phone, no matter where they live, which telco they use, whether they have a bank account, a credit card or just cash in their pocket, no matter how much they earn and what they buy. Mobino delivers the future of money, available today.</p>
+<p>MOOSIFY<br />
+Hans Posch United States<br />
+Meet new people through music &amp; places!<br />
+Their pitch: David Guetta or Green Day? Dancefloor, Coffee Shop or Pub? moosify will connect you with new people, new places &amp; music! Mobile-first moosify is a fun &amp; easy way to meet new people who share your pas- sion for the same music and similar places &#8211; it’s like match.com meets spotify meets foursquare.</p>
+<p>MORTAR<br />
+K Young United States<br />
+Their pitch: Rails for data pipelines. Data pipelines are lifeblood to many businesses, but they haven’t matured in decades. There are no engineering standards, nor gener- al purposed frameworks for aggregation, correlation, NLP, ML, etc. Inspired by what Rails did for web applications, Mortar brings struc- ture, predictability, repeatability, easy maintenance and deploy to data pipelines.</p>
+<p>MOVABLE INK<br />
+Vivek Sharma United States<br />
+Their pitch: Movable Ink allows marketers to make emails as dynamic as webpages.<br />
+Movable Ink is a revolution in email marketing. It enables marketers to make emails as dynamic as a web page, something that has never been possible before. Emails become containers for live content that can personalize to a recipient’s time, location, device, social context, and business rules. Real-time relevance generates real-world results.</p>
+<p>MURFIE, INC.<br />
+Matt Younkle United States<br />
+Their pitch: The future home of your music collection.<br />
+Murfie offers music fans a no-compromises home for their music col- lections. Collecting at Murfie means full ownership, letting our mem- bers enjoy unparalleled playback quality, diverse access and choice of format. Thousands of collections drive network effect music discov- ery in a liquid marketplace of new and used music buyers, sellers and traders.</p>
+<p>MY1LOGIN<br />
+Mike Newman United Kingdom<br />
+One login for all sites &amp; improved security &#8211; no hardware, software or plug-ins.<br />
+Their pitch: my1login enables users to access all their password-protected accounts and sites from any device, with a secure 2-step login process. my1login completely eliminates the need to memorise multiple usernames and passwords at the same time helping users increase their online se- curity by generating strong, unique passwords for each individual account.</p>
+<p>NEWSWHIP<br />
+Paul Quigley Ireland<br />
+Their pitch: NewsWhip is a live stream of the world’s most social news.<br />
+There’s too much Internet and not enough time. So NewsWhip uses so- cial signals to show exactly what the world’s favorite stories are, right now. Consumers use NewsWhip to find the best stories each day, and newsrooms &#8211; including CNN, BBC and NBC &#8211; use our pro tools to get ahead of what’s trending every hour.</p>
+<p>NONSTOP GAMES<br />
+Juha Paananen Singapore<br />
+Their pitch: NonStop Games makes instantly accessible social games you can play on any device.<br />
+NonStop Games makes instantly accessible social games you can play on any device. NonStop Games is disrupting the app distribution model in a totally novel way with games that can be distributed as links and played on any device. This enables new gaming experiences based on context and instant accessibility.</p>
+<p>NUJI<br />
+Dean Fankhauser United Kingdom<br />
+Their pitch: Nuji is building the Internet’s Department Store with social built at its core.<br />
+Nuji helps you discover items tailored to you and earn discounts at stores you like. Our users already saved 700K items from 25K stores and, last month, we delivered 35K clicks to retailers with an average eCPC of £1.32. We already signed Adidas and 70 other retailers and are about to let any store claim and manage their store page on Nuji.</p>
+<p>OPENSIGNAL<br />
+Brendan Gill United Kingdom<br />
+OpenSignal creates accurate and independent coverage maps of mobile signal.<br />
+Our goal at OpenSignal is to bring accuracy and transparency to mobile coverage maps. Using data from our smartphone applica- tion we are creating an independent survey of wireless signal. Our OpenSignal app has been downloaded by over 2 million people and is now the world’s largest independent assessment of wireless coverage.</p>
+<p>PAYCENTO<br />
+Pieter Dubois Belgium<br />
+Their pitch: Paycento makes paying for online content easy as a Facebook(tm) “Like”<br />
+Paycento provides patent-pending frictionless payments for on-<br />
+line content, using your social network identity, Twitter(tm), Facebook(tm), LinkedIn(tm), Google(tm), etc. Paycento’s bridges the world of the free advertisement supported model and the paid-for subscription model closing the gap that exists in the middle of the freemium business model.</p>
+<p>PHOREST<br />
+Ronan Perceval Ireland<br />
+Open Table for Hair and Beauty.<br />
+Their pitch: Phorest is changing the way salon owners run their business. Our web based platform currently manages 3.5m clients for 1000 salons in the UK and Ireland. Last year the platform processed 6.4m appointments and we are now preparing to launch in the US.</p>
+<p>PHYSICAL GRAPH CORPORATION<br />
+Alex Hawkinson United States<br />
+SmartThings gives the physical<br />
+world an API, adding intelligence to daily life.<br />
+The next major phase of the web will be the physical graph; the easy, open connection of everyday things to the Internet and each other. SmartThings enables this revolution by making it frictionless for us- ers, developers, makers and distributors. We give the physical world an API, and changing how software can make our everyday lives smarter.</p>
+<p>PICK1<br />
+Paolo Privitera<br />
+Italy (team), US (company)<br />
+Their pitch: Retargeting via Automated Market Research.<br />
+Retargeting via automated Market Research &#8211; big data for opinions Pick1 is an end-to-end solution linking advertisement and market re- search, based on questions, insights and actions. Engage your users in multi-touchpoint, collecting opinions and multi-dimensional social analytics to retarget the audience and critically improve ROI.</p>
+<p>PING.IT<br />
+Marius Lian Norway<br />
+Their pitch: Quickest and simplest way to send links to friends, family and co-workers.<br />
+Ping.it is the quickest and simplest way to send links to friends, family and co-workers. It is a crowdsourced browsing platform, where peo- ple point each other to content they find helpful or interesting. It’s a place where you get suggestions that matter, coming from people just like you.</p>
+<p>PLAIR<br />
+Saad Hussain United States<br />
+Their pitch: All the pictures and videos in the world, on any screen, wirelessly!<br />
+We believe the TV industrial complex (boxes, cables and remote con- trols) is outdated. Our goal is to get rid of everything physically con- nected to the TV. Our products allow laptops &amp; mobile devices to be- come “the box”. Users interact through an app interface on laptops &amp; mobile devices to search, discover and play the desired content on the TV.</p>
+<p>POIKOS<br />
+Eleanor Watson<br />
+Their pitch: The Netherlands / UK, Developed technology for imaging and measuring the body in 3D.<br />
+Poikos is a computer vision systems house which has developed a rev- olutionary patent-pending technology for imaging and measuring the body in 3D, using consumer grade hardware such as smartphones, tablets and PCs. We are developing a platform for the delivery of our technology to partners within the health, bespoke and e-commerce sectors.</p>
+<p>POLLARIZE<br />
+Mat Munro United Kingdom<br />
+Their pitch: We make decision social!<br />
+Making decisions can be hard! At Pollarize we take the pain out of that process. We help our users distill their question down to their simplest form &#8211; Yes/No, A/B &#8211; and publish them to a network of users with discernible authority in order to make the best choice.</p>
+<p>POSE<br />
+Dustin Rosen United States<br />
+Their pitch: Pose captures and enhances the in-store shopping experience.<br />
+Pose’s mobile application allows users to add products to a personal style feed, share their finds and start a conversation. Pose is some- thing special for women. Simply says that Pose.com is a posing and stylish images from the users. Shop and explore your personal fashion magazine.</p>
+<p>PREMISE<br />
+David Soloff United States<br />
+Their pitch: Premise is real time data for a streaming global economy.<br />
+Premise builds the machinery to improve global economic transpar- ency and measure what’s happening with the collective enterprise of the human race. We collect noisy, sparse data streams from around the world and distill them into real time, reliable macroeconomic in- sights. We are backed by Andreessen Horowitz, Google Ventures and Harrison Metal.</p>
+<p>PRESSMATRIX<br />
+Daniel Hoepfner Germany<br />
+PressMatrix develops technology to create and monetize tablet publications.<br />
+Their pitch: PressMatrix develops and operates a smart publishing and distribu- tion platform for magazines and catalogs to market digital issues on tablets. We offer a white labeled service and works directly with the Publishers. No need for hiring a team of digital publishing experts. 6 of the Top10 German Publisher and more than 100 publishers are us- ing us.</p>
+<p>QORDOBA<br />
+May Habib UAE<br />
+Their pitch: Crowd-sourced content creation and digital publishing platform.<br />
+Qordoba is a content creation company based in Dubai. We have built a web-based platform that makes creating professional high quality language content fast, reliable and scalable. We now employ 550 lin- guists, writers and editors in 30 countries. Languages offered: Arabic, Turkish, English, French, Spanish, Farsi, Russian, Mandarin, Urdu.</p>
+<p>REALLYLATEBOOKING<br />
+Roberto Gil Spain<br />
+Their pitch: A new way of travel. Get discounts to 70% for the best hotels, for the same day<br />
+ReallyLateBooking is a mobile application for booking hotels on the same day with big discounts. We select only the best hotels and you can make the book with just 4 taps, ITS THAT SIMPLE. RLB app is free and users pay nothing for to use it. We want to grow up and change the way of travel for all European people. Are you a LateBooker too?</p>
+<p>RECITE<br />
+Ross Linnett United Kingdom<br />
+Their pitch: Recite is an online accessibility tool that makes websites accessible to anyone<br />
+Recite accessibility software can make any website accessible to any- one from anywhere. It’s a software as a service system that allows vis- itors to a site who have visual impairments or learning difficulties like dyslexia, to have content read out aloud. They can also view them in adjustable text only views.</p>
+<p>RESUMUP<br />
+Eugene Barulin Russia<br />
+Their pitch: ResumUP shows who and what you need to know to achieve your career goal.<br />
+Creating a path to your dream destination has never been so simple and transparent for young talents who are searching for a maximizing their potential. ResumUP offers cutting edge online recruiting solu- tions, filling the gap between visualization technologies, data science, network recruitment approaches and professional social networks.</p>
+<p>RETAILTOWER<br />
+Blaise Bayuo Ghana<br />
+Their pitch: We create software that helps online merchants promote their products through comparison shopping engines. Online merchants face a complex sales environment. Increasingly, shoppers are using comparison-shopping engines to find products and compare prices. To remain competitive, merchants need to keep up with these trends. RetailTower offers plug-and-play solutions to meet the needs of this growing merchant base.</p>
+<p>RIPPLE TECHNOLOGIES LTD.<br />
+David O’Leary Ireland<br />
+Their pitch: Design bespoke plugins to deliver Social Intelligence with proprietary insights.<br />
+Ripple helps businesses to make decisions in real-time. No other plat- form offers the same easy deployment experience with minimal tech- nical expertise. There are no limits to the number of plugins you can deploy.We have a clear development vision to accelerate our capabil- ities to outstrip competitors. Ripple is 20% cheaper than comparable platforms.</p>
+<p>RUBLON<br />
+Michal Wendrowski Poland<br />
+Their pitch: Rublon makes registering and logging in to websites easier and more secure.<br />
+Rublon increases website usability and security by replacing pass- words with decentralized mobile cryptography. Scan Rublon Codes with your mobile phone to log in without having to remember any- thing. We’re disrupting a fundamental part of IT that hasn’t been glob- ally improved since 40 years: the login process to computer systems. Users love it.</p>
+<p>SAYDUCK<br />
+Mikko Martikainen United Kingdom / Finland<br />
+Their pitch: Virtual shopping made real. Sayduck provides an augmented reality-based mobile app with an underlying platform for showcasing brands’ and retailers’ products in the homes of their customers. This takes the guesswork out of imagin- ing what the item will look like. For the merchants it offers a new and unique sales channel to engage with their customers.</p>
+<p>SCOOPINION<br />
+Kobra Koskinen Finland<br />
+Their pitch: Scoopinion is the last.fm of reading. Scoopinion crowdsources quality journalism and makes the content matter again. It tracks what and how you read and automatically rates the articles according to the way they are read. You’ll get recommend- ed articles that people like you have read thoroughly. With Scoopinion even procrastination is now useful.</p>
+<p>SCREENREACH<br />
+Paul Rawlings United Kingdom<br />
+Blue on White Background<br />
+Their pitch: Screach is a revolution in interactivity for broadcast.<br />
+Screach is the next generation in interaction technology, allowing au- diences to engage with any screen or content via their mobile device, and allowing brands to understand and instantly reward their au- dience like never before. Screach is working with brands including Channel4, CBS, Bauer and Cadburys to revolutionise broadcast and advertising.</p>
+<p>SEEDRS<br />
+Jeff Lynn<br />
+United Kingdom<br />
+Their pitch: Seedrs is an online platform for investing in the startups you choose.<br />
+Seedrs revolutionises the world of seed-stage finance. We allow inves- tors to invest between £10 and £150,000 in the startups they choose, and we allow entrepreneurs to seek up to £150,000 in equity capi-<br />
+tal from friends and the crowds, all through a simple, online plat- form. Seedrs is authorised and regulated by the Financial Services Authority.</p>
+<p>White on Blue Background<br />
+SEEVL.NET, BY MDG WEB LTD<br />
+Alexandre Passant Ireland.<br />
+Their pitch: Your music discovery assistant.<br />
+Seevl is your music discovery assistant. Using cutting-edge R&amp;D, it provides a unique user experience by combining social discovery, artist connections, personal recommendations, and facetted search. seevl is currently available as a free browser extension for YouTube, letting music lovers discover the best tunes among millons of YouTube videos.</p>
+<p>SHIROUBE<br />
+Tatsuo Sato France<br />
+Their pitch: Travel, travel, travel! Shiroube is all about connecting locals and visitors.<br />
+Shiroube is the micro local guide marketplace that connects local res- idents and travelers, offering guides and services for travelers (P2P Travel). The service has grown since its launch, covering more than 3,000 cities, is the largest network in the market.</p>
+<p>SHOPIGRAM<br />
+Vincenzo Ruggiero Belgium<br />
+The awesome way to sell stuff online.<br />
+Their pitch: Grab your smartphone, take a picture of something, describe it and sell it. That only takes 30 seconds and your item is on the Shopigram marketplace! Receive orders, ship your stuff and earn money through Paypal. You can also share your items with your friends, discover products around you and discover what your friends like and what they sell..</p>
+<p>SILK<br />
+Salar al Khafaji The Netherlands<br />
+Their pitch: Silk is a new way to create and consume structured collections of content.<br />
+Silk allow users to create structured collections about any subject and allowing them to browse, visualize and filter through all that data. Silk is already being used for financial data, entertainment, data jour- nalism and we expect to become the leading platform for data on the web.</p>
+<p>SIX3<br />
+Tim Grimsditch United Kingdom<br />
+Their pitch: A next-generation video sharing &amp; messaging service.<br />
+Today’s video sharing and messaging services are dull clones of Instagram or SMS. Young “video natives” want a truly social video platform. One that blends personal, group &amp; public sharing. Using their existing channels. Fast, beautiful &amp; simple. Six3 is an award winning, London-based startup delivering the world’s best social vid- eo service.</p>
+<p>SMARCHIVE<br />
+Steffen Reitz Germany<br />
+Their pitch: Paperwork, magically done. smarchive frees your life from paperwork &#8211; and leaves you more time for the funny things. Thanks to its smart semantics software, it under- stands any document’s content and helps you accomplishing all tasks within seconds &#8211; with automatically sorted documents, seamlessly paid bills, reminders ahead of cancellation deadlines, expense track- ing etc.</p>
+<p>SOCIAL FORTRESS, INC.<br />
+Adam Ghetti United States<br />
+We put the enterprise back in control of their data and users.<br />
+Social Fortress enables enterprises to leverage cloud and mobile tech- nologies with confidence by redefining the data and access control landscape while reducing end-user friction. Backed by Christopher Klaus (Founder, Internet Security Systems), Phil Dunkelberger (Founder, PGP), and Ken Levine (CEO, NitroSecurity / SVP, GM &#8211; McAfee) among others.</p>
+<p>SOUNDROP<br />
+Inge Andre Sandvik Norway<br />
+Their pitch: Soundrop allows people to discover, share and enjoy music together with friends.<br />
+Soundrop is the best way to discover, share and enjoy music in Spotify. We let anyone create a collaborative social listening destina- tion that can be shared in real-time with friends or other fans. The model works. We have streamed more than 300 million tracks and have an average listening time of three hours.</p>
+<p>SOUNDWAVE<br />
+Brendan O’Driscoll Ireland<br />
+Their pitch: Tracking what songs people are listening to &amp; where in realtime<br />
+With Soundwave, users can easily see in realtime what songs people are listening to all around them and globally. Users can create charts based on particular locations (office, street, city or country), friends, celebrities or groups of people (family, teammates, rocker friends) and filter the results by time and genre to discover new music.</p>
+<p>SPONSORHUB<br />
+Robert Johnston United States<br />
+SPONSORSHIPS MADE SMARTER<br />
+Their pitch: SponsorHub makes it easy for brands to discover and manage sponsorships.<br />
+SponsorHub is indexing the $60 billion sponsorship industry (like Google did for online ads). We provide a platform and marketplace for brands to discover, manage and score sponsorship opportunities rang- ing from events and venues to athletes and digital sponsorships. We provide brands with a native, authentic way to connect deeply with customers.</p>
+<p>SPONTANEOUSLY<br />
+Spencer Lazar United States<br />
+Their pitch: A simple way to create &amp; send amazing messages.<br />
+Spontaneously is the developer of TwistPics, a simple way to create &amp; send amazing messages. Whereas most innovation in mobile com- munication has been about increasing efficiency (lowering cost and improving speed), TwistPics is focused on making conversation richer and more fun.</p>
+<p>STAGEDOM<br />
+Shahar Nechmad Israel<br />
+Their pitch: Where fans and bands rule.<br />
+Their pitch: There are more than 2.1 billion yearly missed engagement points around live events between loving, paying customers and the enter- tainment brands behind them. Stagedom platform is a 360 degrees solution, enhancing and extending the life of live events, and provid- ing real time data, marketing and monetization tools to the entertain- ment industry.</p>
+<p>STIPSO<br />
+Their pitch: Steven Drost Scotland stipso engages brands with their audience via live infographics<br />
+stipso delivers market engagement for your brand via live infograph- ics. 1. engage your target audience with beautiful live infographics. 2. gather user-contributed data that gives you research insights into your market 3. extend your inbound marketing funnel via sharing 4. build brand visibility and brand trust in the social web</p>
+<p>STORYBRICKS<br />
+Rodolfo Rosini United Kingdom<br />
+Online Games.<br />
+Their pitch: Storybricks is a platform that lets gamer developers build their own games. Users write a story using a drag and drop UI, then they push a button and we bake a game with our special sauce. Easy peasy, really. Storybricks is not sold as middleware, instead we partner with game companies to bring unique games to the market.</p>
+<p>STORYTELLER<br />
+Naveen Jain United States<br />
+Build great websites and apps with content from anywhere.<br />
+Their pitch: We enable you to realize an API’s potential by restoring focus on the incredible content and functionality they offer. Forget costly integra- tions and plugins that make your website slow. We make discovering API content as easy as Google search expanding access to everyone. Get reliable, full access that scales to achieve any idea.</p>
+<p>SUGENTUM<br />
+Kate Scisel Poland<br />
+We put e-shops on mobile in 5 minutes. Risk free for the business.<br />
+Their pitch: Online retailers don’t have time to innovate. Mobile is exploding<br />
+but people can’t buy on mobile yet because majority of shops either don’t have a mobile presence or do it wrong. Sungentum fixes this by making mobile buying easy. If you have an e-shop and you sell on- line, Sugentum will create for you a mobile version of your shop in 5 minutes.</p>
+<p>SUMUP LIMITED<br />
+Petter Made Ireland<br />
+SumUp enables every small business to accept card payments<br />
+Their pitch: SumUp is the easiest way for small businesses and sole traders to ac- cept credit and debit card payments securely, even on-the-go. Using only a free, portable card reader and an app available for iPhone, iPad and Android, merchants are now able to accept credit and debit card payments anytime, anywhere. SumUp means card payments for everyone.</p>
+<p>SWRVE<br />
+Steven Collins Ireland<br />
+Their pitch: The world’s first mobile app optimization platform<br />
+We’re dedicated to helping the mobile app and game developers turn short-term hits into long-term, sustainable growth. Our technology is already being used by some of the world’s leading app and games developers, and handling over 1 billion events per day. Wherever it counts &#8211; you’ll find Swrve.</p>
+<p>SYNDICATE PLUS<br />
+Pieter van Herpen The Netherlands<br />
+Feeding the world with product data.<br />
+Syndicate Plus gives websites and apps access to rich, structured con- sumer product data to build or enrich their online and mobile ex- periences. Right now there’s no place that has every detail on every consumer product. Syndicate Plus intends to become that place by building the largest consumer product database in the world.</p>
+<p>TALKBITS<br />
+Their pitch: Olga Steidl Russia talkbits is locally-focused<br />
+voice app that allows users to discover their area.<br />
+Talkbits is an application whose goal is to connect people and explore the world through sound and voice; starting where you live. By col- lecting voices and events in a Walkie-Talkie style, talkbits gives users an opportunity to discuss trending and locally relevant topics such as personal news, local news, local events and global events.</p>
+<p>TAWKIFY<br />
+Kenneth Shaw United States<br />
+We personally handpick your match and set you up on Tawkify/Walkify/Mystery Date.<br />
+Tawkify melds the engineering power of the web with the intangible intuition of flesh and blood matchmakers. We solve online dating by making it private, fun and timesaving. Our human matchmakers cu- rate matches, solve social inefficiencies of dating, and set customers together on a phone call, walk, and mystery date.</p>
+<p>TAWKON<br />
+Their pitch: Gil Friedlander Israel tawkon encourages mobile users to control their exposure to mobile radiation. tawkon (as in, “talk on”) created a sophisticated mobile technology allowing users to minimize exposure to mobile phone radiation with- out reducing usage. tawkon monitors the level of radiation you’re exposed to and provides simple real-time prompts to avoid radiation exposure just when necessary.</p>
+<p>TEAMWORK PROJECT MANAGER<br />
+Peter Coppinger Ireland<br />
+Online Project Management that knocks the socks off the competition.<br />
+Their pitch: TeamworkPM aims to be the best online Collaboration and Project Management platform in the world. We have thousands of customers all over the world including some very high profile names like Pepsi, Walt Disney and Ubisoft. Happily, our customers rave about us and we are growing rapidly thanks to social media referrals. Big plans ahead!</p>
+<p>THE CURRENCY CLOUD<br />
+Nasir Zubairi United Kingdom<br />
+Their pitch: The low cost international payments automation service Delivering more control &amp; transparency through technology www.thecurrencycloud.com<br />
+Simple, low cost, automated and transparent international payment service.<br />
+The Currency Cloud makes international payments and transfers sim- ple. We operate in the payments industry, delivering a service that enables businesses to send, receive, track and automate their cross currency payments process, significantly lowering costs, reducing ex- pensive payment failures whilst increasing control and transparency.</p>
+<p>THE FLOAT YARD LTD<br />
+Colin Hewitt Scotland<br />
+Simple cash-flow forecasting and budgeting for small businesses.<br />
+Their pitch: The online accounting market is growing rapidly (500k users and dou- bling every 10 months). Float integrates into these packages to provide realtime forecasting based on live accounting figures. This means that forecasts are up to date in minutes, and scenarios can be easily re- vised and shared. Float makes forecasting visual, simple and usable.</p>
+<p>THE LEVO LEAGUE<br />
+Caroline Ghosn United States<br />
+Their pitch: Levo League is the leading community resource for Gen Y professionals.<br />
+Levo League is the first professional network designed to inspire and enable Gen Y women to build amazing careers. Levo League connects women in the first ten years of their career path with resources to help facilitate personal and professional success.</p>
+<p>THETAPLOID<br />
+Their pitch: Friends: gossip will never be the same again.<br />
+The Taploid is a digital tabloid for your social graph. It’s created by taking the social data of your friend’s from the web and turning that data into a personalized highly interactive magazine, containing funny news and silly gossip all centred on you the reader, and your friends. We’re revolutionising the traditional tabloid media industry.</p>
+<p>TJOBS S.A.<br />
+Andreas Cser Romania<br />
+Their pitch: TjobsRecruit is using technology to make recruiting processes more efficient.<br />
+TjobsRecruit is a hybrid online/bricks-and-mortar business that com- bines the efficiency of an online recruitment portal with a fast grow- ing proprietary network of over 500 recruitment agencies. We work on revolutionizing HR Services by vastly improving the efficiency of recruiting processes for all stakeholders: employers, candidates and agents.</p>
+<p>TOAST<br />
+Benedikt Bingler Germany<br />
+Toast is disrupting mobile gifting by creating highly social experiences.<br />
+Their pitch: Toast is your social wish list and gifting service for making wishes come true. The aim of Toast is to provide a holistic gifting experience on mobile. By focusing on using social strategies in the gifting space, Toast can engage gift givers and recipients better than traditional e-commerce models.</p>
+<p>TOPTAL<br />
+Taso Du Val United States<br />
+Their pitch: Online talent marketplace connecting freelance software developers to the world.<br />
+TopTal prescreens developers using a combination of algorithmic tests, technical interviews, English/verbal interviews, and paired program- ming projects. Once developers are accepted into its network, they are eligible to work with TopTal’s clients on a full-time or part-time, week- ly basis.</p>
+<p>TRAVELMENU<br />
+Katrin Buckenmaier Russia<br />
+Their pitch: One of the top three online travel companies in Russia, and the Ukraine. Travelmenu’s distinctive strength is its market-leading product offer- ing with connectivity to 250,000 hotels and 500 airlines, more than any of its local competitors, via Amadeus and XML API connectivity to 3rd parties. Travelmenu is offering a Lowest Price Guarantee on all of its hotel and package holiday product.</p>
+<p>TRIPPING<br />
+Jen O Neal United States<br />
+Their pitch: Global community of travellers who believe cultural exchange betters the world.<br />
+Tripping enables travelers to safely connect with locals for travel tips, a shared cup of coffee or even a home stay. Offering both web and mo- bile technology platforms, Tripping also provides easy access to travel resources to help site members make informed decisions when plan- ning their trips.</p>
+<p>TUPALO.COM<br />
+Mike Borras Austria<br />
+Their pitch: Central Europe’s largest social local search community.<br />
+Tupalo.com is a profitable, 20-person social local search community reaching 4 million users per month. The company is headquartered in Vienna, Austria with satellite offices in Warsaw, Amsterdam and Rotterdam, and is backed by strategic partnerships with some of the largest yellow pages publishers in the World.</p>
+<p>TWOCIAL<br />
+Shaf Choudry United Kingdom<br />
+People are talking about your brand right now, we’re listening for you.<br />
+Social media isn’t about tweets or stats, it’s about people and how you engage with them. In a world full of vanity metrics we tell you who is important to your brand. If you aren’t engaging with your brand ad- vocates or influential haters, your competitors will be. And if they’re using Twocial, you’re really screwed</p>
+<p>USER.LY<br />
+Jonathan Morris United Kingdom<br />
+Their pitch: User.ly provides businesses with the means to make the best decision possible.<br />
+User.ly is a subscription based online platform built to help start- ups and businesses of all sizes to make better decisions. The platform enables businesses quick and easy access to smart-end users in any demo-graph who give feedback on product development, pricing, marketing and messaging. In this way, businesses can verify before investing.</p>
+<p>VINE<br />
+Dom Hofmann United States<br />
+Their pitch: Video has never been this fun. An incredible new way to capture and share beautiful videos using your iPhone. No editing. No rendering. No post-production. Video has never been this fun. Vine is currently in closed beta and will be re- leased for free this October on the App Store.</p>
+<p>VOX.IO<br />
+Tomaz Stolfa Slovenia<br />
+Their pitch: vox.io &#8211; making communication better.<br />
+vox.io is the easiest way to communicate with your friends and fam- ily. vox.io’s messaging, content sharing and calling make it simple to share experiences with those that matter most to you, wherever you are, wherever they are. Starting conversations on vox.io is as easy following a link &#8211; no numbers, no international rates.</p>
+<p>WARMBREEZE STUDIOS AB<br />
+Amer Mohammed Sweden<br />
+Healthy Heroes offers the worlds first social gaming experience. Healthy Heroes is a fun, social gaming experience focusing on build- ing a game character through real life exercise. We do not emphasise calories, heart rates or resting pulses. Instead, healthy heroes en- courages players to unlock achievements, earn rewards and challenge friends. Healthy Heroes is like World of Warcraft meets health and exercise!</p>
+<p>WHIPCAR<br />
+Vinay Gupta United Kingdom<br />
+Their pitch: WhipCar matches up people. Rent the car next door.<br />
+who need a car with those who don’t drive every day.<br />
+WhipCar is the neighbour to neighbour car rental service. Since 2010, it has connected car owners with safe, approved drivers nearby. All cars and drivers are screened by WhipCar and every rental is covered by a globally unique comprehensive insurance policy, which tempo- rarily replaces the owner’s existing insurance for the duration of hire.</p>
+<p>WILLSTREAM LABS<br />
+Andrew Considine Ireland<br />
+Their pitch: Willstream makes life simpler, better and more secure for the world’s migrants.<br />
+Willstream is helping migrants to take control of their lives and their financial future. We’ve developed a new online and mobile payments technology for a real-world need &#8211; enabling migrants living anywhere to connect with and pay hospitals, schools, utilities and even grocery stores for the benefit of their family still living at home.</p>
+<p>WIZEHIVE<br />
+Mike Levinson United States<br />
+Their pitch: A marketplace to find and build business apps in under an hour.<br />
+WizeHive makes it easy for anyone to find and build cloud based busi- ness apps without involving IT. Choose from ready-to-install apps, or create an app from scratch. WizeHive apps work together to create a shareable database in the cloud that works from anywhere. WizeHive currently has over 500 customers running over 1500 apps.</p>
+<p>WRAPP<br />
+Carl Fritjofsson Sweden<br />
+Their pitch: Celebrating your friend with gifts of real value &#8211; every day!<br />
+Wrapp is the world’s leading social gifting service. Wrapp users send free and paid gifts to their friends from top brands, and retailers use Wrapp as a performance-based marketing platform to generate tar- geted store traffic in a non-intrusive way. We call it friend-2-friend marketing!</p>
+<p>YATTERBOX<br />
+Matt Freckelton United Kingdom<br />
+Their pitch: Yatterbox specialises in tracking politicians online through social media.<br />
+Yatterbox is a political monitoring company that specialises in track- ing politicians through social media. This information is then accessed through a web based monitoring platform that allows businesses to understand and drill down into the information. Yatterbox serves pri- marily Public Affairs, PR, lobbyists, Media and News organisations.</p>
+<p>YOSSARIANLIVES!<br />
+J. Paul Neeley United Kingdom<br />
+Their pitch: YossarianLives! is a metaphorical search engine.<br />
+YossarianLives! is a revolutionary metaphorical search engine that promotes lateral thinking across the Internet, helping people gener- ate new ideas and fresh perspectives, inspire innovation, and discov- er new connections. Instead of closely related results, our algorithms return possible metaphorically related content from entirely new domains.</p>
+<p>ZIRTUAL<br />
+Maren Kate United States<br />
+Their pitch: Epic personal assistants for all of your work, life and concierge needs.<br />
+Imagine having a second self. An assistant who knows your person- al preferences and your business needs. Now imagine them manag- ing your busy schedule, booking all of your travel and handling work tasks that you don’t have time for. For $200 a month your dedicated Zirtual Assistant can do all of that and more. Our ZAs will rock your world.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/YCLteJV93Ss/">here</a>.

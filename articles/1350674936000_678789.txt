@@ -1,0 +1,31 @@
+{
+"title" : "With New Funding In Place, Ride-Sharing Service SideCar Prepares To Launch In Seattle",
+"date" : "Fri, 19 Oct 2012 19:28:56 +0000",
+"author" : "Ryan Lawler"
+}
+
+<img width="100" height="67" src="http://tctechcrunch2011.files.wordpress.com/2012/10/sidecar-logo-280x67.png?w=100&amp;h=67&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="SideCar logo 280x67" title="SideCar logo 280x67" style="float: left; margin: 0 10px 7px 0;" /><p>Ride sharing isn&#8217;t just for San Francisco anymore. Fresh on the heels of <a href="http://techcrunch.com/2012/10/10/sidecar-10m-new-markets/">securing $10 million in new funding</a>, <a target="_blank" href="http://side.cr">SideCar</a> is ready to start its expansion into new markets. In an email sent to the SideCar community this morning, the company announced plans to enter Seattle within the next several weeks.</p>
+<p>Seattle seems like a smart bet for ride sharing: It&#8217;s a city where the majority of residents have cars, but one that is not so spread out or sprawling (like Los Angeles, for instance) that it&#8217;s impossible to ensure ride coverage. And, of course, it&#8217;s got a tech-savvy populace, as it&#8217;s home to or near tech giants like Microsoft and Amazon.</p>
+<p>In preparation for its launch in the Emerald City, SideCar has asked users to refer drivers in Seattle who might be interested in being part of the service there. Users who refer a friend who eventually get picked as a driver will receive $100 in ride credit for the service, so long as the driver ends up starting before the end of November. That tells us that an actual launch of SideCar in Seattle will happen within the next six weeks, but it will likely kick off sooner. </p>
+<p>SideCar is also <a target="_blank" href="http://www.linkedin.com/jobs?viewJob=&amp;jobId=3958403&amp;srchIndex=0&amp;trk=njsrch_hits&amp;goback=%2Efjs_*1_*1_*1_I_us_*1_10_1_R_true_*1_*2_*2_*2_us%3A91_*2_mrkt_*2_*2&amp;trk=from_simplyhired">looking for a community manager</a> in that city. I&#8217;ve sent a request for more details to SideCar, but have yet to hear back.</p>
+<p>The introduction of ride sharing to a new city is happening as a number of players are looking to disrupt the transportation industry in San Francisco. Uber was first here, of course, but has recently taken aim at ride-sharing service with the introduction of its lower-cost UberTAXI service in its home market. </p>
+<p>Ride sharing has become so popular in San Francisco that Zimride&#8217;s Lyft service <a href="http://techcrunch.com/2012/10/18/lyft-waitlist-cancellation-fee-etc/">can&#8217;t keep up with demand</a>. To deal with that issue, Lyft has instituted a wait list for new users and introduced a cancellation fee to deter users from ordering a ride and then canceling before drivers have arrived. But while Lyft is struggling to keep up with demand in its home market, SideCar is preparing its expansion into other cities.</p>
+<p>The move into Seattle also comes as SideCar and the other ride-sharing services faces regulatory scrutiny at home: The California Public Utilities Commission in August <a href="http://techcrunch.com/2012/10/08/cpuc-ride-sharing-c-and-d/">served up cease and desist notices</a> to SideCar, Lyft, and Tickengo, a newer competitor in the space. All are still on the road, and all are reportedly talking to the CPUC about how their services fit into its regulatory framework. SideCar is likely to attract scrutiny in other market, as local governments take a look at these new, technology-driven services. </p>
+<p>But it has to launch in new markets first. Hiring drivers and a local community manager will be the first step toward doing that.</p>
+<p>Full text of the SideCar community email below:</p>
+<blockquote><p>Hey SideCar Community,</p>
+<p>It is with incredible excitement that we announce a new addition to the SideCar family:</p>
+<p><a target="_blank" href="https://twitter.com/SideCarSEA">@SideCarSEA</a></p>
+<p>To celebrate our upcoming Seattle launch (and spread some love) we&#8217;ve put together a little offer for our favorite peeps in the world, you:</p>
+<p>Refer a Seattle driver and receive $100 in SideCar ride credit if they drive during the month of November. </p>
+<p>Okay, awesome.  &#8220;So, how do I get my money?!&#8221;</p>
+<ol>
+<li>Send your Seattle pals to <a target="_blank" href="https://drive.side.cr/apply/view/seadrive">www.side.cr/seadrive</a></li>
+<li>During the video interview, Jeff will ask, &#8220;How did you hear about us?&#8221;  Make sure your friends drop your name!</li>
+<li>Kick back and wait for them to give their first ride. Once they do, we&#8217;ll set you up with $100 in ride credit*</li>
+</ol>
+<p>It&#8217;s that simple.  We look forward to bringing the SideCar magic to your friends in The Emerald City!</p>
+<p>Ride on,</p>
+<p>The SideCar Team</p>
+<p>*In order to redeem credits, your referred driver must pass SideCar&#8217;s vetting and activation process and give at least one ride in Seattle before November 30, 2012.  Credits will be applied directly to your SideCar account.  You must have a SideCar account to receive credits.</p></blockquote>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/DmUdjQfazMI/">here</a>.
