@@ -8,5 +8,5 @@
 <p>The company will use the investment to hire more people, and recently moved its headquarters from Madrid to London in order to scale up.</p>
 <p>Bernhard Niesner, busuu CEO and co-founder says they are seeing strong growth in emerging markets such as Brazil, Russia and China, where language learning is not a hobby but needed by people to improve their career prospects. The start-up was founded by Niesner and Adrian Hilti in Madrid in early 2008. </p>
 <p>Fun fact: The company is named after the Busuu language of Cameroon which is spoken by only 8 people.</p>
-<span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/10/20/language-learning-platform-busuu-raises-e3-5m-series-a-round-moves-to-london-to-scale-up/"></a></span>
+<span class='embed-youtube' style='text-align:center; display: block;'><iframe class='youtube-player' type='text/html' width='640' height='390' src='http://www.youtube.com/embed/mLQK0Iebu5A?version=3&#038;rel=1&#038;fs=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' frameborder='0'></iframe></span>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/DeWYJH69F4Y/">here</a>.

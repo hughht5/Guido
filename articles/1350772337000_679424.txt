@@ -25,6 +25,6 @@
 <p>See, to do really amazing things, sometimes you need to suck it up and just do it. </p>
 <p>I honestly believe that a cure for cancer will be assisted largely in part by a new breed of technologist, one who doesn&#8217;t care about the glitz and glamor of being a &#8220;Silicon Valley Rock Star&#8221;, but one that truly wants to change the world.</p>
 <p>Let&#8217;s do something. Geeks, meet Doctors. Doctors, meet Geeks. Go have babies named &#8220;Cure.&#8221; It ain&#8217;t sexy, but it could save our lives.</p>
-<p><span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/10/20/if-the-health-care-industry-married-silicon-valley-theyd-have-babies-named-cure/"></a></span></p>
+<p><span class='embed-youtube' style='text-align:center; display: block;'><iframe class='youtube-player' type='text/html' width='640' height='390' src='http://www.youtube.com/embed/go-gPUZJJ_E?version=3&#038;rel=1&#038;fs=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' frameborder='0'></iframe></span></p>
 <p><strong>(Just in case you&#8217;re wondering what action I&#8217;m going to take, I am working with LIVESTRONG to bridge the gap between Austin and Silicon Valley. In fact, I&#8217;ll be pitching some big companies on doing a few meetups and hackathons in the coming future. I need some help though.)</strong></p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/U76Jeqwdsy8/">here</a>.
