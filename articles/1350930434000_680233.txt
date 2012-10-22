@@ -1,5 +1,5 @@
 {
-"title" : "Update: Amazon Web Services Down In North Virginia — Reddit, Pinterest, Foursquare, Minecraft, Heroku And Others Affected",
+"title" : "Update: Amazon Web Services Down In North Virginia — Reddit, Pinterest, Airbnb, Foursquare, Minecraft And Others Affected",
 "date" : "Mon, 22 Oct 2012 18:27:14 +0000",
 "author" : "Romain Dillet"
 }
@@ -7,8 +7,8 @@
 <img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/04/amazon-web-services.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="amazon web services" title="amazon web services" style="float: left; margin: 0 10px 7px 0;" /><p>What started as a small issue affecting some instances of Amazon&#8217;s Elastic Cloud Compute (EC2) in North Virginia became a full-blown outage of AWS in North Virginia. Major services, such as Reddit, Foursquare, Minecraft and Heroku, are down. GitHub, imgur, Pocket, HipChat, Coursera and others are affected.</p>
 <p>Reddit experienced hiccups at first when only the Elastic Bloc System was affected, but then seemed to go back to normal for most people. It is now down again.</p>
 <p>Many other services are now down as the issue is now affecting other parts of Amazon Web Services. Amazon&#8217;s RDS database instances and Elastic Beanstalk are down in North Virginia. Minecraft, Pinterest, Foursquare and Airbnb are down. Finally, AWS&#8217;s ElastiCache and CloudWatch are experiencing delays and connectivity issues.</p>
-<p>Heroku currently <a target="_blank" href="https://status.heroku.com/#2012-10-22">reports</a> elevated error rates for both the production service and the development service.</p>
-<p>Many smaller services are reporting that they are affected by the outage. As always, users and developers are wondering why half of the Internet is going down <a href="http://techcrunch.com/2012/06/30/could-instagram-and-other-sites-avoid-going-down-with-amazons-ship/">every time</a> an AWS data center experiences issues.</p>
+<p>Heroku currently <a target="_blank" href="https://status.heroku.com/#2012-10-22">reports</a> elevated error rates for both the production service and the development service. Many smaller services are affected by the outage.</p>
+<p>As always, users and developers are wondering why half of the Internet is going down <a href="http://techcrunch.com/2012/06/30/could-instagram-and-other-sites-avoid-going-down-with-amazons-ship/">every time</a> an AWS data center experiences issues.</p>
 <p>On Amazon&#8217;s <a target="_blank" href="http://status.aws.amazon.com/">AWS status page</a>, the company first reported issues only affecting EBS volumes:</p>
 <blockquote><p>10:38 AM PDT We are currently investigating degraded performance for a small number of EBS volumes in a single Availability Zone in the US-EAST-1 Region.<br />
 11:11 AM PDT We can confirm degraded performance for a small number of EBS volumes in a single Availability Zone in the US-EAST-1 Region. Instances using affected EBS volumes will also experience degraded performance.<br />
