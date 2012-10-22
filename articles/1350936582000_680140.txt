@@ -1,0 +1,28 @@
+{
+"title" : "Marijuana Majority Highlights Celebs And Tech Leaders Who Support Pot Legalization",
+"date" : "Mon, 22 Oct 2012 20:09:42 +0000",
+"author" : "Josh Constine"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/marijuana-majority-feature1.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Marijuana Majority Feature" title="Marijuana Majority Feature" style="float: left; margin: 0 10px 7px 0;" /><p>Successful people, not just &#8220;lazy stoners&#8221;, wants pot laws to change. That&#8217;s the message of <a target="_blank" href="http://marijuanamajority.com/">new website Marijuana Majority</a>, which displays over 600 influencers including Peter Thiel, Sean Parker, Paul Bucheit, and Dustin Moskovitz who&#8217;ve supported marijuana law reform through donations or quotes. Now it wants Twitter&#8217;ers to persuade pot-favoring politicians, celebs, and technologists to stand up.</p>
+<p>Marijuana Majority&#8217;s goal is to debunk the myth that drug law reform is a fringe issue backed only by addicts and the counterculture. In fact, it&#8217;s a mainstream movement with advocates amongst the highest levels of government, business, and entertainment. <a target="_blank" href="http://www.gallup.com/poll/150149/record-high-americans-favor-legalizing-marijuana.aspx">A Gallup poll</a> from last year said 50% of Americans now support legalizing marijuana, up from 46% the year before.</p>
+<p>That means there&#8217;s nothing stopping politicians from pivoting after the decades-long drug war has failed. The project&#8217;s founder and chairman Tom Angell tells me &#8220;anyone that understands that the laws are broken and should be fixed shouldn&#8217;t be afraid to say so.&#8221;</p>
+<p></p>
+<p>So Marijuana Majority&#8217;s site is designed to make it clear who supports pot law reform so others feel comfortable coming forward. Any of the influencers it lists can be clicked to reveal how they&#8217;ve supported the movement. It shows political initiatives they&#8217;ve funded, things they&#8217;ve said, and icons that denote if they advocate for legalization, decriminalization, medicinal marijuana, or ending the drug war.</p>
+<p>When I asked why it was important to get tech leaders on board, Angell told me &#8220;They&#8217;re influential, particularly to younger, web-connected people.  A lot of them aren&#8217;t shy about getting involved in policy debates and supporting organizations and initiatives that they agree with.&#8221;</p>
+<p>Here&#8217;s a list of tech leaders  on Marijuana Majority and their specific contributions to the cause:</p>
+<ul>
+<li>Richard Branson, founder of the Virgin Group &#8211; Said California could bring in over $1 billion in revenue that could aid communities by taxing and regulating marijuana.</li>
+<li>Peter Thiel, co-founder of PayPal, creator of Founders Fund - Donated $70,000 to the Yes on Proposition 19 Campaign, the 2010 California Initiative to Legalize Marijuana.</li>
+<li>Sean Parker, co-founder of Napster and Airtime, first president of Facebook - Donated $100,000 to the Yes on Proposition 19 Campaign.</li>
+<li>Cory Doctorow, co-editor of Boing Boing &#8211; Said he doesn&#8217;t take mood-altering substances, but believes &#8220;everything that we call &#8216;drugs&#8217;&#8230;should be legalized and brought into the light of day&#8221;.</li>
+<li>Dustin Moskovitz &#8211; co-founder of Facebook and Asana &#8211; Said a California initiative to legalize marijuana could stabilize national security, aid the economy, and reduce prison overcrowding from jailing non-violent offenders.</li>
+<li>John Perry Barlow, co-founder of Electronic Frontier Foundation &#8211; Said maybe the US and Mexico could try decriminalizing drugs.</li>
+<li>Paul Bucheit &#8211; Creator of Gmail and FriendFeed &#8211; Said marijuana prohibition is an attack on our right to control our bodies and minds, as well as a multi-billion subsidy to organized crime.</li>
+</ul>
+<p></p>
+<p>Along with the faces of influencers who&#8217;ve publicly advocated for marijuana law reform publicly, the site lists figures like Mark Cuban, Bill Nye, Rainn Wilson, and Kanye West who&#8217;ve alluded to their support. Angell tells me &#8220;<i>Rihanna often tweets about how she loves marijuana but hasn&#8217;t said anything publicly about the policy.&#8221;</i></p>
+<p>So the site asks visitors to &#8220;get out the quote&#8221; by tweeting pre-written messages like &#8220;Hey @rihanna should US #LegalizeMarijuana &amp; stop locking up so many people? http://marijuanamajority.com/?id=724 via @JoinTheMajority&#8221;. Supporters can also <a target="_blank" href="https://marijuanamajority.nationbuilder.com/contribute">donate</a> to the project or share memes seen here from The <a target="_blank" href="http://www.facebook.com/marijuanamajority/photos_stream">Marijuana Majority Facebook Page</a>.</p>
+<p>Next, the team may look to share its social tools with other movements like the push for marriage equality. That means whatever the issue, <a target="_blank" href="http://marijuanamajority.com/">Marijuana Majority</a> could fight the stigma attached to voicing controversial opinions. As it says at the bottom of each page, &#8220;Bad laws change when good people speak up.&#8221;</p>
+<p></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/8NvBulC5A3M/">here</a>.
