@@ -1,0 +1,13 @@
+{
+"title" : "Smartphones Not Required – Mobile Money On Feature Phones Is Hot In Emerging Markets",
+"date" : "Mon, 22 Oct 2012 16:47:25 +0000",
+"author" : "Mike Butcher"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-22-at-17-38-53.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-10-22 at 17.38.53" title="Screen Shot 2012-10-22 at 17.38.53" style="float: left; margin: 0 10px 7px 0;" /><p>Mobile money is a big deal in emerging markets. When a farmer can simply SMS payment for a cow or two people can transact business by swapping airtime, that changes the entire dynamics of an economy. So it&#8217;s little surprise that some research just out today indicates how big the market is going to be. And it&#8217;s all done on plain old feature phones. Berg Insight reports that the number of active mobile money users in emerging markets is forecasted to grow from 61 million in 2011 at an annual growth rate of 36 percent to reach 381 million by 2017. </p>
+<p>The most successful mobile money services are currently use in Africa, such as M-Pesa which is now reputedly processing something close to 10% of the GDP of Kenya (M is for mobile, pesa is Swahili for money). However, it&#8217;s now the Asia-Pacific region that is expected to become the most important regional market, accounting for nearly two-thirds of the active mobile money user base in 2017. </p>
+<p>Berg says that the total value of mobile money transactions is projected to grow from $44 billion in 2011 at a rate of 44% to $395 billion in 2017. And while mobile money extends financial services to people without banks, plenty of people with banks will be using it as well. </p>
+<p>Startups are noticing. <a href="http://techcrunch.com/2011/04/12/txteagle-raises-8-5-million/">Last year</a> Boston-based TxtEagle raised $8.5 million from a consortium including Spark Capital and RBC Venture Partners, in order to parter with 220 mobile operators in almost 100 countries who between them cover 2.1 billion subscribers. TxtEagle surveys masses of people on mobile TxtEagle then forwards the survey (or other task) to thousands of individual members via their GSM phones, and pays them upon completion. </p>
+<p>Lars Kurkinen, Telecom Analyst, Berg Insight says mobile money services are now extending into insurance providers and merchant acquirers. </p>
+<p>Sounds like those feature phones will be around a lot longer&#8230;</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/nubK9Dn46So/">here</a>.
