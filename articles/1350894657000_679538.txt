@@ -4,7 +4,7 @@
 "author" : "Steve O'Hear"
 }
 
-<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/routemaster.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Routemaster" title="Routemaster" style="float: left; margin: 0 10px 7px 0;" /><p><em>A bit like waiting for a London bus, you wait forever to pitch a London VC, and then nine turn up at once.<br />
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/routemaster.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Routemaster" title="Routemaster" style="float: left; margin: 0 10px 7px 0;" /><p><em>A bit like waiting for a London bus, you wait forever to pitch a London VC, and then eleven turn up at once.<br />
 </em><br />
 In what appears to be somewhat unprecedented, and perhaps signals a new era of co-operation, nine London VCs have joined forces to hold a shared office hours this Wednesday, offering a fantastic opportunity for local startups to (finally) get in front of and pitch to a VC.</p>
 <p>Almost the entire London VC scene will be presented, including the likes of Index Ventures, Balderton Capital, and Eden Ventures, along with <a href="http://techcrunch.com/2012/10/13/the-new-vc-kids-on-the-block-helping-europes-startups-to-pick-up-the-pace/">newer VCs on the block</a>, such as Passion Capital, and EC1 Capital (see full list below). What&#8217;s most noteworthy, however, aside from this unusual (and slightly nauseating!) VC love-in, is that each firm is being represented at Partner or Principal level. In other words, by the people that actually make the decisions.</p>
@@ -18,6 +18,8 @@ Notion Capital (partner)<br />
 Eden Ventures (partner)<br />
 Connect Ventures (2 partners)<br />
 EC1 Capital (partner)<br />
-#1Seed (partner)</p>
-<p>I&#8217;m told that the idea of a joint office hours on such a scale, came about when Index Ventures and Passion Capital began talking about doing something together and it escalated from there. Of the well-known London VCs, notably missing in action is Accel and DFJ Esprit, though I&#8217;m assured this is purely down to calendar availability and that we can expect more combined office hours in the future, with one already being planned for December 11th.</p>
+#1Seed (partner)<br />
+Accel Partners<br />
+Playfair Capital</p>
+<p>I&#8217;m told that the idea of a joint office hours on such a scale, came about when Index Ventures and Passion Capital began talking about doing something together and it escalated from there. Of the well-known London VCs, notably missing in action is DFJ Esprit, though I&#8217;m assured this is purely down to calendar availability and that we can expect more combined office hours in the future, with one already being planned for December 11th.</p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/k7TE7yxy4fw/">here</a>.
