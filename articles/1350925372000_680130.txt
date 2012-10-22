@@ -1,0 +1,11 @@
+{
+"title" : "Square Signs Lease For New Office In San Francisco to Accomodate 1000+ Employees, Will Move In Mid-2013",
+"date" : "Mon, 22 Oct 2012 17:02:52 +0000",
+"author" : "Leena Rao"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/square1.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="square" title="square" style="float: left; margin: 0 10px 7px 0;" /><p>Square jas just announced plans for a new office in San Francisco. The mobile payments company, which is currently located in downtown San Francisco will only be moving a short distance away to a location in Central Market (1455 Market Street). The plan is to move into the new building by mid-2013. </p>
+<p>In the past year, Square has grown from approximately 150 employees to more than 400, says the company, and has plans to employ nearly 1,000 people by the end of next year. </p>
+<p>Square, which made its <a href="http://techcrunch.com/2012/10/01/square-makes-its-second-acquisition-buys-design-firm-8020-opens-new-york-office/">second acquisition</a> a few weeks ago, just closed a massive <a href="http://techcrunch.com/2012/09/17/square-closes-200m-series-d-from-starbucks-citi-rizvi-at-3-25b-valuation/">$200 million</a> round of funding, reportedly valuing the mobile payments company at $3.25 billion. And in the past three years since it’s been in operation in the U.S., Square has grown from $1 billion in payments processed annually to $8 billion.</p>
+<p>The company also <a href="http://techcrunch.com/2012/10/05/starbucks-square-rollout-gets-a-launch-date-no-loyalty-card-integration-yet/">landed a major partnership</a> with Starbucks, processing all card transactions across the coffee giant&#8217;s 7,000 stores in the U.S. and mobile payments support. </p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/vB37wvpCXdE/">here</a>.
