@@ -14,6 +14,8 @@
 11:26 AM PDT We are currently experiencing degraded performance for EBS volumes in a single Availability Zone in the US-EAST-1 Region. New launches for EBS backed instances are failing and instances using affected EBS volumes will experience degraded performance.</p></blockquote>
 <p>Many smaller services are reporting that they are affected by the outage.</p>
 <p><i>Developing…</i></p>
+<blockquote class='twitter-tweet' lang='en'><p>You may have noticed that some of your favorite sites are down, including Foursquare. We&#039;re hoping things will be back to normal soon!</p>&mdash; <br />foursquare support (@4sqSupport) <a href='http://twitter.com/#!/4sqSupport/status/260458423978692608' data-datetime='2012-10-22T19:11:42+00:00'>October 22, 2012</a></blockquote>
+<blockquote class='twitter-tweet' lang='en'><p>The site is down right now.  It appears to be a network-related issue. We are investigating.</p>&mdash; <br />reddit status (@redditstatus) <a href='http://twitter.com/#!/redditstatus/status/260433082337853440' data-datetime='2012-10-22T17:31:00+00:00'>October 22, 2012</a></blockquote>
 <p></p>
 <p></p>
 <blockquote class='twitter-tweet' lang='en'><p>We are having some technical difficulty at the moment that may cause intermittent connectivity for some users. We&#039;re on getting back ASAP.</p>&mdash; <br />&nbsp; (@Convo) <a href='http://twitter.com/#!/Convo/status/260449283273261056' data-datetime='2012-10-22T18:35:22+00:00'>October 22, 2012</a></blockquote>
