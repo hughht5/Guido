@@ -1,0 +1,13 @@
+{
+"title" : "Square Is On An Engineering Hiring Blitz, Time To Fill Up That New Office",
+"date" : "Mon, 22 Oct 2012 20:04:36 +0000",
+"author" : "Drew Olanoff"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/4641496393_05d29c8ca5_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="4641496393_05d29c8ca5_z" title="4641496393_05d29c8ca5_z" style="float: left; margin: 0 10px 7px 0;" /><p>It&#8217;s time to <a href="http://techcrunch.com/2012/10/22/square-signs-lease-for-new-office-in-san-francisco-to-accomodate-1000-employees-will-move-in-mid-2013/">fill up that new Square office</a>, and it looks like the company is looking to add a slew of new engineer-types.  I follow a Twitter account that spits out new jobs in the San Francisco/Valley area, and the last ten tweets have been for Square, and are engineer-related.</p>
+<p><a target="_blank" href="https://twitter.com/jbvit_sf">Take a look</a>:</p>
+<p><a href="http://techcrunch.com/2012/10/22/square-is-on-an-engineering-hiring-blitz-time-to-fill-up-that-new-office/snapshot-102212-1258-pm/" rel="attachment wp-att-680370"></a></p>
+<p>None of this should come as a surprise, but the company is definitely narrowing their focus on who they&#8217;d like to bring onto the team, and analytics is a main focus. Makes sense. What&#8217;s interesting though is that the company is looking to hire new grads&#8230;new blood. The company has a &#8220;University Team&#8221; that focuses on these types of recruits.</p>
+<p>The company told us that they&#8217;re looking to add 600 new employees in the next few months, and it looks like they&#8217;re wasting no time. Peep their <a target="_blank" href="https://squareup.com/jobs">official job page</a> for all open positions.</p>
+<p>Smart companies who recruit smart, will win.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/QVuvkkMviZo/">here</a>.
