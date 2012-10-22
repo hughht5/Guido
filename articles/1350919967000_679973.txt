@@ -1,0 +1,14 @@
+{
+"title" : "Bleu Flamme Custom Shirt Site Now Offers 3D Models Of Your Lumpen, Misshapen Torso",
+"date" : "Mon, 22 Oct 2012 15:32:47 +0000",
+"author" : "John Biggs"
+}
+
+<img width="100" height="53" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-22-at-10-38-23-am.png?w=100&amp;h=53&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-10-22 at 10.38.23 AM" title="Screen Shot 2012-10-22 at 10.38.23 AM" style="float: left; margin: 0 10px 7px 0;" /><p>Another day, another improved interface for the selection and creation of men&#8217;s dress clothing. <a target="_blank" href="http://bleuflamme.com">Bleu Flamme</a>, a custom shit site that we covered <a href="http://techcrunch.com/2011/12/18/bleuflamme-lets-you-make-your-own-custom-shirt-in-3d/">a year ago</a>, has just updated their ordering system to allow you to enter specific body measurements and then &#8220;see&#8221; how the shirt will look on your frame in real time.</p>
+<p>The image renders instantly in the browser and you can preview the models just by clicking a few buttons. Bleu Flamme has also added an <a target="_blank" href="http://bleuflamme.com/custom-shirt-automatic-body-measurement#result">Auto Size Me</a> app that allows you to build a custom shirt based on your weight, height, and waist size. </p>
+<p>Similar to <a target="_blank" href="http://www.blanklabel.com/">BlankLabel</a> and <a target="_blank" href="http://www.indochino.com">Indochino</a>, the service offers multiple styles and fabrics and the work is done by professional tailors who, one can assume, have historically used tape measures and chalk to mark up their customers. By becoming a web-based middleman, sites like Bleu Flamme can offer premium clothes for ostensibly non-premium prices and, more important, offer selection and styles heretofore unavailable from Mssrs. Geoffrey Bean and GANT.</p>
+<p><br />
+Shirts start at $99.</p>
+<p>The new system is live now and works quite well for average-sized folks. Sadly, because my torso looks like a potato sack full of broken CRT TVs, I am rarely able to purchase custom items like this. However, less offensive folks may find it useful. </p>
+<a href="http://techcrunch.com/2012/10/22/bleu-flamme-custom-shirt-site-now-offers-3d-models-of-your-lumpen-misshapen-torso/#gallery-679973-1-slideshow">Click to view slideshow.</a>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/IrLRT6nlozM/">here</a>.
