@@ -14,5 +14,8 @@
 <p>Many smaller services are reporting that they are affected by the outage.</p>
 <p>Heroku was acquired by Salesforce back <a href="http://techcrunch.com/2010/12/08/breaking-salesforce-buys-heroku-for-212-million-in-cash/">in December 2010</a> for $212 million. It started out as a platform-as-a-service for Ruby applications. Many small developers can take advantage of Heroku to develop small web applications without dealing with server administration.</p>
 <p><i>Developing…</i></p>
+<blockquote class='twitter-tweet' lang='en'><p>Currently our API and deploys are disabled.  More information at @<a href="https://twitter.com/herokustatus">herokustatus</a> : <a href="https://status.heroku.com/incidents/456"> status.heroku.com/incidents/456</a></p>&mdash; <br />&nbsp; (@heroku) <a href='http://twitter.com/#!/heroku/status/260447600581414912' data-datetime='2012-10-22T18:28:41+00:00'>October 22, 2012</a></blockquote>
+<blockquote class='twitter-tweet' lang='en'><p>The Heroku API has been transitioned from maintenance to read-only mode. App unidling has been restored. via @<a href="https://twitter.com/herokustatus">herokustatus</a></p>&mdash; <br />&nbsp; (@heroku) <a href='http://twitter.com/#!/heroku/status/260450882796261376' data-datetime='2012-10-22T18:41:44+00:00'>October 22, 2012</a></blockquote>
+<p></p>
 <p></p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/dBUsWIqfiQg/">here</a>.
