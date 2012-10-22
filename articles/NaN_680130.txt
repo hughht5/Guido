@@ -1,0 +1,8 @@
+{
+"title" : "Square",
+"date" : "Wed, 30 Nov -0001 00:00:00 +0000",
+"author" : "Leena Rao"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/square1.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="square" title="square" style="float: left; margin: 0 10px 7px 0;" /><p>Square just closed a massive <a href="http://techcrunch.com/2012/09/17/square-closes-200m-series-d-from-starbucks-citi-rizvi-at-3-25b-valuation/">$200 million</a> round of funding, reportedly valuing the mobile payments company at $3.25 billion. The company also landed a partnership with Starbucks</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/Ti-8Pyu7k8M/">here</a>.
