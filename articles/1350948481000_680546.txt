@@ -1,0 +1,19 @@
+{
+"title" : "Google News Gets Updated Search Results Layout With Click-To-Expand News Results Clusters, More Videos & Photos",
+"date" : "Mon, 22 Oct 2012 23:28:01 +0000",
+"author" : "Frederic Lardinois"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/google_news_logo.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="google_news_logo" title="google_news_logo" style="float: left; margin: 0 10px 7px 0;" /><p>Google just <a target="_blank" href="http://googlenewsblog.blogspot.com/2012/10/improving-news-search-with-expandable_22.html">announced</a> an update to Google News&#8217; <a target="_blank" href="https://www.google.com/search?hl=en&amp;gl=us&amp;tbm=nws&amp;q=election+debate">search results pages</a> that makes some changes to the popular news site&#8217;s layout. Most importantly, Google News search now features click-to-expand news results clusters. As the name implies, these clusters will feature related stories from more sources and users will have to click on the new &#8220;Show more&#8221; link to see them.</p>
+<p>This improvement, says Google News product manager Rudy Galfi in today&#8217;s announcement, will make it &#8220;much easier to scan through the search results to find just the collection of news coverage you’re looking for.&#8221; Some of these news clusters will also feature a bar of videos and photos related to the articles&#8217; content.</p>
+<p>None of this, of course, is new to Google News itself. More than a year ago, Google <a target="_blank" href="http://googlenewsblog.blogspot.com/2011/05/expanding-google-news-for-more-variety.html">introduced</a> the click-to-expand feature to Google News itself and it&#8217;s actually surprising that it took Google this long to expand this feature to Google News&#8217; search results pages. Just like on Google News itself, the search results will now also feature the source information below the blue link to the article. The cluster images, too, will now appear to the left of the articles, just like on the Google News homepage.</p>
+<p><a href="http://techcrunch.com/2012/10/22/google-news-click-to-expand/google_news_show_more/" rel="attachment wp-att-680551"></a> Google says that is rolling these features out over the next few days, so it may take a little bit before you see these new features.</p>
+<p>Here is Google&#8217;s full description of the updates:</p>
+<blockquote>
+<ul>
+<li><b>Click-to-expand news results clusters</b>: Each news results cluster is collapsed down to one result with the exception of the first cluster. Click on the “Show more” link to see articles from more sources. This improvement makes it much easier to scan through the search results to find just the collection of news coverage you’re looking for.</li>
+<li><b>Multimedia</b>: Within some of the expanded results clusters you’ll see a bar of videos and photos that relate to each cluster’s content. Click on any of these for more coverage of the story.</li>
+<li><b>Layout updates</b>: The cluster image now appears on the left and the source information has been moved to below the article links for better readability.</li>
+</ul>
+</blockquote>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/l4Scr0JgV4Q/">here</a>.
