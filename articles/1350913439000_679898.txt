@@ -13,5 +13,5 @@
 <p>The app runs in the background on Windows 8, and will display a pop-up notification when you have new calls or incoming messages. As you use the app, you can also browse the web, look at photo, use maps and more while chatting, by taking advantage of Windows 8&#8242;s &#8220;snap&#8221; feature that lets you quickly place two applications side-by-side.</p>
 <p><a href="http://techcrunch.com/2012/10/22/microsoft-debuts-skype-for-windows-8-offers-modern-design-live-tiles-focus-on-tight-windows-8-integration/notifications-on-start-screen/" rel="attachment wp-att-679918"></a></p>
 <p>A closer look at the update is included in the video below.</p>
-<span class='embed-youtube' style='text-align:center; display: block;'><iframe class='youtube-player' type='text/html' width='640' height='390' src='http://www.youtube.com/embed/lJQWJnnQzYU?version=3&#038;rel=1&#038;fs=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' frameborder='0'></iframe></span>
+<span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/10/22/microsoft-debuts-skype-for-windows-8-offers-modern-design-live-tiles-focus-on-tight-windows-8-integration/"></a></span>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/5SYVkr-_rbo/">here</a>.
