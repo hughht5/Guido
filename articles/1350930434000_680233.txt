@@ -1,0 +1,13 @@
+{
+"title" : "AWS EC2 Issues In North Virginia Affect Heroku, Reddit And Others — Heroku Still Down",
+"date" : "Mon, 22 Oct 2012 18:27:14 +0000",
+"author" : "Romain Dillet"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2010/12/heroku.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="heroku" title="heroku" style="float: left; margin: 0 10px 7px 0;" /><p>A very small issue is affecting some instances of Amazon&#8217;s Elastic Cloud Compute (EC2) in North Virginia. In particular, the Elastic Block Store part seems to be down. All services hosted on Heroku&#8217;s virtual private servers are still down at the time of writing. GitHub, imgur, Pocket, HipChat, Coursera and others are affected.</p>
+<p>Reddit experienced hiccups as well but seems to be back to normal.</p>
+<p>Here is Amazon&#8217;s <a target="_blank" href="http://status.aws.amazon.com/">AWS status page</a>:</p>
+<blockquote><p>10:38 AM PDT We are currently investigating degraded performance for a small number of EBS volumes in a single Availability Zone in the US-EAST-1 Region.<br />
+11:11 AM PDT We can confirm degraded performance for a small number of EBS volumes in a single Availability Zone in the US-EAST-1 Region. Instances using affected EBS volumes will also experience degraded performance.</p></blockquote>
+<p><i>Developing…</i></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/dBUsWIqfiQg/">here</a>.
