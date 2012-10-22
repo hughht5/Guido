@@ -1,5 +1,5 @@
 {
-"title" : "Google News Gets Updated Search Results Layout With Click-To-Expand News Results Clusters, More Videos & Photos",
+"title" : "Google News Gets Updated Search Results Layout With Click-To-Expand News Results Clusters, More Photos & Videos",
 "date" : "Mon, 22 Oct 2012 23:28:01 +0000",
 "author" : "Frederic Lardinois"
 }
