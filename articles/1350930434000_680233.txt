@@ -1,5 +1,5 @@
 {
-"title" : "AWS EC2 Issues In North Virginia Affect Heroku, Reddit, Foursquare, Minecraft And Others — Heroku Still Down",
+"title" : "AWS EC2 Issues In North Virginia Affect Heroku, Reddit, Foursquare, Minecraft And Others — Heroku Still Down [Update: It's Getting Worse]",
 "date" : "Mon, 22 Oct 2012 18:27:14 +0000",
 "author" : "Romain Dillet"
 }
