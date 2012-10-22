@@ -1,0 +1,19 @@
+{
+"title" : "Redbeacon Home Services Marketplace Launches Android App, Refocuses On Mobile",
+"date" : "Mon, 22 Oct 2012 13:24:56 +0000",
+"author" : "Jordan Crook"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-22-at-9-11-32-am.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-10-22 at 9.11.32 AM" title="Screen Shot 2012-10-22 at 9.11.32 AM" style="float: left; margin: 0 10px 7px 0;" /><p>Home services marketplace Redbeacon has come a long way since it&#8217;s inception at TC50. They&#8217;ve raised a total of $7.4 million, were acquired by Home Depot, and have made the difficult transition to mobile in the past five years. And today, the company is solidifying its place in the mobile realm with the launch of <a target="_blank" href="https://play.google.com/store/apps/details?id=com.redbeacon.redbeaconandroid">an Android app</a>.</p>
+<p>Redbeacon already has an <a target="_blank" href="https://itunes.apple.com/us/app/redbeacon-home-services-home/id467014822?mt=8">iPhone app</a>, and of course the web service is doing well, too. But founder Yaron Binur has made it abundantly clear that mobile is the main priority.</p>
+<p>&#8220;We launched Redbeacon at the end of 2008; it was a different world back then,&#8221; said Binur. &#8220;If I was to start Redbeacon again today we&#8217;d be a mobile company first. It&#8217;s clear that that is the direction both consumers and professionals are moving to.&#8221;</p>
+<p>The iPhone app added Home Depot integration back in July, in four key test markets. Since then, Redbeacon has seen 350 percent growth in job requests, and 450 percent growth in the number of pros on the network. And when users put in requests for a price quote, they&#8217;re now seeing the first quote response within ten minutes, and most inquiries receive three or more quotes.</p>
+<p>The iPhone app has even topped 100,000 downloads since launching in November of 2011, and repeat usage out of iPhone owners is about three times higher than the average.</p>
+<p>&#8220;When you add all those things together, it&#8217;s clear that the next thing we need to push is getting ourselves out to Android users,&#8221; said Burin. &#8220;It&#8217;s a big and growing user base.&#8221;</p>
+<p>Burin also mentioned that the Redbeacon demographic, specifically homeowners, tends to have deep penetration in Android.</p>
+<p>With the Android app, Redbeacon plans on streamlining the process for mobile. They revamped the request flow entirely, using SmartForms (a feature from Redbeacon&#8217;s website). Essentially, Redbeacon&#8217;s Android app will get you started with your home improvement request, and each question you&#8217;re asked thereafter will be dependent upon each answer you give.</p>
+<p>This ensures that the information is completely tailored to the users&#8217; needs, and that no time is wasted getting a request out there. It also keeps users away from typing, which is a plus. In fact, even the notifications on Android will link to that specific quote or request, rather than the app&#8217;s home page.</p>
+<p>This is Redbeacon&#8217;s time to shine, as Burin claims that the relationship with Home Depot couldn&#8217;t be better, as the home improvement retailer has offered only support and resources. This is clear in Redbeacon&#8217;s new commercial:</p>
+<span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/10/22/redbeacon-home-services-marketplace-launches-android-app-refocuses-on-mobile/"></a></span>
+<a href="http://techcrunch.com/2012/10/22/redbeacon-home-services-marketplace-launches-android-app-refocuses-on-mobile/#gallery-679852-1-slideshow">Click to view slideshow.</a>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/6Qkw41xQthk/">here</a>.
