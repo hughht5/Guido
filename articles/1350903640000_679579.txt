@@ -1,0 +1,17 @@
+{
+"title" : "Paid Task App Gigwalk Raises $6M From August Capital, Greylock; Expands Deal With Microsoft",
+"date" : "Mon, 22 Oct 2012 11:00:40 +0000",
+"author" : "Leena Rao"
+}
+
+<p><a target="_blank" href="http://www.gigwalk.com">Gigwalk</a>, a mobile app that allows users to get assigned basic “gigs” or jobs from companies via their location, has raised $6 Million in Series A venture funding from August Capital with existing investors Greylock, Harrison Metal, SoftTech VC, Founder Collective, and AdMob founder Omar Hamoui participating.</p>
+<p>Gigwalk, which <a href="http://techcrunch.com/2011/05/04/gigwalk-launches-want-get-paid-for-taking-pictures-with-your-iphone/">launched last year</a>, basically allows companies to tap into a mobile workforce for simple tasks. Users simply download the app, enter PayPal information and get assigned entry-level &#8220;gigs&#8221; or jobs that may take just a few minutes at a time in a particular location.</p>
+<p>Businesses post Gigs, such as mystery shopping, store audits, field photography, and much more through Gigwalk.com. These are instantly delivered to user’s phones through the Gigwalk app. Individuals have earned up to $14,000 on Gigwalk since 2011.</p>
+<p>Over 190,000 jobs have been completed through the platform for companies like eBay, Microsoft, Chegg, and BMW. The company also now has workers in all 50 states in the U.S. The startup recently allows mobile work groups to give companies a way to maintain a network of people they have worked with in the past and want to work with in the future, as well as field tools.</p>
+<p>For example, TomTom uses Gigwalk&#8217;s workforce to snap pictures to verify certain navigation points, such as one-way streets, etc. These workers simply snap a picture, email them in and receive a few dollars for the easy task. Gigwalk recently launched one of its largest Gigs, expanding a relationship with Microsoft’s Bing that will place over 100,000 photo-capture Gigs in 3,500 cities across the country.</p>
+<p>Last year, thousands of Gigwalk workers completed tens of thousands of Gigs for Bing across major metro areas. This year’s new crop of Bing Gigs will include cities of all sizes in every state, including Alaska and Hawaii.</p>
+<p>Additionally, the company has named former VP of Business Development Bob Bahramipour as CEO while CTO and Co-founder Matt Crampton will be expanding his role to CTO and Head of Product.</p>
+<p>This round of funding will be used to extend and enhance Gigwalk’s marketplace and mobile technology. One area where the startup is exploring is creating an algorithm to match Gigwalkers with the best Gigs for their skills and experience. With each Gig, Gigwalk is creating more data points about each worker (Gigwalk currently has 200,000 active workers). The company also says that tasks have expanded beyond just photos&#8211;other tasks include surveying consumers at malls and more.</p>
+<p>And we may be seeing Gigwalk in international markets soon. The company recently expanded to Canada and is eyeing launches in overseas markets as well.</p>
+<div class='embed-vimeo' style='text-align:center;'><iframe src='http://player.vimeo.com/video/49341492' width='400' height='300' frameborder='0'></iframe></div>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/noOsr7PE8Pg/">here</a>.
