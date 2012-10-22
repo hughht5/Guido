@@ -10,5 +10,6 @@
 <p>Here is Amazon&#8217;s <a target="_blank" href="http://status.aws.amazon.com/">AWS status page</a>:</p>
 <blockquote><p>10:38 AM PDT We are currently investigating degraded performance for a small number of EBS volumes in a single Availability Zone in the US-EAST-1 Region.<br />
 11:11 AM PDT We can confirm degraded performance for a small number of EBS volumes in a single Availability Zone in the US-EAST-1 Region. Instances using affected EBS volumes will also experience degraded performance.</p></blockquote>
+<p>Many smaller services are reporting that they are affecting by the outage.</p>
 <p><i>Developing…</i></p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/dBUsWIqfiQg/">here</a>.
