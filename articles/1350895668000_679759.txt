@@ -1,0 +1,12 @@
+{
+"title" : "Ancestry.com Agrees To $1.6 Billion Buyout Led By European Private Equity Firm Permira, Says WSJ",
+"date" : "Mon, 22 Oct 2012 08:47:48 +0000",
+"author" : "Natasha Lomas"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2010/03/ancestry.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="ancestry" title="ancestry" style="float: left; margin: 0 10px 7px 0;" /><p>Genealogy website Ancestry.com &#8212; which <a href="http://techcrunch.com/2009/08/03/finding-family-is-big-business-ancestrycom-files-for-75-million-ipo/">filed for an IPO back in 2009</a> &#8211; has agreed to be acquired by an investor group led by European private equity firm <a target="_blank" href="http://www.permira.com/">Permira</a> in a deal said to be worth about $1.6 billion, or $32 per share, the <a target="_blank" href="http://online.wsj.com/article_email/SB10001424052970203406404578071390645955994-lMyQjAxMTAyMDIwMjEyNDIyWj.html">Wall Street Journal</a> is reporting. The paper cites &#8220;people familiar with the matter&#8221; who point to expansion in Western Europe as a goal.</p>
+<p>We&#8217;ve reached out to Ancestry.com for comment and will update this story with any response. The company is due to report its Q3 2012 financials on Wednesday.</p>
+<p>Earlier this month Ancestry.com <a href="http://techcrunch.com/2012/10/03/ancestry-com-acquires-photo-digitization-and-sharing-service-1000memories/">bought print photograph digitizing startup 1000memories</a>, and also recently <a href="http://techcrunch.com/2012/04/25/ancestry-com-acquires-archives-com-from-inflection-for-100-million/">acquired competitor Archives.com for $100 million</a>. It has more than two million paying subscribers, and grew its revenues from $166 million in 2007 to $399.7 million in 2011.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/X1EMtJWlg0Y/">here</a>.
