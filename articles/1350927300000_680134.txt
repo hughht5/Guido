@@ -1,5 +1,5 @@
 {
-"title" : "Microsoft Takes The Preview Label Of Its Updated Office Web Apps, Now Available For All SkyDrive Users",
+"title" : "Microsoft Takes The Preview Label Off Its Updated Office Web Apps, Now Available For All SkyDrive Users",
 "date" : "Mon, 22 Oct 2012 17:35:00 +0000",
 "author" : "Frederic Lardinois"
 }
