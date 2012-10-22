@@ -1,0 +1,16 @@
+{
+"title" : "Rent The Runway Turns Customers Into Models With New Search Feature",
+"date" : "Mon, 22 Oct 2012 04:00:44 +0000",
+"author" : "Leena Rao"
+}
+
+<img width="100" height="65" src="http://tctechcrunch2011.files.wordpress.com/2012/10/rent-the-runway-luxury-designer-dress-rentals-plus-jewelry-purses-and-more.jpg?w=100&amp;h=65&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Rent The Runway | Luxury designer dress rentals plus jewelry, purses and more" title="Rent The Runway | Luxury designer dress rentals plus jewelry, purses and more" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.renttherunway.com/">Rent The Runway,</a> a Netflix for designer clothes, accessories and jewelry, is debuting a new way for women to search for designs to rent on the site.</p>
+<p>In case you aren&#8217;t familiar with Rent The Runway, the site allows women to rent designer clothes and accessories at a marked down price. Once you pick a design on the site that you&#8217;d like to wear, you can schedule a delivery date. Rent The Runway will send two sizes, to ensure that you receive a dress that fits. Rentals on the site run from $50 to $200 for a four night loan, or 10% of the retail price.</p>
+<p>The new search feature allows women to shop based on user-generated photos of real women with similar body types. The flagship feature of the launch is a Find Women Like Me tool, which allows women to enter their height, bust size, dress size and age, in order to view thousands of diverse women with comparable shapes in dresses available for rent.</p>
+<p>The search feature takes up 4 data points (dress size, age, height and bust size) and buckets these characteristics into a vector that maps to one of 864 &#8220;canonical types,&#8221; down from over 100,000 possible unique combinations. The startup says it matches most precisely to dress size, which Rent The Runway believe is the most important characteristic in similarity.</p>
+<p>The feature also allow members are able to comment on a customer’s photo, asking questions about the fit or style of a dress, or to simply compliment the look.</p>
+<p>Rent The Runway believes that if potential shoppers and members see what real women (who have a similar figure) look like in a dress, this will increase conversions. Rent The Runway had previously allowed users to upload photos of themselves in dresses, which the site displayed in the product listings of dresses. To date, users have uploaded 12,000 photos. In fact, the company says members who have viewed a user-generated photo are 200% more likely to rent than those who have viewed a product shot on a model.</p>
+<p>Rent The Runway has raised <a target="_blank" href="http://www.crunchbase.com/company/rent-the-runway">$30 million</a> from Bain Capital Ventures, Highland Capital, and Kleiner Perkins.</p>
+<p><a href="http://techcrunch.com/?attachment_id=679593" rel="attachment wp-att-679593"></a></p>
+<p><a href="http://techcrunch.com/?attachment_id=679594" rel="attachment wp-att-679594"></a></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/ivWkFh-tnSs/">here</a>.
