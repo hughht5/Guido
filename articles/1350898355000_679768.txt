@@ -1,0 +1,34 @@
+{
+"title" : "BlackBerry 10: RIM To Run Developer Events In 11 Cities To Focus On Building Enterprise Apps",
+"date" : "Mon, 22 Oct 2012 09:32:35 +0000",
+"author" : "Natasha Lomas"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/blackberry10-layers.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="blackberry10-layers" title="blackberry10-layers" style="float: left; margin: 0 10px 7px 0;" /><p>As it ramps up to the launch of devices running its next-gen OS in Q1 next year, RIM has announced a new series of BlackBerry developer events focused on its traditional user-base by helping enterprises and other organizations build apps for <a target="_blank" href="http://www.google.co.uk/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;ved=0CB8QFjAA&amp;url=http%3A%2F%2Ftechcrunch.com%2F2012%2F10%2F10%2Fblackberry-10-rim-demos-key-features-of-next-gen-mobile-os-ahead-of-q1-2013-release%2F&amp;ei=XwqFUIVbkMjQBZPigcgE&amp;usg=AFQjCNGcJ_FcuxFNO38UBGV3j_FrgDhvjw">BlackBerry 10</a>. The <a target="_blank" href="http://www.blackberryjamenterprise.com/">Blackberry 10 Jam World Tour </a>will see day-long BB10 events held in 11 cities around the world, kicking off tomorrow in Toronto and ending on November 28 in Chicago.</p>
+<p>The events are designed to help developers create applications on the BlackBerry 10 platform that can securely access and leverage behind-the-firewall data within their organizations, said RIM. &#8221;BlackBerry is designed to provide a behind-the-firewall solution that empowers businesses and government agencies to solve issues with access to essential data in real time. Developers can leverage common development tools to easily create mobile applications without having to worry about building and testing a security and connectivity layer,&#8221; said Derek Peper, Vice President, Enterprise Partnerships for RIM, in a statement.</p>
+<p>The events will feature targeted seminars and workshops, covering details such as how enterprise developers can provide employees with easy and secure access to company intranets, workflow systems, databases, and other confidential in-house data. Afternoon workshops will give participants the chance to work with BlackBerry experts and start developing or porting behind-the-firewall mobile applications for their organizations.</p>
+<p>The full list of tour dates are</p>
+<ul>
+<li>Toronto, Canada – October 23</li>
+<li>London, UK – October 23</li>
+<li>Ottawa, Canada – October 25</li>
+<li>Amsterdam, Netherlands – November 1</li>
+<li>Frankfurt, Germany – November 6</li>
+<li>São Paulo, Brazil – November 6</li>
+<li>Washington, DC – November 8</li>
+<li>New York, NY – November 13</li>
+<li>Madrid, Spain – November 15</li>
+<li>Mexico City, Mexico – November 16</li>
+<li>Chicago, IL – November 28</li>
+</ul>
+<p>Earlier this month <a href="http://techcrunch.com/2012/10/15/working-9-to-5-for-blackberry-10-rim-opens-developer-workspace-at-emea-hq-to-help-accelerate-app-development/">RIM opened a workspace</a> at its Slough, U.K., EMEA HQ, to provide similar guidance to general app developers wanting to build apps for BB10, and has also started <a href="http://techcrunch.com/2012/10/10/at-long-last-rim-starts-taking-blackberry-10-app-submissions/">accepting developer submissions for BB10 apps to its App World</a> store. RIM won&#8217;t discuss how many BB10 apps have been submitted to-date or how many it expects to have at launch &#8212; beyond saying it is &#8221;very confident of what we’ll have in terms of apps at launch&#8221;. The company has distributed some 5,000 BlackBerry Dev Alpha test units to app developers so far.</p>
+<p><span style="text-decoration:underline;"></span></p>
+<p><span style="text-decoration:underline;"></span></p>
+<p><span style="text-decoration:underline;"></span></p>
+<p><span style="text-decoration:underline;"></span></p>
+<p><span style="text-decoration:underline;"></span></p>
+<p><span style="text-decoration:underline;"></span></p>
+<p><span style="text-decoration:underline;"></span></p>
+<p><span style="text-decoration:underline;"></span></p>
+<p><span style="text-decoration:underline;"></span></p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/aHiUH0eyVxM/">here</a>.
