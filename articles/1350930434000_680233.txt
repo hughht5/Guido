@@ -19,6 +19,7 @@
 <blockquote class='twitter-tweet' lang='en'><p>The Heroku API has been transitioned from maintenance to read-only mode. App unidling has been restored. via @<a href="https://twitter.com/herokustatus">herokustatus</a></p>&mdash; <br />&nbsp; (@heroku) <a href='http://twitter.com/#!/heroku/status/260450882796261376' data-datetime='2012-10-22T18:41:44+00:00'>October 22, 2012</a></blockquote>
 <p></p>
 <blockquote class='twitter-tweet' lang='en'><p>We are having some technical difficulty at the moment that may cause intermittent connectivity for some users. We&#039;re on getting back ASAP.</p>&mdash; <br />&nbsp; (@Convo) <a href='http://twitter.com/#!/Convo/status/260449283273261056' data-datetime='2012-10-22T18:35:22+00:00'>October 22, 2012</a></blockquote>
+<blockquote class='twitter-tweet' lang='en'><p>@<a href="https://twitter.com/emilyemoss">emilyemoss</a> Services are back up now. Some of our customers were affected by the EC2 outage and we are still on it <a href="http://techcrunch.com/2012/10/22/aws-ec2-issues-in-north-virginia-affect-heroku-reddit-and-others-heroku-still-down/"> techcrunch.com/2012/10/22/aws…</a></p>&mdash; <br />&nbsp; (@Convo) <a href='http://twitter.com/#!/Convo/status/260457139598946306' data-datetime='2012-10-22T19:06:35+00:00'>October 22, 2012</a></blockquote>
 <p></p>
 <p></p>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/dBUsWIqfiQg/">here</a>.
