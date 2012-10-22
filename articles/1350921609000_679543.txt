@@ -13,5 +13,5 @@
 <p>&#8220;We didn&#8217;t care about who opened [the email], and we didn&#8217;t care about who watched the video,&#8221; Doshi said. &#8220;We cared about who went back and used that feature.&#8221;</p>
 <p>He argued it would be tough for other email marketing and push notification companies to replicate Mixpanel&#8217;s work, because they don&#8217;t have the data to power it. Doshi said he wants to partner with those companies in the future, pairing Mixpanel&#8217;s analytics with their broader array of marketing and customer service tools.</p>
 <p>Engage is available as a free service to customers paying for Mixpanel&#8217;s people analytics product.</p>
-<span class='embed-youtube' style='text-align:center; display: block;'><iframe class='youtube-player' type='text/html' width='640' height='360' src='http://www.youtube.com/embed/RaFex-Kr4UQ?version=3&#038;rel=0&#038;fs=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' frameborder='0'></iframe></span>
+<span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/10/22/mixpanel-engage/"></a></span>
 <br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/jAiZ000bLeA/">here</a>.
