@@ -1,0 +1,9 @@
+{
+"title" : "It’s Making The Shift: 14% Of Facebook’s Q3 Ad Revenue Came From Mobile",
+"date" : "Tue, 23 Oct 2012 20:19:22 +0000",
+"author" : "Josh Constine"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/facebook-mobile-money-clean.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Facebook Mobile Money Clean" title="Facebook Mobile Money Clean" style="float: left; margin: 0 10px 7px 0;" /><p>Facebook answered the big question of whether it&#8217;s successfully transitioning into a mobile ad company by noting in <a target="_blank" href="http://investor.fb.com/releasedetail.cfm?ReleaseID=715607">today&#8217;s earnings report</a> that 14% of total ad revenue from Q3 2012 came from mobile. The older Sponsored Stories and newer non-social app install and Page ads appear to be gaining traction with advertisers. That number will need to grow significantly in future to keep up with the user shift, as mobile users  increase of 61% year-over-year to 604 million.</p>
+<p>We&#8217;ll have more analysis on Facebook&#8217;s trials and tribulations with mobile advertising soon.</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/facebook-advertising/">here</a>.
