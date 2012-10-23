@@ -30362,3 +30362,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Wall-Street%E2%80%99s-Happy:-Facebook-Climbs-Nearly-10%25-In-After-Hours-Trading Wall Street’s Happy: Facebook Climbs Nearly 10% In After-Hours Trading
+Git - Stdout: [master a49f832] adding new article
+ 2 files changed, 42 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1351025035000_681803.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   e6f3c23..a49f832  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
