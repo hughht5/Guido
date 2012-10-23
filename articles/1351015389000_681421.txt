@@ -1,10 +1,10 @@
 {
-"title" : "Zynga May Have Just Laid Off 100+ Employees From The Ville And Bingo Teams In Its Austin Office",
+"title" : "Zynga Just Laid Off 100+ Employees From The Ville And Bingo Teams In Austin, Shut Down Boston Office",
 "date" : "Tue, 23 Oct 2012 18:03:09 +0000",
 "author" : "Josh Constine"
 }
 
-<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/zynga-anonymous.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Zynga Anonymous" title="Zynga Anonymous" style="float: left; margin: 0 10px 7px 0;" /><p>Possibly trying to hide the grim news by announcing it during Apple&#8217;s event, Zynga just laid off over 100 employees from its Bingo and TheVille teams in its Austin office, according to <a target="_blank" href="https://twitter.com/303/status/260801024732827649">Justin Maxwell</a>, though we can&#8217;t confirm this info yet. <strong>Update</strong>: We&#8217;ve just heard Zynga may have an all-hands meeting this afternoon, and have independently confirmed there&#8217;s a big round of layoffs at the Boston office. are swirling that other Zynga offices across the country may see layoffs too.</p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/zynga-anonymous.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Zynga Anonymous" title="Zynga Anonymous" style="float: left; margin: 0 10px 7px 0;" /><p>Possibly trying to hide the grim news by announcing it during Apple&#8217;s event, we&#8217;ve just independently confirmed that Zynga has shut down its Boston office and laid off 2/3s of the employees in its Austin office, including cuts to The Ville and Bingo teams. The first report of layoffs that we&#8217;ve since confirmed came from <a target="_blank" href="https://twitter.com/303/status/260801024732827649">Justin Maxwell</a>. We&#8217;ve also just heard Zynga may have an all-hands meeting this afternoon.</p>
 <p>We&#8217;re awaiting a response from our contacts at Zynga, and will have more details soon.</p>
 <p>Maxwell is a former Apple, Sony, Mint, and Smule employee. He said Zynga workers were apparently given just two hours to clean out their desks.<br />
 He apparently learned the news straight from friends at Zynga who were included in the layoffs, and that&#8217;s where he learned the news from. Zynga employees themselves may be forbidden from talking about their exit.</p>
