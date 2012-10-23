@@ -1,0 +1,9 @@
+{
+"title" : "Apple Announces Updated Mac Mini, $599, Shipping Today",
+"date" : "Tue, 23 Oct 2012 17:30:48 +0000",
+"author" : "John Biggs"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-23-at-1-27-20-pm.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-10-23 at 1.27.20 PM" title="Screen Shot 2012-10-23 at 1.27.20 PM" style="float: left; margin: 0 10px 7px 0;" /><p>Apple has just updated the Mac Mini to a new, faster configuration with Intel Core i5 or i7 with Ivy Bridge as well as up to a terabyte of hard drive space. The Mini also comes in a server configuration for $999 with a faster processor.</p>
+<p></p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/apple-announces-updated-mac-mini-599-shipping-today/">here</a>.
