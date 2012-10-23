@@ -29,6 +29,11 @@ Phil Schiller pit the iPad mini against the Nexus 7 on stage, and showed that th
 <li>Lightning dock</li>
 <li>10 hours of battery life</li>
 </ul>
+<h3>Camera</h3>
+<ul>
+<li>5-megapixel camera</li>
+<li>FaceTime HD front-facing camera</li>
+</ul>
 <p><em>Developing&#8230;</em></p>
 <p><a target="_blank" href="http://www.techcrunch.com/tag/ipad-mini/"></a></p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/ipad-mini/">here</a>.

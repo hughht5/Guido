@@ -1,0 +1,8 @@
+{
+"title" : "Zynga Apparently Just Laid Off 100+ Employees From TheVille And Bingo Teams In Its Austin Office",
+"date" : "Tue, 23 Oct 2012 18:03:09 +0000",
+"author" : "Josh Constine"
+}
+
+<p>Possibly trying to hide the grim news by announcing it during Apple&#8217;s event, Zynga just laid off over 100 employees from its Bingo and TheVille teams in its Austin office, according to <a target="_blank" href="https://twitter.com/303/status/260801024732827649">Justin Maxwell</a>, a former Apple and Smule employees. Zynga workers were apparently given just two hours to clean out their desks. We&#8217;re awaiting a response from our contacts at Zynga, and will have more details soon.</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/zynga-layoffs/">here</a>.
