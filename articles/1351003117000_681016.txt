@@ -1,5 +1,5 @@
 {
-"title" : "Twenty Major Retailers Launch Passbook-Enabled Coupons Via Digital Offers Giant Coupons.com",
+"title" : "20 Major Retailers Launch Passbook-Enabled Coupons Via Digital Offers Giant Coupons.com",
 "date" : "Tue, 23 Oct 2012 14:38:37 +0000",
 "author" : "Sarah Perez"
 }
