@@ -1,0 +1,11 @@
+{
+"title" : "iPad Apps Shrunk Down To Work On iPad Mini, No Change Needed For iOS Developers",
+"date" : "Tue, 23 Oct 2012 17:54:59 +0000",
+"author" : "Romain Dillet"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/new_hero20110308.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="new_hero20110308" title="new_hero20110308" style="float: left; margin: 0 10px 7px 0;" /><p>With the release of the <a href="http://techcrunch.com/2012/10/23/ipad-mini/">iPad Mini</a>, iOS developers wonder how it will work to develop for the new form factor. Even though the screen is smaller, Apple kept the same 4:3 aspect ratio. That is why iPad Mini apps will simply be shrunk down versions of iPad apps. As the iPad Mini uses the same resolution as the non-retina iPads, iOS will use 1x graphics.</p>
+<p>Even though buttons will be smaller, if developers are already following Apple&#8217;s Human Interface Guidelines, that shouldn&#8217;t be a problem. The HIG recommends bigger buttons for the iPad than for the iPhone. Shrunk down buttons should approximately be the size of iPhone buttons.</p>
+<p><i>Developing…</i></p>
+<p><a target="_blank" href="http://www.techcrunch.com/tag/ipad-mini/"></a></p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/ios-ipad-mini-apps/">here</a>.
