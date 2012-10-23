@@ -1,8 +1,8 @@
 {
-"title" : "Apple Reaffirms Commitment To Education With Updated iBooks Author",
+"title" : "With iPad And iBooks In 2500 U.S. Classrooms, Apple Reaffirms Commitment To Education With Updated iBooks Author",
 "date" : "Tue, 23 Oct 2012 17:50:28 +0000",
 "author" : "Chris Velazco"
 }
 
-<p>There’s been plenty of buzz about the iPad mini and the potential role in could play in reaffirming Apple’s commitment education, and now CEO Tim Cook is spending some time on stage to discuss the sort of impact immensely-popular tablet has had in schools. After noting that the iPad (and iBooks) has now found a home in 2500 classrooms in the U.S., Cook revealed that a new version of the company&#8217;s iBooks Author will be available for free today.</p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/padbooks.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="padbooks" title="padbooks" style="float: left; margin: 0 10px 7px 0;" /><p>There’s been plenty of buzz about the iPad mini and the potential role in could play in reaffirming Apple’s commitment education, and now CEO Tim Cook is spending some time on stage to discuss the sort of impact immensely-popular tablet has had in schools. After noting that the iPad (and iBooks) has now found a home in 2500 classrooms in the U.S., Cook revealed that a new version of the company&#8217;s iBooks Author will be available for free today.</p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/apple-reaffirms-commitment-to-education-with-updated-ibooks-author/">here</a>.
