@@ -27978,3 +27978,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Zynga%E2%80%99s-Boston,-Austin-Layoffs-Today:-%E2%80%9CAlmost-Everyone-Was-In-The-Dark%E2%80%9D Zynga’s Boston, Austin Layoffs Today: “Almost Everyone Was In The Dark”
+Git - Stdout: [master 6bc8254] adding new article
+ 2 files changed, 50 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1351022630000_681660.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   2ec05e3..6bc8254  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
