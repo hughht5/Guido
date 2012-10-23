@@ -1,10 +1,12 @@
 {
-"title" : "Facebook Q3: Advertising Revenues Up 36% To $1.09B, 14% On Mobile",
+"title" : "Facebook Q3: Advertising Revenues Up 36% To $1.09B, Now 86% Of The Total Mix.",
 "date" : "Tue, 23 Oct 2012 20:25:24 +0000",
 "author" : "Ingrid Lunden"
 }
 
 <img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/08/facebook-ads.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="facebook ads" title="facebook ads" style="float: left; margin: 0 10px 7px 0;" /><p>Facebook&#8217;s big push on advertising in the last quarter is paying off for the company, judging by the growth in revenues. The company says that in Q3, it made $1.09 billion in advertising, a 36% increase from the same quarter last year and also a sequential increase compared to Q2&#8242;s $992 million in ad sales. It&#8217;s also becoming an increasingly important part of the revenue mix: it is now 86% of total revenues, compared to <a href="http://techcrunch.com/2012/07/26/facebook-q2-ad-sales-of-992m-creeps-up-to-84-of-1-18b-revenue-total/">84% last quarter</a>. </p>
-<p>Mobile ads, introduced network-wide this quarter, are now 14% of the mix.</p>
+<p>While Facebook is looking to push new areas of revenue, such as Gifts and payments, in reality advertising continues to grow as the most dominant revenue generator for the company. Before its IPO in May, Facebook said that ads accounted for 82% of its revenue.</p>
+<p>Part of the reason why advertising continues to grow is that Facebook has gone hell for leather in introducing ever more formats for promoting people, places and things on its platform.</p>
+<p>Among the new ad units introduced this quarter were Custom Audiences, Facebook Exchange, Offers (Facebook&#8217;s turn on discounted deals a la Groupon) &#8212; and, of course, mobile ads. These ads, appearing in users&#8217; newsfeeds as Sponsored posts and more recently in the form of App recommendations, were introduced network-wide this quarter. They now 14% of the mix &#8212; or $152.6 million in mobile ad revenues in Q2.</p>
 <p>More to come. Refresh for updates.</p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/facebook-q3-advertising-revenues-up-36-to-1-09b-14-on-mobile/">here</a>.
