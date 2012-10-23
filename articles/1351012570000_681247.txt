@@ -4,10 +4,10 @@
 "author" : "Jordan Crook"
 }
 
-<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/messages-icon.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Messages-Icon" title="Messages-Icon" style="float: left; margin: 0 10px 7px 0;" /><p>In the last year, people have sent over 300 billion iMessages on Apple&#8217;s messaging platform. Tim Cook just announced the stat on stage at what we expect will be the iPad Mini unveiling. </p>
-<p>For reference, that&#8217;s 28,000 messages per second. </p>
-<p>Of course, it helps that the latest version of iOS, iOS 6, has been downloaded 200 million times. Apple says this is one of the fastest upgrades in the history of software. </p>
-<p><a href="http://techcrunch.com/2012/06/11/imessage-has-more-than-140m-users-and-has-150b-messages-over-1b-a-day/">In June</a>, Apple announced that iMessage had topped 140 million uses, with over 150 billion messages sent. </p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/messages-icon.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Messages-Icon" title="Messages-Icon" style="float: left; margin: 0 10px 7px 0;" /><p>In the last year, people have sent over 300 billion iMessages on Apple&#8217;s messaging platform. Tim Cook just announced the stat on stage at what we expect will be the iPad Mini unveiling.</p>
+<p>For reference, that&#8217;s 28,000 messages per second.</p>
+<p>Of course, it helps that the latest version of iOS, iOS 6, has been downloaded 200 million times. Apple says this is one of the fastest upgrades in the history of software.</p>
+<p><a href="http://techcrunch.com/2012/06/11/imessage-has-more-than-140m-users-and-has-150b-messages-over-1b-a-day/">In June</a>, Apple announced that iMessage had topped 140 million users, with over 150 billion messages sent.</p>
 <p><em>Developing&#8230;</em></p>
 <p><a target="_blank" href="http://www.techcrunch.com/tag/ipad-mini/"></a></p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/apple-tops-300-billion-imessages-sent-in-the-last-year-thats-28k-messages-per-second/">here</a>.
