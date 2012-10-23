@@ -1,0 +1,12 @@
+{
+"title" : "Wall Street’s Happy: Facebook Climbs Nearly 10% In After-Hours Trading",
+"date" : "Tue, 23 Oct 2012 20:43:55 +0000",
+"author" : "Kim-Mai Cutler"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-23-at-1-34-31-pm.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-10-23 at 1.34.31 PM" title="Screen Shot 2012-10-23 at 1.34.31 PM" style="float: left; margin: 0 10px 7px 0;" /><p><a href="http://techcrunch.com/2012/10/23/wall-streets-happy-facebook-climbs-nearly-10-in-after-hours-trading/screen-shot-2012-10-23-at-1-34-31-pm/" rel="attachment wp-att-681805"></a></p>
+<p>Stoked by a bump in advertising revenues and increasing evidence that Facebook is making money from users on mobile devices, Wall Street investors sent shares of the company up by 9.8 percent in after-hours trading. Facebook is trading at $21.39, up from today&#8217;s close of $19.49.</p>
+<p>Facebook posted third quarter revenue of $1.26 billion, up nearly seven percent from last quarter&#8217;s revenue of $1.18 billion and up 32 percent from the $954 million in revenue it posted a year earlier. A bright spot came in advertising revenue, where the company made $1.09 billion this past quarter, a 36 percent increase from the same quarter last year and also a sequential increase up from the second quarter&#8217;s $992 million in advertising sales.</p>
+<p>The even better part is that 14 percent of the company&#8217;s total ad revenue came from mobile devices. That&#8217;s a little over $150 million in mobile ad revenue for the quarter. The older Sponsored Stories in the news feed and the newer app install and Page ads may be well on their way to becoming more than a $1 billion a year business.</p>
+<p>Third-quarter net income on a non-GAAP basis (which excludes temporary costs for share-based compensation to employees) was $372 million, up from the $227 million in net income it reported a year earlier. This means its non-GAAP earnings per share (EPS) were 12 cents. On a GAAP (generally accepted accounting principles) basis, Facebook posted a loss of $59 million during the third quarter. Again, that&#8217;s mostly because of share-based compensation.</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/wall-streets-happy-facebook-climbs-nearly-10-in-after-hours-trading/">here</a>.
