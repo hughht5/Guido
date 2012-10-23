@@ -16,4 +16,4 @@
 <li><b>Layout updates</b>: The cluster image now appears on the left and the source information has been moved to below the article links for better readability.</li>
 </ul>
 </blockquote>
-<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/l4Scr0JgV4Q/">here</a>.
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/22/google-news-click-to-expand/">here</a>.

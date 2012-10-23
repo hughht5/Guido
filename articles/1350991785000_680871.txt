@@ -19,4 +19,4 @@
 <p>Eventbrite also looked at social commerce on a country-by-country basis, and some interesting standout details emerged:</p>
 <p>&#8211; Italians share the most, with 14% of all users sharing events. British people, it turns out, click on links the most. They appear to be beating the average on Facebook, for example, where, when a person posts an Eventbrite event, 22 contacts will click on the link.</p>
 <p>&#8211; Canada came out as the country with the highest Dollars Per Share metric, scoring above average on Facebook ($4.51) and on Twitter ($2.97). Canadians, it seems, are very keen when it comes to social commerce: even LinkedIn drove $3.13 per share among Canadians.</p>
-<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/K9dcBnLyb7s/">here</a>.
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/social-commerce-on-the-rise-dollars-per-share-up-81-to-3-23-facebook-driving-more-revenue-than-anyone-else/">here</a>.

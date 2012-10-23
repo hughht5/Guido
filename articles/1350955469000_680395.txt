@@ -15,4 +15,4 @@
 <p>Facebook started adding other actions through Open Graph, so perhaps this is a sign that Twitter might be heading in that direction, too. Google went the opposite direction with +1 on Google+. Could we see a &#8220;watch&#8221; button for videos, or &#8220;view&#8221; for photos on Twitter? It would be interesting to see.</p>
 <p>I still see &#8220;Favorite&#8221; on Twitter&#8217;s site, and I&#8217;m ok with that.</p>
 <p><b>UPDATE:</b> <a target="_blank" href="http://allthingsd.com/20121022/you-know-twitters-favorite-button-it-could-have-been-called-thanks/?mod=atdtweet">According to Favorite-Twitter-Favoriter Mike Isaac</a> at ATD, the button was almost originally named &#8220;Thanks&#8221;</p>
-<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/1RDu5HN9_eE/">here</a>.
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/22/twitter-is-testing-a-like-and-star-button-in-lieu-of-favorite-isnt-the-concept-of-like-already-broken/">here</a>.

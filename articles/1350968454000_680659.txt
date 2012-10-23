@@ -15,4 +15,4 @@
 <p>He became passionate about the Quantified Self movement and the ideas of Gordon Bell, a Microsoft researcher well-known for his experiments in life-logging.</p>
 <p>Kallstrom wanted a way to record unexpected moments in his life, like his children&#8217;s first steps. He pointed out that we don&#8217;t often remember to record moments or shoot videos as these memories are happening. At the same time, things that don&#8217;t seem important at the moment become profoundly meaningful as we look back. Memoto is about being able to retrieve these memories, even if we can&#8217;t completely appreciate them as they pass.</p>
 <p>As for the camera itself, it takes 5 megapixel resolution images and logs GPS positions and timestamps. It also has a built-in rechargeable battery, which can last up to two days. You wear it with a small, stainless steel clip that attaches to your clothing.</p>
-<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/bkzMX0UMLus/">here</a>.
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/22/memoto/">here</a>.

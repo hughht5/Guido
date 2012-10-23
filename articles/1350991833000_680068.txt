@@ -17,4 +17,4 @@
 <p>Last week at its TechEd conference, SAP executives announced its new cloud platform built on SAP Hana Cloud. The company also introduced SAP Hana One for AWS. <a target="_blank" href="https://aws.amazon.com/marketplace/pp/B009KA3CRY/ref=mkt_ste_hp_SAPHana1"><br />
 </a></p>
 <p>Hana now has production level capability on AWS. The company is building a developer community and is seeking to build a startup culture. Hana may still not be as flexible and lack deep Hadoop integration but it does have a growing place in the market, posing a challenge to a startup like Platfora.</p>
-<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/SCJG5MM39ZU/">here</a>.
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/platfora-seeks-to-brings-simplicity-and-an-apple-style-ease-of-use-to-big-data-analysis/">here</a>.
