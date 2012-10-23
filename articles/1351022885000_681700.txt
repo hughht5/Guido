@@ -13,5 +13,5 @@
 - Daily active users (DAUs) were 584 million on average for September 2012, an increase of 28% year-over-year<br />
 - Mobile MAUs were 604 million as of September 30, 2012, an increase of 61% year-over-year</p>
 <p>The interesting statistics are the ones on the mobile front, a place that Facebook is paying extra special attention these days.</p>
-<p>This is developing, more stats to come.</p>
+<p>This is developing, more to come.</p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/facebook-announces-monthly-active-users-were-at-1-01-billion-as-of-september-30th/">here</a>.
