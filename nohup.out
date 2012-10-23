@@ -2911,3 +2911,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Confirmed:-Apple-Will-Live-Stream-Today%E2%80%99s-iPad-Mini-Event-On-Web-Site,-Apple-TV Confirmed: Apple Will Live Stream Today’s iPad Mini Event On Web Site, Apple TV
+Git - Stdout: [master d457e53] adding new article
+ 2 files changed, 45 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1350997856000_680972.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   9a2a95e..d457e53  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
