@@ -1,5 +1,5 @@
 {
-"title" : "Which One Of These Do I Have To Spill Water On To Make People Irrationally Start Buying $FB",
+"title" : "Which One Of These Do I Have To Spill Water On To Make People Irrationally Start Buying $FB?",
 "date" : "Tue, 23 Oct 2012 04:18:39 +0000",
 "author" : "Alexia Tsotsis"
 }
