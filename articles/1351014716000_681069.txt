@@ -20,6 +20,9 @@
 <li>1,024 x 768 resolution</li>
 <li>All software for original iPad works on iPad mini because they share the same screen resolution.</li>
 </ul>
+<p><strong>Some Thoughts:</strong><br />
+Phil Schiller pit the iPad mini against the Nexus 7 on stage, and showed that the display is actually 49 percent larger in portrait, and 67 percent larger in landscape. </p>
+<p>That has to do with a new design that makes the bezels much smaller than we&#8217;ve seen on the larger iPad models. </p>
 <p><em>Developing&#8230;</em></p>
 <p><a target="_blank" href="http://www.techcrunch.com/tag/ipad-mini/"></a></p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/ipad-mini/">here</a>.
