@@ -8,6 +8,5 @@
 <p>Zuckerberg said that the company would rather go about things by introducing advertising options for developers, so that everyone can make a few dollars. With the <a href="http://techcrunch.com/2012/10/23/facebook-announces-monthly-active-users-were-at-1-01-billion-as-of-september-30th/">surge of growth for the social network coming from mobile devices</a>, the company has to think about how to monetize every pixel that is displayed to users.</p>
 <p>It&#8217;s clear that Zuckerberg is not interested in making developers pay the bills, and I think that&#8217;s a smart way to go about things.</p>
 <p>As I mentioned, Twitter has had to cut back on how much of its data it gives out to third-party developers, with many wondering if they&#8217;d ever charge for their API. Twitter does charge for its river of data, with only a few partners, at one point having a deal with Google to display tweets within search results.</p>
-<p>This is developing.</p>
 <p>[Photo credit: <a target="_blank" href="http://www.flickr.com/photos/marcopako/2390914273/sizes/z/">Flickr</a>]</p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/zuckerberg-and-facebook-have-thought-about-charging-for-apis-but-advertising-is-better/">here</a>.
