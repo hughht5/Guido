@@ -1,5 +1,5 @@
 {
-"title" : "iOS App Store Now Offers 275K iPad-Only Apps, Up From 250K In September",
+"title" : "iOS App Store Now Offers 275K iPad Apps, Up From 250K In September",
 "date" : "Tue, 23 Oct 2012 17:13:11 +0000",
 "author" : "Sarah Perez"
 }
