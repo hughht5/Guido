@@ -1,0 +1,21 @@
+{
+"title" : "Paid Blogger",
+"date" : "Tue, 23 Oct 2012 19:02:51 +0000",
+"author" : "Michael Arrington"
+}
+
+<p>Hey.</p>
+<p>My name is Michael Arrington. For newer readers who don’t know, I founded TechCrunch back in 2005. </p>
+<p>Last year I was <a href="http://techcrunch.com/2011/09/12/deciding-to-move-on/">fired</a> and <a target="_blank" href="http://uncrunched.com/2011/09/25/what-exactly-is-uncrunched/">began writing on Uncrunched</a>. </p>
+<p>Today <a href="http://techcrunch.com/2012/10/23/nunca-podras-irte/">AOL unfired me</a>. </p>
+<p>I am a venture capitalist and have all sorts of conflicts of interest. Many of you think that conflicts of interest are inherently bad and people with them shouldn’t be writing stuff for other people to read. A lot of people would agree with you. It was the reason AOL fired me last year, after they invested in my venture fund CrunchFund.</p>
+<p><a target="_blank" href="http://uncrunched.com/2012/02/22/look-this-is-what-it-comes-down-to/">I disagree</a>. </p>
+<p>AOL now also disagrees. </p>
+<p>Before everyone starts <a target="_blank" href="http://news.ycombinator.com/item?id=4688798">freaking the fuck out</a>, just hold on a second and hear me out.</p>
+<p>First of all, it’s not like I’m back running the place. AOL already put the kabash on one post I was going to write, something that never happened in the old days. They had a good reason, they wanted to wait until things were properly announced. So I just <a target="_blank" href="http://uncrunched.com/2012/10/15/mutant-corn-prop-37/">wrote about it</a> on Uncrunched instead.</p>
+<p>So that was new. Being told “no,” that is.</p>
+<p>Second, It’s not like I’m going to be here every day or anything. I’m going to write a couple of times per week on average. My CrunchFund partner MG Siegler never actually stopped writing for TechCrunch, and the world didn’t end. There are tons of other venture capitalists writing regular guest posts for TechCrunch already. Just consider me one of those. </p>
+<p>Third, you’ll be seeing a lot of disclosures from me. I’ve added my basic policy of <a target="_blank" href="http://uncrunched.com/2011/09/25/what-exactly-is-uncrunched/">Transparency, Truth and Bia</a>s to my <a target="_blank" href="http://www.crunchbase.com/person/michael-arrington">Crunchbase profile</a>, which I understand will soon be auto linked from each post I write.  </p>
+<p>Fourth, when I want to write about a startup that we’ve invested in, I’ll do it on Uncrunched. That doesn’t mean I’ll never mention a startup that I own stock in here on TechCrunch, but it’ll only be as part of a larger story and everything will be disclosed clearly in the post.</p>
+<p>Hopefully that clears up some of the issues some of you may have with me returning to blog for the site I founded. I love this site and I love Silicon Valley. It feels right to me to be able to post what I&#8217;m thinking about here every once in a while.</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/paid-blogger/">here</a>.
