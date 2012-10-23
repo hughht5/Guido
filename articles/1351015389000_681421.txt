@@ -15,5 +15,6 @@
 <p></p>
 <p>The layoffs follow a <a href="http://techcrunch.com/2012/10/05/more-competitors-smarter-gamers-expensive-ads-less-virality-mobile/">tough couple months for Zynga</a>, as it has struggled to keep its share price afloat as executives leave (or are fired for not performing) and revenue trouble continues. It&#8217;s also had to deal with <a href="http://techcrunch.com/2012/08/09/working-at-zynga/">harsh criticism of its company culture</a> by former employees.</p>
 <p>There&#8217;s still hope for the company if it can find a way to inspire remaining employees to stay and fulfill the company&#8217;s mission of connecting the world through games. But Zynga is running out of extra lives and could end up bought out and dismantled or have to further slash its roster.</p>
-<p><em>For more on the gaming giant&#8217;s problems, check out our article: <a href="http://techcrunch.com/2012/10/05/more-competitors-smarter-gamers-expensive-ads-less-virality-mobile/">Why Zynga Failed</a></em></p>
+<p>For more on the gaming giant&#8217;s problems, check out our article: <a href="http://techcrunch.com/2012/10/05/more-competitors-smarter-gamers-expensive-ads-less-virality-mobile/">Why Zynga Failed</a></p>
+<p><em>Additional reporting for this story came from Kim-Mai Cutler, Colleen Taylor, and Drew Olanoff.</em></p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/zynga-layoffs/">here</a>.
