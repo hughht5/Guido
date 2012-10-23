@@ -1,0 +1,32 @@
+{
+"title" : "Hands On With Apple’s New iPad Mini: Good Things Do Come In Small Packages",
+"date" : "Tue, 23 Oct 2012 18:54:11 +0000",
+"author" : "Darrell Etherington"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/img_1788.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="IMG_1788" title="IMG_1788" style="float: left; margin: 0 10px 7px 0;" /><p>The <a title="Apple Officially Unveils The iPad Mini Starting At $329" href="http://techcrunch.com/2012/10/23/ipad-mini/">iPad mini was announced today</a> as expected, and it is a super impressive piece of hardware, judging by my brief hands-on experience. The smaller iPad retains much of the charm of its larger sibling, thanks to design decisions that make the most out of a much smaller physical footprint, and you&#8217;ll be amazed at how light and easy to hold it is.</p>
+<p>The finish of the device is matte on the back, making for a very nice feeling in the hand. The weight is really the most impressive part, though – as with the iPhone 5, but to an even greater degree, the iPad mini feels almost weightless when compared to its predecessors. It&#8217;s so thin and light as to feel almost like a prop, rather than a functional device.</p>
+<p>But functional it is. The 1024&#215;768 display looks great, and seems larger than its 7.9 inches thanks to the narrower bezels on either side of the screen itself. And while it&#8217;s slightly trickier to hold as a result of that thinner strip, the screen seems to have a certain amount of false touch detection built-in, so that you won&#8217;t accidentally open apps or page through things while simply holding it.</p>
+<p>Using apps on the mini is what you&#8217;d expect from an iOS device: fast, smooth and overall a pleasant experience. But the best part is that there won&#8217;t be an update curve as there was for the iPhone 5 or iPad with Retina display, since it retains the same resolution of the original iPad, meaning apps designed to work on that device work out of the box. I tried out a number of native and non-native apps, and all worked flawlessly. The camera is also completely usable for walkaround casual shooting, something that will please the growing number of folks who seem to want to use a tablet as their camera.</p>
+<p>I&#8217;ve long been a believer that smaller form factor tablets have a real place in the market, but I&#8217;ve been consistently disappointed by the experience on competing platforms, including BlackBerry and Android. But the iPad mini feels like a revelation: proof that a diminutive tablet works, and works well.</p>
+<p>Check out the gallery below for plenty of pics of both the white and black versions of Apple&#8217;s newest tablet, which I&#8217;m fairly sure will yet another home run for the electronics maker, judging by my experience.
+<a href='http://techcrunch.com/2012/10/23/hands-on-with-apples-new-ipad-mini-good-things-do-come-in-small-packages/img_1815/' title='IMG_1815'></a>
+<a href='http://techcrunch.com/2012/10/23/hands-on-with-apples-new-ipad-mini-good-things-do-come-in-small-packages/img_1813/' title='IMG_1813'></a>
+<a href='http://techcrunch.com/2012/10/23/hands-on-with-apples-new-ipad-mini-good-things-do-come-in-small-packages/img_1811/' title='IMG_1811'></a>
+<a href='http://techcrunch.com/2012/10/23/hands-on-with-apples-new-ipad-mini-good-things-do-come-in-small-packages/img_1809/' title='IMG_1809'></a>
+<a href='http://techcrunch.com/2012/10/23/hands-on-with-apples-new-ipad-mini-good-things-do-come-in-small-packages/img_1808/' title='IMG_1808'></a>
+<a href='http://techcrunch.com/2012/10/23/hands-on-with-apples-new-ipad-mini-good-things-do-come-in-small-packages/img_1807/' title='IMG_1807'></a>
+<a href='http://techcrunch.com/2012/10/23/hands-on-with-apples-new-ipad-mini-good-things-do-come-in-small-packages/img_1806-2/' title='IMG_1806'></a>
+<a href='http://techcrunch.com/2012/10/23/hands-on-with-apples-new-ipad-mini-good-things-do-come-in-small-packages/img_1805/' title='IMG_1805'></a>
+<a href='http://techcrunch.com/2012/10/23/hands-on-with-apples-new-ipad-mini-good-things-do-come-in-small-packages/img_1804/' title='IMG_1804'></a>
+<a href='http://techcrunch.com/2012/10/23/hands-on-with-apples-new-ipad-mini-good-things-do-come-in-small-packages/img_1803/' title='IMG_1803'></a>
+<a href='http://techcrunch.com/2012/10/23/hands-on-with-apples-new-ipad-mini-good-things-do-come-in-small-packages/img_1802-2/' title='IMG_1802'></a>
+<a href='http://techcrunch.com/2012/10/23/hands-on-with-apples-new-ipad-mini-good-things-do-come-in-small-packages/img_1801/' title='IMG_1801'></a>
+<a href='http://techcrunch.com/2012/10/23/hands-on-with-apples-new-ipad-mini-good-things-do-come-in-small-packages/img_1797/' title='IMG_1797'></a>
+<a href='http://techcrunch.com/2012/10/23/hands-on-with-apples-new-ipad-mini-good-things-do-come-in-small-packages/img_1799/' title='IMG_1799'></a>
+<a href='http://techcrunch.com/2012/10/23/hands-on-with-apples-new-ipad-mini-good-things-do-come-in-small-packages/img_1791/' title='IMG_1791'></a>
+<a href='http://techcrunch.com/2012/10/23/hands-on-with-apples-new-ipad-mini-good-things-do-come-in-small-packages/img_1795/' title='IMG_1795'></a>
+<a href='http://techcrunch.com/2012/10/23/hands-on-with-apples-new-ipad-mini-good-things-do-come-in-small-packages/img_1788/' title='IMG_1788'></a>
+</p>
+<p><a target="_blank" href="http://www.techcrunch.com/tag/ipad-mini/"></a></p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/hands-on-with-apples-new-ipad-mini-good-things-do-come-in-small-packages/">here</a>.
