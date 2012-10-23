@@ -4,15 +4,14 @@
 "author" : "Romain Dillet"
 }
 
-<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-23-at-1-30-14-pm.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-10-23 at 1.30.14 PM" title="Screen Shot 2012-10-23 at 1.30.14 PM" style="float: left; margin: 0 10px 7px 0;" /><p>Today at Apple&#8217;s press event, Apple unveiled updated iMacs much thinner than previous versions. It uses friction stir welding for aluminum. The display is now laminated directly to the glass. The optical drive is gone. The 27-inch display resolution is 2560&#215;1440, and 1920&#215;1080 for the 21.5-inch. Internal components were updated as well, with the introduction of the Fusion Drive.</p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-23-at-1-30-14-pm.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-10-23 at 1.30.14 PM" title="Screen Shot 2012-10-23 at 1.30.14 PM" style="float: left; margin: 0 10px 7px 0;" /><p>Today at <a href="http://techcrunch.com/2012/10/23/our-coverage-of-the-apple-event-ipad-mini-4th-generation-ipad-new-imac-mac-mini-13-retina-macbook-pro/">Apple&#8217;s press event</a>, Apple unveiled updated iMacs much thinner than previous versions. It uses friction stir welding for aluminum. The display is now laminated directly to the glass. The optical drive is gone. The 27-inch display resolution is 2560&#215;1440, and 1920&#215;1080 for the 21.5-inch. Internal components were updated as well, with the introduction of the Fusion Drive.</p>
 <p>&#8220;The molecules of the aluminum are merged together to make one piece,&#8221; Phil Schiller said. But the biggest new feature is the Fusion Drive. A traditional hard drive and a SSD are fused together to form a single volume. Everything is faster thanks to to the SSD.</p>
-<p>As an example, Aperture photo transfers are now much faster thanks to the Fusion Drive.</p>
+<p>As an example, Aperture photo transfers are now much quicker.</p>
 <p></p>
 <p>There is 75 percent less reflection thanks to the laminated display. Displays are individually calibrated to appeal to photo enthusiasts. As in laptops, the iMac now has dual microphone and stereo speakers.</p>
 <p>Four USB 3.0 ports and a Thunderbolt port come with the traditional other ports. The default 21.5-inch configuration comes with a 2.7 GHz quad-core i5, 8 GB of RAM, a GeForce GT 640M and a 1 TB hard drive for $1299. The 27-inch model comes with a 2.9 GHz quad-core i5, a GeForce GTX 660M and the same 8 GB of RAM and 1 TB hard drive for $1799.</p>
 <p>Order today and it will ship in December.</p>
 <p>Here is iMac&#8217;s history:</p>
 <p></p>
-<p><i>Developing…</i></p>
 <p><a target="_blank" href="http://www.techcrunch.com/tag/ipad-mini/"></a></p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/apple-unveils-totally-redesigned-27-and-21-5-imac-thinner-ssdhd-fusion-drive/">here</a>.
