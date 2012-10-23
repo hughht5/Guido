@@ -1,5 +1,5 @@
 {
-"title" : "Rixty, The Cash-Based Payment Platform For Games, Takes Majority Investment From Friendster Owner MOL",
+"title" : "From Friendster Owner MOL Takes Majority Investment In Rixty, The Cash-Based Payment Platform For Games",
 "date" : "Tue, 23 Oct 2012 01:49:33 +0000",
 "author" : "Ingrid Lunden"
 }
