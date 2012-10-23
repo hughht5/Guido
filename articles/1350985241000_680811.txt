@@ -1,5 +1,5 @@
 {
-"title" : "Rara.com Turns Up The Volume On Its Music Streaming Service: Launches Windows 8, iOS Apps; Inks Lenovo Deal; Now In 27 Markets",
+"title" : "Rara.com Turns Up The Volume On Its Music Streaming: Launches Windows 8, iOS Apps; Inks Lenovo Deal; Now In 27 Markets",
 "date" : "Tue, 23 Oct 2012 09:40:41 +0000",
 "author" : "Ingrid Lunden"
 }
