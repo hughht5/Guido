@@ -1,0 +1,14 @@
+{
+"title" : "Facebook’s Payments Revenue Feels Some Heat, Declines 9% From Last Quarter",
+"date" : "Tue, 23 Oct 2012 20:31:41 +0000",
+"author" : "Kim-Mai Cutler"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-23-at-1-17-36-pm.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-10-23 at 1.17.36 PM" title="Screen Shot 2012-10-23 at 1.17.36 PM" style="float: left; margin: 0 10px 7px 0;" /><p><a href="http://techcrunch.com/2012/10/23/facebook-payments-revenue/screen-shot-2012-10-23-at-1-17-36-pm/" rel="attachment wp-att-681759"></a></p>
+<p>Mirroring the pain that we&#8217;re seeing across the entire social gaming industry as players shift toward mobile devices, Facebook&#8217;s payments and fees revenue declined 9 percent quarter over quarter to $176 million from $192 million. The company may be up 13 percent year-over-year in payments revenue, but you can see a clear peak in this revenue stream happening over the first half of the year.</p>
+<p>Facebook says this figure may rebound this quarter because it&#8217;s changing the way it recognizes payments revenue. Before, consumers had a month to dispute charges so payments revenue would actually be recording transactions that were at least a month old. This quarter, the company will record payments revenue as it happens, so there might be an artificial bump this quarter.</p>
+<p><a href="http://techcrunch.com/2012/10/23/facebook-payments-revenue/screen-shot-2012-10-23-at-1-28-25-pm/" rel="attachment wp-att-681787"></a></p>
+<p>That said, there are larger forces at work affecting this line of business. Gamers are transitioning toward mobile devices, where Facebook doesn&#8217;t earn a direct revenue share as Apple and Google do for the iOS and Android platforms. The company is essentially trying to come up with a replacement business through mobile app install ads. Because apps that generate a lot of revenue per user (like games or e-commerce) spend millions of dollars every month on marketing, this would be a way for Facebook to earn an indirect share of this revenue.</p>
+<p>At the same time, Facebook has made calculated bet to tone down on spammier types of games on the platform, which has curbed growth for some of the company&#8217;s earliest and best-known third-party developers. They&#8217;ve also made tweaks that favor games with longer-term engagement, which basically helps out mid-core developers who make more action-oriented games that appeal to smaller groups of users who spend more.</p>
+<p>Because of this, payments revenue has remained relatively stagnant for the last several quarters. So it&#8217;s no surprise to see a sequential decline right now.</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/facebook-payments-revenue/">here</a>.
