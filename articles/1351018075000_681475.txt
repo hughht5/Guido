@@ -1,0 +1,27 @@
+{
+"title" : "Our Coverage Of The Apple Event: iPad Mini, 4th Generation iPad, New iMac, Mac Mini, 13″ Retina MacBook Pro",
+"date" : "Tue, 23 Oct 2012 18:47:55 +0000",
+"author" : "Romain Dillet"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-23-at-1-52-58-pm.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-10-23 at 1.52.58 PM" title="Screen Shot 2012-10-23 at 1.52.58 PM" style="float: left; margin: 0 10px 7px 0;" /><p>That&#8217;s a wrap! Apple made a lot of announcements today. Here is our entire coverage on TechCrunch.</p>
+<ul>
+<li><a href="http://techcrunch.com/2012/10/23/live-from-apples-san-jose-ipad-mini-event-at-10am-pacific1pm-eastern/">Live From Apple’s San Jose iPad Mini Event At 10AM Pacific/1PM Eastern</a></li>
+<li><a href="http://techcrunch.com/2012/10/23/ios-app-store-now-offers-275k-ipad-only-apps-up-from-250k-in-september/">iOS App Store Now Offers 275K iPad Apps, Up From 250K In September</a></li>
+<li><a href="http://techcrunch.com/2012/10/23/apple-tops-300-billion-imessages-sent-in-the-last-year-thats-28k-messages-per-second/">Apple Tops 300 Billion iMessages Sent In The Last Year (That’s 28K Messages Per Second)</a></li>
+<li><a href="http://techcrunch.com/2012/10/23/for-the-year-ending-in-june-apples-mac-outgrew-pc-by-7x-now-1-desktop-and-notebook/">For The Year Ending In June, Apple’s Mac Outgrew PC by 7x, Now #1 Desktop And Notebook</a></li>
+<li><a href="http://techcrunch.com/2012/10/23/apple-ibooks-update-app/">Apple Reveals Updated iBooks App, Packs Continuous Scrolling, Improved Social Sharing, And Japanese And Korean Support</a></li>
+<li><a href="http://techcrunch.com/2012/10/23/apple-adds-a-retina-screen-to-the-13-inch-macbook-pro/">Apple Adds A Retina Screen To The 13-inch MacBook Pro, To Cost $1699 And Ships Immediately</a></li>
+<li><a href="http://techcrunch.com/2012/10/23/apple-announces-updated-mac-mini-599-shipping-today/">Apple Announces Updated Mac Mini, $599, Shipping Today</a></li>
+<li><a href="http://techcrunch.com/2012/10/23/apple-unveils-totally-redesigned-27-and-21-5-imac-thinner-ssdhd-fusion-drive/">Apple Unveils Totally Redesigned 27″ And 21.5″ iMac: Thinner, SSD/HD Fusion Drive, Starting At $1299</a></li>
+<li><a href="http://techcrunch.com/2012/10/23/tim-cook-apple-has-sold-100m-ipads-in-just-two-and-a-half-years/">Tim Cook: Apple Has Sold 100M iPads In Just Two And A Half Years</a></li>
+<li><a href="http://techcrunch.com/2012/10/23/apple-re-introduces-the-hybrid-hard-drive-here-comes-the-fusion-drive/">Apple Re-Introduces The Hybrid Hard Drive: Here Comes The Fusion Drive</a></li>
+<li><a href="http://techcrunch.com/2012/10/23/apple-updates-the-9-7-ipad-same-specs-and-lightning-port-for-the-same-price/">Apple Unveils The Fourth Generation iPad With A6X, Lightning And Expanded LTE</a></li>
+<li><a href="http://techcrunch.com/2012/10/23/apple-reaffirms-commitment-to-education-with-updated-ibooks-author/"> Apple Points To iPad &amp; iBooks In 2,500 U.S. Classrooms, Reaffirms Commitment To Education With Updated iBooks Author</a></li>
+<li><a href="http://techcrunch.com/2012/10/23/tim-cook-almost-every-company-in-the-fortune-500-is-testing-and-deploying-the-ipad/">Tim Cook: Almost Every Company In The Fortune 500 Is Testing And Deploying The iPad</a></li>
+<li><a href="http://techcrunch.com/2012/10/23/ipad-mini/">Apple Officially Unveils The iPad Mini Starting At $329</a></li>
+<li><a href="http://techcrunch.com/2012/10/23/ios-ipad-mini-apps/">iPad Apps Shrunk Down To Work On iPad Mini, No Change Needed For iOS Developers</a></li>
+<li><a href="http://techcrunch.com/2012/10/23/the-apple-store-is-back-up-pre-order-imac-fourth-ipad-now-ipad-mini-on-oct-26/">The Apple Store Is Back Up: Order iMac, Mac Mini, Fourth iPad, Pre-Order iPad Mini On Oct. 26</a>
+</li>
+</ul>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/our-coverage-of-the-apple-event-ipad-mini-4th-generation-ipad-new-imac-mac-mini-13-retina-macbook-pro/">here</a>.
