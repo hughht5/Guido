@@ -19918,3 +19918,36 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Apple-Officially-Unveils-The-iPad-Mini Apple Officially Unveils The iPad Mini
+Git - Stdout: [master 0d02073] adding new article
+ 4 files changed, 50 insertions(+), 10 deletions(-)
+ rewrite articles/1351014628000_681356.txt (73%)
+ create mode 100644 articles/1351014716000_681069.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   0d41d51..0d02073  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
