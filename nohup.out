@@ -8197,3 +8197,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Twenty-Major-Retailers-Launch-Passbook-Enabled-Coupons-Via-Digital-Offers-Giant-Coupons.com Twenty Major Retailers Launch Passbook-Enabled Coupons Via Digital Offers Giant Coupons.com
+Git - Stdout: [master fd37b3c] adding new article
+ 2 files changed, 43 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1351003117000_681016.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   b74701e..fd37b3c  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
