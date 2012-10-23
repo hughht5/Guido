@@ -22823,3 +22823,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Apple-Made-No-Mention-Of-iOS-6-Maps-Today.-Now-That%E2%80%99s-Boring. Apple Made No Mention Of iOS 6 Maps Today. Now That’s Boring.
+Git - Stdout: [master 6d1672c] adding new article
+ 2 files changed, 45 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1351017579000_681513.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   8c14650..6d1672c  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
