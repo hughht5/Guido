@@ -6,7 +6,7 @@
 
 <img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/ipad-3.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="ipad-3" title="ipad-3" style="float: left; margin: 0 10px 7px 0;" /><p>Today at <a href="http://techcrunch.com/2012/10/23/live-from-apples-san-jose-ipad-mini-event-at-10am-pacific1pm-eastern/">Apple&#8217;s press event</a>, the company announced that the iPad would receive an update. In order to harmonize the product line, the iPad will now come with a Lightning port. A6X and expanded LTE will be added to the iPad as well.</p>
 <p>The Lightning port is a good addition for iPhone 5 customers who are going to buy an iPad before the holidays. It will help Apple simplify the product line for accessories and reduce costs related to the supply chain.</p>
-<p>Apple surprised us with a couple of other changes. The A6X was added to the iPad as well as expanded LTE support.</p>
+<p>Apple surprised us with a couple of other changes. The A6X was added to the iPad as well as expanded LTE support. The company has kept the same design.</p>
 <p><i>Developing…</i></p>
 <p><a target="_blank" href="http://www.techcrunch.com/tag/ipad-mini/"></a></p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/apple-updates-the-9-7-ipad-same-specs-and-lightning-port-for-the-same-price/">here</a>.
