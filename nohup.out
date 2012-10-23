@@ -23667,3 +23667,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Hands-On-With-Apple%E2%80%99s-New-iPad-Mini:-Good-Things-Do-Come-In-Small-Packages Hands On With Apple’s New iPad Mini: Good Things Do Come In Small Packages
+Git - Stdout: [master 052d770] adding new article
+ 2 files changed, 62 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1351018451000_681526.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   9e0de30..052d770  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
