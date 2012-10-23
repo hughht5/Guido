@@ -1,13 +1,19 @@
 {
-"title" : "Facebook Announces Monthly Active Users Were At 1.01 Billion As Of September 30th",
+"title" : "Facebook Announces Monthly Active Users Were At 1.01 Billion As Of September 30th, An Increase Of 26% Year-Over-Year",
 "date" : "Tue, 23 Oct 2012 20:08:05 +0000",
 "author" : "Drew Olanoff"
 }
 
-<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/3185110188_92ba6a151e_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="3185110188_92ba6a151e_z" title="3185110188_92ba6a151e_z" style="float: left; margin: 0 10px 7px 0;" /><p>Today, Facebook introduced its third quarter earnings for 2012 and shared some updated stats on how the social network is performing. Recently, Mark Zuckerberg shared that Facebook had <a href="http://techcrunch.com/2012/10/04/facebook-tops-1-billion-monthly-users-ceo-mark-zuckerberg-shares-a-personal-note/">crossed the billion user mark</a>, and the trend continues upward, as our own Josh Constine <a href="http://techcrunch.com/2012/10/04/facebook-forever/">predicted</a>.</p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/3185110188_92ba6a151e_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="3185110188_92ba6a151e_z" title="3185110188_92ba6a151e_z" style="float: left; margin: 0 10px 7px 0;" /><p>Today, Facebook introduced its <a href="http://techcrunch.com/2012/10/23/facebook-q3-2012-financials/">third quarter earnings for 2012</a> and shared some updated stats on how the social network is performing. Recently, Mark Zuckerberg shared that Facebook had <a href="http://techcrunch.com/2012/10/04/facebook-tops-1-billion-monthly-users-ceo-mark-zuckerberg-shares-a-personal-note/">crossed the billion user mark</a>, and the trend continues upward, as our own Josh Constine <a href="http://techcrunch.com/2012/10/04/facebook-forever/">predicted</a>.</p>
 <p>The company added 10M users since September 14th, which is about 16 days.</p>
-<p>Here&#8217;s what CEO Mark Zuckerberg had to say in the earnings release:</p>
+<p>Here&#8217;s what CEO <a href="http://techcrunch.com/2012/10/20/zuckerberg-facebook-started-out-as-a-hobby-and-a-project-not-a-company/">Mark Zuckerberg</a> had to say in the earnings release:</p>
 <blockquote><p>As proud as I am that a billion people use Facebook each month, I&#8217;m also really happy that over 600 million people now share and connect on Facebook every month using mobile devices. People who use our mobile products are more engaged, and we believe we can increase engagement even further as we continue to introduce new products and improve our platform. At the same time, we are deeply integrating monetization into our product teams in order to build a stronger, more valuable company.</p></blockquote>
-<p>The interesting statistics are going to come on the mobile front, a place that Facebook is paying extra special attention these days.</p>
-<p>This is developing, more stats to come.</p>
+<p>As far as the rest of the stats, here&#8217;s what Facebook had to share:</p>
+<p><strong>- Monthly active users (MAUs) were 1.01 billion as of September 30, 2012, an increase of 26% year-over-year<br />
+- Daily active users (DAUs) were 584 million on average for September 2012, an increase of 28% year-over-year<br />
+- Mobile MAUs were 604 million as of September 30, 2012, an increase of 61% year-over-year</strong></p>
+<p><a href="http://techcrunch.com/2012/10/23/facebook-announces-monthly-active-users-were-at-1-01-billion-as-of-september-30th/snapshot-102312-122-pm/" rel="attachment wp-att-681773"></a></p>
+<p>The interesting statistics are the ones on the mobile front, a place that Facebook is paying extra special attention these days. We learned today that <a href="http://techcrunch.com/2012/10/23/facebook-advertising/">14% of Facebook&#8217;s third quarter revenue was generated on mobile devices</a>. With the serious growth in mobile users, we can expect this advertising percentage to grow with it, as long as Facebook introduces some new ad units and initiatives to go with it:</p>
+<p><a href="http://techcrunch.com/2012/10/23/facebook-announces-monthly-active-users-were-at-1-01-billion-as-of-september-30th/snapshot-102312-124-pm/" rel="attachment wp-att-681776"></a></p>
+<p>Facebook&#8217;s stock is up in after-hours trading, which must be giving the folks in Menlo Park a brief moment for relief.</p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/facebook-announces-monthly-active-users-were-at-1-01-billion-as-of-september-30th/">here</a>.
