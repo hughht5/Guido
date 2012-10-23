@@ -53,6 +53,7 @@ Phil Schiller pit the iPad mini against the Nexus 7 on stage, and showed that th
 <p><strong>Some Thoughts:</strong></p>
 <p>The iPad isn&#8217;t great for taking pictures. It&#8217;s just too big. But the iPad Mini will be even more portable than its big brother, and perhaps a bit more wieldy, too. The new iPod touch is clearly trying to replace the average digital point-and-shoot camera, and the iPad mini is to the iPad as the iPod touch is to the iPhone 5. </p>
 <p>Attention to camera capabilities may be a nice counter to the lower-grade specs. </p>
-<p><em>Developing&#8230;</em></p>
+<h2>Pricing/Config</h2>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/10/pricing.png" rel="lightbox[681069]"></a></p>
 <p><a target="_blank" href="http://www.techcrunch.com/tag/ipad-mini/"></a></p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/ipad-mini/">here</a>.
