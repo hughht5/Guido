@@ -1,0 +1,18 @@
+{
+"title" : "Meet Memoto: The Discreet Camera That Records Your Life In 30-Second Intervals",
+"date" : "Tue, 23 Oct 2012 05:00:54 +0000",
+"author" : "Kim-Mai Cutler"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-22-at-6-54-59-pm.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-10-22 at 6.54.59 PM" title="Screen Shot 2012-10-22 at 6.54.59 PM" style="float: left; margin: 0 10px 7px 0;" /><p><a href="http://techcrunch.com/?attachment_id=680660" rel="attachment wp-att-680660"></a> It&#8217;s inevitable, right?</p>
+<p>With cameras becoming ever smaller and storage becoming ever cheaper, there will come a day when all of our life&#8217;s memories are digitally preserved.</p>
+<p><a target="_blank" href="http://www.Memoto.com/Kickstarter">Memoto</a>, a Stockholm-based startup inspired by the Quantified Self movement, is taking a stab at this opportunity with a postage-sized camera that wearers will carry around with them constantly.</p>
+<p>It snaps a photo every 30 seconds, keeping a visual trail of your everyday life. A companion online service will store everything, catalog it by time, date and place and even help you pick out the most visually interesting moments.</p>
+<p>The company&#8217;s launching a campaign on Kickstarter to draw interest. They&#8217;re hoping to retail the camera for $279 next year in three colors of graphite grey, white and bright orange. Early backers will get the camera and a one-year web subscription for $199.</p>
+<p>So questions: Isn&#8217;t that creepy?</p>
+<p>Maybe, but actually the company behind Memoto thought about voyeuristic or awkward social situations carefully in designing the camera. For one, the camera doesn&#8217;t turn off unless you put it away in darkness. That&#8217;s so friends, family or bystanders know with certainty about whether they&#8217;re being recorded or not. That&#8217;s different from other wearable devices (potentially like Google Glass), where it might not be so clear if you&#8217;re being recorded or not.</p>
+<p><a href="http://techcrunch.com/?attachment_id=680679" rel="attachment wp-att-680679"></a>Co-founder Martin Källström started Memoto after transitioning out of his last startup, Twingly, which monitors blogs, tweets and more to track what customers are saying about a company&#8217;s products.</p>
+<p>He became passionate about the Quantified Self movement and the ideas of Gordon Bell, a Microsoft researcher well-known for his experiments in life-logging.</p>
+<p>Kallstrom wanted a way to record unexpected moments in his life, like his children&#8217;s first steps. He pointed out that we don&#8217;t often remember to record moments or shoot videos as these memories are happening. At the same time, things that don&#8217;t seem important at the moment become profoundly meaningful as we look back. Memoto is about being able to retrieve these memories, even if we can&#8217;t completely appreciate them as they pass.</p>
+<p>As for the camera itself, it takes 5 megapixel resolution images and logs GPS positions and timestamps. It also has a built-in rechargeable battery, which can last up to two days. You wear it with a small, stainless steel clip that attaches to your clothing.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/bkzMX0UMLus/">here</a>.
