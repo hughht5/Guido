@@ -14,6 +14,14 @@
 <li>.68 pounds</li>
 </ul>
 <p><strong>Some Thoughts:</strong> We expected a pretty huge design refresh. Jony Ive said in the video that there is inherent loss in just shrinking a product. </p>
+<h3>Design:</h3>
+<ul>
+<li>Thinner bezels</li>
+<li>Ultra rounded edges</li>
+<li>Updated smart covers</li>
+<li>White and Black models</li>
+<li>Of course, a unibody design</li>
+</ul>
 <h3>Display:</h3>
 <ul>
 <li>7.9-inches</li>
