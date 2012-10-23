@@ -1,5 +1,5 @@
 {
-"title" : "Zynga Apparently Just Laid Off 100+ Employees From TheVille And Bingo Teams In Its Austin Office",
+"title" : "Zynga May Have Just Laid Off 100+ Employees From TheVille And Bingo Teams In Its Austin Office",
 "date" : "Tue, 23 Oct 2012 18:03:09 +0000",
 "author" : "Josh Constine"
 }
