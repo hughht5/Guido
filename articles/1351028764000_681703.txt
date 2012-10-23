@@ -1,0 +1,11 @@
+{
+"title" : "Zuckerberg And Facebook Have Thought About Charging For APIs, But Advertising Is Better",
+"date" : "Tue, 23 Oct 2012 21:46:04 +0000",
+"author" : "Drew Olanoff"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/2390914273_9b1ee4ee61_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="2390914273_9b1ee4ee61_z" title="2390914273_9b1ee4ee61_z" style="float: left; margin: 0 10px 7px 0;" /><p>During the Q&amp;A portion of the <a href="http://techcrunch.com/2012/10/23/mark-zuckerberg-desktop-users-are-40-likely-to-come-back-daily-mobile-users-70/">Facebook earnings call</a>, Zuckerberg was asked if the company would ever charge for APIs. It&#8217;s an interesting question, and one that I&#8217;ve thought a lot about as I&#8217;ve watched Twitter change the way it works with developers. I figured that the answer would be a flat-out &#8220;No&#8221;, but it sounds like this is something that Facebook has thought about.</p>
+<p>Zuckerberg said that the company would rather go about things by introducing advertising options for developers, so that everyone can make a few dollars.</p>
+<p>This is developing.</p>
+<p>[Photo credit: <a target="_blank" href="http://www.flickr.com/photos/marcopako/2390914273/sizes/z/">Flickr</a>]</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/zuckerberg-and-facebook-have-thought-about-charging-for-apis-but-advertising-is-better/">here</a>.
