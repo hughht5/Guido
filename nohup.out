@@ -17969,3 +17969,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Apple-Adds-A-Retina-Screen-To-The-13-inch-MacBook-Pro Apple Adds A Retina Screen To The 13-inch MacBook Pro
+Git - Stdout: [master 09d22fe] adding new article
+ 3 files changed, 40 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1351012832000_681264.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   de7d056..09d22fe  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
