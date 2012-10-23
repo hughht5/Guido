@@ -1,0 +1,14 @@
+{
+"title" : "Inviteful Helps You Invite “Humans” To “Events” Where You Can “Chat,” Drink “Coffee”",
+"date" : "Tue, 23 Oct 2012 19:46:18 +0000",
+"author" : "John Biggs"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/31515da3c42c4e0c35e351b8e87a7471.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="31515da3c42c4e0c35e351b8e87a7471" title="31515da3c42c4e0c35e351b8e87a7471" style="float: left; margin: 0 10px 7px 0;" /><p>In the old days, before Google Hangouts and sexting, kids used to invite each other to events like concerts, stonings, and bear-baitings. <a target="_blank" href="http://getinviteful.com/index.html">Inviteful</a> hopes to bring us back to those halcyon days of dog fights and bare-knuckle, couples-only fistfights by making it easier to invite friends to stuff.</p>
+<p>Created by programmer Christian Hresko, the app allows you to create events using a mobile interface and notify friends that they&#8217;ve been invited. You can add photos of the location, check invitation histories, and friends without Inviteful will receive SMSes if they&#8217;ve been invited. It also syncs with iCloud.</p>
+<p>Hresko says that the goal is to offer a mobile-only interface for adding invitees on the fly. He was a senior software engineer at Sony Ericsson and worked for 8tracks and ngmoco.</p>
+<p>&#8220;This started ten weeks ago as a social calendar and quickly pivoted to an event organization tool/app,&#8221; he said. &#8220;After thinking about the event organization space, I realized this is only one part of the puzzle, which is event discovery. This first stage, Inviteful for iPhone, solves the problem of event invitations on mobile.&#8221;</p>
+<p><a href="http://techcrunch.com/2012/10/23/inviteful-helps-you-invite-humans-to-events-where-you-can-chat-drink-coffee/#gallery-681498-1-slideshow">Click to view slideshow.</a><br />
+He bootstrapped and built the app himself over the past ten weeks. It has a very focused interface, with a who, what, where system that ensures users aren&#8217;t bogged down by extraneous UI elements. It seems like a great solution for planning off-the-cuff events like meetings for coffee, dance marathons, and sexual flash mobs.</p>
+<p>The app is free and available for <a target="_blank" href="https://itunes.apple.com/us/app/inviteful/id528862708?mt=8">download on iOS now</a>.</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/inviteful-helps-you-invite-humans-to-events-where-you-can-chat-drink-coffee/">here</a>.
