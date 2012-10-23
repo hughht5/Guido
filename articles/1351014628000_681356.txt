@@ -1,5 +1,5 @@
 {
-"title" : "With iPad And iBooks In 2500 U.S. Classrooms, Apple Reaffirms Commitment To Education With Updated iBooks Author",
+"title" : "Apple Points To iPad & iBooks In 2,500 U.S. Classrooms, Reaffirms Commitment To Education With Updated iBooks Author",
 "date" : "Tue, 23 Oct 2012 17:50:28 +0000",
 "author" : "Chris Velazco"
 }
