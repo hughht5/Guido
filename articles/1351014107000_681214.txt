@@ -1,5 +1,5 @@
 {
-"title" : "Tim Cook: Apple Has Sold 100M iPads In Just Two And A Half Years – “We Are Just Getting Started”",
+"title" : "Tim Cook: Apple Has Sold 100M iPads In Just Two And A Half Years",
 "date" : "Tue, 23 Oct 2012 17:41:47 +0000",
 "author" : "Drew Olanoff"
 }
