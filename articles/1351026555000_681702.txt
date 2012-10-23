@@ -11,5 +11,5 @@
 <p>Facebook&#8217;s user growth on mobile devices makes complete sense, as most of us are on the go when we want to check in on what our friends are up to. For me, Facebook gets used the most when I&#8217;m waiting for a train, in line at a store or at a coffee shop. I actually use the desktop version very sparingly, even though I have it up in a tab.</p>
 <p>Check the growth chart the company released this morning:</p>
 <p></p>
-<p>We noted that the company saw <a href="http://techcrunch.com/2012/10/23/facebook-advertising/">14% of its revenue coming from mobile advertising</a>, which is pretty impressive.</p>
+<p>We noted that the company saw <a href="http://techcrunch.com/2012/10/23/facebook-advertising/">14% of its revenue coming from mobile advertising</a>, which is pretty impressive. With a bulk of users returning to Facebook more often on their mobile devices, it&#8217;s clear that the focus must remain there for all companies, not just Facebook.</p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/mark-zuckerberg-desktop-users-are-40-likely-to-come-back-daily-mobile-users-70/">here</a>.

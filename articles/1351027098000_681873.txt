@@ -1,0 +1,11 @@
+{
+"title" : "Zuckerberg: “Gaming On Facebook Isn’t Doing As Well As I’d Like”",
+"date" : "Tue, 23 Oct 2012 21:18:18 +0000",
+"author" : "Kim-Mai Cutler"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-23-at-2-13-30-pm.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-10-23 at 2.13.30 PM" title="Screen Shot 2012-10-23 at 2.13.30 PM" style="float: left; margin: 0 10px 7px 0;" /><p><a href="http://techcrunch.com/2012/10/23/zuckerberg-gaming-on-facebook-isnt-doing-as-well-as-id-like/screen-shot-2012-10-23-at-2-13-30-pm/" rel="attachment wp-att-681878"></a></p>
+<p>No surprise here. Mark Zuckerberg just said he isn&#8217;t happy with the growth of the gaming ecosystem on the Facebook platform on the earnings call today. </p>
+<p>&#8220;Gaming on Facebook isn&#8217;t doing as well as I&#8217;d like,&#8221; he said, pointing out that gaming revenue from Zynga has declined 20 percent from a year ago. That said, the platform is evolving in such a way that newer developers like Kixeye, Germany&#8217;s Wooga and King.com are gaining marketshare to make up for Zynga&#8217;s losses. </p>
+<p>You can see the impact of the gaming ecosystem&#8217;s slower growth (or even decline) on Facebook in the company&#8217;s payments and fees revenue, <a href="http://techcrunch.com/2012/10/23/facebook-payments-revenue/">which declined 9 percent quarter over quarter to $176 million from $192 million.</a> </p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/zuckerberg-gaming-on-facebook-isnt-doing-as-well-as-id-like/">here</a>.
