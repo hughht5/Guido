@@ -1,5 +1,5 @@
 {
-"title" : "Mark Zuckerberg: Desktop Users are 40% Likely To Come Back Daily, Mobile Users 70%",
+"title" : "Zuck: 70% Of Mobile Facebook Users Return Daily, Desktop Only Sees 40%",
 "date" : "Tue, 23 Oct 2012 21:09:15 +0000",
 "author" : "Drew Olanoff"
 }
@@ -7,5 +7,6 @@
 <img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/4815259737_765783aa0d_z1.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="4815259737_765783aa0d_z" title="4815259737_765783aa0d_z" style="float: left; margin: 0 10px 7px 0;" /><p>Facebook <a href="http://techcrunch.com/2012/10/23/facebook-q3-2012-financials/">announced its third quarter 2012 earnings today</a>, and are participating in the customary phone call to discuss what has taken place over the past few months.</p>
 <p>&#8220;We should be able to reach more people on mobile than on desktop&#8221; Zuckerberg stated during the call.</p>
 <p>Zuckerberg discussed the opportunity of engaging and monetizing mobile users more and more, and the company <a href="http://techcrunch.com/2012/10/23/facebook-announces-monthly-active-users-were-at-1-01-billion-as-of-september-30th/">released some stats</a> that support its growing strength and renewed focus in that area.</p>
+<p>Additionally, the CEO pointed out that Facebook&#8217;s mobile app is the number on one nearly every platform.</p>
 <p>This is developing.</p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/mark-zuckerberg-desktop-users-are-40-likely-to-come-back-daily-mobile-users-70/">here</a>.
