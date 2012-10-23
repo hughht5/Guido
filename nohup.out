@@ -32559,3 +32559,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Eventbrite-Partners-With-Uber,-HotelTonight-&-RentTheRunway-To-Offer-Perks-To-Event-Goers Eventbrite Partners With Uber, HotelTonight & RentTheRunway To Offer Perks To Event Goers
+Git - Stdout: [master 5c1452c] adding new article
+ 5 files changed, 64 insertions(+), 14 deletions(-)
+ create mode 100644 articles/1351027254000_681809.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   4bcc08a..5c1452c  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
