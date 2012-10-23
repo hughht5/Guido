@@ -1,0 +1,48 @@
+{
+"title" : "Data 2.0 Goes Large: InfoArmy Raises $17.3M To Build Out Its Crowdsourced Competitive Intelligence Platform",
+"date" : "Tue, 23 Oct 2012 10:57:41 +0000",
+"author" : "Ingrid Lunden"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/infoarmy-ipad.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="infoarmy ipad" title="infoarmy ipad" style="float: left; margin: 0 10px 7px 0;" /><p>￼￼<a target="_blank" href="http://www.infoarmy.com">InfoArmy</a>, only four months into its life as the operator of a crowdsourced competitive intelligence platform, is announcing a significant injection of capital as it continues to build out its business. The company has raised a $17.3 million Series B led by Norwest VenturePartners, with Trinity Ventures also participating. The total raised by InfoArmy to date is now $19.3 million. (The previous $2 million came from CEO Jim Fowler, who had sold his previous company, another crowdsourced business called Jigsaw, to Salesforce for $175 million.)</p>
+<p>The service is a kind of development not only on the concept of crowdsourcing but also of big data and how to get the most out of it &#8212; also known as &#8220;Data 2.0&#8243;. In the case of InfoArmy, it&#8217;s about an ever-evolving network of people around the world feed information into a database that becomes a central repository for business intelligence reports. Fowler&#8217;s ambition is big: he wants this to be the biggest database of its kind in the world.</p>
+<p>&#8220;We are swinging for the fences on this one &#8211; we want to fundamentally disrupt the business information industry while at the same time creating a platform where researchers from all around the world can eventually earn a living creating InfoArmy reports,&#8221; Fowler told TechCrunch. He says that in the last week alone some 700 researchers signed up to the platform.</p>
+<p>Given that the company is only four months old, and that it is trying something that has never actually been done before, part of the faith in the company comes from the track record of Fowler himself, who has not only had experience in building out a crowdsourced business that also works around big data &#8212; Jigsaw focuses on crowdsourced contact databases &#8212; but has shown that he can convert startups into businesses that have exit potential.</p>
+<div title="Page 1">
+<div>
+<div>
+<div>
+<p>&#8220;InfoArmy is pursuing a large idea, with a tremendous opportunity to disrupt the market for competitive intelligence,&#8221; said Jeff Crowe, general partner at Norwest Venture Partners , in a statement. &#8220;We are particularly excited to partner with Jim again, given his success in pioneering the Data-as-a-Service (DaaS) business category at Jigsaw. We are confident that InfoArmy will be the next big winner in the world of Data 2.0.&#8221; Jeff Crowe of Norwest and Patricia Nakache of Trinity will be joining InfoArmy’s Board of Directors.</p>
+</div>
+</div>
+</div>
+</div>
+<p>In the four months since launch, InfoArmy generated 1,800 free and paid reports, which people can access through the company&#8217;s web site and iPad app. The intelligence covers both private and public companies &#8212; the latter of which were earlier this month.</p>
+<p>The company currently has 27 employees with offices in San Mateo and Coimbatore, India.</p>
+<p>Below is a Q&amp;A I had with Fowler:</p>
+<p><strong>How do you make sure that the crowdsourced competitive intelligence is accurate?</strong></p>
+<p>Each report is created by a team of researchers &#8211; a Primary and a Senior Researcher. The Senior Researcher check the data and sources, and is officer in the InfoArmy &#8212; a &#8216;known entity.&#8217; To become a Senior Researcher, you must 1) publish 7 reports, 2) pass a certification test and 3) be approved by the Senior Research Corps.<br />
+Reports cannot be published without Senior Researcher approval of each and every section.<br />
+We also have a system that encourages many sets of eyes to look at the reports, from other members of the Army to direct buyer feedback<br />
+80% of the information in reports is readily verifiable online<br />
+The remaining 20% are estimates. We are very clear that are not offering exact numbers, as that would likely involved insider information (in the case of private companies, of course), which we explicitly forbid in our Terms of Use and Code of conduct. The value lies in the fact that these estimates are much better and faster than you would have come up with on your own<br />
+<strong>What are your international plans &#8212; given the crowdsourced nature of the service?</strong></p>
+<p>Only English-language reports at the moment. However, we do plan to expand internationally some time in the next year or two.<br />
+Our mission/vision is to create a Competitive Intelligence Report for every company on the planet, in multiple languages.<br />
+Reports will be created in their native language. (E.g., reports for Japanese companies will be created first in Japanese by Japanese researchers, then translated into other languages)<br />
+<strong>What are the typical prices for content on your site?</strong></p>
+<p>All InfoArmy reports can be purchased for $99, which buys you a year&#8217;s subscription and three comprehensive quarterly updates.<br />
+The other option is an Unlimited View Subscription ($5,000), which buys you a year&#8217;s subscription to all the reports in the InfoArmy database. We don&#8217;t anticipate selling many of these until we reach our &#8220;mini-critical mass&#8221; of 10,000 reports.<br />
+We also offer many sample reports for free.</p>
+<p><strong>Are you profitable yet?</strong></p>
+<p>No, and we didn&#8217;t expect to be at this point.</p>
+<p><strong>What are the most common topics / areas covered by the reports and other copy?</strong></p>
+<p>All our reports contain a standardized set of data, which gives them a huge advantage over the competition &#8212; it&#8217;s easy to compare against competitors. In fact, the whole first part of InfoArmy reports is a competitive section, which highlights the company in the context of its competitors in areas like revenue, employee productivity, social media followers, or employee growth.<br />
+Many sections have &#8216;trend analysis&#8217; where you can see the change over time. For example, you have the unprecedented ability to swipe through quarters of data to see how a company&#8217;s branding and positioning have changed on their website over time.<br />
+(This is just one of the advantages of reports that are designed from the ground up for the iPad.)</p>
+<p>Our biggest &#8220;competitive ecosystems&#8221; tend to be tech and internet-based companies, but we also also slowly branching out naturally into other fields. This is fine because, again, we plan to cover all significant companies in the US and eventually the world. We do not allow reports on &#8220;mom-and-pop&#8221; businesses because these reports will rarely be purchased, and we want the work of our researchers to be as profitable as possible.</p>
+<p><strong>What are your plans for building up the network of contributors?</strong></p>
+<p>We are already seeing exponential researcher growth. We had almost 700 sign-ups last week alone. There are several types of people that are particularly well-suited to IA research. Stay-at-home moms/dads, online freelancers, and international BPO workers comprise many of our most enthusiastic members. We motivated users in several different ways, the two main ones being gamification and a revenue-sharing model</p>
+<p><strong>What is the market like for these research reports and why are people buying them?</strong></p>
+<p>The market is ripe for disruption, as Patricia Nakache of Trinity Ventures says, because there really is nothing else out there like what we are building. The business information industry has been missing a good healthy dose of innovation, and InfoArmy plans to help out with that. Our primary competitor is &#8220;DIY.&#8221; These reports let you learn in 2 minutes what otherwise would have taken 2 hours or even 2 days on your own. That is worth a lot of money to many people, such as financial analysts, marketing professionals, and business executives of all stripes. Companies like Hoover&#8217;s, for example, only maintain about 50,000 full company reports, and these are only updated once a year, if that.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/o-tgh_B0ZzA/">here</a>.

@@ -1,0 +1,20 @@
+{
+"title" : "Platfora Seeks To Brings Simplicity And An Apple Style Ease Of Use To Big Data Analysis",
+"date" : "Tue, 23 Oct 2012 11:30:33 +0000",
+"author" : "Alex Williams"
+}
+
+<img width="100" height="29" src="http://tctechcrunch2011.files.wordpress.com/2012/10/platforalogo.jpeg?w=100&amp;h=29&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="platforalogo" title="platforalogo" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.platfora.com/">Platfora</a> has unveiled an in-memory big data app that tackles a capability lacking in most software offerings that leverage Hadoop for big data analysis.</p>
+<p>Most solutions that leverage Hadoop have complex, technically oriented, user interfaces and require deep technical skills from people who have backgrounds in statistics and engineering. An added plus, and rare to find, are people with data visualization skills. The people with these skills often get labeled as &#8220;data scientists,&#8221; and are some of the most highly sought after people in tech.</p>
+<p>Platfora&#8217;s apps sit on top of Hadoop &#8212; a distributed infrastructure envionment for aggregating and analyzing data. It complements Hadoop distributions such as Cloudera and Hortonworks. It is accessible though a web-based interface with particular attention put on accessibility for the average user.</p>
+<p>The data revolution is having quite an impact on the overall IT market &#8211; a fact not lost on young vendors such as Platfora. A Hadoop infrastructure can run on cheap, commodity servers that scale horizontally. No need for a data warehouse. With Platfora, data is queried directly from a Hadoop cluster and stored in-memory for quick access. Platfora can manage unlimited volumes of data in-memory.</p>
+<p>The Platfora play represents a classic disruption of the enterprise market. For years, customers have made billions if not trillions of dollars in building data warehouse systems. Oracle, IBM and companies like Teradata build these data warehouse systems that cost millions to develop and months to implement. Consequently, only the largest of companies have the budgets to pay for them.</p>
+<p>In comparison, Platfora takes hours to implement and costs a fraction of the price.</p>
+<p>Usability represents the real promise for Platfora, which borrows from Apple, Twitter and Square &#8212; companies that have histories developing rich user experiences.</p>
+<p><a href="http://techcrunch.com/2012/10/23/platfora-seeks-to-brings-simplicity-and-an-apple-style-ease-of-use-to-big-data-analysis/collaboration/" rel="attachment wp-att-680759"></a></p>
+<p>And that may be the difference in terms of how Platfora fares in the market. Build in the expertise, make it accessible through the Web and easier to use &#8211; that&#8217;s the magic combination for disrupting enterprise providers in today&#8217;s market.</p>
+<p>SAP is the most potent enterprise competitor to Platfora. The giant business software company&#8217;s in-memory technology has driven new energy into SAP. The company says Hana is the fastest growing product it has had in years.</p>
+<p>Last week at its TechEd conference, SAP executives announced its new cloud platform built on SAP Hana Cloud. The company also introduced SAP Hana One for AWS. <a target="_blank" href="https://aws.amazon.com/marketplace/pp/B009KA3CRY/ref=mkt_ste_hp_SAPHana1"><br />
+</a></p>
+<p>Hana now has production level capability on AWS. The company is building a developer community and is seeking to build a startup culture. Hana may still not be as flexible and lack deep Hadoop integration but it does have a growing place in the market, posing a challenge to a startup like Platfora.</p>
+<br /> The original article was posted <a href="http://feedproxy.google.com/~r/Techcrunch/~3/SCJG5MM39ZU/">here</a>.
