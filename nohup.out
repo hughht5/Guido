@@ -32621,3 +32621,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Zuck:-There%E2%80%99s-An-Opportunity-To-Bring-More-Commerce-To-Facebook;-Gifts-Is-The-First-Step Zuck: There’s An Opportunity To Bring More Commerce To Facebook; Gifts Is The First Step
+Git - Stdout: [master bcc13e4] adding new article
+ 3 files changed, 43 insertions(+), 3 deletions(-)
+ create mode 100644 articles/1351027312000_681880.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   573db0c..bcc13e4  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
