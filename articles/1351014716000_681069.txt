@@ -26,6 +26,8 @@ Phil Schiller pit the iPad mini against the Nexus 7 on stage, and showed that th
 <h3>Guts</h3>
 <ul>
 <li>Dual-core A5</li>
+<li>Lightning dock</li>
+<li>10 hours of battery life</li>
 </ul>
 <p><em>Developing&#8230;</em></p>
 <p><a target="_blank" href="http://www.techcrunch.com/tag/ipad-mini/"></a></p>
