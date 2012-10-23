@@ -1,5 +1,5 @@
 {
-"title" : "Zynga Just Laid Off 100+ Employees From The Ville And Bingo Teams In Austin, Shut Down Boston Office",
+"title" : "Zynga Just Shut Down Boston Office, Laid Off 100+ Employees From The Ville And Bingo Teams In Austin",
 "date" : "Tue, 23 Oct 2012 18:03:09 +0000",
 "author" : "Josh Constine"
 }

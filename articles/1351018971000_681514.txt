@@ -7,7 +7,7 @@
 <img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/paidblogger.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="paidblogger" title="paidblogger" style="float: left; margin: 0 10px 7px 0;" /><p>Hey.</p>
 <p>My name is Michael Arrington. For newer readers who don’t know, I founded TechCrunch back in 2005. </p>
 <p>Last year I was <a href="http://techcrunch.com/2011/09/12/deciding-to-move-on/">fired</a> and <a target="_blank" href="http://uncrunched.com/2011/09/25/what-exactly-is-uncrunched/">began writing on Uncrunched</a>. </p>
-<p>Today <a href="http://techcrunch.com/2012/10/23/nunca-podras-irte/">AOL unfired me</a>. </p>
+<p>Today <a href="http://techcrunch.com/2012/10/23/getting-the-band-back-together/">AOL unfired me</a>. </p>
 <p>I am a venture capitalist and have all sorts of conflicts of interest. Many of you think that conflicts of interest are inherently bad and people with them shouldn’t be writing stuff for other people to read. A lot of people would agree with you. It was the reason AOL fired me last year, after they invested in my venture fund CrunchFund.</p>
 <p><a target="_blank" href="http://uncrunched.com/2012/02/22/look-this-is-what-it-comes-down-to/">I disagree</a>. </p>
 <p>AOL now also disagrees. </p>
