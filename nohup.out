@@ -8979,3 +8979,37 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+The "sys" module is now called "util". It should have a similar interface.
+{ statusCode: 403,
+  data: '{"error":"Status is over 140 characters.","request":"\\/1\\/statuses\\/update.json"}' }
+Git - Stdout: [master 0979c64] adding new article
+ 2 files changed, 46 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1351003812000_680953.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   1afdaba..0979c64  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
