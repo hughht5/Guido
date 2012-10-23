@@ -1,0 +1,13 @@
+{
+"title" : "Local Businesses Start Warming Up To Facebook Ads: 300K Tried Promoted Posts, 75K Were New Advertisers",
+"date" : "Tue, 23 Oct 2012 22:20:16 +0000",
+"author" : "Josh Constine"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/facebook-small-businesses.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Facebook Small Businesses" title="Facebook Small Businesses" style="float: left; margin: 0 10px 7px 0;" /><p>12.8 million small business have a free-to-use Facebook Page, and 8 million use it monthly. By making advertising easier, Facebook got 300,000 of them to buy its new <a target="_blank" href="http://www.insidefacebook.com/2012/05/30/facebook-rolls-out-promote-button-to-more-u-s-pages-provides-details-on-how-it-works/">Promoted Posts</a> ads, Sheryl Sandberg explained on today&#8217;s <a target="_blank" href="http://investor.fb.com/eventdetail.cfm?eventid=119191">earnings call</a>. 25%, or 75,000 of them had never bought Facebook ads before. The news shows that by designing ad products for mom &amp; pop, Facebook can turn the long tail of businesses into spenders.</p>
+<p>Sandberg explained that &#8220;it&#8217;s really hard to get local businesses online.&#8221; Still, of the 12.8 million local business Pages, 3.5 million post to their fans weekly. But getting these businesses that rarely have designated online marketing budgets to spend money has been a bigger challenge.</p>
+<p>For years, Facebook has been trying to teach small and medium-sized local businesses how to use its relatively complicated advertising product. Then in Q2 it had a eureka moment. Rather than smartening them up, it dumbed its products down.</p>
+<p>It created an easy new ad format called Promoted Posts where once a Page has shared something to the news feeds of their fans, they could click a few buttons to pay to show that post to a bigger percentage of their fans. There&#8217;s no complex, separate ad targeting interface, and they can even be bought from mobile.</p>
+<p>Mobile is where users are consuming branded content on mobile. Sandberg noted that 100,000 SMBs have tried out the Facebook Offers online coupon product. This is free but incentivizes businesses to buy fans to share the offers with.</p>
+<p>Expect Facebook to explore more ways to make its other traditional sidebar and Sponsored Story ads easier to use so it can get more SMBs on board.</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/facebook-small-business-ads/">here</a>.
