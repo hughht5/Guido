@@ -1,5 +1,5 @@
 {
-"title" : "Apple Officially Unveils The iPad Mini",
+"title" : "Apple Officially Unveils The iPad Mini Starting At $329",
 "date" : "Tue, 23 Oct 2012 17:51:56 +0000",
 "author" : "Jordan Crook"
 }
