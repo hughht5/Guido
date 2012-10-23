@@ -15814,3 +15814,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Live-From-Apple%E2%80%99s-San-Jose-iPad-Mini-Event-At-10AM-Pacific/1PM-Eastern Live From Apple’s San Jose iPad Mini Event At 10AM Pacific/1PM Eastern
+Git - Stdout: [master c1948ba] adding new article
+ 2 files changed, 40 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1351010696000_681000.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   9930a0e..c1948ba  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
