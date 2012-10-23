@@ -4,7 +4,8 @@
 "author" : "Drew Olanoff"
 }
 
-<p>With Facebook narrowly beating expectations in its third quarter earnings release, the stock has popped up around 10% since the earnings dropped.</p>
+<p>With Facebook narrowly beating expectations in its <a href="http://techcrunch.com/2012/10/23/facebook-q3-2012-financials/">third quarter earnings release</a>, the stock has popped up around 10% since the earnings dropped. <a href="http://techcrunch.com/2012/10/23/facebook-announces-monthly-active-users-were-at-1-01-billion-as-of-september-30th/">Monthly active users have steadily increased as well</a>, so all is happy in Facebook land.</p>
+<p>Here&#8217;s the activity on Facebook&#8217;s stock as of this post:</p>
 <p><a href="http://techcrunch.com/2012/10/23/half-hour-after-facebook-earnings-stock-pops-around-10-in-after-hours-trading/snapshot-102312-137-pm/" rel="attachment wp-att-681810"></a></p>
 <p>As we know, <a target="_blank" href="http://www.marketwatch.com/story/facebook-expected-to-show-revenue-gains-2012-10-23"><br />
 Wall Street projected</a> that the social network would report revenue of $1.23 billion and non-GAAP profit of 11 cents per share, so Facebook passed that mark. In the first thirty minutes after its Q3 report was published, Facebook stock was up nearly 10 percent, to $21.41 per share.<a href="http://techcrunch.com/2012/10/23/half-hour-after-facebook-earnings-stock-pops-around-10-in-after-hours-trading/4815259737_765783aa0d_z/" rel="attachment wp-att-681820"></a></p>

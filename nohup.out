@@ -30220,3 +30220,55 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Git - Stdout: [master f470260] adding new article
+ 1 files changed, 30 insertions(+), 0 deletions(-)
+
+Git - Stderr: remote: /data/github/current/vendor/gems/ruby/1.8/gems/redis-2.2.0/lib/redis/connection/hiredis.rb:23:in `connect': Timeout::Error (Timeout::Error)[K
+remote: 	from /data/github/current/vendor/gems/ruby/1.8/gems/redis-2.2.0/lib/redis/client.rb:204:in `establish_connection'[K
+remote: 	from /data/github/current/vendor/gems/ruby/1.8/gems/redis-2.2.0/lib/redis/client.rb:23:in `connect'[K
+remote: 	from /data/github/current/vendor/gems/ruby/1.8/gems/redis-2.2.0/lib/redis/client.rb:224:in `ensure_connected'[K
+remote: 	from /data/github/current/vendor/gems/ruby/1.8/gems/redis-2.2.0/lib/redis/client.rb:114:in `process'[K
+remote: 	from /data/github/current/vendor/gems/ruby/1.8/gems/redis-2.2.0/lib/redis/client.rb:183:in `logging'[K
+remote: 	from /data/github/current/vendor/gems/ruby/1.8/gems/redis-2.2.0/lib/redis/client.rb:113:in `process'[K
+remote: 	from /data/github/current/vendor/gems/ruby/1.8/gems/redis-2.2.0/lib/redis/client.rb:38:in `call'[K
+remote: 	from /data/github/current/vendor/gems/ruby/1.8/gems/redis-2.2.0/lib/redis.rb:428:in `sadd'[K
+remote: 	from /usr/lib/ruby/1.8/monitor.rb:242:in `synchronize'[K
+remote: 	from /data/github/current/vendor/gems/ruby/1.8/gems/redis-2.2.0/lib/redis.rb:427:in `sadd'[K
+remote: 	from /data/github/current/vendor/gems/ruby/1.8/gems/redis-namespace-1.0.3/lib/redis/namespace.rb:213:in `send'[K
+remote: 	from /data/github/current/vendor/gems/ruby/1.8/gems/redis-namespace-1.0.3/lib/redis/namespace.rb:213:in `method_missing'[K
+remote: 	from /data/github/current/vendor/gems/ruby/1.8/gems/resque-1.20.0/lib/resque.rb:205:in `watch_queue'[K
+remote: 	from /data/github/current/vendor/gems/ruby/1.8/gems/resque-1.20.0/lib/resque.rb:150:in `push_without_meta'[K
+remote: 	from /data/github/current/lib/github/config/resque.rb:18:in `push'[K
+remote: 	from /data/github/current/vendor/gems/ruby/1.8/gems/resque-1.20.0/lib/resque/job.rb:48:in `create'[K
+remote: 	from /data/github/current/vendor/gems/ruby/1.8/gems/resque-1.20.0/lib/resque.rb:249:in `enqueue_to'[K
+remote: 	from /data/github/current/lib/rock_queue.rb:68:in `enqueue'[K
+remote: 	from /data/github/current/lib/rock_queue.rb:39:in `push'[K
+remote: 	from hooks/post-receive:87[K
+error: hooks/post-receive died of signal 2
+To git@github.com:hughht5/Guido.git
+   03d6233..f470260  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
