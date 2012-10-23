@@ -20553,3 +20553,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Zynga-Apparently-Just-Laid-Off-100+-Employees-From-TheVille-And-Bingo-Teams-In-Its-Austin-Office Zynga Apparently Just Laid Off 100+ Employees From TheVille And Bingo Teams In Its Austin Office
+Git - Stdout: [master 6107b74] adding new article
+ 3 files changed, 43 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1351015389000_681421.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   e9501fc..6107b74  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
