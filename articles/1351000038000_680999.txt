@@ -1,5 +1,5 @@
 {
-"title" : "Samsung Galaxy Note II Will Hit AT&T Stores November 9, Pre-Orders Begin October 25",
+"title" : "$299 Samsung Galaxy Note II Will Hit AT&T Stores November 9, Pre-Orders Begin October 25",
 "date" : "Tue, 23 Oct 2012 13:47:18 +0000",
 "author" : "Jordan Crook"
 }
