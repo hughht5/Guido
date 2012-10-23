@@ -5495,3 +5495,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/For-The-Last-Mile-Of-Your-Trip:-Mozio-Launches-An-Airport-Ground-Transportation-Search-Engine For The Last Mile Of Your Trip: Mozio Launches An Airport Ground Transportation Search Engine
+Git - Stdout: [master d9b6691] adding new article
+ 2 files changed, 47 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1351000391000_680987.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   9b8fc01..d9b6691  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
