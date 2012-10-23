@@ -17723,3 +17723,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Apple-Tops-300-Billion-iMessages-Sent-In-The-Last-Year-(That%E2%80%99s-28K-Messages-Per-Second) Apple Tops 300 Billion iMessages Sent In The Last Year (That’s 28K Messages Per Second)
+Git - Stdout: [master 808df1b] adding new article
+ 3 files changed, 45 insertions(+), 2 deletions(-)
+ create mode 100644 articles/1351012570000_681247.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   540793c..808df1b  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
