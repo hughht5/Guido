@@ -1,5 +1,5 @@
 {
-"title" : "Zuck Bullish On Mobile Revenue: 70% Of Mobile Facebook Users Return Daily, Desktop Only Sees 40%",
+"title" : "Zuckerberg Bullish On Mobile Revenue: 70% Of Mobile Facebook Users Return Daily, Desktop Only Sees 40%",
 "date" : "Tue, 23 Oct 2012 21:09:15 +0000",
 "author" : "Drew Olanoff"
 }
