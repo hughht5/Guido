@@ -19265,3 +19265,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Tim-Cook:-Apple-Has-Sold-100M-iPads-In-Just-Two-And-A-Half-Years Tim Cook: Apple Has Sold 100M iPads In Just Two And A Half Years
+Git - Stdout: [master e854a68] adding new article
+ 2 files changed, 38 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1351014107000_681214.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   f70c2f7..e854a68  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
