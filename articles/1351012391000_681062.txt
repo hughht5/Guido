@@ -8,5 +8,5 @@
 <p>For comparison purposes, <a href="http://techcrunch.com/2012/09/12/ios-app-store-boasts-700k-apps-90-downloaded-every-month/">at Apple&#8217;s iPhone 5 event in September</a>, the company said there were 700,000 apps (no increase), with 250,000 designed for iPad, up from 10,000 from June. Now Apple is saying that 25,000 iPad apps have been added in barely a month&#8217;s time. (The 250K number was announced September 12th, to be exact). I guess developers were itching for a bump in app downloads from the expected iPad Mini launch.</p>
 <p>90% of the App Store&#8217;s apps are downloaded every month, Apple noted at the time, and customers used more than 100 apps on average.</p>
 <p>The <a href="http://techcrunch.com/2012/09/12/apple-has-sold-over-400-million-ios-devices-9-5-growth-since-march/">App Store reached 400 million devices</a>, as of June of this year. Today, 200 million devices run iOS 6, and there are 160 million Game Center accounts, which indicates the popularity of gaming on the iOS platform.</p>
-<p></p>
+<p><a href="http://techcrunch.com/tag/apple/"></a></p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/ios-app-store-now-offers-275k-ipad-only-apps-up-from-250k-in-september/">here</a>.
