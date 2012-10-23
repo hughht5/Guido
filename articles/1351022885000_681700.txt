@@ -9,9 +9,9 @@
 <p>Here&#8217;s what CEO Mark Zuckerberg had to say in the earnings release:</p>
 <blockquote><p>As proud as I am that a billion people use Facebook each month, I&#8217;m also really happy that over 600 million people now share and connect on Facebook every month using mobile devices. People who use our mobile products are more engaged, and we believe we can increase engagement even further as we continue to introduce new products and improve our platform. At the same time, we are deeply integrating monetization into our product teams in order to build a stronger, more valuable company.</p></blockquote>
 <p>As far as the rest of the stats, here&#8217;s what Facebook had to share:</p>
-<p>- Monthly active users (MAUs) were 1.01 billion as of September 30, 2012, an increase of 26% year-over-year<br />
+<p><strong>- Monthly active users (MAUs) were 1.01 billion as of September 30, 2012, an increase of 26% year-over-year<br />
 - Daily active users (DAUs) were 584 million on average for September 2012, an increase of 28% year-over-year<br />
-- Mobile MAUs were 604 million as of September 30, 2012, an increase of 61% year-over-year</p>
-<p>The interesting statistics are the ones on the mobile front, a place that Facebook is paying extra special attention these days.</p>
+- Mobile MAUs were 604 million as of September 30, 2012, an increase of 61% year-over-year</strong></p>
+<p>The interesting statistics are the ones on the mobile front, a place that Facebook is paying extra special attention these days. We learned today that 14% of Facebook&#8217;s third quarter revenue was generated on mobile devices.</p>
 <p>This is developing, more to come.</p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/facebook-announces-monthly-active-users-were-at-1-01-billion-as-of-september-30th/">here</a>.
