@@ -5,6 +5,7 @@
 }
 
 <img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/img_16421.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="img_1642" title="img_1642" style="float: left; margin: 0 10px 7px 0;" /><p>Apple just announced a retina version of the 13-inch MacBook Pro. &#8220;It&#8217;s incredibly thin,&#8221; said Phil Schiler. The new model is .79-inch thin and weighs 3.57 &#8212; 1 lbs lighter than the previous version. &#8220;And best of all,&#8221; said Phil, &#8220;it has a retina display.&#8221;</p>
-<p>It offers nearly 2x the resolution of a 1080p display. 29% higher contrast ratio over the previous Pro and 75% reduced glare, which is good news for us. 300 nits brightness.</p>
+<p>It offers nearly 2x the resolution of a 1080p display. It&#8217;s 2560&#215;1600, which is two times the current 13-inch MBP with 29% higher contrast ratio over the previous Pro and 75% reduced glare, which is good news for us. 300 nits brightness.</p>
+<p>There is a Facetime HD camera with 720p recording, stereo mics and speakers, backlit keyboard and of course that patented glass multitouch trackpad. Processor options include an Intel Core i5 or i7 and up to 768GB of SSD storage.</p>
 <p></p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/apple-adds-a-retina-screen-to-the-13-inch-macbook-pro/">here</a>.
