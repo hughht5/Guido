@@ -25,11 +25,11 @@
 <p>Each report is created by a team of researchers &#8211; a primary and a senior researcher. The senior researcher checks the data and sources, and is officer in the InfoArmy &#8212; a &#8220;known entity.&#8221; To become a senior researcher, you must 1) publish 7 reports, 2) pass a certification test and 3) be approved by the Senior Research Corps. Reports cannot be published without Senior Researcher approval of each and every section. We also have a system that encourages many sets of eyes to look at the reports, from other members of the Army to direct buyer feedback.</p>
 <p>Eighty percent of the information in reports is readily verifiable online; the remaining 20% are estimates. We are very clear that are not offering exact numbers, as that would likely involved insider information (in the case of private companies, of course), which we explicitly forbid in our terms of use and code of conduct. The value lies in the fact that these estimates are much better and faster than you would have come up with on your own.</p>
 <p><strong>What are your international plans &#8212; given the crowdsourced nature of the service?</strong></p>
-<p>Only English-language reports at the moment. However, we do plan to expand internationally some time in the next year or two.<br />
-Our mission/vision is to create a Competitive Intelligence Report for every company on the planet, in multiple languages. Reports will be created in their native language (e.g., reports for Japanese companies will be created first in Japanese by Japanese researchers, then translated into other languages).</p>
+<p>Only English-language reports at the moment. However, we do plan to expand internationally some time in the next year or two.</p>
+<p>Our mission/vision is to create a Competitive Intelligence Report for every company on the planet, in multiple languages. Reports will be created in their native language (e.g., reports for Japanese companies will be created first in Japanese by Japanese researchers, then translated into other languages).</p>
 <p><strong>What are the typical prices for content on your site?</strong></p>
-<p>All InfoArmy reports can be purchased for $99, which buys you a year&#8217;s subscription and three comprehensive quarterly updates.<br />
-The other option is an Unlimited View Subscription ($5,000), which buys you a year&#8217;s subscription to all the reports in the InfoArmy database. We don&#8217;t anticipate selling many of these until we reach our &#8220;mini-critical mass&#8221; of 10,000 reports.<br />
+<p>All InfoArmy reports can be purchased for $99, which buys you a year&#8217;s subscription and three comprehensive quarterly updates.</p>
+<p>The other option is an Unlimited View Subscription ($5,000), which buys you a year&#8217;s subscription to all the reports in the InfoArmy database. We don&#8217;t anticipate selling many of these until we reach our &#8220;mini-critical mass&#8221; of 10,000 reports.<br />
 We also offer many sample reports for free.</p>
 <p><strong>Are you profitable yet?</strong></p>
 <p>No, and we didn&#8217;t expect to be at this point.</p>
