@@ -1,0 +1,9 @@
+{
+"title" : "For The Year Ending In June, Apple’s Mac Outgrew PC by 7x, Now #1 Desktop And Notebook",
+"date" : "Tue, 23 Oct 2012 17:18:26 +0000",
+"author" : "Drew Olanoff"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/snapshot-102312-1015-am.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Snapshot 10:23:12 10:15 AM" title="Snapshot 10:23:12 10:15 AM" style="float: left; margin: 0 10px 7px 0;" /><p>As we&#8217;re waiting for the iPad Mini, Apple is discussing the Mac, which has become the #1 Desktop and Notebook, according to the company. This is huge, because the personal computer industry has been run by Microsoft in the past, but Apple has shown strong growth in the past six years straight.</p>
+<p>This is developing.</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/for-the-year-ending-in-june-apples-mac-outgrew-pc-by-7x-now-1-desktop-and-notebook/">here</a>.
