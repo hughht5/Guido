@@ -1,0 +1,26 @@
+{
+"title" : "Hands On With The New iMac: Apple’s All-In-One Sheds The Pounds And Packs In The Features",
+"date" : "Tue, 23 Oct 2012 19:36:50 +0000",
+"author" : "Darrell Etherington"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/img_1782.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="IMG_1782" title="IMG_1782" style="float: left; margin: 0 10px 7px 0;" /><p>Apple unveiled a <a href="http://techcrunch.com/2012/10/23/apple-unveils-totally-redesigned-27-and-21-5-imac-thinner-ssdhd-fusion-drive/">redesigned iMac today</a>, one that takes the all-in-one computer and makes it even more of a tightly packed engineering marvel. The rumors proved true, and it got a tapered design that thins out to 5mm at its thinnest point. What you may not have seen from watching the presentation is that it still is fairly thick at its thickest point, but that doesn&#8217;t detract from the overall impression, which makes the machine appear surreal at first glance.</p>
+<p>Both the 21.5 and 27-inch versions are light – amazingly so if you&#8217;ve ever had to lug around their predecessors during a move or redecoration. The weight isn&#8217;t so much of a concern with a desktop computer, but all that space-saving means you can cram more stuff on your desk, which is crucially important if you&#8217;re a terrible pack rat like myself.</p>
+<p>But the slimmed down design is mostly an aesthetic bonus, and the real value of this new iMac comes in the form of the new screen, which is something you have to see to truly get the full effect of. By combining screen and display glass as Apple has done with its Retina MacBook Pro and iPhone, everything on the computer looks that much closer to the surface, which results in a very pleasing effect. The reduced glare is also significant, and even under relatively inhospitable bright lighting and at various angles, the display on the new iMac shines (but not literally, which is the best part). Sure, it&#8217;s not technically Retina pixel density, but if you&#8217;re actually using one you probably won&#8217;t notice.</p>
+<p>Another big advantage of the new iMac is that the 21.5-inch version has two Thunderbolt ports this time around, something reserved for the 27-inch version in the past. That means it can power up to two external displays at the same time, and also host a variety of Thunderbolt-enabled accessories. That&#8217;s a big handicap removed from the more affordable computer.</p>
+<p>Performance with Mountain Lion and Aperture seemed silky smooth on both versions, but that&#8217;s not surprising giving their specifications. And using the new Fusion Drive, which combines the speed advantages of flash memory with the capacity of platter hard disk drives definitely seems to speed things up compared to my 2011 27-inch iMac with a 1TB standard hard drive.</p>
+<p>If you&#8217;re in the market for an all-in-one, this is definitely a good time to look at Apple&#8217;s offerings, because the changes in these redesigns are more than just skin
+<a href='http://techcrunch.com/2012/10/23/hands-on-with-the-new-imac-apples-all-in-one-sheds-the-pounds-and-packs-in-the-features/img_1782/' title='IMG_1782'></a>
+<a href='http://techcrunch.com/2012/10/23/hands-on-with-the-new-imac-apples-all-in-one-sheds-the-pounds-and-packs-in-the-features/img_1781/' title='IMG_1781'></a>
+<a href='http://techcrunch.com/2012/10/23/hands-on-with-the-new-imac-apples-all-in-one-sheds-the-pounds-and-packs-in-the-features/img_1780/' title='IMG_1780'></a>
+<a href='http://techcrunch.com/2012/10/23/hands-on-with-the-new-imac-apples-all-in-one-sheds-the-pounds-and-packs-in-the-features/img_1779/' title='IMG_1779'></a>
+<a href='http://techcrunch.com/2012/10/23/hands-on-with-the-new-imac-apples-all-in-one-sheds-the-pounds-and-packs-in-the-features/img_1777/' title='IMG_1777'></a>
+<a href='http://techcrunch.com/2012/10/23/hands-on-with-the-new-imac-apples-all-in-one-sheds-the-pounds-and-packs-in-the-features/img_1776/' title='IMG_1776'></a>
+<a href='http://techcrunch.com/2012/10/23/hands-on-with-the-new-imac-apples-all-in-one-sheds-the-pounds-and-packs-in-the-features/img_1775/' title='IMG_1775'></a>
+<a href='http://techcrunch.com/2012/10/23/hands-on-with-the-new-imac-apples-all-in-one-sheds-the-pounds-and-packs-in-the-features/img_1773/' title='IMG_1773'></a>
+<a href='http://techcrunch.com/2012/10/23/hands-on-with-the-new-imac-apples-all-in-one-sheds-the-pounds-and-packs-in-the-features/img_1772/' title='IMG_1772'></a>
+<a href='http://techcrunch.com/2012/10/23/hands-on-with-the-new-imac-apples-all-in-one-sheds-the-pounds-and-packs-in-the-features/img_1771/' title='IMG_1771'></a>
+</p>
+<p>deep.</p>
+<p><a target="_blank" href="http://www.techcrunch.com/tag/ipad-mini/"></a></p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/hands-on-with-the-new-imac-apples-all-in-one-sheds-the-pounds-and-packs-in-the-features/">here</a>.
