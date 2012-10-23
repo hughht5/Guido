@@ -1,0 +1,11 @@
+{
+"title" : "Apple Reveals Updated iBooks App, Packs Continuous Scrolling, Improved Social Sharing, And Japanese And Korean Support",
+"date" : "Tue, 23 Oct 2012 17:19:10 +0000",
+"author" : "Chris Velazco"
+}
+
+<p>As more than a few pundits had predicted in the days leading up to the event, Apple has just officially pulled back the curtains on an updated version of its iBooks iOS app.</p>
+<p>The new version of iBooks is available today, and always it won&#8217;t cost you a penny to download. That said, there&#8217;s little question that Apple is getting their money&#8217;s worth here &#8212; according to CEO Cook, there are over 1.5 million books available in the iBooks store, and over 400 million of those iBooks have been downloaded since the service&#8217;s launch.</p>
+<p><em>Developing&#8230;</em></p>
+<p><a target="_blank" href="http://www.techcrunch.com/tag/ipad-mini/"></a>  </p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/apple-ibooks-update-app/">here</a>.
