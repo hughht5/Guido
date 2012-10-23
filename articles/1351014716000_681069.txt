@@ -39,6 +39,12 @@ Phil Schiller pit the iPad mini against the Nexus 7 on stage, and showed that th
 <li>10 hours of battery life</li>
 </ul>
 <p>Most of the parts you&#8217;re seeing above are included in the iPhone 4S. They&#8217;re components that Apple has already been sourcing from various manufacturers, meaning they&#8217;re much easier to procure this time around. By retooling the same components for the iPad Mini, Apple is likely cutting costs. </p>
+<h3>Connectivity</h3>
+<ul>
+<li>Wifi</li>
+<li>3G wireless</li>
+<li>4G LTE wireless</li>
+</ul>
 <h3>Camera</h3>
 <ul>
 <li>5-megapixel camera</li>
