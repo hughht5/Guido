@@ -21,7 +21,8 @@
 <li><a href="http://techcrunch.com/2012/10/23/tim-cook-almost-every-company-in-the-fortune-500-is-testing-and-deploying-the-ipad/">Tim Cook: Almost Every Company In The Fortune 500 Is Testing And Deploying The iPad</a></li>
 <li><a href="http://techcrunch.com/2012/10/23/ipad-mini/">Apple Officially Unveils The iPad Mini Starting At $329</a></li>
 <li><a href="http://techcrunch.com/2012/10/23/ios-ipad-mini-apps/">iPad Apps Shrunk Down To Work On iPad Mini, No Change Needed For iOS Developers</a></li>
-<li><a href="http://techcrunch.com/2012/10/23/the-apple-store-is-back-up-pre-order-imac-fourth-ipad-now-ipad-mini-on-oct-26/">The Apple Store Is Back Up: Order iMac, Mac Mini, Fourth iPad, Pre-Order iPad Mini On Oct. 26</a>
-</li>
+<li><a href="http://techcrunch.com/2012/10/23/the-apple-store-is-back-up-pre-order-imac-fourth-ipad-now-ipad-mini-on-oct-26/">The Apple Store Is Back Up: Order iMac, Mac Mini, Fourth iPad, Pre-Order iPad Mini On Oct. 26</a></li>
+<li><a href="http://techcrunch.com/2012/10/23/phil-schiller-trash-talks-android-tablets-at-ipad-mini-event/">Phil Schiller Trash Talks Android Tablets At iPad Mini Event</a></li>
+<li><a href="http://techcrunch.com/2012/10/23/apple-made-no-mention-of-ios-6-maps-today-now-thats-boring/">Apple Made No Mention Of iOS 6 Maps Today. Now That’s Boring.</a></li>
 </ul>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/our-coverage-of-the-apple-event-ipad-mini-4th-generation-ipad-new-imac-mac-mini-13-retina-macbook-pro/">here</a>.
