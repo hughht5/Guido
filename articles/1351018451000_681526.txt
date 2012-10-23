@@ -1,5 +1,5 @@
 {
-"title" : "Hands On With Apple’s New iPad Mini: Good Things Do Come In Small Packages",
+"title" : "Hands-On With Apple’s New iPad Mini: Good Things Do Come In Small Packages",
 "date" : "Tue, 23 Oct 2012 18:54:11 +0000",
 "author" : "Darrell Etherington"
 }
@@ -9,7 +9,7 @@
 <p>But functional it is. The 1024&#215;768 display looks great, and seems larger than its 7.9 inches thanks to the narrower bezels on either side of the screen itself. And while it&#8217;s slightly trickier to hold as a result of that thinner strip, the screen seems to have a certain amount of false touch detection built-in, so that you won&#8217;t accidentally open apps or page through things while simply holding it.</p>
 <p>Using apps on the mini is what you&#8217;d expect from an iOS device: fast, smooth and overall a pleasant experience. But the best part is that there won&#8217;t be an update curve as there was for the iPhone 5 or iPad with Retina display, since it retains the same resolution of the original iPad, meaning apps designed to work on that device work out of the box. I tried out a number of native and non-native apps, and all worked flawlessly. The camera is also completely usable for walkaround casual shooting, something that will please the growing number of folks who seem to want to use a tablet as their camera.</p>
 <p>I&#8217;ve long been a believer that smaller form factor tablets have a real place in the market, but I&#8217;ve been consistently disappointed by the experience on competing platforms, including BlackBerry and Android. But the iPad mini feels like a revelation: proof that a diminutive tablet works, and works well.</p>
-<p>Check out the gallery below for plenty of pics of both the white and black versions of Apple&#8217;s newest tablet, which I&#8217;m fairly sure will yet another home run for the electronics maker, judging by my experience.
+<p>Check out the gallery below for plenty of pics of both the white and black versions of Apple&#8217;s newest tablet, which I&#8217;m fairly sure will be yet another home run for the electronics maker, judging by my experience.
 <a href='http://techcrunch.com/2012/10/23/hands-on-with-apples-new-ipad-mini-good-things-do-come-in-small-packages/img_1815/' title='IMG_1815'></a>
 <a href='http://techcrunch.com/2012/10/23/hands-on-with-apples-new-ipad-mini-good-things-do-come-in-small-packages/img_1813/' title='IMG_1813'></a>
 <a href='http://techcrunch.com/2012/10/23/hands-on-with-apples-new-ipad-mini-good-things-do-come-in-small-packages/img_1811/' title='IMG_1811'></a>
