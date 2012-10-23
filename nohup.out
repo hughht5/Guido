@@ -26823,3 +26823,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Inviteful-Helps-You-Invite-%E2%80%9CHumans%E2%80%9D-To-%E2%80%9CEvents%E2%80%9D-Where-You-Can-%E2%80%9CChat,%E2%80%9D-Drink-%E2%80%9CCoffee%E2%80%9D Inviteful Helps You Invite “Humans” To “Events” Where You Can “Chat,” Drink “Coffee”
+Git - Stdout: [master 9ca8096] adding new article
+ 2 files changed, 44 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1351021578000_681498.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   66bc819..9ca8096  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
