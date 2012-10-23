@@ -22,7 +22,7 @@
 </ul>
 <p><strong>Some Thoughts:</strong><br />
 Phil Schiller pit the iPad mini against the Nexus 7 on stage, and showed that the display is actually 49 percent larger in portrait, and 67 percent larger in landscape. </p>
-<p>That has to do with a new design that makes the bezels much smaller than we&#8217;ve seen on the larger iPad models. </p>
+<p>That has to do with a new design that makes the bezels much smaller than we&#8217;ve seen on the larger iPad models. Schiller showed off Yelp!, eBay and Pandora apps on both tablets, showing the difference between apps developed specifically for a tablet as opposed to apps that have been stretched from a smartphone. </p>
 <p><em>Developing&#8230;</em></p>
 <p><a target="_blank" href="http://www.techcrunch.com/tag/ipad-mini/"></a></p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/ipad-mini/">here</a>.
