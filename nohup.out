@@ -2316,3 +2316,27 @@ Use -f if you really want to add them.
 fatal: no files added
 Everything up-to-date
 
+Updating TechCrunch main feed.
+STATUS: 200
+Found 20 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
