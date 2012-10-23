@@ -25,4 +25,10 @@
 <li><a href="http://techcrunch.com/2012/10/23/phil-schiller-trash-talks-android-tablets-at-ipad-mini-event/">Phil Schiller Trash Talks Android Tablets At iPad Mini Event</a></li>
 <li><a href="http://techcrunch.com/2012/10/23/apple-made-no-mention-of-ios-6-maps-today-now-thats-boring/">Apple Made No Mention Of iOS 6 Maps Today. Now That’s Boring.</a></li>
 </ul>
+<p>Our hands-on posts:</p>
+<ul>
+<li><a href="http://techcrunch.com/2012/10/23/hands-on-with-apples-new-ipad-mini-good-things-do-come-in-small-packages/">Hands-On With Apple’s New iPad Mini: Good Things Do Come In Small Packages</a></li>
+<li><a href="http://techcrunch.com/2012/10/23/first-impressions-of-the-13-retina-macbook-pro-on-the-path-to-a-new-category-defining-product/">First Impressions Of The 13″ Retina MacBook Pro: On The Path To A New Category-Defining Product</a></li>
+<li><a href="http://techcrunch.com/2012/10/23/hands-on-with-the-new-imac-apples-all-in-one-sheds-the-pounds-and-packs-in-the-features/">Hands-On With The New iMac: Apple’s All-In-One Sheds The Pounds And Packs In The Features</a></li>
+</ul>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/our-coverage-of-the-apple-event-ipad-mini-4th-generation-ipad-new-imac-mac-mini-13-retina-macbook-pro/">here</a>.
