@@ -8,5 +8,6 @@
 <p>The iPad has been updated with a <a href="http://techcrunch.com/2012/10/23/apple-updates-the-9-7-ipad-same-specs-and-lightning-port-for-the-same-price/">fourth generation model</a>. It now comes with Lightning, improved LTE connectivity and the A6X.</p>
 <p>The 13-inch MacBook Pro now has a <a href="http://techcrunch.com/2012/10/23/apple-adds-a-retina-screen-to-the-13-inch-macbook-pro/">Retina brother</a>. It comes with flash memory and is much thinner.</p>
 <p>Head over to the <a target="_blank" href="http://store.apple.com/">Apple Store</a> to pre-order.</p>
+<p><i>Developing…</i></p>
 <p><a target="_blank" href="http://www.techcrunch.com/tag/ipad-mini/"></a></p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/the-apple-store-is-back-up-pre-order-imac-fourth-ipad-now-ipad-mini-on-oct-26/">here</a>.
