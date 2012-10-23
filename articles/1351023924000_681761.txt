@@ -1,0 +1,10 @@
+{
+"title" : "Facebook Q3: Advertising Revenues Up 36% To $1.09B, 14% On Mobile",
+"date" : "Tue, 23 Oct 2012 20:25:24 +0000",
+"author" : "Ingrid Lunden"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/08/facebook-ads.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="facebook ads" title="facebook ads" style="float: left; margin: 0 10px 7px 0;" /><p>Facebook&#8217;s big push on advertising in the last quarter is paying off for the company, judging by the growth in revenues. The company says that in Q3, it made $1.09 billion in advertising, a 36% increase from the same quarter last year and also a sequential increase compared to Q2&#8242;s $992 million in ad sales. It&#8217;s also becoming an increasingly important part of the revenue mix: it is now 86% of total revenues, compared to <a href="http://techcrunch.com/2012/07/26/facebook-q2-ad-sales-of-992m-creeps-up-to-84-of-1-18b-revenue-total/">84% last quarter</a>. </p>
+<p>Mobile ads, introduced network-wide this quarter, are now 14% of the mix.</p>
+<p>More to come. Refresh for updates.</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/facebook-q3-advertising-revenues-up-36-to-1-09b-14-on-mobile/">here</a>.
