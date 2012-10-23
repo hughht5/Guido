@@ -20101,3 +20101,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/iPad-Apps-Shrunk-Down-To-Work-On-iPad-Mini,-No-Change-Needed-For-iOS-Developers iPad Apps Shrunk Down To Work On iPad Mini, No Change Needed For iOS Developers
+Git - Stdout: [master 4316831] adding new article
+ 3 files changed, 47 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1351014899000_681187.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   b88a1f1..4316831  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub

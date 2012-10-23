@@ -18,6 +18,7 @@
 <li>7.9-inches</li>
 <li>LCD</li>
 <li>1,024 x 768 resolution</li>
+<li>All software for original iPad works on iPad mini because they share the same screen resolution.</li>
 </ul>
 <p><em>Developing&#8230;</em></p>
 <p><a target="_blank" href="http://www.techcrunch.com/tag/ipad-mini/"></a></p>
