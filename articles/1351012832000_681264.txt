@@ -1,5 +1,5 @@
 {
-"title" : "Apple Adds A Retina Screen To The 13-inch MacBook Pro",
+"title" : "Apple Adds A Retina Screen To The 13-inch MacBook Pro, To Cost $1699",
 "date" : "Tue, 23 Oct 2012 17:20:32 +0000",
 "author" : "Matt Burns"
 }
