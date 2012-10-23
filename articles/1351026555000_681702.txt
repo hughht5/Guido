@@ -8,4 +8,5 @@
 <p>&#8220;We should be able to reach more people on mobile than on desktop&#8221; Zuckerberg stated during the call.</p>
 <p>Zuckerberg discussed the opportunity of engaging and monetizing mobile users more and more, and the company <a href="http://techcrunch.com/2012/10/23/facebook-announces-monthly-active-users-were-at-1-01-billion-as-of-september-30th/">released some stats</a> that support its growing strength and renewed focus in that area.</p>
 <p>Additionally, the CEO pointed out that Facebook&#8217;s mobile app holds the #1 top downloaded spot on nearly every platform. How huge is the mobile opportunity? So huge that even Facebook is still in the early days of building up its presence and trying to figure out how best to serve such a small screen with so much information.</p>
+<p>We noted that the company saw <a href="http://techcrunch.com/2012/10/23/facebook-advertising/">14% of its revenue coming from mobile advertising</a>, which is pretty impressive.</p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/mark-zuckerberg-desktop-users-are-40-likely-to-come-back-daily-mobile-users-70/">here</a>.
