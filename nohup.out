@@ -29582,3 +29582,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Facebook%E2%80%99s-Payments-Revenue-Feels-Some-Heat,-Declines-9%25-From-Last-Quarter Facebook’s Payments Revenue Feels Some Heat, Declines 9% From Last Quarter
+Git - Stdout: [master 2db2d18] adding new article
+ 3 files changed, 47 insertions(+), 4 deletions(-)
+ create mode 100644 articles/1351024301000_681755.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   2d1ab6e..2db2d18  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 1 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
