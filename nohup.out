@@ -28584,3 +28584,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Netflix-Subscriber-Additions-Disappoint,-Reports-Q3-Revenue-Of-$905M-And-Earnings-Of-$0.13 Netflix Subscriber Additions Disappoint, Reports Q3 Revenue Of $905M And Earnings Of $0.13
+Git - Stdout: [master 9130778] adding new article
+ 2 files changed, 41 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1351023325000_681332.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   70fe1b4..9130778  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 1 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
