@@ -34093,3 +34093,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Zuckerberg-And-Facebook-Have-Thought-About-Charging-For-APIs,-But-Advertising-Is-Better Zuckerberg And Facebook Have Thought About Charging For APIs, But Advertising Is Better
+Git - Stdout: [master cff0ace] adding new article
+ 2 files changed, 41 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1351028764000_681703.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   d4666b7..cff0ace  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
