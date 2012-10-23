@@ -1,0 +1,15 @@
+{
+"title" : "Confirmed: Apple Will Live Stream Today’s iPad Mini Event On Web Site, Apple TV",
+"date" : "Tue, 23 Oct 2012 13:10:56 +0000",
+"author" : "Jordan Crook"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-23-at-9-11-05-am.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-10-23 at 9.11.05 AM" title="Screen Shot 2012-10-23 at 9.11.05 AM" style="float: left; margin: 0 10px 7px 0;" /><p>It&#8217;s been a long while since Apple live streamed its press events. In fact, some of us may not even remember a live-streamed Apple event, instead hunting out the best possible live blog until we can check out the whole video post-excitement. </p>
+<p>But the company&#8217;s web site now has <a target="_blank" href="http://www.apple.com/apple-events/october-2012/">a dedicated channel</a> for the event, and promises that we can &#8220;Watch a live video stream of the special event online or via Apple TV starting at 10:00 a.m. PDT.&#8221; </p>
+<p>Plus, some folks over at <a target="_blank" href="http://www.macrumors.com/2012/10/23/apple-to-stream-live-video-of-ipad-mini-media-event-to-apple-tv/">MacRumors</a> have noticed a new &#8220;Apple Events&#8221; icon on the Apple TV, which leads us to believe that Apple may live stream <a href="http://techcrunch.com/2012/10/16/apple-sends-out-ipad-mini-media-event-invitations-for-october-23-at-10-am-pt/">today&#8217;s iPad mini event</a>. </p>
+<p>According to MacRumors, a click on that particular channel offers up a few other Apple press event videos, dating back to June 2011. </p>
+<p>It&#8217;s unclear whether or not Apple will be live streaming the event on other channels, such as its website. Apple has historically stopped doing live streams of their events due to bandwidth issues. B</p>
+<p>ut since there are far fewer people with Apple TVs than people with internet access, an Apple Events channel via Apple TV makes much more sense. </p>
+<p>Not to mention, Apple will be broadcasting to the ideal audience. </p>
+<a href="http://techcrunch.com/2012/10/23/confirmed-apple-will-live-stream-todays-ipad-mini-event-on-web-site-apple-tv/#gallery-680972-1-slideshow">Click to view slideshow.</a>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/confirmed-apple-will-live-stream-todays-ipad-mini-event-on-web-site-apple-tv/">here</a>.
