@@ -1,0 +1,14 @@
+{
+"title" : "AT&T’s Q3 2012: Revenues Of $31.5B, Earnings Of $0.60/Share, Postpaid Smartphone Adoption Surges To 63.8%",
+"date" : "Wed, 24 Oct 2012 12:29:27 +0000",
+"author" : "Jordan Crook"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/at-t-logo.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="at-t-logo" title="at-t-logo" style="float: left; margin: 0 10px 7px 0;" /><p>AT&amp;T has just released its Q3 2012 earnings report — the telecom giant reported quarterly revenues of $31.5 billion (which is essentially flat year-over-year) and earnings of $0.61 per share as opposed to <a href="http://techcrunch.com/2012/07/24/att-q2-201/">last quarter&#8217;s $0.66 per share</a>. That&#8217;s a 5 percent increase year over year. </p>
+<p>But perhaps more importantly, AT&amp;T is reporting record sales this quarter for Android and Windows smartphones, along with 4.7 million iPhones activated. </p>
+<p>It&#8217;s worth wondering how many of those were iPhone 5s. Remember, Verizon sold <a href="http://techcrunch.com/2012/10/18/verizon-activated-3-1-million-iphones-in-q3-2012-615k-were-iphone-5s/">3.1 million iPhones in the third quarter, yet only 651K were iPhone 5s</a>. </p>
+<p>AT&amp;T ended up right in line with what analysts had predicted. The consensus estimate was for earnings of $0.60 per share on revenues of $31.5 billion. </p>
+<p>AT&amp;T sold 6.1 million smartphones in total, and now has a postpaid subscriber base of 44.5 million, compared to Verizon.s 34.8 million. </p>
+<p>In fact, 81 percent of AT&amp;T&#8217;s on-contract sales came from smartphones, as postpaid smartphone-owning subscribers grew from 52.6 percent to 63.8 percent in the quarter, which accounts for 44.5 million customers. </p>
+<p>The company has also announced a 678,000 net increase in total wireless subscribers, with strongest average monthly revenue per user. The total postpaid subscriber base is 44.5 million customers strong, as opposed to Verizon&#8217;s 34.8 million. </p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/24/att-q3-2012/">here</a>.
