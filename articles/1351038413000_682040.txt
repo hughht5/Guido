@@ -1,0 +1,10 @@
+{
+"title" : "Apple Pushes iBooks 3.0 Update Live, Comes With Kindle-Like Features And Vertical Scrolling",
+"date" : "Wed, 24 Oct 2012 00:26:53 +0000",
+"author" : "Darrell Etherington"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/photo-38.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="photo 3" title="photo 3" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/10/photo-38.png"></a>Apple&#8217;s <a title="Apple Reveals Updated iBooks App, Packs Continuous Scrolling, Improved Social Sharing, And Japanese And Korean Support" href="http://techcrunch.com/2012/10/23/apple-ibooks-update-app/">iBooks 3.0 update</a> just went out via the App Store, bringing the features it demoed on stage at the special Apple event earlier today. That brings iCloud books to the app&#8217;s virtual bookshelf (so you can view past purchases available for download easily, just like how Amazon&#8217;s Kindle handles things), and vertical scrolling as a new reading paradigm.</p>
+<p>Also new to the update is the ability to receive free updates to existing books, with chapter additions, corrections and more. That makes books living documents, so that users can have stuff kept current, and publishers can push updates live as they happen. This is aimed primarily at the education market, but it&#8217;ll be interesting to see what other publishers take advantage and how it changes consumer titles.</p>
+<p>Vertical scrolling is also great. Books with pages? That&#8217;s so physical world. Why are we clinging to dead paradigms? To the future!</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/apple-pushes-ibooks-3-0-update-live-comes-with-kindle-like-features-and-vertical-scrolling/">here</a>.
