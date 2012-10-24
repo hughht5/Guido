@@ -171,5 +171,4 @@ Should you buy the Surface RT? No.</p>
 <li>No, it likely doesn&#8217;t have any of your top apps. The most popular ones in Windows RT is Netflix and Kindle.</li>
 </ul>
 <p><em>Images made by our graphics ninja, Bryce Durbin.</em></p>
-<p>&nbsp;</p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/microsoft-surface-rt-review/">here</a>.
