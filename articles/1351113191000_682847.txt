@@ -1,5 +1,5 @@
 {
-"title" : "The Slide To Small Screen: 126 Million Accessed Facebook Soley From Mobile Last Month, Up 24% Since June",
+"title" : "Small Screen Gets Bigger: 126M Accessed Facebook Solely From Mobile Last Month, Up 24% Since June",
 "date" : "Wed, 24 Oct 2012 21:13:11 +0000",
 "author" : "Josh Constine"
 }
