@@ -82409,3 +82409,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Mayfield-Fund-Backs-Indian-Incubator-AngelPrime Mayfield Fund Backs Indian Incubator AngelPrime
+Git - Stdout: [master 91d6035] adding new article
+ 3 files changed, 47 insertions(+), 3 deletions(-)
+ create mode 100644 articles/1351080003000_681536.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   31eb1cc..91d6035  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
