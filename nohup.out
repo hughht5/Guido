@@ -76707,3 +76707,38 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
+Git - Stdout: [master 420eedc] adding new article
+ 1 files changed, 50 insertions(+), 0 deletions(-)
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   5eae723..8af2e9a  master -> master
+
+Git - Stdout: [master 8af2e9a] adding new article
+ 1 files changed, 28 insertions(+), 0 deletions(-)
+
+Git - Stderr: Everything up-to-date
+
