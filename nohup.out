@@ -92726,3 +92726,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Google-Takes-Its-Backpack-Sized-Trekker-Street-View-Cameras-To-The-Grand-Canyon Google Takes Its Backpack-Sized Trekker Street View Cameras To The Grand Canyon
+Git - Stdout: [master bc27de5] adding new article
+ 2 files changed, 42 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1351094981000_682482.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   6dcc797..bc27de5  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
