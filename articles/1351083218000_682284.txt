@@ -1,0 +1,23 @@
+{
+"title" : "LinkedIn (Finally) Gives BlackBerry Some TLC: New App Works On BB7; Streamlines Messaging, Adds Job Changes, Profile Views And More",
+"date" : "Wed, 24 Oct 2012 12:53:38 +0000",
+"author" : "Natasha Lomas"
+}
+
+<img width="100" height="68" src="http://tctechcrunch2011.files.wordpress.com/2012/10/linkedin.png?w=100&amp;h=68&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="linkedin" title="linkedin" style="float: left; margin: 0 10px 7px 0;" /><p>Last week LinkedIn unveiled <a href="http://techcrunch.com/2012/10/16/linkedin-announces-massive-update-to-its-pilar-product-the-profile/">major updates to LinkedIn profiles</a> &#8211; giving them a Facebook-style makeover. It&#8217;s now turned its attention to its BlackBerry app &#8212; currently only holding a <a target="_blank" href="http://appworld.blackberry.com/webstore/content/reviews/7605/?lang=en">two star rating</a> on BlackBerry App World &#8212; with a much needed update to boost functionality. The <a target="_blank" href="http://appworld.blackberry.com/webstore/content/7605/?lang=en">new BlackBerry app</a> is available for BB6 and BB7 and includes several new features and functions &#8212; including the ability to view job changes and new connections in your network, shared posts in the news stream and the day&#8217;s top news from LinkedIn Today.</p>
+<p>The app is also now available in eight new languages: German, Spanish, French, Italian, Dutch, Indonesian, Hindi, and Portuguese.</p>
+<p>Here&#8217;s a screenshot of the app&#8217;s Top Stories and recent updates view</p>
+<p><a href="http://techcrunch.com/?attachment_id=682318" rel="attachment wp-att-682318"></a></p>
+<p>The Inbox has also been improved, allowing BlackBerry users to view and respond to invitations and messages in the same place</p>
+<p><a href="http://techcrunch.com/?attachment_id=682313" rel="attachment wp-att-682313"></a></p>
+<p>Users can now review their profile, see who&#8217;s viewed their profile and share updates &#8212; as well as browsing through their connections and adding people to their network</p>
+<p><a href="http://techcrunch.com/?attachment_id=682309" rel="attachment wp-att-682309"></a></p>
+<p><a href="http://techcrunch.com/?attachment_id=682317" rel="attachment wp-att-682317"></a></p>
+<p>All of which sounds like pretty basic functionality &#8212; so it&#8217;s rather surprising it&#8217;s taken LinkedIn so long to furnish BlackBerry users with such key site functions, especially as BlackBerrys are still likely to be a very relevant demographic for a professional social network (albeit a declining demographic versus Android and iOS users). The company put out <a href="http://techcrunch.com/2011/08/16/linkedin-redesigns-android-iphone-apps-with-groups-and-more-debuts-html5-mobile-site/">major updates to its Android and iOS apps</a> back in August 2011 &#8212; reorganizing those apps around four main areas: Updates, Inbox, your profile, and groups. Its new BlackBerry app has been realigned on almost the same lines: Updates, Inbox, You, and Networks.</p>
+<p>We&#8217;ve reached out to LinkedIn to ask why it&#8217;s taken so long to update its BlackBerry app versus Android and iOS and will update with any response.</p>
+<p>The new BlackBerry app appears to be going down well with users. Here&#8217;s a sample of user reviews posted so far</p>
+<blockquote><p>Very easy to navigate. Can now access everything I need from my BB. Awesome job LinkedIn!</p>
+<p>1000 times better than the old excuse of an app!! Relevant information that I actually care about and want access to.</p>
+<p>Version 2.0 actually makes LinkedIn something I use. Nice job to whoever worked on the upgrade</p>
+<p>Really solid update. Much needed improvements.</p></blockquote>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/24/linkedin-finally-gives-blackberry-some-tlc-new-app-works-on-bb7-streamlines-messaging-adds-job-changes-profile-views-and-more/">here</a>.
