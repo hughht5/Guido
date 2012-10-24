@@ -9,5 +9,6 @@
 <p>When we first reported the news of the newest round, we had said that it would value the company at between $2 billion and $3 billion.</p>
 <p>Airbnb has raised over $230 million to date.</p>
 <p>In June, the company reported that it had taken 10 million bookings for room and house sharing on its site to date. The company takes a 10% commission on each booking that&#8217;s made there.</p>
+<p>The company has not disclosed revenues publicly, and hasn&#8217;t talked about what the average price for a night&#8217;s stay is, but if the average rates are between <a href="http://techcrunch.com/2012/09/26/airbnb-is-raising-a-big-third-round-aiming-for-a-valuation-north-of-2b/">$70</a> and <a target="_blank" href="http://blogs.reuters.com/small-business/2011/07/01/is-airbnb-growing-too-fast/">$100</a>, that could point to revenues of between $168 million and $240 million.</p>
 <p>More to come. Refresh for updates.</p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/24/home-free-airbnb-raises-117m-series-c-round-according-to-sec-filing-2b-valuation/">here</a>.
