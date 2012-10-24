@@ -1,0 +1,175 @@
+{
+"title" : "Don’t Call The New Microsoft Surface RT A Tablet, This Is A PC",
+"date" : "Wed, 24 Oct 2012 00:59:57 +0000",
+"author" : "Matt Burns"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/surface-1-2.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Surface-1-2" title="Surface-1-2" style="float: left; margin: 0 10px 7px 0;" /><p>The Microsoft Surface RT is a PC. It’s not a mobile device and it’s not a tablet, it&#8217;s a PC. And Microsoft’s first self-branded computer. It is, in short, the physical incarnation of Microsoft&#8217;s Windows 8.</p>
+<p>The expectations and competition for the Surface are daunting. It’s been said that Microsoft built the Surface to show up HP, Dell, and the rest of the personal computing establishment. PC sales are stagnant while Apple is selling the iPad at an incredible pace. But the Surface is something different from other tablets. Microsoft built a PC for the post-PC consumer and chose to power it with a limited operating system called Windows RT. These trade-offs, real or imagined, are what really makes or breaks this device.</p>
+<p></p>
+<p>While the Surface RT is a solid piece of hardware, there are a few things that makes the device a bit hard to handle. The Surface RT is a widescreen tablet. It&#8217;s 16&#215;9, making it a lot wider than it is tall, so using this 10.6-inch tablet is slightly different from an iPad or Galaxy Note 10.1. When holding it properly, that is, in landscape, it&#8217;s a bit too long to be held with one hand. Likewise, when holding it in portrait, it&#8217;s too tall to be held comfortably one-handed. In fact, it&#8217;s slightly awkward overall.</p>
+<p>For starters, it&#8217;s rather tough to type efficiently on the Surface RT&#8217;s on-screen keyboard when holding the tablet. I&#8217;m 6 feet tall and have normal size hands; I cannot grasp the Surface and hit all the on-screen keys without shifting my hands. Moreover, when holding the Surface in this orientation, I cannot touch the Windows home button. Windows 8 compensates for this flawed design by incorporating an additional Windows home button into a slide-out virtual tray activated by a bezel gesture.</p>
+<p>It&#8217;s clear Microsoft designed the Surface RT to be a convertible PC rather than a tablet with an optional keyboard. This is an important distinction. By comparison, tablets such as the iPad and Galaxy Note 10.1 feel complete without anything else. I own a Logitech Ultrathin Keyboard and use it daily. But only for work. I enjoy using the iPad without it. Due equally to Windows 8 and the large 16:9 form factor, the Surface RT is naked without a $119 Touch Cover.</p>
+<p>Without a Touch Cover, the Surface RT feels incomplete in design and function. The problem here is that the Surface is basically a big laptop screen without the keyboard. The cover rights the design&#8217;s wrongs by forcing the user to use the physical keyboard rather than the on-screen keyboard. Microsoft knows this. After all, Surface is rarely advertised without a Touch Cover, but that doesn&#8217;t alleviate the sting of paying another $100+ for a keyboard.</p>
+<p>The Surface RT runs a limited version of Windows 8 called Windows RT. It shares the same ebb and flow as Windows 8, which is a radical take on the classic operating system. The operating system was clearly built for the mobile era and it shows promise. But right now, at launch, Windows RT needs work. Most of the apps are limited in features and the touch version of Internet Explorer is slow and clunky. Pages load very slowly and the bezel gesture to switch between tabs is unreliable and buggy. And worse yet, due to Windows RT&#8217;s lack of apps like Facebook or Twitter, you&#8217;re forced to use Internet Explorer for nearly everything. Don&#8217;t expect to load your favorite Windows applications on the Surface RT. It&#8217;s just not possible. Think of this as Windows 8 Lite, a cross between a desktop and a mobile OS.</p>
+<p>Despite its shortcomings, the Surface RT is a very functional productivity device in a traditional sense. I wrote the majority of this review on the Surface with the $129 Type Cover. It feels like an ultraportable Ultrabook. Using Windows RT&#8217;s classic Desktop mode, I was able to compose and edit within TechCrunch&#8217;s WordPress back-end as if I was sitting at my Windows 7 desktop. In this use, the Surface outshines other tablets as it allows for a full desktop workspace. But here is where the problem lies &#8211; the Surface acts like a tablet and ends up working more like a notebook. This interface between flat tablet and horizontal laptop is frustrating and confusing.</p>
+			<script type="text/javascript" src="http://pshared.5min.com/Scripts/PlayerSeed.js?sid=577&amp;width=640&amp;height=450&amp;colorPallet=%230A9600&amp;hasCompanion=false&amp;relatedMode=2&amp;videoControlDisplayColor=%23000000&amp;playList=517515076&amp;shuffle=0&amp;videoGroupID=133503&amp;autoStart=false&amp;playerActions=16407"></script>
+<p></p>
+<p>Physically, the Surface feels like it’s from the future. It employs just the right amount of neo-brutalist industrial design. The casing is made out of magnesium alloy, called VaporMg by Microsoft, which is more durable and scratch resistant than aluminum. The iPad feels pedestrian compared to the Surface. But the iPad is a different sort of device. Where the iPad is a tablet, the Surface is convertible PC.</p>
+<p>The Surface’s marque feature is a large kickstand that props the tablet at a 22 degree angle. The Kickstand pops out with an air of confidence. A hidden hinge snaps it away from the body and likewise, when collapsing the kickstand, the hinge forcefully snaps it back in place.</p>
+<p>Unlike most tablets, the Surface sports a large range of I/O ports. Along with the bottom-mounted Touch Cover port, there&#8217;s a microHDMI output, microSDXC slot, and a full-size USB port for connecting a camera, phone, USB flash drive, or XBOX 360 controller. This last feature sets the Surface apart from other tablets, allowing the Surface to nearly match the functions of a laptop.</p>
+<h2 style="clear:both;margin-left:5px;margin-bottom:5px;float:right;width:250px;color:#0a9400;">You cannot pick up a Surface and be disappointed by the feel.</h2>
+<p>Remember, the Surface is a PC, not a tablet in the traditional sense. It should have all these ports and, although it looks comical, a full-sized USB port on this tablet is absolutely necessary.</p>
+<p>There are front and rear cameras, 802.11a/b/g/n Wi-Fi, Bluetooth 4.0 and a non-removable battery. There are no 3G or 4G wireless connectivity options. The speakers are nice and loud (but not booming), though there is very little bass in the sound.</p>
+<p>The Surface feels fantastic. The hardware is its strongest selling point. You cannot pick up a Surface and be disappointed by the feel. There isn’t another tablet on the market with the same build quality or connectivity options in such a svelte package, including the iPad.</p>
+
+<a href='http://techcrunch.com/?attachment_id=680890' title='Kickstand on Microsoft Surface RT'></a>
+<a href='http://techcrunch.com/?attachment_id=680891' title='MicroSD card slot on Microsoft Surface RT'></a>
+<a href='http://techcrunch.com/?attachment_id=680892' title='Touch Cover port on Microsoft Surface RT'></a>
+<a href='http://techcrunch.com/?attachment_id=680893' title='Microsoft Surface RT'></a>
+
+<p></p>
+<p></p>
+<p>Microsoft didn’t just build the Surface. The company also spent resources developing the Surface&#8217;s Touch Covers. These covers, one with physical keys and the other with touch-sensitive keypads, magnetically snap onto the bottom of the Surface like Apple’s Smart Covers.</p>
+<p>Both versions of the Touch Covers enhance the overall feel of the device. It’s impossible not to appreciate the Surface’s design when you snap one of these covers onto the Surface, close it up, and carry it around. I’m completely taken by the feel of the Surface.</p>
+<h2 style="clear:both;margin-left:5px;margin-bottom:5px;float:left;width:200px;color:#0a9400;">The Surface is ungainly large when deployed.</h2>
+<p>The Touch Covers work equally as well as they look. There are two versions: one has chicklet keys that feel a lot like the keyboards used in Ultrabooks. This version is called the Type Cover and costs $129. The $119 Touch Cover uses touch-sensitive buttons that do not physically move. This Touch Cover is half as thin as its brother, but after spending a week with both, I found I was about half as productive on the Touch Cover versus the Type Cover (see WPP chart below). Both have little touchpads with right and left clicking buttons under the keyboard.</p>
+<p>However, the Touch Covers reveal the Surface&#8217;s fundamental flaw: The Surface is ungainly large when deployed. When used with the Surface&#8217;s kickstand and a Touch Cover, the whole contraption is 10-inches deep. That’s the same depth as a 15-inch MacBook Pro. An iPad with a Logitech Ultrathin Keyboard is only 7-inches deep; most ultrabooks are 9-inches or under. A Surface with a Touch Cover barely fits on most airplane seat-back trays; it doesn&#8217;t work at all on the trays that pull out of an armrest. That’s a problem.</p>
+
+<a href='http://techcrunch.com/?attachment_id=680940' title='Surface vs iPad'></a>
+<a href='http://techcrunch.com/?attachment_id=680941' title='Surface vs iPad'></a>
+<a href='http://techcrunch.com/?attachment_id=680942' title='Surface vs iPad'></a>
+<a href='http://techcrunch.com/?attachment_id=680943' title='Surface vs 15-inch MBP'></a>
+
+<p>The sheer size of the Surface negates its appeal. At 10-inches deep with a Touch Cover, when used, it’s larger than many more capable ultrabooks. Additionally, with the nicer Type Cover, the Surface isn’t much thinner or less expensive than many full-powered notebooks.</p>
+<p>The Touch Covers of course are optional, but Microsoft saw them as a key component for the device. Look at the market or pre-release press coverage: a good amount of the message is about these Touch Covers and not the Surface RT itself. Microsoft is attempting to see them as one unit. To Microsoft, it&#8217;s not <em>if</em> Surface buyers are going to purchase a Touch Cover, but rather <em>when</em>. It&#8217;s expected. Unfortunately the Touch Covers are not as functional as keyboards for other tablets.</p>
+<p>As previously mentioned, the Touch Covers magnetically snap onto the bottom of the Surface and then the kickstand props the screen at a pleasing angle. But the connection point is not rigid. Pick up the Surface and the Touch Cover dangles in place.</p>
+<p>This design makes it very hard to use the Surface with a Touch Cover anywhere but a tabletop. It needs a 10-inch deep flat surface. I could not use the Surface with a Touch Cover sitting in an armchair, walking around, or laying on my back in bed. Forget about using it on the commode; it sits too precariously on the legs for comfort. These are use-cases that I do nearly daily with my iPad and Logitech Ultrathin Keyboard. The Surface is only usable when seated at a table or desk.</p>
+
+<a href='http://techcrunch.com/?attachment_id=680900' title='Microsoft Surface RT with Touch Cover'></a>
+<a href='http://techcrunch.com/?attachment_id=680902' title='Touch Cover for Microsoft Surface RT'></a>
+<a href='http://techcrunch.com/?attachment_id=680903' title='Type Cover For Microsoft Surface RT'></a>
+<a href='http://techcrunch.com/?attachment_id=680904' title='Microsoft Surface RT with Touch Covers'></a>
+
+<p></p>
+<p>The Surface RT uses a 10.6-inch 16&#215;9 ClearType HD Display at 1366&#215;768. The screen can handle 5 points of contact at once. Indoors, the screen is deep and rich with vibrant colors. Colors wash out in direct sunlight and the glossy overlay results in a lot of glare &#8212; but slightly less glare than the iPad&#8217;s. The screen is fairly sharp, but overall is far inferior to the Retina screen in the new iPad or even the screen found in the iPad 2.</p>
+<p>When sitting side-by-side, it&#8217;s easy to see the difference between the Surface RT and new iPad, both $499 tablets. The new iPad is more detailed and the colors are much more accurate. There is no contest, really. The Retina display in the new iPad has nearly twice the resolution of the Surface&#8217;s and can handle 10 points of contact instead of just 5. The Retina screen is brighter, has a deeper color palette, and, most importantly, makes text easier to read thanks to the higher resolution screen.</p>
+<h2 style="clear:both;margin-left:5px;margin-bottom:5px;float:right;width:250px;color:#0a9400;">Microsoft advertises its tablet with a keyboard and mouse.</h2>
+<p>I found the Surface RT&#8217;s screen to be a tad frustrating at times. It seemingly doesn&#8217;t register touches properly. I often had to reattempt selecting a particular on-screen item. The Surface RT (or maybe it&#8217;s Windows RT?) is not as accurate as I would like it to be. This happened more often in the classic Desktop environment where the buttons and elements are lot smaller than those found in the new tile interface.</p>
+<p>But per Microsoft&#8217;s marketing, the interaction with the display is not as critical with the Surface as, say, with an iPad or Galaxy Note 10.1. That&#8217;s where the Touch Covers with their little trackpads come into play. Apple and Samsung advertise their tablets&#8217; touchscreen capabilities. Microsoft advertises its tablet with a keyboard and mouse.</p>
+<p></p>
+<p>The Surface RT packs two 1MP cameras: one on the front, one on the back. They&#8217;re a joke. The picture quality is horrible under any lighting condition and completely unacceptable for a $500 device. See the examples below.</p>
+
+<a href='http://techcrunch.com/?attachment_id=681084' title='picture001'></a>
+<a href='http://techcrunch.com/?attachment_id=681085' title='picture004'></a>
+<a href='http://techcrunch.com/?attachment_id=681086' title='picture005'></a>
+<a href='http://techcrunch.com/?attachment_id=681087' title='picture003'></a>
+
+<p></p>
+<p></p>
+<p>Note: Results are based on a standardized test that requires the device to search Google Images until the battery is depleted. The screens are set to max brightness.</p>
+<p></p>
+<p>The Surface RT cannot write its own story. Unfortunately for the Surface RT, its fate rests solely in the hands of Windows 8, and moreover, Windows RT. No matter how good the hardware is, the operating system makes or breaks the device. As it sits right now, at the launch of Windows 8/RT, the experience is a mish-mash of interfaces and the experience is poor.</p>
+<p>At launch, Windows 8 feels like a brand-new playground built in an affluent retirement complex. It’s pretty, full of bold colors, seemingly fun, but built for a different generation. Microsoft is clearly attempting to bring relevance to Windows with the touch-focused interface and post PC concepts but is unwilling and unable to fully commit completely to touch.</p>
+<p>Again, the Surface RT runs a version of Windows called Windows RT. This is not Windows 8, although they look and work very similarly. It’s stripped down, and designed to run better on mobile computing platforms.</p>
+<p>The main difference is Windows RT requires apps be coded for ARM processors rather than x86/x64 chips that have powered Windows computers since Windows 3.1. This means users cannot replace Internet Explorer with Chrome (even in Desktop) until Google releases a version of Chrome coded specifically for Windows RT. Likewise, a trusty version of the Print Shop Pro application cannot be installed on Windows RT, or for that matter, nearly any other Windows application built over the last 20 years. For that, you’ll need a Surface Pro which runs Windows 8 on an Intel CPU.</p>
+<p>As of this review’s writing, Microsoft had yet to detail the price or release schedule of the Surface Pro. It is expected to hit stores by the end of 2012 for around $1,000.</p>
+<p></p>
+<p>Windows 8/RT is different. It’s a stark departure from previous Windows builds. It’s built for the post-PC world but still holds onto the past with a classic desktop mode. It boots to the touch-friendly UI, previously called Metro and now called Modern UI, where apps are presented in a pleasing grid. This is also the Start Menu, so there is no longer a comfortable Windows button to click to get around the OS.</p>
+<p>Like Windows Phone, most of the tiles representing the apps are live, providing quick insight into the content held within. The tile for the application called Photo previews the pics within the app. Mail shows the sender and subject line of the last received message. Likewise, Weather shows the current weather, Messages shows the top message, and People shows the latest social media update. It&#8217;s a smooth, versatile and smart take on a mobile tablet OS.</p>
+<p>The Surface seems built specifically for the touch interface. The 16:9 screen matches the widescreen flow of the operating system perfectly. The Surface utilizes bezel gestures to hide menus. Starting with your finger on the Surface’s black bezel, slide onto the screen to reveal a menu tray. Done on the right side displays the main menu where most options are held. Done on the left switches between applications. Make a quick on and off swipe on the left side to display the application switcher. Most apps also have customized option drawers on the top and bottom of the screen.</p>
+<p>These hidden menus allow the apps to take full advantage of the screen; there’s no need to display a menu bar when they’re just a bezel swipe away.</p>
+<h2 style="clear:both;margin-left:5px;margin-bottom:5px;float:left;width:250px;color:#0a9400;">Microsoft itself didn’t fully commit to the touch interface.</h2>
+<p>As great as Windows 8/RT looks, it sadly fails to provide a cohesive user experience.</p>
+<p>Even though Windows RT features myriad next-gen features, most of them are half-baked at launch. The application store is missing key apps, the single sign-on fails to sync user profiles across devices, and the social sharing features do not nativity include Twitter or Facebook.</p>
+<p>Microsoft itself didn’t fully commit to the touch interface. Windows 8’s dependency on the classic environment will not allow the Surface to be a tablet. Half the apps pre-installed on the Surface RT launches in the classic desktop interface, most notably Microsoft Office, where the smaller user elements do not play nicely with the touch interface.</p>
+<p>Windows traditionalists will find the Classic interface a lovely memory of the good ol’ times. Most everything is where it’s supposed to be – besides the Start Menu – and it runs and acts like Windows 7. But for the Surface, with its 10.6-inch 16:9 screen, it’s hard to use with the touchscreen alone. The elements are too small to efficiently be controlled with just touch. After all, the Desktop emulates an environment designed a several generations ago for use with a keyboard and mouse.</p>
+<p><br />
+Windows RT is launching fairly bereft of apps. Windows RT ships with an app store but right now there isn&#8217;t anything worthwhile available besides Evernote and Netflix. The operating system is on the verge of launching and it doesn&#8217;t have the support of a vast library of apps. There isn&#8217;t a Facebook app. Twitter is missing, as well as anything pertaining to Google Apps. There is no Dropbox, Fruit Ninja, or Angry Birds. And don&#8217;t trust the application store: there are a bunch of 3rd party apps masquerading as official apps. Worse yet, IE 10 is painful to use.</p>
+
+<a href='http://techcrunch.com/?attachment_id=680913' title='Internet Explorer for Windows RT'></a>
+<a href='http://techcrunch.com/?attachment_id=680915' title='Internet Explorer for Windows RT'></a>
+<a href='http://techcrunch.com/?attachment_id=680916' title='BrowserMark For Windows RT'></a>
+<a href='http://techcrunch.com/?attachment_id=680917' title='BrowserMark For Windows RT'></a>
+
+<p>Windows 8/RT ships with two different versions of Internet Explorer. One lives in the new touch interface and the other lives a different life in Desktop; both are completely obvious to each other&#8217;s existence. Open up a couple of tabs in one and the other does not replicate the behavior. The Internet Explorer in Desktop is the good ol&#8217; IE &#8212; it should be very familiar to most. The one in the touch interface is completely different. It&#8217;s slow and clunky. Thanks to larger buttons, it&#8217;s easier to use by touch, but that&#8217;s its only redeeming quality. I hate using it.</p>
+<p>The lack of apps is one of the Surface&#8217;s main downfalls.</p>
+
+<a href='http://techcrunch.com/?attachment_id=680920' title='Windows RT Store'></a>
+<a href='http://techcrunch.com/?attachment_id=680921' title='Windows RT Store'></a>
+<a href='http://techcrunch.com/?attachment_id=680922' title='Windows RT Store'></a>
+<a href='http://techcrunch.com/?attachment_id=680923' title='Windows RT'></a>
+
+<p>The sad state of Windows RT&#8217;s application store is eerily similar to that of Windows Phone. Launched nearly two years ago, the application selection on Windows Phone still pales in comparison to that of Android or iOS. Microsoft has spent two years attempting to get developers on-board its smartphone platform. Will developers ignore Windows RT as well? No one knows and that&#8217;s the trick.</p>
+<p>It&#8217;s true that the iPad launched with very few apps, but owners could also run iPhone apps while the legions of iOS developers furiously adapted to the larger screen. Windows 8/RT lacks the ability to run mobile apps and Microsoft seemingly doesn&#8217;t have the same sort of rabid developers at its disposal (otherwise there would already be apps).</p>
+<h2>Bing Apps</h2>
+<p>Moments after the Surface is turned on for the first time, it&#8217;s easy to dive right into content thanks to Bing Apps. Bing Daily, Bing Sports, Bing Sports, Bing Travel, and Bing Finance look fantastic and they&#8217;re loaded with content. With large lead photos and strong headlines, they&#8217;re sure to be some of the most used apps &#8212; until Windows 8 is embraced by 3rd party devs at least.</p>
+<p>These apps offer a lot of info. For instance, Bing Sports leads with the news, but swipe left and it reveals the schedule for user-designated teams. Swipe a little more to reveal standings charts. The next section shows panels of leading players followed by panels of the leading teams of the default sport. Swipe a little bit more and you get a large advertisement.</p>
+<p>The Surface ships with ad-supported apps installed. Every Bing App has a single ad located at the end of its news feed. It&#8217;s a little shady but not exactly scandalous.</p>
+
+<a href='http://techcrunch.com/?attachment_id=680931' title='Bing Sports page 1'></a>
+<a href='http://techcrunch.com/?attachment_id=680932' title='Bing Sports page 2'></a>
+<a href='http://techcrunch.com/?attachment_id=680933' title='Bing Sports page 3'></a>
+<a href='http://techcrunch.com/?attachment_id=680930' title='Bing Sports page 4'></a>
+
+<h2>Video</h2>
+<p>The Surface seems designed specifically to watch movies with the 16:9 screen. Launch the video player app and it immediately loads the Xbox Video store. This app can playback movies loaded on the internal storage or microSD card, but it&#8217;s primarily designed to be a video store. And like the Xbox dashboard it emulates, there are ads here too.</p>
+<p>Xbox Video offers a good selection of movies but they&#8217;re a tad pricey like on iTunes. The Avengers in HD costs $20; it&#8217;s $15 on Amazon. A single HD episode of The Walking Dead costs $2.99 on Xbox but $1.99 on Amazon.</p>
+<p>The Surface RT lacks a powerful video playback solution. Microsoft didn&#8217;t include Windows Media Player or Windows Media Center in Windows RT. The included video app is very limited but it did manage to playback 720p .avi files off of a microSD card. Fans of sideloading content, however, may find themselves disappointed.</p>
+<h2>Photos</h2>
+<p>The Windows RT photo app is a thing of beauty. It&#8217;s fast, flexible and easily pulls in photos from Facebook and Flickr. It&#8217;s deeply integrated into Windows RT so sharing and printing is built in.</p>
+<p>Once authorized, the app can access Facebook photos and videos and displays them in such a way as if they&#8217;re stored locally.</p>
+<p>While the app runs great, it lacks any editing tools &#8212; even basic items like cropping are missing. It&#8217;s mostly designed to show off the screen and UI elements.</p>
+<p></p>
+<p>The Surface launches to a crowded market dominated by just a few players. The $499 iPad is the top tablet in the world, currently commanding a dominant portion of the tablet market share. The $199 tablets, the Kindle Fire HD, Nexus 7, and Nook Tablet HD, offer a lot of tablet for the money. But Surface is fundamentally different from the aforementioned options.</p>
+<p>The Surface is a convertible PC, meaning it&#8217;s a personal computer with a detectable keyboard, not a consumer tablet. The Surface is incomplete without a Touch Cover. It&#8217;s not designed to simply be a tablet. It&#8217;s too large and clunky to be used without a keyboard.</p>
+<p>With its awkward size and incomplete operating system, the Surface fails to excel at anything particular in the way other tablets have. The iPad provides better casual computing. The Android tablets sync beautifully with Google accounts and the media tablets by Amazon and B&amp;N offer an unmatched content selection.</p>
+<p>The Surface&#8217;s closest natural competitor is a budget Ultrabook. But even here, most Ultrabooks run Windows 8 rather than Windows RT, allowing for the full Windows experience. Plus most Ultrabooks have a larger screen but smaller footprint when used, offer longer battery life, and are generally more powerful.</p>
+<p>Microsoft built the Surface to be a Jack of all trades, but failed to make sure it was even competent at any one task.</p>
+<p><br />
+Should you buy the Surface RT? No.</p>
+<p>The Surface RT is a product of unfortunate timing. The hardware is great. The Type Cover turns it into a small convertible tablet powered by a promising OS in Windows RT. That said, there are simply more mature options available right now.</p>
+<p>Microsoft needs to court developers for Windows RT. As a consumer tablet, the Surface lacks all of the appeal of the iPad. There aren’t any mainstream apps and Microsoft has failed to connect Windows desktop and mobile ecosystem in any meaningful way like Android or iOS/OS X.</p>
+<p>Windows RT is a brand new operating system that is incompatible with legacy Windows software. This immediately limits the appeal since the Surface RT is dependent on Windows RT’s application Store – a storefront that is currently devoid of anything useful.</p>
+<p>The Surface RT isn’t a tablet. It&#8217;s not a legitimate alternative to the iPad or Galaxy Note 10.1. That’s not a bad thing. With the Touch Covers, the Surface RT is a fine alternative to a laptop, offering a slightly limited Windows experience in a small, versatile form. Just don’t call it an iPad killer.</p>
+<p>If properly nurtured, Windows RT and the Surface RT could be something worthwhile. But right now, given Microsoft’s track record with Windows Phone, buying the Surface RT is a huge risk. The built-in apps are very limited and the Internet experience is fairly poor. Skip this generation of the Surface RT or at least wait until it offers a richer, more useful experience. While we&#8217;re bullish on Windows 8, the RT incarnation just isn&#8217;t quite there.</p>
+<p></p>
+<p>Is it heavy?</p>
+<ul>
+<li>Not heavy, but solid. Listed by Microsoft as &#8220;under 1.5lbs&#8221;. The new iPad with 3G is 1.46 lbs.</li>
+</ul>
+<p>How much does the Surface cost?</p>
+<ul>
+<li>$499 for the 32GB. $599 for the 32GB plus Touch Cover. $699 for 64GB plus Touch Cover.</li>
+</ul>
+<p>Who should buy one?</p>
+<ul>
+<li>Very few people. Perhaps a student who already utilizes Microsoft&#8217;s cloud storage system, SkyDrive, and is looking for a compact note-taking device that can sometime play a movie.</li>
+</ul>
+<p>Is there a lot of glare?</p>
+<ul>
+<li>Yes, but no more than other tablets.</li>
+</ul>
+<p>Is the Kickstand adjustable?</p>
+<ul>
+<li>No, locked in at 22 degrees.</li>
+</ul>
+<p>Can I open up the Surface?</p>
+<ul>
+<li>Yes, the backplate is secured with 12 Torex head screws.</li>
+</ul>
+<p>Can I download pictures from my camera to the Surface?</p>
+<ul>
+<li>Yes, from the microSD card slot or over USB.</li>
+</ul>
+<p>Does the Surface work with 3G/4G networks?</p>
+<ul>
+<li>No, the Surface RT does not have a built-in cellular modem and because of Windows RT&#8217;s application requirement, you cannot install a carrier&#8217;s application for USB modems. A WiFi hotspot will work</li>
+</ul>
+<p>Does Windows RT have a lot of apps?</p>
+<ul>
+<li>No, it likely doesn&#8217;t have any of your top apps. The most popular ones in Windows RT is Netflix and Kindle.</li>
+</ul>
+<p><em>Images made by our graphics ninja, Bryce Durbin.</em></p>
+<p>&nbsp;</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/microsoft-surface-rt-review/">here</a>.
