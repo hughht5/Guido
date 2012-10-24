@@ -76248,3 +76248,70 @@ Git - Stderr: To git@github.com:hughht5/Guido.git
 
 Updating TechCrunch main feed.
 STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+Git - Stdout: 
+Git - Stderr: fatal: Unable to create '/root/Guido/.git/index.lock': File exists.
+
+If no other git process is currently running, this probably means a
+git process crashed in this repository earlier. Make sure no other git
+process is running and remove the file manually to continue.
+fatal: Unable to create '/root/Guido/.git/index.lock': File exists.
+
+If no other git process is currently running, this probably means a
+git process crashed in this repository earlier. Make sure no other git
+process is running and remove the file manually to continue.
+To git@github.com:hughht5/Guido.git
+   1ed6f30..7c0dce1  master -> master
+
+Git - Stdout: [master 7c0dce1] adding new article
+ 3 files changed, 45 insertions(+), 7 deletions(-)
+
+Git - Stderr: Everything up-to-date
+
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
+Updating TechCrunch main feed.
+STATUS: 200
