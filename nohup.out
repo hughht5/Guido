@@ -48979,3 +48979,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/TCTV-Wrap-Up:-The-Rundown-On-Apple%E2%80%99s-iPad-Mini-Launch-Event TCTV Wrap-Up: The Rundown On Apple’s iPad Mini Launch Event
+Git - Stdout: [master 1655a09] adding new article
+ 2 files changed, 42 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1351043566000_682092.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   33854b8..1655a09  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
