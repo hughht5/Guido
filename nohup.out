@@ -87748,3 +87748,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Shine-Security-Raises-$3.3M-To-Combat-Attacks-On-Par-With-Stuxnet Shine Security Raises $3.3M To Combat Attacks On Par With Stuxnet
+Git - Stdout: [master c1c9e59] adding new article
+ 2 files changed, 43 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1351087986000_682299.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   bb6e151..c1c9e59  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
