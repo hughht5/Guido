@@ -104802,3 +104802,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Git - Stdout: [master 51d0265] adding new article
+ 2 files changed, 31 insertions(+), 1 deletions(-)
+
+Git - Stderr: warning: packfile /data/repositories/0/nw/07/c8/99/3042983/network.git/objects/pack/pack-242cd3a960b8cad77e645ddfd4b14d134c48fc6d.pack cannot be accessed
+error: unable to find 02c058010ff987393868957b43a4c6c40c03ecc3
+To git@github.com:hughht5/Guido.git
+   254e2f9..51d0265  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
