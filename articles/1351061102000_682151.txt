@@ -1,5 +1,5 @@
 {
-"title" : "Amazon Looks East: Launches First Japanese Language Kindle, The Paperwhite, And Japanese Kindle Store",
+"title" : "Amazon Looks East: Launches First Japanese Language Kindle, The Paperwhite, And First Japanese Kindle Store",
 "date" : "Wed, 24 Oct 2012 06:45:02 +0000",
 "author" : "Ingrid Lunden"
 }
