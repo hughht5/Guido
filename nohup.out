@@ -94356,3 +94356,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Taylor-Swift-Doesn%E2%80%99t-Want-Me-To-Listen-To-Her-New-Album-On-Spotify.-Not-So-Swift. Taylor Swift Doesn’t Want Me To Listen To Her New Album On Spotify. Not So Swift.
+Git - Stdout: [master 64fc86c] adding new article
+ 3 files changed, 67 insertions(+), 3 deletions(-)
+ create mode 100644 articles/1351097674000_682536.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   1c0fc78..64fc86c  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
