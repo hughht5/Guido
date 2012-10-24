@@ -78952,3 +78952,34 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Git - Stdout: [master a8a2eb7] adding new article
+ 2 files changed, 42 insertions(+), 25 deletions(-)
+ rewrite articles/1351074511000_682221.txt (60%)
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   3ac0d96..a8a2eb7  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
