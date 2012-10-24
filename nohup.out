@@ -83551,3 +83551,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/AT&T%E2%80%99s-Q3-2012:-Revenues-Of-$31.5B,-Earnings-Of-$0.60/Share,-Postpaid-Smartphone-Adoption-Surges-To-63.8%25 AT&T’s Q3 2012: Revenues Of $31.5B, Earnings Of $0.60/Share, Postpaid Smartphone Adoption Surges To 63.8%
+Git - Stdout: [master 6bcd4ab] adding new article
+ 3 files changed, 45 insertions(+), 1 deletions(-)
+ create mode 100644 articles/1351081767000_682292.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   49c69f8..6bcd4ab  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 1 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub

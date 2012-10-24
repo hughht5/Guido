@@ -1,0 +1,11 @@
+{
+"title" : "Home Free: Airbnb Raises $117M Series C Round, According To SEC Filing; $2B Valuation?",
+"date" : "Wed, 24 Oct 2012 12:29:37 +0000",
+"author" : "Ingrid Lunden"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/05/airbnb-logo.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="airbnb-logo" title="airbnb-logo" style="float: left; margin: 0 10px 7px 0;" /><p>In <a href="http://techcrunch.com/2012/09/26/airbnb-is-raising-a-big-third-round-aiming-for-a-valuation-north-of-2b/">September</a> we wrote about how the accommodation-sharing site Airbnb was in the process of raising another round of around $100 million. A <a target="_blank" href="http://sec.gov/Archives/edgar/data/1559720/000155972012000002/xslFormDX01/primary_doc.xml">Form D</a> filed with the SEC shows that it&#8217;s just north of that: $117 million.</p>
+<p>It&#8217;s unclear from the document whether the round includes any new investors. Previous backers of the company include Sequoia, Andreessen Horowitz, General Catalyst, Crunch Fund, Ashton Kutcher and more.</p>
+<p>The company has raised over $230 million to date.</p>
+<p>More to come. Refresh for updates.</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/24/home-free-airbnb-raises-117m-series-c-round-according-to-sec-filing-2b-valuation/">here</a>.
