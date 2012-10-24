@@ -1,5 +1,5 @@
 {
-"title" : "Mark Pincus: Zynga Didn’t Meet Growth Goals Because “We Didn’t Create Enough New Heat” And Mobile",
+"title" : "Mark Pincus: Zynga Didn’t Meet Growth Goals Because “We Didn’t Create Enough New Heat” — Also, Mobile",
 "date" : "Wed, 24 Oct 2012 21:49:17 +0000",
 "author" : "Anthony Ha"
 }

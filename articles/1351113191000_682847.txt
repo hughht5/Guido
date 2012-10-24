@@ -11,5 +11,4 @@
 <p>That means the trend is accelerating, as Facebook saw a 23% increase in mobile only users from 83 million in March to 102 million in June.While it made 14% of its ad revenue from mobile in Q3, it has to keep up with users.</p>
 <p>And now onto mature market growth.While some third-party measurement services said Facebook has ceased to grow in its premium markets, Facebook refuted that fact, noting &#8220;We had 171 million MAUs in the United States as of September 30, 2012, an increase of 8% compared to the same period in 2011&#8243;, and an increase of 1.71% from 168 million as of June 30th.</p>
 <p>That&#8217;s surely not stunning growth, as Facebook is hitting its saturation point in the US. Instead of boosting its bottom line by increasing its user count, Facebook must now look to increase the average revenue per user in mature markets. Facebook Gifts, its entrance into ecommerce, is squarely aimed at growing ARPU by getting users to pay it directly.</p>
-<p>We&#8217;ll have more analysis shortly.</p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/24/facebook-solely-mobile/">here</a>.
