@@ -1,0 +1,20 @@
+{
+"title" : "Square Makes First International Step: Mobile Payment Service Now Live In Canada",
+"date" : "Wed, 24 Oct 2012 11:09:04 +0000",
+"author" : "Ingrid Lunden"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/square_logo.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Square" title="Square" style="float: left; margin: 0 10px 7px 0;" /><p>Square has taken its first step outside of the U.S. for its mobile payment service. It is now live in Canada.</p>
+<p>More to come &#8212; refresh for updates. Release below.</p>
+<blockquote><p>&nbsp;</p>
+<p><b>Square Arrives in Canada</b></p>
+<p><i>Canadians Can Now Accept Credit Cards and Run their Business using Square on their Mobile Device</i></p>
+<p>SAN FRANCISCO&#8211; October 24, 2012 &#8211; <a target="_blank" href="http://www.square.ca/">Square</a>, the company making commerce easy for everyone, today announced availability in Canada. Square enables anyone, anywhere in Canada to accept credit cards, run and grow their business.</p>
+<p>Square’s free Mobile Card Reader plugs into the headphone jack of an iPhone, iPad, or Android device. Square Register is the free app that enables anyone to safely and securely accept credit card payments with one simple, low transaction rate of 2.75% per swipe, with no hidden fees. Funds from swiped payments are available the next business day, eliminating the wait for cash flow.</p>
+<p>Canada is Square’s first market outside the US. Over 2 million individuals and businesses can already accept credit cards with Square, and Square is processing over US$8 billion in annualized payments.</p>
+<p>“We are focused on making commerce easy for everyone. Square builds free tools for local businesses of all sizes and types to thrive,” said Alyssa Cutright, VP of International for Square. “We’re thrilled to introduce Canadian businesses and their customers to the most seamless and enjoyable way to do business.”</p>
+<p>Square Register serves as a free full point-of-sale system for businesses to accept payments, track inventory, and monitor daily reports, empowering them to make smart decisions for their business. Square Register also helps businesses attract new customers with tools to create customized loyalty and rewards programs as well as showcase themselves in the <a target="_blank" href="http://www.square.ca/directory">Square directory</a>.</p>
+<p>Square Register app is free for download from the App Store and Google Play. Square’s Mobile Card Reader is available for free on <a target="_blank" href="http://www.square.ca/">www.square.ca</a>.</p>
+<p><b>About Square, Inc.</b></p>
+<p>Square is making commerce easy for everyone. Square’s Mobile Card Reader enables anyone to accept credit cards anywhere, anytime at one simple rate. Square Register serves as a full point-of-sale system for businesses to accept payments, track inventory, and share menu and location information. Square Wallet, available in the US, is the most seamless way to pay, enabling individuals to pay with their names at their favorite local businesses, discover new ones nearby, explore menu listings, and store receipts. Founded in 2009, and headquartered in San Francisco, Square is currently available in the U.S. and Canada. More information is available at<a target="_blank" href="http://squareup.com/"> squareup.ca</a>.</p></blockquote>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/24/square-makes-first-international-step-mobile-payment-service-now-live-in-canada/">here</a>.
