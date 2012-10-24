@@ -1,5 +1,5 @@
 {
-"title" : "126M Accessed Facebook Solely From Mobile Last Month, Up 24% Since June. US User Count Still Growing",
+"title" : "126M Accessed Facebook Solely From Mobile Last Month, Up 24% Since June. US User Count Inches Upward",
 "date" : "Wed, 24 Oct 2012 21:13:11 +0000",
 "author" : "Josh Constine"
 }
