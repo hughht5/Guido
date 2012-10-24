@@ -15,4 +15,5 @@
 <p>Unfortunately, Gifts, the mobile ad network, and app install ads all leave out the feature phones used to access the service from emerging markets like South America and Africa. Eventually, those users may upgrade to smartphones, but data connections could still be slow or expensive.</p>
 <p>For the US and Canada where many use smartphones, average revenue per user (ARPU) was up from $3.20 to $3.40 this quarter. And while the &#8220;rest of world&#8221; region got a slightly larger percentage increase from $0.44 to $0.47, the ARPU for some of Facebook&#8217;s fastest growing markets <em>is still only $0.47</em>.</p>
 <p>Facebook has to figure out how to get a higher ARPU out of feature phones. The mobile revenue stats released today weren&#8217;t as impressive as investors may had hoped, but they&#8217;re a decent start.</p>
+<p>&nbsp;</p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/23/facebook-advertising/">here</a>.
