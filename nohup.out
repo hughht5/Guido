@@ -75568,3 +75568,39 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Updating TechCrunch main feed.
+STATUS: 200
+Git - Stdout: [master 04245c0] adding new article
+ 1 files changed, 30 insertions(+), 0 deletions(-)
+
+Git - Stderr: warning: packfile ./objects/pack/pack-8ced628b801eb1b49d14fb9c79fd2d3d2b8bb8ab.pack cannot be accessed
+warning: packfile ./objects/pack/pack-8ced628b801eb1b49d14fb9c79fd2d3d2b8bb8ab.pack cannot be accessed
+warning: packfile ./objects/pack/pack-fbf5ed77d6b373bc5ccc13e8b9c305b57316f4d4.pack cannot be accessed
+warning: packfile ./objects/pack/pack-22099c847b4b151cd5f23a5086a7222d44982f94.pack cannot be accessed
+To git@github.com:hughht5/Guido.git
+   a16f9b6..04245c0  master -> master
+
+Found 1 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
+{ statusCode: 403,
+  data: '{"request":"\\/1\\/statuses\\/update.json","error":"Status is over 140 characters."}' }
