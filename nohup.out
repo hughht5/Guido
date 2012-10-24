@@ -80335,3 +80335,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Square-Makes-First-International-Step:-Mobile-Payment-Service-Now-Live-In-Canada Square Makes First International Step: Mobile Payment Service Now Live In Canada
+Git - Stdout: [master cf83a7d] adding new article
+ 2 files changed, 50 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1351076944000_682247.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   239d8b5..cf83a7d  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
