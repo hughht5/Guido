@@ -101816,3 +101816,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Condition-One-Raises-$2.35M-From-Mark-Cuban-And-Others-To-Make-Immersive,-180-Degree-Video-Mainstream Condition One Raises $2.35M From Mark Cuban And Others To Make Immersive, 180-Degree Video Mainstream
+Git - Stdout: [master 078e901] adding new article
+ 2 files changed, 43 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1351108827000_664128.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   4ed907e..078e901  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
