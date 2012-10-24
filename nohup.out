@@ -103294,3 +103294,37 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Zynga-Announces-$200M-In-Share-Buybacks-In-Its-First-Repurchasing-Program Zynga Announces $200M In Share Buybacks In Its First Repurchasing Program
+tweeted : http://www.techcrunchlite.com/2012/10/Zynga-Announces-$200M-In-Share-Buybacks-In-Its-First-Repurchasing-Program Zynga Announces $200M In Share Buybacks In Its First Repurchasing Program
+Git - Stdout: [master 1e6088d] adding new article
+ 3 files changed, 53 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1351111126000_682781.txt
+ create mode 100644 articles/1351111169000_682788.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   8d29111..1e6088d  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
