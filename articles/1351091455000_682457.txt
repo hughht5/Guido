@@ -1,5 +1,5 @@
 {
-"title" : "Google AdWords Can Now Track iOS App Downloads, In Addition To Android",
+"title" : "Google AdWords Can Now Track iOS App Downloads",
 "date" : "Wed, 24 Oct 2012 15:10:55 +0000",
 "author" : "Sarah Perez"
 }
