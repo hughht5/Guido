@@ -1,0 +1,15 @@
+{
+"title" : "AwayFind Creator Launches NotifyMeNot, A Site To Shut Off Those Annoying Notification Emails",
+"date" : "Wed, 24 Oct 2012 21:49:12 +0000",
+"author" : "John Biggs"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-24-at-5-03-15-pm.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-10-24 at 5.03.15 PM" title="Screen Shot 2012-10-24 at 5.03.15 PM" style="float: left; margin: 0 10px 7px 0;" /><p>It&#8217;s not much, but it&#8217;s a start: <a target="_blank" href="http://www.notifymenot.com">NotifyMeNot</a> is a small, compact site dedicated to helping you and yours stop annoying emails from reaching your inbox. By focusing on the hows and whys of notification emails, the site aims to make your inbox a cleaner place and to calm your monkey mind.</p>
+<p>The brainchild of AwayFind&#8217;s <a target="_blank" href="http://www.linkedin.com/in/goralnick">Jared Goralnick</a>, the site contains tips and instructions for turning off notifications for multiple services. For example, I&#8217;ve used the site to turn off notifications from Facebook and Linked In and I&#8217;m much happier now that I don&#8217;t have to learn that it&#8217;s Joe Fromhighschool&#8217;s birthday or that Jane Weirdofromcollege is pregnant again.</p>
+<p>The site is <a target="_blank" href="http://www.awayfind.com">part of the Awayfind</a> family and acts as a sort of advertorial for the service. <a href="http://techcrunch.com/tag/Awayfind">Awayfind</a> helps you take back your inbox by reducing the number of unimportant messages that pop up on your phone&#8217;s notification screen. By reducing your mailbox to a few select people, you can ensure you&#8217;ve got at least a fighting chance at clawing back some of your hard-won mental capacity.</p>
+<p>&#8220;On NotifyMeNot, we&#8217;ve create a central place where we not only link to these kinds of notifications settings, but where we provide very specific guidance and explanations for which options to choose,&#8221; said Goralnick. He and his team are now scouring the web to find instructions and settings pages for various services to shut them up once and for all.</p>
+<p><br />
+The service is similar to sites like <a href="http://techcrunch.com/2012/06/01/sick-of-daily-deal-emails-unsubscribedeals-is-there-for-you/">UnsubscribeDeals.com</a> but it is not yet as automated. &#8220;It&#8217;s tricky stuff,&#8221; he said. Scripting the unsubscribe system would be nice, but doing manually helps change behavior.</p>
+<p>&#8220;We want people to understand the settings, not just go to the pages, and not just click a button,&#8221; he said. </p>
+<p>The site is live <a target="_blank" href="http://www.notifymenot.com">now</a> and all those horrible notification emails are just waiting around to die so get shootin&#8217;.</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/24/awayfind-creator-launches-notifymenot-a-site-to-shut-off-those-annoying-notification-emails/">here</a>.
