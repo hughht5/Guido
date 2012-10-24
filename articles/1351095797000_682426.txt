@@ -17,5 +17,5 @@
 <p>It&#8217;s a bit like contactless credit cards. If you haven&#8217;t ever used one, do me a favor. The next time you go to a drug store, or grocery store, or anywhere where they let you swipe your own card through the machine, simply tap your card against that little Wifi type signal. MasterCard and Visa have a wide net cast, you probably just don&#8217;t know you&#8217;re in it.</p>
 <p>The same is true for NFC. Samsung, at the very least, is on a mission to get you using the technology, in whatever way possible. TecTiles don&#8217;t come at a cheap price but this isn&#8217;t a high volume type of purchase. You buy one set for $15 and use all five for actions you perform every day.</p>
 <p>The update to TecTiles 3.0 is available now in <a target="_blank" href="https://play.google.com/store/apps/details?id=com.samsung.tectile&amp;hl=en">Google Play</a>.</p>
-<a href="http://techcrunch.com/2012/10/24/samsung-updates-tectile-app-but-how-many-people-actually-use-nfc/#gallery-682426-1-slideshow">Click to view slideshow.</a>
+<a href="http://techcrunch.com/2012/10/24/samsung-updates-tectile-app-but-how-many-people-actually-use-nfc/#gallery-682426-2-slideshow">Click to view slideshow.</a>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/24/samsung-updates-tectile-app-but-how-many-people-actually-use-nfc/">here</a>.

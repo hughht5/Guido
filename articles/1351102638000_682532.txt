@@ -1,0 +1,15 @@
+{
+"title" : "Vizify, Home Of The Graphical Social Profile, Redesigns Mobile Experience",
+"date" : "Wed, 24 Oct 2012 18:17:18 +0000",
+"author" : "Jordan Crook"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/vizify.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="vizify" title="vizify" style="float: left; margin: 0 10px 7px 0;" /><p>TechStars NY graduate <a target="_blank" href="https://www.vizify.com/jordan-crook">Vizify</a> has today launched a few new features, including a completely redesigned mobile interface for both iOS and Android, along with support for the iPhone 5. The service brings all of your social networks together into one categorized, easy-to-use interface. </p>
+<p><a href="http://techcrunch.com/2012/07/26/vizify-launch/">Vizify</a> brings in LinkedIn, foursquare, Twitter, Facebook, and Instagram to create a complete overview of who you are. The company also recently released customizable profiles (which means users can choose a color scheme as opposed to Vizify&#8217;s default orange and black), and real-time analytics for traffic to your Vizify profile.</p>
+<p>In a world where we have more than enough social networks and profiles, it seems odd that Vizify would throw their hat in the ring this way. But I think the idea is maintaining a positive &#8220;resume&#8221; of your digital self, as opposed to the services that do it for you without any permission, like Peekyou.com. Vizify shouldn&#8217;t be thought of as a competing social network, but rather a home base for who you are. The link you&#8217;d put on a business card, for example. </p>
+<a href="http://techcrunch.com/2012/10/24/vizify-home-of-the-graphical-social-profile-redesigns-mobile-experience/#gallery-682532-1-slideshow">Click to view slideshow.</a>
+<p>Here&#8217;s what co-founder Todd Silverstein had to say:</p>
+<blockquote><p>I&#8217;ve been a data visualization nerd so we started doing visualizing our own data to see if we could do better. When we shared those pictures with some of the web-saavy folks in our network, they began demanding that we make pictures of their data too. So that&#8217;s when we realized we had stumbled onto something special. And led us to launch Vizify with the mission of helping you look your best online.</p></blockquote>
+<p>Users can go through and edit things, and actually have to in some cases, to make sure the profile makes sense. </p>
+<p>Vizify has raised a total of <a href="http://techcrunch.com/2012/01/03/vizify-raises-1-2-million-to-help-you-make-a-great-first-impression-online/">$1.64 million</a> since launch trying to tie up the loose ends in the disconnects of your online identity.</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/24/vizify-home-of-the-graphical-social-profile-redesigns-mobile-experience/">here</a>.
