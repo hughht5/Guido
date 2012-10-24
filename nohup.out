@@ -94598,3 +94598,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Rupert-Murdoch-Offers-Twitter-Support-To-WSJ-Customer-Who-Didn%E2%80%99t-Get-Paper-Delivered Rupert Murdoch Offers Twitter Support To WSJ Customer Who Didn’t Get Paper Delivered
+Git - Stdout: [master 6e02377] adding new article
+ 2 files changed, 45 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1351098105000_682473.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   1440252..6e02377  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
