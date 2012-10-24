@@ -75901,3 +75901,35 @@ Git - Stdout: [master 9857dc5] adding new article
 Git - Stderr: To git@github.com:hughht5/Guido.git
    d3a060c..9857dc5  master -> master
 
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
+Git - Stdout: [master d83d387] adding new article
+ 1 files changed, 30 insertions(+), 0 deletions(-)
+
+Git - Stderr: warning: packfile /data/repositories/0/nw/07/c8/99/3042983/network.git/objects/pack/pack-e4196a0c8d49bf2b9236ac14c33ed2b53e954895.pack cannot be accessed
+error: unable to find 40ea05233b43611fd13adfc1aa3a8d1336ce6abc
+To git@github.com:hughht5/Guido.git
+   9857dc5..d83d387  master -> master
+
