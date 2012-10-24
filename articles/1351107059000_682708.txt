@@ -1,5 +1,5 @@
 {
-"title" : "Betaworks’ News.me Pulls Out Of App Store, Team Heads Over To Digg",
+"title" : "Betaworks’ News.me Exits App Store, Team Focuses On Digg",
 "date" : "Wed, 24 Oct 2012 19:30:59 +0000",
 "author" : "Sarah Perez"
 }
