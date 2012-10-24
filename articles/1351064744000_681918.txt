@@ -1,0 +1,9 @@
+{
+"title" : "Yelp Pays $50M To Acquire Its Big European Rival, Qype",
+"date" : "Wed, 24 Oct 2012 07:45:44 +0000",
+"author" : "Ingrid Lunden"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/05/screen-shot-2012-05-11-at-11-09-23.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="qype logo" title="qype logo" style="float: left; margin: 0 10px 7px 0;" /><p>This just in: Yelp is stepping up its game in Europe and <a target="_blank" href="http://www.bizjournals.com/prnewswire/press_releases/2012/10/24/SF98893">buying</a> its biggest rival in the region, Qype. It will pay €18.6 million for all of Qype&#8217;s shares and is adding another 970,000 shares of Yelp&#8217;s Class A common stock, for a total purchase price of approximately $50 million USD. Qype is headquartered in Germany, with operations also in the United Kingdom. The acquisition will be recorded in Yelp&#8217;s fourth quarter and 2012 year-end financial statements.</p>
+<p>More to come. Refresh for updates.</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/24/yelp-pays-50m-to-acquire-its-big-european-rival-qype/">here</a>.
