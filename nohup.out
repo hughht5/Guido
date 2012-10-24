@@ -106561,3 +106561,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Clearing-Up-The-Confusion:-It%E2%80%99s-%E2%80%9CThe-New-Windows-8-UI%E2%80%9D-%E2%80%93-Not-%E2%80%9CMetro-UI%E2%80%9D Clearing Up The Confusion: It’s “The New Windows 8 UI” – Not “Metro UI”
+Git - Stdout: [master 1c6d336] adding new article
+ 3 files changed, 44 insertions(+), 1 deletions(-)
+ create mode 100644 articles/1351116053000_682875.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   ba53f6f..1c6d336  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
