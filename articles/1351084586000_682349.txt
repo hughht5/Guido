@@ -1,0 +1,11 @@
+{
+"title" : "Nintendo Pulls Out Of Financial Dive, Legacy Console Sales Slow",
+"date" : "Wed, 24 Oct 2012 13:16:26 +0000",
+"author" : "John Biggs"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/06/nintendo-e3-supermariobros.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="nintendo-e3-supermariobros" title="nintendo-e3-supermariobros" style="float: left; margin: 0 10px 7px 0;" /><p><a href="http://techcrunch.com/tag/Nintendo">Nintendo</a> has stemmed operating loss slightly in the April-September quarter, the total falling from $718 million to $366 million. Console sales fell about 60 percent with DS sales of 970,000 and Wii sales hitting 1.32 million. </p>
+<p>The 3DS rose nearly 65%, however, with sales of 5 million units, including 2.1 million 3DS XLs. </p>
+<p>Nintendo noted that a number of titles, including New Super Mario Bros. 2 and Mario Kart 7, buoyed 3DS revenue considerably. Nintendo and its partners sold 19.03 million games for the 3DS, which suggests a great deal of interest and support in the platform.</p>
+<p>You can read the complete <a target="_blank" href="http://www.nintendo.co.jp/ir/en/library/earnings/index.html">earnings report here</a>. <a target="_blank" href="http://www.google.com/finance?cid=685139">The stock closed</a> at 16.14 today.</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/24/nintendo-earnings/">here</a>.
