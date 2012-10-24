@@ -1,5 +1,5 @@
 {
-"title" : "Yahoo! Closes Korean Business, Cuts Around 200 Jobs",
+"title" : "Yahoo! Follows Through On Closing Korean Business, Cuts Around 200 Jobs",
 "date" : "Wed, 24 Oct 2012 20:30:09 +0000",
 "author" : "Drew Olanoff"
 }
