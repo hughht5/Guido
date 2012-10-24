@@ -1,5 +1,5 @@
 {
-"title" : "Yelp Pays $50M To Acquire Its Big European Rival, Qype",
+"title" : "Yelp Pays $50M To Acquire Its Big European Rival, Qype, To Beef Up Its Recommendations And Listings Business",
 "date" : "Wed, 24 Oct 2012 07:45:44 +0000",
 "author" : "Ingrid Lunden"
 }
