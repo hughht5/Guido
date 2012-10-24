@@ -1,5 +1,5 @@
 {
-"title" : "Netflix CEO Reed Hastings: Subscription Growth Miss Was A “Forcasting Error,” Long-Term Outlook Still Positive",
+"title" : "Netflix CEO Reed Hastings: Subscription Growth Miss Was A “Forecasting Error,” Long-Term Outlook Still Positive",
 "date" : "Tue, 23 Oct 2012 23:48:42 +0000",
 "author" : "Rip Empson"
 }
