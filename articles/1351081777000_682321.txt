@@ -8,5 +8,6 @@
 <p>It&#8217;s unclear from the document whether the round includes any new investors. <a target="_blank" href="http://www.crunchbase.com/company/airbnb">Previous backers</a> of the company include Sequoia, Andreessen Horowitz, General Catalyst, Crunch Fund, Ashton Kutcher and more.</p>
 <p>When we first reported the news of the newest round, we had said that it would value the company at between $2 billion and $3 billion.</p>
 <p>Airbnb has raised over $230 million to date.</p>
+<p>In June, the company reported that it had taken 10 million bookings for room and house sharing on its site to date. The company takes a 10% commission on each booking that&#8217;s made there.</p>
 <p>More to come. Refresh for updates.</p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/24/home-free-airbnb-raises-117m-series-c-round-according-to-sec-filing-2b-valuation/">here</a>.
