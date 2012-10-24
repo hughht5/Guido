@@ -1,0 +1,10 @@
+{
+"title" : "Bossa Nova Robotics Launches The MObi, A Bot That Rides On A Ball",
+"date" : "Wed, 24 Oct 2012 14:33:45 +0000",
+"author" : "John Biggs"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/mobi-image.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="mObi Image" title="mObi Image" style="float: left; margin: 0 10px 7px 0;" /><p>If you told me yesterday that today there would be a robot that balances on a single ball and can locomote itself around the room on said ball, I&#8217;d say you were a crazy person. Well, you&#8217;re not a crazy person. <a target="_blank" href="http://www.bnrobotics.com/company/products">Bossa Nova Robotics</a>, makers of the <a target="_blank" href="http://www.iloverobots.com">Penbo</a> line of robotic toys, has just launched the mObi [sic], a robot that &#8220;is based on technology that allows the robot to balance on a ball and move seamlessly with a single point of contact on the ground, enabling natural omni-directional movement, slender design profiles and superior navigation in human environments.&#8221;</p>
+<p>The robot, shown here, balances on a single ball. Bossa Nova worked with engineers at Carnegie Mellon University to get this girl rolling and apparently it will be available as a research platform first and then as an actual product in around 2013. </p>
+<p>We&#8217;re trying to get a bit more information, but until then just imagine how fun it would be to treat this robot like a self-righting punching bag clown and then, when it got angry enough, it would lash out with razor-sharp claws.</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/24/bossa-nova-robotics-launches-the-mobi-a-bot-that-rides-on-a-ball/">here</a>.
