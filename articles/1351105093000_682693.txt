@@ -1,0 +1,12 @@
+{
+"title" : "Japan’s GREE Acquires Game Developer Pokelabo For $173M",
+"date" : "Wed, 24 Oct 2012 18:58:13 +0000",
+"author" : "Kim-Mai Cutler"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-24-at-11-41-36-am.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-10-24 at 11.41.36 AM" title="Screen Shot 2012-10-24 at 11.41.36 AM" style="float: left; margin: 0 10px 7px 0;" /><p><a href="http://techcrunch.com/2012/10/24/gree-pokelabo/screen-shot-2012-10-24-at-11-41-36-am/" rel="attachment wp-att-682694"></a></p>
+<p>Bolstering its arsenal of first-party games for the Japanese market, GREE <a target="_blank" href="http://www.gree.co.jp/news/press/2012/1024_01.html">acquired developer Pokelabo for $173 million in an all-cash deal</a>. Asia-focused venture capital firm DCM gets a win with this acquisition as it had a little over 20 percent of the company. Sega also had a strategic investment in the company with a 19 percent stake. </p>
+<p>Founded five years ago, Pokelabo has released titles like Sangoku Infinity and Clan Battle of Fate that have done well in Japan&#8217;s app store rankings, with top 10 placements on iOS or Google Play. The company also recently released a card battle game called Mystic Monsters, which might help GREE compete with archrival DeNA&#8217;s wildly successful Rage of Bahamut. GREE said in its last earnings report that it was explicitly interested in publishing more card battle games. </p>
+<p>The Pokelabo deal comes just months after GREE spent $210 million to acquire U.S. mobile-social game developer Funzio. GREE is balancing between maintaining dominance in its home market of Japan while growing new market opportunities abroad in the U.S. and Europe. Like many other Asian freemium gaming companies, GREE has profit margins that put American gaming companies like Zynga to shame. GREE, which has a market capitalization of $4.1 billion, earned $154 million in net income on $502 million in revenue in the last quarter. </p>
+<p>Yet it too has taken a bit of a beating over the last year in equity markets. The value of the company&#8217;s shares have fallen by about half after the Japanese government cracked down on lucrative gaming mechanics that GREE&#8217;s titles relied on earlier this year.</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/24/gree-pokelabo/">here</a>.
