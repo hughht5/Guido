@@ -104650,3 +104650,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/The-Slide-To-Small-Screen:-126-Million-Accessed-Facebook-Soley-From-Mobile-Last-Month,-Up-24%25-Since-June The Slide To Small Screen: 126 Million Accessed Facebook Soley From Mobile Last Month, Up 24% Since June
+Git - Stdout: [master 6c271f4] adding new article
+ 2 files changed, 40 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1351113191000_682847.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   1b92aa0..6c271f4  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
