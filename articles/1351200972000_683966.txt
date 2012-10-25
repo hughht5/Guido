@@ -1,0 +1,9 @@
+{
+"title" : "Tim Cook: Microsoft’s Surface Is A “Fairly Compromised, Confusing Product”",
+"date" : "Thu, 25 Oct 2012 21:36:12 +0000",
+"author" : "Frederic Lardinois"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/02/tim-cook-300x225.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Tim Cook" title="Tim Cook" style="float: left; margin: 0 10px 7px 0;" /><p>During Apple&#8217;s earnings call today, the company&#8217;s CEO Time Cook called Microsoft&#8217;s Surface a &#8220;fairly compromised, confusing product.&#8221; According to Cook, &#8220;you could design a car that flies and floats, but I don&#8217;t think it would do all of those things very well.&#8221; People will conclude they will want and iPad, &#8220;and I think they will continue to do that.&#8221;</p>
+<p>Updating&#8230;</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/25/tim-cook-microsofts-surface-is-a-fairly-compromised-confusing-product/">here</a>.
