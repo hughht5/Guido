@@ -1,5 +1,5 @@
 {
-"title" : "Apple Q4: CEO Tim Cook Says China Sales Were $5.7B, Up 26% YOY, Flat On Q3; iPhone 5 Coming In December",
+"title" : "Apple CEO Tim Cook Says China Q4 Sales Were $5.7B, Up 26% YOY, Flat On Q3; iPhone 5 Coming In December",
 "date" : "Thu, 25 Oct 2012 21:35:33 +0000",
 "author" : "Ingrid Lunden"
 }
