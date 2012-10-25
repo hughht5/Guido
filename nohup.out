@@ -147785,3 +147785,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Vineloop-Relaunches-With-New-App-Delivering-%E2%80%9CTrusted%E2%80%9D-%E2%80%93-Not-Just-Social-%E2%80%93-Recommendations Vineloop Relaunches With New App Delivering “Trusted” – Not Just Social – Recommendations
+Git - Stdout: [master ebea18a] adding new article
+ 2 files changed, 48 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1351177742000_683384.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   a484933..ebea18a  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
