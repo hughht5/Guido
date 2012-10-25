@@ -1,0 +1,12 @@
+{
+"title" : "Dhingana Raises $7M For Free, Streaming Indian Music",
+"date" : "Thu, 25 Oct 2012 05:16:27 +0000",
+"author" : "Anthony Ha"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/dhingana-logo.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="dhingana logo" title="dhingana logo" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.dhingana.com">Dhingana</a>, a startup with a free service for streaming Indian and Bollywood music, has raised $7 million in Series B funding.</p>
+<p>The company&#8217;s catalog includes 500,000 songs in 35 languages, which it makes available on its website and through smartphone apps. Dhingana says it has built an audience of 15 million monthly active visitors, making it the most popular service of its kind. And 40 percent of those visitors are located outside of India.</p>
+<p>The round was led by <a target="_blank" href="http://www.lsvp.com">Lightspeed Venture Partners</a>, with participation from previous investors Inventus Capital Partners and Helion Venture Partners. Lightspeed&#8217;s Dev Khare is joining the Dhingana board.</p>
+<p>&#8220;We believe that a country as large and diverse as India, with numerous languages and rich classical, folk, popular and movie music traditions, supports a world-class, branded music service tuned to the needs of its increasingly mobile-centric population,&#8221; Khare said in the press release.</p>
+<p>Founded in 2007, Dhingana spent its first few years focused on building its content library and attracting users, but it&#8217;s now moving forward with its monetization plans, starting with <a href="http://techcrunch.com/2012/08/22/dhingana-ad-platform/">the launch of its ad platform</a> back in August. At the time, the company also announced that Gokul Rajaram, Facebook&#8217;s product director for advertising, had signed on as advisor.</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/24/dhingana-series-b/">here</a>.
