@@ -1,5 +1,5 @@
 {
-"title" : "Apple Fighting Revenue Stagnation In Europe: Fiscal Q4: $8,023BN Total Revenue, Down 3% On Q3",
+"title" : "Apple Fighting Revenue Stagnation In Europe: Fiscal Q4: $8,023BN Total Revenue, Down 3% On “Essentially Flat” Q3",
 "date" : "Thu, 25 Oct 2012 22:23:20 +0000",
 "author" : "Natasha Lomas"
 }
