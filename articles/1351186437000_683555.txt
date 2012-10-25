@@ -1,11 +1,12 @@
 {
-"title" : "Confirmed: Yahoo Has Bought Stamped As Part Of Major Mobile Push",
+"title" : "Confirmed: Yahoo Has Bought Stamped To Lead Major Mobile Push In NYC",
 "date" : "Thu, 25 Oct 2012 17:33:57 +0000",
 "author" : "Colleen Taylor"
 }
 
-<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-25-at-10-34-27-am.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-10-25 at 10.34.27 AM" title="Screen Shot 2012-10-25 at 10.34.27 AM" style="float: left; margin: 0 10px 7px 0;" /><p>Yahoo has bought Stamped, the New York City based startup that lets people record and share their favorite restaurants, books, movies, and music, we&#8217;ve confirmed with a source at Stamped.</p>
-<p>The deal is part of a major mobile push led by Yahoo CEO Marissa Mayer, the source tells us. All of Stamped&#8217;s nine employees are joining the company, and are taksed with building a &#8220;major mobile development center&#8221; based in New York City that will focus on bringing coherence to Yahoo&#8217;s mobile strategy.</p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-25-at-10-34-27-am.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-10-25 at 10.34.27 AM" title="Screen Shot 2012-10-25 at 10.34.27 AM" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.yahoo.com">Yahoo</a> has bought <a target="_blank" href="http://www.stamped.com">Stamped</a>, the New York City based startup that lets people record and share their favorite restaurants, books, movies, and music, we&#8217;ve confirmed with a source at Stamped. <strong>Update:</strong> The news has also been confirmed by Yahoo CEO Marissa Mayer, who <a target="_blank" href="http://instagram.com/p/RNqg3skMM-/">posted an Instagram of herself</a> with the Stamped founders.</p>
+<p>The deal is part of a major mobile push led by Yahoo CEO Marissa Mayer. All of Stamped&#8217;s nine employees are joining the company, and are tasked with building a &#8220;major mobile development center&#8221; based in New York City that will focus on bringing much-needed coherence to Yahoo&#8217;s mobile strategy.</p>
+<p>The Stamped team is starting at Yahoo today and leading a big hiring push to staff up the NYC mobile office.</p>
 <p>Stamped took on $3 million in venture capital funding, and we&#8217;re working on getting the exact acquisition amount. At the moment we understand that Stamped&#8217;s employees and investors are very happy with the acquisition price. </p>
 <p>Updating.</p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/25/yahoo-bought-stamped/">here</a>.
