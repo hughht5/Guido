@@ -1,5 +1,5 @@
 {
-"title" : "Crowdsourcing In The Classroom: Flashnotes Gets $1.8M Seed Round From Atlas, Softbank And Angels For Its Notes And Flashcard Marketplace",
+"title" : "Crowdsourcing In The Classroom: Flashnotes Gets $1.8M Seed Round From Atlas, Softbank And Angels For Its Studying Marketplace",
 "date" : "Thu, 25 Oct 2012 16:51:11 +0000",
 "author" : "Ingrid Lunden"
 }
