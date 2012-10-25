@@ -1,0 +1,11 @@
+{
+"title" : "Record Your Brilliant Ideas In Style For Either Public Or Private Consumption With Squarespace Note",
+"date" : "Thu, 25 Oct 2012 14:58:42 +0000",
+"author" : "Darrell Etherington"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/squarespace-note.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="squarespace-note" title="squarespace-note" style="float: left; margin: 0 10px 7px 0;" /><p>Squarespace introduced a new mobile app called <a target="_blank" href="http://www.squarespace.com/apps#note">Squarespace Note</a> for iPhone today, but it has little to do with the company&#8217;s website creation platform. Instead, it&#8217;s a simplified note-taking application that can publish to your Squarespace account, but doesn&#8217;t have to, since it also offers cross-syncing to Dropbox, Twitter, Evernote, Facebook and email.</p>
+<p>The app is barebones: you get a simple composition field, the ability to type out some text, and also to include links. Once you&#8217;ve got all your credentials entered, you simply tap which services you want to receive this particular missive and send it out. There are nice options depending on each service, like the ability to send location info, auto-create subject lines, and either break up long content for 140 character limits with tweets or exclude longer messages from Twitter sharing altogether.</p>
+<p>All of this is packaged in an extremely slick user interface, with primarily gesture-based navigation (swipe up to post, swipe left to manage accounts and swipe right to manage your messages and history), and transition animations that add a satisfying finish to the overall experience.</p>
+<p>For an app that&#8217;s really just a value-add service for Squarespace&#8217;s main business, this is a really well-thought out and executed piece of mobile software, and a handy replacement for the age-old trick of emailing yourself anytime you&#8217;re struck by a sudden flash of genius. Luckily, that almost never happens to me, but this is still a great (free) app to have at hand on the old iPhone home screen.</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/25/record-your-brilliant-ideas-in-style-for-either-public-or-private-consumption-with-squarespace-note/">here</a>.
