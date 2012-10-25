@@ -146175,3 +146175,38 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+{ statusCode: 403,
+  data: '{"request":"\\/1\\/statuses\\/update.json","error":"Status is over 140 characters."}' }
+tweeted : http://www.techcrunchlite.com/2012/10/12-Generous-Startups:-$10,000-Worth-Of-Web-Tools-(From-Box,-Twilio,-HotGloo-And-More)-Offered-Free-To-1,000-Young-Startups 12 Generous Startups: $10,000 Worth Of Web Tools (From Box, Twilio, HotGloo And More) Offered Free To 1,000 Young Startups
+Git - Stdout: [master bb4462f] adding new article
+ 3 files changed, 67 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1351175302000_683359.txt
+ create mode 100644 articles/1351175311000_683387.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   90e3cda..bb4462f  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
