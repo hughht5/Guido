@@ -9,5 +9,6 @@
 <p>When you click a Tweet that contains a link to a partner site, the Tweet will expand, and you&#8217;ll be able to see more content directly within it. Here are some examples; we&#8217;re working to offer even more options.</p></blockquote>
 <p>Partners like Amazon could eventually be huge, because you could click one button to purchase something that a friend tweeted out. Could Twitter get a cut of that? Time will tell, but it makes sense, no?</p>
 <p><a href="http://techcrunch.com/2012/10/25/twitter-now-has-over-2000-ways-to-interact-and-engage-with-tweets/amazon_mikedavidson/" rel="attachment wp-att-683718"></a></p>
+<p>All of this extra information is coming to you by way of the <a target="_blank" href="https://dev.twitter.com/docs/cards">Twitter Card</a> initiative, where the service can pack a bunch of media into a tweet. Eventually, it wouldn&#8217;t be crazy to see polls and other interactive content. It would have been kind of cool for the election, no?</p>
 <p>This is developing.</p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/25/twitter-now-has-over-2000-ways-to-interact-and-engage-with-tweets/">here</a>.
