@@ -132513,3 +132513,34 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Git - Stdout: [master a758b22] adding new article
+ 1 files changed, 30 insertions(+), 0 deletions(-)
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   c84db06..a758b22  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 1 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Amazon%E2%80%99s-LOVEFiLM-Powers-Kindle-Fire-Video-Service-In-The-U.K.,-One-Month-Free-Trial-For-Fire-Buyers Amazon’s LOVEFiLM Powers Kindle Fire Video Service In The U.K., One Month Free Trial For Fire Buyers

@@ -1,0 +1,11 @@
+{
+"title" : "Amazon’s LOVEFiLM Powers Kindle Fire Video Service In The U.K., One Month Free Trial For Fire Buyers",
+"date" : "Thu, 25 Oct 2012 08:48:12 +0000",
+"author" : "Natasha Lomas"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/05/lovefilm.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="lovefilm" title="lovefilm" style="float: left; margin: 0 10px 7px 0;" /><p>Amazon has confirmed it&#8217;s using LOVEFiLM, the movie rental company <a href="http://techcrunch.com/2011/01/20/amazon-acquires-lovefilm-the-netflix-of-europe/">it acquired at the start of 2011</a>, to power the video service in Kindle Fire and Kindle Fire HD tablets sold in the U.K.. The slates go on sale in the U.K. today and Amazon is offering Fire buyers a one month free trial of LOVEFiLM.</p>
+<p>Earlier this month <a target="_blank" href="http://blog.lovefilm.com/uncategorized/sign-in-to-lovefilm-using-amazon-account-details-for-kindle-fire-and-kindle-fire-hd-users.html">LOVEFiLM added the ability to sign in with an Amazon account</a> &#8211; a precursor to the service being &#8220;deeply integrated&#8221; into the Fire tablets. As well as streaming movies and TV shows from the thousands in LOVEFiLM&#8217;s catalogue, the Kindle Fire LOVEFiLM integration supports watch lists, for creating movie and TV playlists, and the IMDb-powered Amazon <a href="http://techcrunch.com/2012/09/06/new-kindle-fire-software-multiple-profiles-new-email-custom-facebook-and-skype-apps/">X-Ray for Movies</a> feature which lets Fire users look up information about actors &#8212; such as biog details and photos &#8212; without leaving the film.</p>
+<p>The LOVEFiLM Pause and Resume function is powered by Amazon&#8217;s multi-platform viewing Whispersync technology.</p>
+<p>Even closer service integration is coming &#8220;in the near future&#8221;, with Amazon noting that existing LOVEFiLM members will be able to link their Amazon and LOVEFiLM accounts together with a single sign in soon.</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/25/amazons-lovefilm-powers-kindle-fire-video-service-in-the-u-k-one-month-free-trial-for-fire-buyers/">here</a>.
