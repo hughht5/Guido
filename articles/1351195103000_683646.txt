@@ -14,9 +14,9 @@
 <p>Part of the issue is that users are signing up on mobile and 126 million now <a href="http://techcrunch.com/2012/10/24/facebook-solely-mobile/">use the small-screen as their sole access point</a>. Many of these people use feature phones that can&#8217;t access most Facebook-integrated games. Facebook needs extra games momentum amongst its mature markets like the US, Canada, and UK, as well as other smartphone-heavy locales to make up for the feature phone problem. T</p>
 <p>hat momentum wasn&#8217;t strong enough in Q3, leading <a href="http://techcrunch.com/2012/10/23/zuckerberg-gaming-on-facebook-isnt-doing-as-well-as-id-like/">Mark Zuckerberg to say on Tuesday&#8217;s earnings call</a> that &#8220;gaming on Facebook isn&#8217;t doing as well as I&#8217;d like.&#8221;</p>
 <h4>Games Of All Types From All Over</h4>
-<p>The casino, arcade/puzzle, and mid-to-hardcore game categories are growing in popularity as the old farming and simulation game categories are shrinking in market share.</p>
-<p style="text-align:center;"></p>
-<p>Meanwhile, Facebook is seeing game developers coming from a wider set of countries and continents, including Africa, Russia, Australia, and especially Israel, which Facebook&#8217;s Sean Ryan said &#8220;is exploding&#8221; right now. Facebook saw 450 gaming developers attend a recent meetup in Israel, a country of fewer than 8 million people.</p>
+<p>Facebook is seeing game developers coming from a wider set of countries and continents, including Africa, Russia, Australia, and especially Israel, which Facebook&#8217;s head of games Sean Ryan said &#8220;is on fire&#8221; right now. Facebook saw 450 gaming developers attend a recent meetup in Israel, a country of fewer than 8 million people.</p>
+<p></p>
+<p>The casino, arcade/puzzle, and mid-to-hardcore game categories are growing in popularity as the old farming and simulation game categories are shrinking in market share. Ryan believes mid-core games that are more advanced than the old cow-clicking frenzies will &#8220;explode&#8221; next year. That&#8217;s an apt choice of words, as more violent games like War Commander and Battle Pirates are dominating the mid-core market right now.</p>
+<p></p>
 <p>We&#8217;re still in today&#8217;s Facebook games whiteboard session at Facebook headquarters right now, so we&#8217;ll have more details and analysis soon.</p>
-<p style="text-align:center;"></p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/25/facebook-games/">here</a>.
