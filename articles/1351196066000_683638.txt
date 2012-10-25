@@ -1,5 +1,5 @@
 {
-"title" : "Twitter Now Has “Over 2,000 Ways” To Interact And Engage With Tweets",
+"title" : "Twitter Now Has “Over 2,000 Ways” To Interact And Engage With Tweets Thanks To Twitter Cards",
 "date" : "Thu, 25 Oct 2012 20:14:26 +0000",
 "author" : "Drew Olanoff"
 }
