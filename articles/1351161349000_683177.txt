@@ -1,0 +1,10 @@
+{
+"title" : "Datahug Secures €2.5M To Scale Its Deep Contact Finding Service To The US",
+"date" : "Thu, 25 Oct 2012 10:35:49 +0000",
+"author" : "Mike Butcher"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/data-hug-logo-1.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="data-hug-logo (1)" title="data-hug-logo (1)" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://Datahug.com">Datahug</a>, a &#8216;business networking automation&#8217; startup, <a href="http://techcrunch.com/2012/10/19/is-datahugs-social-crm-app-turning-into-the-vcs-secret-weapon/">which we covered in depth here</a> has secured a €2.5 million Series A financing from European VC, DFJ Esprit. </p>
+<p>The investment means Datahug wil now expand in the US and internationally. Current customers include Grant Thornton, Plantronics, BDO and CPL. DFJ Esprit is also a user of the software, as is Balderton Capital.</p>
+<p>Datahug estimates that it finds around 400 contacts per person that aren’t captured in any CRM system or database. The solution works by indexing existing communication logs – such as emails, contacts and calendar data – to create an enterprise-wide picture of who knows who. Datahug then attributes a ‘HugRank’ score to show how well they know them. It requires no data entry to capture the relationships and connections that exist, making it easy-to-use and placing no demands on staff time or resources.</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/25/datahug-secures-e2-5m-to-scale-its-deep-contact-finding-service-to-the-us/">here</a>.
