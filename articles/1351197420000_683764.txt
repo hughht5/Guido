@@ -1,5 +1,5 @@
 {
-"title" : "Apple’s Q4 2012: iPad Sales Still Declining From Q3, Down 17.6 Percent To 14 Million",
+"title" : "Apple’s Q4 2012: iPad Sales Miss Expectations With 14 Million Units Sold",
 "date" : "Thu, 25 Oct 2012 20:37:00 +0000",
 "author" : "Romain Dillet"
 }
