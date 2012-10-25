@@ -1,5 +1,5 @@
 {
-"title" : "Microsoft Launches Windows 8 After 1.24B Hours Of Testing, Available On Over 1,000 Certified Devices",
+"title" : "Microsoft Launches Windows 8 After 1.24B Hours Of Public Testing, Available On Over 1,000 Certified Devices",
 "date" : "Thu, 25 Oct 2012 15:35:22 +0000",
 "author" : "Frederic Lardinois"
 }
