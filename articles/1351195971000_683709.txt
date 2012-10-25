@@ -1,5 +1,5 @@
 {
-"title" : "Amazon Shares Fall Reporting Sales $13.81B For Q3, Loss Of 60 Cents Per Share",
+"title" : "Amazon Shares Fall After Reporting Sales Of $13.81B For Q3, Loss Of 60 Cents Per Share",
 "date" : "Thu, 25 Oct 2012 20:12:51 +0000",
 "author" : "Anthony Ha"
 }
