@@ -130288,3 +130288,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Rock-Health%E2%80%99s-Fourth-Class-Kicks-Off-With-$100K-Seed-Funds-From-Kleiner-&-More,-Plus-Support-From-Kaiser Rock Health’s Fourth Class Kicks Off With $100K Seed Funds From Kleiner & More, Plus Support From Kaiser
+Git - Stdout: [master 534305c] adding new article
+ 2 files changed, 59 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1351147957000_683099.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   16f4ff6..534305c  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
