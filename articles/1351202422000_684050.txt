@@ -1,0 +1,10 @@
+{
+"title" : "Tim Cook: We Will Never Make A 7-Inch Tablet, We Don’t Think They’re Good Products",
+"date" : "Thu, 25 Oct 2012 22:00:22 +0000",
+"author" : "Drew Olanoff"
+}
+
+<p><a target="_blank" href="http://www.techcrunch.com/tag/aapl12q4" title="Apple Q4 2012 Earnings"></a></p>
+<p>During the Q4 Apple earnings call, Cook addressed words spoken by Steve Jobs in the past regarding a 7-inch tablet</p>
+<p>&#8220;Comments that Steve made before about 7 inch tablets, let me be clear, we would not make one of the 7 inch tablets, we don&#8217;t think they&#8217;re good products, we&#8217;d never make one&#8221;  </p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/25/tim-cook-we-will-never-make-a-7-inch-tablet-we-dont-think-theyre-good-products/">here</a>.
