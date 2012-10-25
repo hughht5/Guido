@@ -1,0 +1,13 @@
+{
+"title" : "Netflix Hits 30 Million Members After Q3 Subscriber Growth “Forecasting Error”",
+"date" : "Thu, 25 Oct 2012 13:57:42 +0000",
+"author" : "Darrell Etherington"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/04/netflix-reed-hastings.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="netflix-reed-hastings" title="netflix-reed-hastings" style="float: left; margin: 0 10px 7px 0;" /><p>Netflix announced today that it now has more than 30 million members streaming content via its video service. That&#8217;s a lot of uses who&#8217;ve opted for on-demand, digitally delivered content. Netflix had 20 million members in 2010, so it&#8217;s added 10 million in the two years since, mostly via global expansion, although it now also has 25 million users in the U.S. alone.</p>
+<p>The U.S. and Canada were the markets that helped Netflix reach its initial milestone, and the company has since expanded to 51 additional countries. Netflix CEO Reed Hastings had the following to say about the achievement on <a target="_blank" href="https://www.facebook.com/reed1960">his Facebook account</a>:</p>
+<blockquote><p>Thank you, thank you, thank you.</p>
+<p>Thirty million of you are now Netflix streaming members.</p>
+<p>I’d like to express my gratitude to each of you. Your choice to be a Netflix member helps us get more content every year, and helps us further improve our member experience. You make it possible for us to offer the most amazing internet television experience ever. Thank you, again. -Reed</p></blockquote>
+<p>When it announced its <a title="Netflix CEO Reed Hastings: Subscription Growth Miss Was A “Forecasting Error,” Long-Term Outlook Still Positive" href="http://techcrunch.com/2012/10/23/netflix-ceo-reed-hastings-subscription-growth-miss-was-a-forcasting-error-long-term-outlook-still-positive/">Q3 2012 earnings earlier this week</a>, Netflix claimed 29 million subscribers for the quarter, meaning it&#8217;s added about a million since September 30. Hastings defended what seemed to be lagging subscriber growth in some areas during the conference call discussing the company&#8217;s quarterly results, attributing it to a &#8220;forecasting error.&#8221; Overall, Netflix added 1.16 million users during Q3, but Hastings remained positive about future growth, and clearly trumpeting this milestone is a reflection of that optimism.</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/25/netflix-hits-30-million-members-after-q3-subscriber-growth-forecasting-error/">here</a>.
