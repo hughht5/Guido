@@ -14,5 +14,7 @@
 <p>Ouch.</p>
 <p>It&#8217;s not a surprise that Apple is dedicated to creating the &#8220;best in class&#8221; when it comes to devices, just look at this video about the iPad mini featuring <a href="http://techcrunch.com/2012/10/23/ipad-mini-jony-ive-video/">Jony Ive</a>:</p>
 <p><span style="text-align:center; display: block;"><a href="http://techcrunch.com/2012/10/25/tim-cook-customers-choose-to-buy-our-products-because-we-dont-cut-corners/"></a></span></p>
+<p>I&#8217;m not ready to let Apple off of the hook for <a href="http://techcrunch.com/2012/10/23/apple-made-no-mention-of-ios-6-maps-today-now-thats-boring/">iOS 6 Maps</a> though, but at least Apple CFO Peter Oppenheimer addressed it during the call:</p>
+<blockquote><p>We&#8217;ve made a number of improvements to Maps in the past months, and will work non-stop until Maps reaches our high standards.</p></blockquote>
 <p>[Photo credit: <a target="_blank" href="http://www.flickr.com/photos/smemon/6972704606/">Flickr</a>]</p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/25/tim-cook-customers-choose-to-buy-our-products-because-we-dont-cut-corners/">here</a>.
