@@ -147907,3 +147907,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/New-Relic-Connect-%E2%80%93-A-Way-To-See-The-Data-Behind-All-Those-Apps New Relic Connect – A Way To See The Data Behind All Those Apps
+Git - Stdout: [master c6ba692] adding new article
+ 2 files changed, 49 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1351177911000_683411.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   656bb7c..c6ba692  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
