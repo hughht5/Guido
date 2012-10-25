@@ -5,8 +5,8 @@
 }
 
 <img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/ipad-3.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="ipad-3" title="ipad-3" style="float: left; margin: 0 10px 7px 0;" /><p>Apple managed to sell a lot of iOS devices over the last three months. But iPad sales are still declining. They are down 17.6 percent to 14 million compared to 17 million in Q3. Analysts expected 15.55 million iPads sold. Apple missed on those sales.</p>
-<p>Last year, Apple sold 11.12 million iPads in Q4. Those sales were above street expectations. It&#8217;s still a 25.9 percent increase year over year. Overall, Apple&#8217;s earnings were higher than expected and those sales are only a part of a much nicer bigger picture.</p>
-<p>The company just released the fourth generation iPad. It will help the sales in Q1 2013.</p>
+<p>Last year, Apple sold 11.12 million iPads in Q4. Those sales were above street expectations. It&#8217;s still a 25.9 percent increase year over year. Overall, Apple&#8217;s earnings were <a href="http://techcrunch.com/2012/10/25/apple-q4-2012-earnings/">higher than expected</a> and those sales are only a part of a much nicer bigger picture.</p>
+<p>The company just released the fourth generation iPad. And of course, there is the iPad mini. It will help the sales in Q1 2013.</p>
 <p><i>Developing…</i></p>
 <p><a target="_blank" href="http://www.techcrunch.com/tag/appl12q4" title="Apple Q4 2012 Earnings"></a>  </p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/25/apples-q4-2012-ipad-sales-still-declining-down-17-6-percent-to-14-million/">here</a>.
