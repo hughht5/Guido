@@ -1,5 +1,5 @@
 {
-"title" : "Steven Sinofsky: “Everything Microsoft Has Done Is Coming Together [With Surface]“",
+"title" : "Steven Sinofsky On Surface: “Everything Microsoft Has Done Is Coming Together”",
 "date" : "Thu, 25 Oct 2012 17:55:01 +0000",
 "author" : "Romain Dillet"
 }
