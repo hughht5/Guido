@@ -121091,3 +121091,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Zillow-Adds-1.8M-Foreclosed-And-Pre-Foreclosure-Homes-To-Its-Real-Estate-Listings Zillow Adds 1.8M Foreclosed And Pre-Foreclosure Homes To Its Real Estate Listings
+Git - Stdout: [master 30681ce] adding new article
+ 2 files changed, 43 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1351137803000_683100.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   1122a3e..30681ce  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
