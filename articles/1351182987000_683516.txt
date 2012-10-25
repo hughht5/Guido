@@ -1,0 +1,11 @@
+{
+"title" : "BranchOut Nabs Former Yahoo SVP For COO Role",
+"date" : "Thu, 25 Oct 2012 16:36:27 +0000",
+"author" : "Leena Rao"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/ebbe.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="ebbe" title="ebbe" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://branchout.com/">BranchOut,</a> the company that develops a professional social network that runs on top of Facebook, has made a key hire today, poaching a Yahoo exec for its leadership team. Ebbe Altberg, the former senior vice president, media engineering at Yahoo is joining BranchOut chief operating officer.</p>
+<p>It&#8217;s a pretty big win for BranchOut, considering Atlberg&#8217;s extensive experience. Altberg spent four years at Yahoo, where he was responsible for global media product strategy and development, including Yahoo Homepages, News, Sports, Finance and Entertainment.</p>
+<p>Before that, he served as vice president and head of audience for Yahoo EMEA where he handled consumer strategy, products and content. Prior to Yahoo, Altberg was chief product officer for Ingenio (which was acquired by AT&amp;T Interactive). He also spent 12 years at Microsoft in various leadership positions.</p>
+<p>BranchOut, which just raised <a href="http://techcrunch.com/2012/04/19/branchout-25-million-users-funding-series-c/">$25 million,</a> just <a href="http://techcrunch.com/2012/10/08/turning-a-utility-into-a-community/">relaunched</a> a new version of its application with richer profiles, a new UI and more. As the company tried to differentiate itself from the giant in the professional networking space, LinkedIn; BranchOut is looking for compelling ways to engage job seekers and users.</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/25/branchout-nabs-former-yahoo-svp-for-coo-role/">here</a>.
