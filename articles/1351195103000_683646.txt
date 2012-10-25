@@ -9,6 +9,15 @@
 <h4>Quality Leads To Quantity Of Users</h4>
 <p>On quality, Facebook&#8217;s director of growth Alex Schultz explained that at times in the past, Facebook was too lenient about how aggressively game developers could spam Facebook users. For example, devs could generate notifications that drowned out alerts about being tagged in photos or someone writing on your wall.</p>
 <p>Schultz said &#8220;The channel got burned. There were spammy notifications and we weren&#8217;t adequately policing.&#8221; So users began ignoring game notifications, and Facebook shut them down. But now Facebook has relaunched the channel with a focus on quality. Developers get analytics about if their alerts are being marked as spam, and lose access to the channel if they get flagged to often. Now Schultz says the &#8220;relaunched active user notifications have been fantastically successful&#8230;[with] click through rates in the 30%-40% range.&#8221;</p>
+<p style="text-align:center;"></p>
+<p style="text-align:left;">Facebook hopes its focus on more social, and less spammy channels will helps developers reduce churn. Schultz categorized the retention graphs Facebook games go through into 3 categories:</p>
+<ul>
+<li>Hits &#8211; Games that spike big but then churn out users faster than they gain them, leading to rapid loss over the long-term.</li>
+<li>Successes &#8211; Games that spike but then are good enough to retain most users and just slowly decline over time.</li>
+<li>Awesome &#8211; Games that might not be as popular at first, but are inherently social. As more friends try them, they get more fun, and are able to reach equilibrium or even sustained growth.</li>
+</ul>
+<p style="text-align:center;"></p>
+<p style="text-align:left;">Facebook is trying to maximize this last category by giving developers more tools to make their games more friendly, like its revamped iOS and Android SDKs full of pre-made social widgets, analytics that show when they&#8217;re getting spammy, and ads that turn usage by people you know it recommendation for what you should play.</p>
 <h4>Games Are Growing, But Not As Fast As Facebook</h4>
 <p>At the end of September last year, Facebook had 226 million people playing Facebook-integrated games, and as of September 30th, 2012 it had 251 million. That 11% increase doesn&#8217;t sound so bad, but Facebook&#8217;s total <a href="http://techcrunch.com/2012/10/23/facebook-announces-monthly-active-users-were-at-1-01-billion-as-of-september-30th/">user count grew 26% this year</a>.</p>
 <p>Part of the issue is that users are signing up on mobile and 126 million now <a href="http://techcrunch.com/2012/10/24/facebook-solely-mobile/">use the small-screen as their sole access point</a>. Many of these people use feature phones that can&#8217;t access most Facebook-integrated games. Facebook needs extra games momentum amongst its mature markets like the US, Canada, and UK, as well as other smartphone-heavy locales to make up for the feature phone problem. T</p>
