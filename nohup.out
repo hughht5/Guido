@@ -148929,3 +148929,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Microsoft-Launches-Windows-8-After-1.24B-Hours-Of-Testing,-Available-On-Over-1,000-Certified-Devices Microsoft Launches Windows 8 After 1.24B Hours Of Testing, Available On Over 1,000 Certified Devices
+Git - Stdout: [master 8fda633] adding new article
+ 2 files changed, 44 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1351179322000_683446.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   61add70..8fda633  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
