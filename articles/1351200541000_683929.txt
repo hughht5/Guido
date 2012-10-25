@@ -5,7 +5,7 @@
 }
 
 <img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2011/03/cash.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="cash" title="cash" style="float: left; margin: 0 10px 7px 0;" /><p>It&#8217;s easy to forget the big picture when you report on a quarterly earnings. Apple has seen a tremendous year. With $156 billion in revenue representing 45 percent growth compared to 2011, and an incredible 61 percent increase of net income compared to 2011. But even more impressive, Apple now has $121.3 billion in cash, enough to buy Amazon or <a target="_blank" href="http://www.dailymail.co.uk/sciencetech/article-2199000/100-billion-space-station-saved-toothbrush.html">a space station</a>, and still having some left.</p>
-<p>Amazon&#8217;s market capitalization ticks at $100.77 billion today. And many of what you could consider big tech companies have a <i>smaller</i> market cap.</p>
+<p>Amazon&#8217;s market capitalization ticks at $100.77 billion today. And many of what you could consider big tech companies have a <i>smaller</i> market cap. Yahoo&#8217;s market cap is $19.68 billion, Facebook&#8217;s is $48.33 billion. And let&#8217;s not compare to Dell or HP who have a $16.03 billion and $27.90 billion market cap.</p>
 <p><i>Developing…</i></p>
 <p><a target="_blank" href="http://www.techcrunch.com/tag/aapl12q4" title="Apple Q4 2012 Earnings"></a>  </p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/25/apple-now-has-121-3-billion-in-cash-more-than-amazons-market-cap-or-a-space-station/">here</a>.
