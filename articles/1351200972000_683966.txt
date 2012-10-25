@@ -1,9 +1,10 @@
 {
-"title" : "Tim Cook: Microsoft’s Surface Is A “Fairly Compromised, Confusing Product”",
+"title" : "Apple’s CEO Tim Cook: Microsoft’s Surface Is A “Fairly Compromised, Confusing Product”",
 "date" : "Thu, 25 Oct 2012 21:36:12 +0000",
 "author" : "Frederic Lardinois"
 }
 
 <img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/02/tim-cook-300x225.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Tim Cook" title="Tim Cook" style="float: left; margin: 0 10px 7px 0;" /><p>During Apple&#8217;s earnings call today, the company&#8217;s CEO Time Cook called Microsoft&#8217;s Surface a &#8220;fairly compromised, confusing product.&#8221; According to Cook, &#8220;you could design a car that flies and floats, but I don&#8217;t think it would do all of those things very well.&#8221; People will conclude they will want and iPad, &#8220;and I think they will continue to do that.&#8221;</p>
-<p>Updating&#8230;</p>
+<p>Windows 8, of course, features both the standard desktop interface and the new Windows 8 UI (formerly known as &#8220;Metro&#8221;). The surface, runs Windows RT, doesn&#8217;t offer the full desktop experience, but it does run Microsoft&#8217;s Office suite in the old-school desktop mode.</p>
+<p>Cook was clearly taken back a bit by this question and he clearly had to think about his answer. He still didn&#8217;t hold back and, to be fair, his opinion is fairly similar to that of many reviewers.</p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/25/tim-cook-microsofts-surface-is-a-fairly-compromised-confusing-product/">here</a>.
