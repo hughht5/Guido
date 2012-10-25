@@ -1,0 +1,18 @@
+{
+"title" : "Google Has Given Us The Gift Of One Click Access To Docs, Sheets And Slides…Oh My!",
+"date" : "Thu, 25 Oct 2012 01:30:15 +0000",
+"author" : "Drew Olanoff"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/3148687588_4d8fce3575_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="3148687588_4d8fce3575_z" title="3148687588_4d8fce3575_z" style="float: left; margin: 0 10px 7px 0;" /><p>I use Google products for pretty much everything, including documents, spreadsheets (ew) and slide presentations (double ew).  Now that these products are safely nestled under &#8220;Google Drive&#8221;, they&#8217;ve been renamed to Docs, Sheets and Slides.  Yay for that. But what&#8217;s really interesting, and something that I missed during the <a href="http://techcrunch.com/2012/10/23/tctv-wrap-up-the-rundown-on-apples-ipad-mini-launch-event/">Apple</a> and <a href="http://techcrunch.com/2012/10/23/mark-zuckerberg-desktop-users-are-40-likely-to-come-back-daily-mobile-users-70/">Facebook</a> frenzies yesterday, is that Google has submitted these &#8220;apps&#8221; to the Chrome Web Store for easy access.</p>
+<p>I&#8217;m a day late to this, yes&#8230;but it&#8217;s worth sharing.</p>
+<p>Peep <a target="_blank" href="http://googledrive.blogspot.com/2012/10/one-click-to-docs-sheets-and-slides.html">this</a>:</p>
+<blockquote><p>Google Drive is a place where you can create, share, collaborate and keep all your stuff. Of course, there are times you want to start a new document right away–say, to take notes in class or prepare a last-minute presentation for your boss.</p>
+<p>To make it even easier for you to create stuff quickly, Documents, Spreadsheets, and Presentations–now called Docs, Sheets, and Slides–are available as apps in the Chrome Web Store. Once installed, shortcuts to these apps will appear when you open a new tab in Chrome.</p></blockquote>
+<p>Now it might not sound like a big deal, but if you&#8217;re a Google Chrome user, and you happen to use their other products, then you&#8217;ll realize that simple shortcuts like this could save you a huge amount of time. Here&#8217;s what a new Chrome tab will look like after you install the apps:</p>
+<p><a href="http://techcrunch.com/2012/10/24/google-has-given-us-the-gift-of-one-click-access-to-docs-sheets-and-slides-oh-my/doorways1/" rel="attachment wp-att-683087"></a></p>
+<p>What&#8217;s even better is that if you use a Chromebook, all of these apps will show up in your dock:</p>
+<p><a href="http://techcrunch.com/2012/10/24/google-has-given-us-the-gift-of-one-click-access-to-docs-sheets-and-slides-oh-my/doorways2/" rel="attachment wp-att-683088"></a></p>
+<p>I just got my hot little hands on the new Samsung Chromebook and will be posting my review soon. I won&#8217;t ruin anything for you, but you might be surprised. Stay tuned.</p>
+<p>[Photo credit: <a target="_blank" href="http://www.flickr.com/photos/krossbow/3148687588/">Flickr</a>]</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/24/google-has-given-us-the-gift-of-one-click-access-to-docs-sheets-and-slides-oh-my/">here</a>.
