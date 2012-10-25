@@ -142650,3 +142650,38 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+{ statusCode: 403,
+  data: '{"request":"\\/1\\/statuses\\/update.json","error":"Status is over 140 characters."}' }
+tweeted : http://www.techcrunchlite.com/2012/10/From-Typing-To-Gliding-And-Back-Again:-SwiftKey-Touchscreen-Keyboard-Maker-Adds-Swype-Style-Input,-Calls-It-SwiftKey-Flow From Typing To Gliding And Back Again: SwiftKey Touchscreen Keyboard Maker Adds Swype-Style Input, Calls It SwiftKey Flow
+Git - Stdout: [master ca46d6e] adding new article
+ 3 files changed, 66 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1351170011000_683172.txt
+ create mode 100644 articles/1351170022000_682288.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   a5b25ee..ca46d6e  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 1 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
