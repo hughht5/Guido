@@ -1,5 +1,5 @@
 {
-"title" : "Strategy Analytics: iPad’s Loss Is Android’s Gain In Tablets In An A Lackluster Quarter Of 25M Units Shipped",
+"title" : "Strategy Analytics: iPad’s Loss Is Android’s Gain In Tablet Shipments, But Apple Still Ahead At 57% Of Q3 Sales",
 "date" : "Thu, 25 Oct 2012 23:20:12 +0000",
 "author" : "Ingrid Lunden"
 }
