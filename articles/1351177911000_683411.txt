@@ -1,0 +1,19 @@
+{
+"title" : "New Relic Connect – A Way To See The Data Behind All Those Apps",
+"date" : "Thu, 25 Oct 2012 15:11:51 +0000",
+"author" : "Alex Williams"
+}
+
+<img width="100" height="68" src="http://tctechcrunch2011.files.wordpress.com/2011/11/new-relic.png?w=100&amp;h=68&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="New Relic" title="New Relic" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://newrelic.com/">New Relic </a>has added the capability to monitor data across multiple applications and systems for deeper, more detailed views &#8212; another sign that the new era of Internet models is taking the enterprise by storm.</p>
+<p>Currently, a customer would install New Relic&#8217;s native agent into its application and run it there to get data. With<a target="_blank" href="http://newrelic.com/connect"> New Relic Connect </a>customers may use the New Relic technology to monitor how their apps are performing with other services that are part of the partner program.</p>
+<p>This is important for several reasons:</p>
+<ul>
+<li>We live in an era of connected apps. How one app performs depends on the overall flow of the entire tool chain.</li>
+<li>Big Internet companies like Google have custom-built their own control panels to monitor the nuances of their applications and systems. These kinds of views are lacking in most enterprise shops. Companies need these views to better understand how apps perform, especially as they start to use services like Amazon Web Services (AWS) that integrate with their data centers.</li>
+<li>A giant space exists between cloud services and private enterprise environments. It&#8217;s still largely the domain of command-line interfaces and early tools that need to mature. Getting data from multiple apps and systems should help companies better understand that space.</li>
+</ul>
+<p>New Relic has launched the service with an initial group of partners that include Blitz, a load testing provider in the cloud; enterprise collaboration software provider JIRA/Atlassian; log management service provider Loggly; and web and mobile app testing provider SOASTA.</p>
+<p>The service is available via API, RSS feed and other means such as webhooks. The partner program is open to any provider with complementary technology.</p>
+<p>New Relic competes with the likes of AppDynamics. New Relic Connect is a strong offering but is still fairly limited to a relatively small number of applications. It should have far more value when it integrates with a larger partner ecosystem.</p>
+<p>The shift to lightweight services  shows how Internet-style apps are having an impact on companies of all sizes. What we will see going forward are new interfaces such as what we see today from New Relic.</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/25/new-relic-connect-a-way-to-see-the-data-behind-all-those-apps/">here</a>.
