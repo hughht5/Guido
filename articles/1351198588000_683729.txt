@@ -1,5 +1,5 @@
 {
-"title" : "YouTube Adds InVideo Programming To Boost Video And Channel Promotion",
+"title" : "YouTube Launches InVideo Programming To Boost Video And Channel Promotion",
 "date" : "Thu, 25 Oct 2012 20:56:28 +0000",
 "author" : "Ryan Lawler"
 }

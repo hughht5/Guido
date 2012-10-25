@@ -1,0 +1,9 @@
+{
+"title" : "Apple Hardware Sales In FY 2012: 125.04M iPhones, 58.23M iPads, 18.1M Macs And 35.2M iPods",
+"date" : "Thu, 25 Oct 2012 20:56:45 +0000",
+"author" : "Darrell Etherington"
+}
+
+<p>Apple&#8217;s Q4 results mean we also now have the total hardware sales the company managed for the 2012 financial year. The company sold an amazing 125.04 million iPhones, 58.23 million iPads, 18.1 million Macs and 35.2 million iPods. To put that in perspective, it sold only 72 million iPhones across all of FY 2011.</p>
+<p><em>Developing&#8230;</em></p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/25/apple-hardware-sales-in-fy-2012-125-04m-iphones-58-23m-ipads-18-1m-macs-and-35-2m-ipods/">here</a>.
