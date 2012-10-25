@@ -138639,3 +138639,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/With-1.2B-Daily-Image-Views,-Imgur-Gets-%E2%80%9CBiggest-Update%E2%80%9D-Yet,-Rolls-Out-New-Gallery,-Reputation-System-&-More With 1.2B Daily Image Views, Imgur Gets “Biggest Update” Yet, Rolls Out New Gallery, Reputation System & More
+Git - Stdout: [master b77ffda] adding new article
+ 2 files changed, 50 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1351164075000_683160.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   68d88ff..b77ffda  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
