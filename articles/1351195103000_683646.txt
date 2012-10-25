@@ -5,9 +5,9 @@
 }
 
 <img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/facebook-games-growth.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Facebook Games Growth" title="Facebook Games Growth" style="float: left; margin: 0 10px 7px 0;" /><p>&#8220;It used to be about as much spam as you could pump into the system as possible&#8221;, Facebook&#8217;s Alex Schultz told reporters today. But Facebook has managed to grow its gaming ecosystem 11% to 251 million users this year as it focuses on combatting game spam. And developers are building a more diverse set of games. The only problem? Facebook&#8217;s total user count is still growing faster than its gamer count.</p>
-<p>At the end of September last year, Facebook had 226 million people playing Facebook-integrated games, and now it has 251 million. The casino, arcade/puzzle, and mid-to-hardcore game categories are growing in popularity as the old farming and simulation game categories are shrinking in market share.</p>
+<p>At the end of September last year, Facebook had 226 million people playing Facebook integrated games, and now it has 251 million. The casino, arcade/puzzle, and mid-to-hardcore game categories are growing in popularity as the old farming and simulation game categories are shrinking in market share.</p>
 <p style="text-align:center;"></p>
-<p>Meanwhile, Facebook is seeing game developers coming from a wider set of countries and continents, including Africa, Russia, Australia, and especially Israel, which Facebook&#8217;s Sean Ryan said &#8220;is exploding&#8221; right now. Facebook saw 450 gaming developers attend a recent meetup in Israel, a country of fewer than 8 million people.</p>
+<p>Meanwhile, Facebook is seeing game developers coming from a wider set of countries and continents, including Africa, Russia, Australia, and especially Israel, which Facebook&#8217;s Sean Ryan said &#8220;is exploding&#8221; right now.</p>
 <p>We&#8217;re still in today&#8217;s Facebook games whiteboard session at Facebook headquarters right now, so we&#8217;ll have more details and analysis soon.</p>
 <p style="text-align:center;"></p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/25/facebook-games/">here</a>.
