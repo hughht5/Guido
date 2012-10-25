@@ -1,5 +1,5 @@
 {
-"title" : "Telefonica Digital Buys Video Chat Platform TokBox, An Airtime For The Rest Of Us",
+"title" : "Telefonica Buys Video Chat Platform TokBox, An Airtime For The Rest Of Us",
 "date" : "Thu, 25 Oct 2012 11:33:27 +0000",
 "author" : "Ingrid Lunden"
 }
