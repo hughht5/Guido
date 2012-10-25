@@ -141171,3 +141171,36 @@ written article to disk.
 Scraping complete. Now commiting to GitHub
 { statusCode: 403,
   data: '{"request":"\\/1\\/statuses\\/update.json","error":"Status is over 140 characters."}' }
+tweeted : http://www.techcrunchlite.com/2012/10/Hands-On-With-The-EOS-M,-Canon%E2%80%99s-First-Mirrorless-Interchangeable-Lens-Camera Hands On With The EOS M, Canon’s First Mirrorless Interchangeable Lens Camera
+Git - Stdout: [master da42843] adding new article
+ 3 files changed, 69 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1351167880000_683196.txt
+ create mode 100644 articles/1351167901000_683214.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   c72275e..da42843  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
