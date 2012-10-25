@@ -146270,3 +146270,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Pocket%E2%80%99s-Mac-App-Brings-All-That-Saved-Content-To-The-Best-Place-To-Use-It Pocket’s Mac App Brings All That Saved Content To The Best Place To Use It
+Git - Stdout: [master 25454fd] adding new article
+ 3 files changed, 42 insertions(+), 1 deletions(-)
+ create mode 100644 articles/1351175470000_683382.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   6e79ead..25454fd  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
