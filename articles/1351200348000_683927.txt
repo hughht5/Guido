@@ -1,10 +1,11 @@
 {
-"title" : "Apple Says The iPad Mini’s Gross Margin Is “Significantly” Lower Than Other Products",
+"title" : "Apple Says The iPad Mini’s Gross Margin Is “Significantly” Lower Than Its Other Products",
 "date" : "Thu, 25 Oct 2012 21:25:48 +0000",
 "author" : "Darrell Etherington"
 }
 
 <img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/ipadmini.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="ipadmini" title="ipadmini" style="float: left; margin: 0 10px 7px 0;" /><p>The iPad mini&#8217;s gross margin is &#8220;significantly below&#8221; the rest of Apple&#8217;s product line at $329, Apple CFO Peter Oppenheimer said on the company&#8217;s conference call today. He said that&#8217;s driving lower guidance for the upcoming quarter despite a number of new products just-launched across its lineup of offerings.</p>
 <p>&#8220;We&#8217;re unwilling to cut corners in delivering the best experiences in the world,&#8221; said Apple CEO Tim Cook. He stressed that the company is all about setting the bar high, perhaps implying that that&#8217;s what&#8217;s making gross margins slimmer on the iPad mini.</p>
+<p>Oppenheimer added that the company hopes to improve margins with further supply chain and manufacturing process optimization as its production of the iPad mini continues to ramp up and become ore efficient and cost-effective.</p>
 <p><em>Developing&#8230;</em></p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/25/apple-says-the-ipad-minis-gross-margin-is-significantly-lower-than-other-products/">here</a>.
