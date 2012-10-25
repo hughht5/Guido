@@ -4,6 +4,6 @@
 "author" : "Romain Dillet"
 }
 
-<p>Apple managed to sell a lot of iOS devices over the last three months. But iPad sales are still declining. They are down 17.6 percent to 14 million compared to</p>
+<p>Apple managed to sell a lot of iOS devices over the last three months. But iPad sales are still declining. They are down 17.6 percent to 14 million compared to 17 million in Q3. Analysts expected 15.55 million iPads sold. Apple missed.</p>
 <p><i>Developing…</i></p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/25/apples-q4-2012-ipad-sales-still-declining-down-17-6-percent-to-14-million/">here</a>.
