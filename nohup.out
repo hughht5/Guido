@@ -144913,3 +144913,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Netflix-Hits-30-Million-Members-After-Q3-Subscriber-Growth-%E2%80%9CForecasting-Error%E2%80%9D Netflix Hits 30 Million Members After Q3 Subscriber Growth “Forecasting Error”
+Git - Stdout: [master 9308deb] adding new article
+ 2 files changed, 43 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1351173462000_683363.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   5221c96..9308deb  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
