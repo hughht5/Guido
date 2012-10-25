@@ -1,5 +1,5 @@
 {
-"title" : "251 Million People Play Facebook Games, Up 11% This Year As It Fights Spam And Genres Diversify",
+"title" : "One Quarter Of Facebook Users Play Games, Up 11% To 251M This Year As It Fights Spam And Genres Diversify",
 "date" : "Thu, 25 Oct 2012 19:58:23 +0000",
 "author" : "Josh Constine"
 }
