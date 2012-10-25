@@ -1,19 +1,20 @@
 {
-"title" : "Tim Cook: We Will Never Make A 7-Inch Tablet, We Don’t Think They’re Good Products",
+"title" : "Tim Cook On Steve Jobs’ Tablet Rant: We Will Never Make A 7-Inch Tablet, We Don’t Think They’re Good Products",
 "date" : "Thu, 25 Oct 2012 22:00:22 +0000",
 "author" : "Drew Olanoff"
 }
 
-<p><a target="_blank" href="http://www.techcrunch.com/tag/aapl12q4" title="Apple Q4 2012 Earnings"></a></p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/6217030842_882fa75de1_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="6217030842_882fa75de1_z" title="6217030842_882fa75de1_z" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.techcrunch.com/tag/aapl12q4" title="Apple Q4 2012 Earnings"></a></p>
 <p>During the Q4 Apple earnings call, Cook addressed words spoken by Steve Jobs in the past regarding a 7-inch tablet</p>
 <blockquote><p>On comments that Steve made before about 7 inch tablets, let me be clear, we would not make one of the 7 inch tablets, we don&#8217;t think they&#8217;re good products, we&#8217;d never make one.</p></blockquote>
 <p>In case you&#8217;re wondering what Steve Jobs said about the 7-inch form factor, here&#8217;s his original quote:</p>
 <blockquote><p>7-inch tablets are tweeners: too big to compete with a smartphone and too small to compete with the iPad. &#8230;.7-Inch tablets are dead on arrival.</p></blockquote>
-<p>Jobs had more to say in his day about the smaller tablet:</p>
+<p>Jobs had <a target="_blank" href="http://news.cnet.com/8301-13579_3-57538580-37/how-steve-jobs-7-inch-flip-flop-worked-to-apples-advantage/">more to say in his day about the smaller tablet</a>:</p>
 <blockquote><p>While one could increase the resolution to make up some of the difference, it is meaningless unless your tablet also includes sandpaper, so that the user can sand down their fingers to around one-quarter of their present size. Apple has done expensive user testing on touch interfaces over many years, and we really understand this stuff.</p>
 <p>There are clear limits of how close you can place physical elements on a touch screen, before users cannot reliably tap, flick or pinch them. This is one of the key reasons we think the 10-inch screen size is the minimum size required to create great tablet apps.
 </p></blockquote>
 <p>On the other hand, the new iPad mini, which is 7.9 inches is not a &#8220;compromised product&#8221; according to Cook. He&#8217;s clearly referring to products from Samsung, Asus and Google.</p>
 <p>Regarding Apple customers and providing them with the best of class, Cook says:</p>
 <blockquote><p>Customers are very smart, have high expectations and they want a device that can do more.</p></blockquote>
+<p>[Photo credit: <a target="_blank" href="http://www.flickr.com/photos/fmckinlay/6217030842/sizes/z/">Flickr</a>]</p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/25/tim-cook-we-will-never-make-a-7-inch-tablet-we-dont-think-theyre-good-products/">here</a>.
