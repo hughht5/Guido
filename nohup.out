@@ -149923,3 +149923,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Software-Eats-Education:-With-$15-Million-In-Series-B-Funding,-Andreessen-Horowitz-Bets-On-Udacity Software Eats Education: With $15 Million In Series B Funding, Andreessen Horowitz Bets On Udacity
+Git - Stdout: [master 35135f3] adding new article
+ 2 files changed, 54 insertions(+), 0 deletions(-)
+ create mode 100644 articles/1351180824000_682535.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   b617cf2..35135f3  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
