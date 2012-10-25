@@ -9,6 +9,10 @@
 <blockquote><p>On comments that Steve made before about 7 inch tablets, let me be clear, we would not make one of the 7 inch tablets, we don&#8217;t think they&#8217;re good products, we&#8217;d never make one.</p></blockquote>
 <p>In case you&#8217;re wondering what Steve Jobs said about the 7-inch form factor, here&#8217;s his original quote:</p>
 <blockquote><p>7-inch tablets are tweeners: too big to compete with a smartphone and too small to compete with the iPad. &#8230;.7-Inch tablets are dead on arrival.</p></blockquote>
+<p>Jobs had more to say in his day about the smaller tablet:</p>
+<blockquote><p>While one could increase the resolution to make up some of the difference, it is meaningless unless your tablet also includes sandpaper, so that the user can sand down their fingers to around one-quarter of their present size. Apple has done expensive user testing on touch interfaces over many years, and we really understand this stuff.</p>
+<p>There are clear limits of how close you can place physical elements on a touch screen, before users cannot reliably tap, flick or pinch them. This is one of the key reasons we think the 10-inch screen size is the minimum size required to create great tablet apps.
+</p></blockquote>
 <p>On the other hand, the new iPad mini, which is 7.9 inches is not a &#8220;compromised product&#8221; according to Cook. He&#8217;s clearly referring to products from Samsung, Asus and Google.</p>
 <p>Regarding Apple customers and providing them with the best of class, Cook says:</p>
 <blockquote><p>Customers are very smart, have high expectations and they want a device that can do more.</p></blockquote>
