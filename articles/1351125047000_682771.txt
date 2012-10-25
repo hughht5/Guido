@@ -1,0 +1,13 @@
+{
+"title" : "Mobile Marketing Startup PageWoo Launches To Make Mobile Ads Location-Aware",
+"date" : "Thu, 25 Oct 2012 00:30:47 +0000",
+"author" : "Ryan Lawler"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-24-at-5-22-46-pm.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-10-24 at 5.22.46 PM" title="Screen Shot 2012-10-24 at 5.22.46 PM" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://app.pagewoo.com/a/index.html#/home">PageWoo</a> seeks to solve a number of problems for mobile marketers: It is at once a content-generation engine, as well as a multi-image testing platform. It can target ads based on location and even on the weather. Oh, and did I mention that it provides detailed analytics that can be used to better target those ads.</p>
+<p>So a big part of the PageWoo platform is just aggregating digital assets that can be stitched together in ad units and optimized based on performance. That allows advertisers and marketers to create more effective campaigns without having to do a whole heck of a lot of work. That includes landing pages and banner ads, among other things.</p>
+<p><a href="http://techcrunch.com/?attachment_id=683073" rel="attachment wp-att-683073"></a></p>
+<p>But that would be nothing without the ability to target those ads based on a base of location awareness and demographics data. Without using cookies or device IDs, PageWoo can position ads to be seen by the right audience. Using mostly location data, PageWoo does predictive demographic targeting to reach users. </p>
+<p>Pagewoo doesn&#8217;t work directly with publishers, but has tied into multiple mobile ad networks, giving it access to up to 10-15 billion monthly ad impressions. Since it&#8217;s working with remnant ad inventory, it can get those impressions cheaply, but can provide better performance than if an advertiser were just blindly placing ads wherever.  </p>
+<p>Founded by husband-and-wife team Jason Crilly and Holden Steinberg, Pagewoo has raised $500,000 from a few L.A.-based angels, including Applied Semantics founder Eytan Elbaz, former Atari CEO Jeff Lapin, Riot Games and Green Dot investor Brad Schwartz, and Rainforest LA founder Chris Hameetman.</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/24/pagewoo/">here</a>.
