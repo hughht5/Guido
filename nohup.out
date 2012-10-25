@@ -129206,3 +129206,34 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+Git - Stdout: [master 6846938] adding new article
+ 1 files changed, 30 insertions(+), 0 deletions(-)
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   7cacf2a..6846938  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 1 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/With-340M-Tracks-Played,-Soundrop,-The-%E2%80%98Turntable-For-Spotify,%E2%80%99-Gets-More-Interactive-On-Its-Mobile-And-Spotify-Apps With 340M Tracks Played, Soundrop, The ‘Turntable For Spotify,’ Gets More Interactive On Its Mobile And Spotify Apps
