@@ -142496,3 +142496,35 @@ written article to disk.
 written article to disk.
 written article to disk.
 Scraping complete. Now commiting to GitHub
+tweeted : http://www.techcrunchlite.com/2012/10/Get-Thee-To-The-MacHeistery:-18+-Seriously-Good-Apps-Are-Going-For-$29 Get Thee To The MacHeistery: 18+ Seriously Good Apps Are Going For $29
+Git - Stdout: [master 0c8bcea] adding new article
+ 3 files changed, 43 insertions(+), 2 deletions(-)
+ create mode 100644 articles/1351169851000_683296.txt
+
+Git - Stderr: To git@github.com:hughht5/Guido.git
+   f269803..0c8bcea  master -> master
+
+Updating TechCrunch main feed.
+STATUS: 200
+Found 0 new posts.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+written article to disk.
+Scraping complete. Now commiting to GitHub
