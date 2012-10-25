@@ -1,0 +1,13 @@
+{
+"title" : "Zillow Adds 1.8M Foreclosed And Pre-Foreclosure Homes To Its Real Estate Listings",
+"date" : "Thu, 25 Oct 2012 04:03:23 +0000",
+"author" : "Anthony Ha"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/zillow-logo.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="zillow logo" title="zillow logo" style="float: left; margin: 0 10px 7px 0;" /><p>Online real estate service <a target="_blank" href="http://www.zillow.com">Zillow</a> is expanding its real estate listings today by adding &#8220;pre-market inventory&#8221; — specifically, homes that have either been foreclosed or are in the foreclosure process.</p>
+<p>Increasing the selection of available homes is particularly important now, Zillow says, because the inventory of for-sale homes listed on the site has fallen by 20 percent over the past year. The company suggests that there&#8217;s already considerable interest from homebuyers in this kind of product, citing a study by the National Association of Realtors, which found that 55 percent of homeowners have considered purchasing a foreclosed home but don&#8217;t know how to find those listings or are discouraged by the complexity of the transaction.</p>
+<p>It looks like the vast majority (1.5 million) of the new listings consist of pre-foreclosure homes, where foreclosure proceedings have been initiated or an auction has been settled. Another 250,000 listings are homes that are owned by the bank or lender but are not yet listed for sale.</p>
+<p>In addition to the normal home information (bedrooms, bathrooms, and so on), Zillow will also include the estimated sale price and foreclosure details. The company will also be listing contact information for foreclosure specialists who can help with the process.</p>
+<p>&#8220;Zillow is taking information that was really only available to a select group – in this case, savvy investors –  and making it more easily available to interested home buyers,” said Zillow CEO Spencer Rascoff in a press release. “What’s more, bringing this information to light, and taking this inventory out of the shadows, can help bring these homes to market faster than ever before.”</p>
+<p>Zillow is also launching <a target="_blank" href="http://www.zillow.com/foreclosures/">a new Foreclosure Center</a> with information about the foreclosure process.</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/24/zillow-foreclosures/">here</a>.
