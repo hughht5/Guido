@@ -1,5 +1,5 @@
 {
-"title" : "Apple Retail Stores Do $4.2B Worth Of Sales In Q4 2012, Beats Out Q3 Earnings",
+"title" : "Apple Retail Stores Do $4.2B Worth Of Sales In Q4 2012, Beats Out Q3 Retail Earnings",
 "date" : "Thu, 25 Oct 2012 20:36:55 +0000",
 "author" : "Drew Olanoff"
 }
