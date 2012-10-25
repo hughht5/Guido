@@ -1,5 +1,5 @@
 {
-"title" : "With 1.2B Daily Image Views, Imgur Gets “Biggest Update” Yet, Rolls Out New Gallery, Reputation System & More",
+"title" : "Imgur, Now With 1.2B Daily Image Views, Adds New Gallery, Sorting, Reputation Tracking To Its Buzzy Image-Sharing Service",
 "date" : "Thu, 25 Oct 2012 11:21:15 +0000",
 "author" : "Rip Empson"
 }
