@@ -14,4 +14,5 @@
 <p>The jury still out on whether Samsung will be able to repeat its eventual domination in tablets as it has in smartphones, especially since Amazon is now shipping its tablets globally, and Asus is behind the Nexus 7.</p>
 <p>That could all change in the next couple of quarters, with the introduction of Windows 8 &#8212; although as it does in smartphones, Microsoft has a long way to go. SA notes that in this last quarter, shipments of Microsoft-powered tablets accounted for only 2% of the global total.</p>
 <p>Strategy Analytics notes that these numbers are for tablets-only and not e-book readers.</p>
+<p></p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/25/strategy-analytics-ipads-loss-is-androids-gain-in-tablet-shipments-but-apple-still-ahead-at-57-of-q3-sales/">here</a>.
