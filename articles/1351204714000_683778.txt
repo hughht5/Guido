@@ -1,5 +1,5 @@
 {
-"title" : "Yahoo! Is Testing Out New Logo Ideas, Still Isn’t Dropping The ! Also Rolling Out New Homepage With Infinite Scrolling",
+"title" : "Yahoo! Is Testing Out New Logo Ideas, Still Isn’t Dropping The !",
 "date" : "Thu, 25 Oct 2012 22:38:34 +0000",
 "author" : "Ingrid Lunden"
 }
@@ -9,11 +9,8 @@
 <p></p>
 <p>Asked about this and whether it was a Yahoo-generated survey, a spokesperson tells us this:</p>
 <blockquote><p>&#8220;Yahoo! is continually developing and testing new concepts in an effort to offer the most delightful experiences for users and advertisers, but we don&#8217;t have anything new to announce at this time.&#8221;</p></blockquote>
-<p>Note the drop of the serif, note that it&#8217;s not purple, and <a href="http://techcrunch.com/2012/09/18/yahooligans/">note there is still a !</a> &#8211; although there may be other options where Yahoo drops it. Last week <a target="_blank" href="http://www.businessinsider.com/marissa-mayers-new-yahoocom-homepage-2012-10">Business Insider</a> ran what it says is a leaked copy of the new Yahoo homepage, where the purple also appears to have faded somewhat. <strong>Update:</strong> A reader has sent us screen shots of that new layout now appearing (see below). The blue in these logos looks a lot closer to the blue in that design, too.</p>
+<p>Note the drop of the serif, note that it&#8217;s not purple, and <a href="http://techcrunch.com/2012/09/18/yahooligans/">note there is still a !</a> &#8211; although there may be other options where Yahoo drops it. Last week <a target="_blank" href="http://www.businessinsider.com/marissa-mayers-new-yahoocom-homepage-2012-10">Business Insider</a> ran what it says is a leaked copy of the new Yahoo homepage, where the purple also appears to have faded somewhat. The blue in these logos looks a lot closer to the blue in that design, too.</p>
 <p>Whether or not a logo can make a big difference to Yahoo&#8217;s fortunes is one for debating.</p>
 <p>To put it in context, the company earlier this week <a href="http://techcrunch.com/2012/10/22/yahoo-posts-2012-q3-earnings/">reported solid, if not stellar, earnings for Q3</a>, beating analyst expectations on revenues of $1.2 billion. Today it <a href="http://techcrunch.com/2012/10/25/yahoo-bought-stamped">announced its first acquisition</a> under their new CEO, the mobile app for recommendations <a target="_blank" href="http://www.stamped.com">Stamped</a>, and there could be more. There have also been a boatload of new executive hires, from the <a href="http://techcrunch.com/2012/10/16/yahoo-ceo-marissa-mayer-fills-coo-role-with-former-google-colleague-henrique-de-castro/">COO down</a>.</p>
 <p>FWIW, our tipster notes that he likes the current logo better.</p>
-<p><strong>Update:</strong> The new homepage looks like it is getting rolled out now, at least in some markets and with some people. A reader sent us the below screenshots from a little earlier. He notes that the page features infinite scrolling. As you move down the page more content appears and the top menu bar follows you.</p>
-<p></p>
-<p></p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/25/yahoo-is-testing-out-new-logo-ideas-still-isnt-dropping-the/">here</a>.
