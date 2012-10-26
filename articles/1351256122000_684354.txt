@@ -1,0 +1,17 @@
+{
+"title" : "Watch Out, Pandora: Apple’s Streaming Radio Service Could Launch In Early 2013",
+"date" : "Fri, 26 Oct 2012 12:55:22 +0000",
+"author" : "Jordan Crook"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2010/10/itunes-logo.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="itunes logo" title="itunes logo" style="float: left; margin: 0 10px 7px 0;" /><p>According to a report <a target="_blank" href="http://www.bloomberg.com/news/2012-10-25/apple-s-online-radio-service-to-challenge-pandora-in-2013.html">out of Bloomberg</a>, Apple may be working on a radio product to compete with Pandora. The story cited sources &#8220;familiar with the matter,&#8221; who confirm that Apple is in intensified talks with major music labels to figure out how to split ad revenue.</p>
+<p>The service is expected to launch next year, in 2013.</p>
+<p>Obviously, this would be a huge hit to Pandora, which currently owns the crowded Internet radio market. In fact, Pandora&#8217;s shares dropped 12 percent yesterday to $8.20.</p>
+<p>The idea behind the Apple Internet radio is actually relatively simple. The company already has a foot in the door with most major music labels — iTunes, digital downloads, etc. — and this is just a progression of those talks.</p>
+<p>Whereas Pandora, and many of its competitors, use a compulsory license to stream music to users, Apple is looking to forge direct deals with labels for more comprehensive and flexible licensing.</p>
+<p>In other words, Apple radio probably won&#8217;t ever tell you that you can&#8217;t skip a song. And unlike Pandora, if you want to listen to all Johnny Cash, all the time, Apple won&#8217;t fold in music that&#8217;s similar to Johnny Cash just to follow licensing requirements.</p>
+<p>In essence, it is expected to be the best internet radio ever. If real, of course.</p>
+<p>Rumors have swirled <a href="http://techcrunch.com/2012/09/15/apples-stream-dreams-the-history-of-a-potential-pandora-killer/">since September</a> (and earlier) that Apple was working on a Pandora-killing radio product. It&#8217;s expected that the service will run as an app for desktop and iOS devices, rather than as a web service.</p>
+<p>In the <a href="http://techcrunch.com/2012/10/25/apple-q4-2012/">fourth quarter earnings call yesterday</a>, Apple reported that iTunes had hit record revenues, but the company also revealed that iPod sales are down 19 percent year-over-year. Just like CDs, cassette tapes, and 8 tracks before them, digital downloads that take up valuable space on your gadgetry will go out of style.</p>
+<p>Of course, new iPods will probably invigorate iTunes even more in the coming quarter, but an extra revenue stream from music (where Apple arguably got its wings and learned to fly) isn&#8217;t a bad idea at all.</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/26/watch-out-pandora-apples-streaming-radio-service-could-launch-in-early-2013/">here</a>.
