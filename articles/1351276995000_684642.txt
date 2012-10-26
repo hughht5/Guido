@@ -1,0 +1,51 @@
+{
+"title" : "Want To Read App.net Status Messages In The Official Twitter App? Here’s How With Apparchy",
+"date" : "Fri, 26 Oct 2012 18:43:15 +0000",
+"author" : "Drew Olanoff"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/6250717968_437721f226_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="6250717968_437721f226_z" title="6250717968_437721f226_z" style="float: left; margin: 0 10px 7px 0;" /><p>The great thing about San Francisco is that it&#8217;s a small town in size. As I was walking to the office today I walked by <a target="_blank" href="https://twitter.com/stevestreza">Steve Streza</a> of <a href="http://techcrunch.com/2012/10/25/pockets-mac-app-brings-all-that-saved-content-to-the-best-place-to-use-it/">Pocket</a> and we caught up on what he&#8217;s working on lately. Yesterday, there was an <a href="http://techcrunch.com/2012/10/17/app-net-launches-a-directory-for-app-net-apps-apps/">App.net</a> hackathon and Steve showed me what he made, and it&#8217;s really cool. If you&#8217;re unsure, <a target="_blank" href="http://daltoncaldwell.com/we-did-it">App.net is a project</a> that is kind of like Twitter, for those who don&#8217;t want to necessarily be on Twitter. Kind of.</p>
+<p>Without having to jailbreak your phone or anything, you can read all of your App.net statuses and submit your own using the official Twitter app. It&#8217;s kind of handy, eh? He calls the hack <a target="_blank" href="https://apparchy.net/">Apparchy</a>, and he&#8217;s set up a site for it as well as a blog post.</p>
+<p>If you&#8217;re an App.net user and would like to do this, I figured I&#8217;d post the steps to make it happen here via Steve himself. It works for the official Twitter app on iPhone and iPad.</p>
+<p>&#8212;&#8212;&#8212;<br />
+<strong>How to setup:</strong></p>
+<blockquote><p>1) Sign up for a free account on the <a target="_blank" href="https://apparchy.net/">Apparchy website</a><br />
+2) Add your <a target="_blank" href="http://app.net">app.net</a> account<br />
+3) Open Twitter.app for iPhone or iPad<br />
+4) Add an account<br />
+5) Enter the username/password you used to sign up on the <a target="_blank" href="https://apparchy.net/">Apparchy website</a> (not your app.net credentials)<br />
+6) Tap the gear icon on the login screen<br />
+7) Under &#8220;API root&#8221;, enter: https://apparchy.net/api/<br />
+8) Log in</p></blockquote>
+<p><a href="http://techcrunch.com/?attachment_id=684650" rel="attachment wp-att-684650"></a> <a href="http://techcrunch.com/?attachment_id=684651" rel="attachment wp-att-684651"></a></p>
+<p>You will then see app.net data loaded into Twitter.app.</p>
+<p><strong>You can:</strong></p>
+<blockquote><p>- view the stream of people you follow<br />
+- view the stream of your mentions<br />
+- view user profiles, including your own<br />
+- view follower/following lists for a given user (e.g. view people who follow @dalton or people who @gruber follows)<br />
+- view entire conversations<br />
+- view how many stars and reposts a given post got<br />
+- search for users<br />
+- pull to refresh and infinitely scroll<br />
+- create new post or reply to other posts<br />
+- star or repost<br />
+- follow or unfollow</p></blockquote>
+<p><strong>Some caveats:</strong></p>
+<blockquote><p>- if you have a Twitter account and an App.net account with the same username, if you relaunch the Twitter app, it will get confused and forget your proxy. So you will have to remove the Twitter account to make this work (usually by disabling Twitter.app from having access to system-wide Twitter accounts in Settings &gt; Twitter).<br />
+- location data does not get included when posting<br />
+- photos cannot be posted through the app<br />
+- URLs in posts will be added to the beginning of the post, and sometimes aren&#8217;t tappable<br />
+- you cannot view who starred or reposted a post<br />
+- you cannot post something &gt; 140 characters<br />
+- search and the discover tabs don&#8217;t really work<br />
+- Twitter crap like promoted tweets and who to follow and stories don&#8217;t work<br />
+- nothing will appear in the Interactions tab except for mentions (so no repost or star notifications)</p></blockquote>
+<p><strong>How it works:</strong></p>
+<blockquote><p>A request through the Apparchy API consists of three steps &#8211; checking the authorization, calling the app.net API, and transforming the response. Apparchy implements Twitter&#8217;s OAuth 1.0a scheme, and sends all data over HTTPS, so requests are as secure as calls to the Twitter API. From this we get the App.net credentials from a database, and make the appropriate call to app.net (so a call to the &#8220;mentions&#8221; API on Twitter calls the appropriate API for app.net&#8217;s &#8220;mentions&#8221;). Once it has the response, it transforms the response from what the app.net API returns into what the Twitter API returns, pulling data from one and putting it into the other.</p>
+<p>The result of this is the Twitter app sends a request in a certain way, and expects a response in a certain way. Apparchy implements an API that understands how the Twitter app sends requests, and understands how to give something back the Twitter app expects its response. Since Twitter has no idea something is sitting in the middle, it thinks what it&#8217;s getting back are tweets, so it happily shows them.</p></blockquote>
+<p>&#8212;&#8212;&#8212;</p>
+<p>There you have it <a target="_blank" href="http://app.net">App.net</a> fans, go ahead and tweet to your App&#8217;s content. Pretty genius, Steve.</p>
+<p><a href="http://techcrunch.com/?attachment_id=684681" rel="attachment wp-att-684681"></a></p>
+<p>[Photo credit: <a target="_blank" href="http://www.flickr.com/photos/bobjagendorf/6250717968/">Flickr</a>]</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/26/want-to-read-app-net-status-messages-in-the-official-twitter-app-heres-how-with-apparchy/">here</a>.
