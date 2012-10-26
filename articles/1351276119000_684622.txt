@@ -1,5 +1,5 @@
 {
-"title" : "Shufflr Aims To Fill The Social Video Void On Windows 8",
+"title" : "Shufflr Aims To Be The King Of Social Video On Windows 8",
 "date" : "Fri, 26 Oct 2012 18:28:39 +0000",
 "author" : "Anthony Ha"
 }
