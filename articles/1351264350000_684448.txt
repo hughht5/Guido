@@ -8,10 +8,8 @@
 <p>Google started offering an optional &#8216;terrain&#8217; layer for Google Maps in 2008, but with today&#8217;s update, seeing terrain has now become the default. It&#8217;s worth noting, though, that the old &#8216;terrain&#8217; layer continues to be an option. While the terrain information on the new basemap is relatively subtle the more you zoom in, the old terrain layer continues to provide you with more detailed information at a more granular level.</p>
 <p>This new data on the basemap, Google says, allows you to &#8220;quickly and easily see where the great forests, deserts, and mountain ranges around the world begin and end.&#8221; Google also notes that this information can provide its users with a better understanding of &#8220;how natural land formations can impact where, how and why man-made developments like urban cities, dams and bridges are made.&#8221;</p>
 <p>Here is what the old map looked like:</p>
-<p><a href="http://techcrunch.com/?attachment_id=684504" rel="attachment wp-att-684504"></a></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p><a href="http://techcrunch.com/2012/10/26/new-google-maps-basemap-now-shows-terrain-vegetation-by-default/tlc-blog-asia-01/" rel="attachment wp-att-684504"></a></p>
 <p>And this is what it looks like now:</p>
-<p><a href="http://techcrunch.com/?attachment_id=684464" rel="attachment wp-att-684464"></a><br />
+<p><a href="http://techcrunch.com/2012/10/26/new-google-maps-basemap-now-shows-terrain-vegetation-by-default/tlc-blog-asia-02/" rel="attachment wp-att-684464"></a><br />
 Google says it hopes &#8220;this new visual information literally provides you with a more comprehensive and accurate lay of the land, and comes in handy whether you’re planning a trip or just browsing the map. From lush rolling hills to expansive deserts, just click and explore!&#8221;</p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/26/new-google-maps-basemap-now-shows-terrain-vegetation-by-default/">here</a>.
