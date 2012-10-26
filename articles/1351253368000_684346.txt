@@ -1,0 +1,11 @@
+{
+"title" : "Japan’s NTT Docomo Launches $125M Incubator Fund And Program To Accelerate Homegrown Mobile Innovation",
+"date" : "Fri, 26 Oct 2012 12:09:28 +0000",
+"author" : "Natasha Lomas"
+}
+
+<img width="100" height="67" src="http://tctechcrunch2011.files.wordpress.com/2012/07/screen-shot-2012-07-13-at-10-40-48.png?w=100&amp;h=67&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="docomo logo" title="docomo logo" style="float: left; margin: 0 10px 7px 0;" /><p>Good news for Japanese startups: Japan&#8217;s largest mobile carrier, NTT Docomo, has <a target="_blank" href="http://www.nttdocomo.com/pr/2012/001618.html">announced</a> a $125 million (¥10 billion) investment fund and incubator program for smartphone and tablet related startups &#8212; to be called the Docomo Innovation Fund and the Docomo Innovation Village &#8212; both due to kick off at the end of March 2013. Docomo will also establish an operating company to manage the fund by then, which it&#8217;s planning to distribute over a 10 year period.</p>
+<p>The aim of the fund and incubator is to accelerate the creation of new business models, services and technologies with &#8220;the potential to be developed as all-new or upgraded offerings from parent Docomo&#8221;. The carrier is targeting eight strategic fields &#8212; namely: Media/Content, Finance/Payment, Commerce, Medical/Healthcare, Machine-to-Machine (M2M), Aggregation/Platforms, Environment/Ecology, and Security/Safety.</p>
+<p>The fund will invest primarily in Japanese startups and venture companies, some of which Docomo expects to come from the incubator program. The program will offer resources and know-how, including office space, business infrastructure, and networking and expertise events to support and nurture participating startups. Four or five teams of startups will gain three to four months of support per program.</p>
+<p>Docomo already conducts startup investments in the U.S. via its subsidiary, Docomo Innovations &#8212; and plans to continue doing so.</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/26/japans-ntt-docomo-launches-125m-incubator-fund-and-program-to-accelerate-homegrown-mobile-innovation/">here</a>.
