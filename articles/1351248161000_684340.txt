@@ -1,5 +1,5 @@
 {
-"title" : "Not-So-Quietly Troubling: HTC Sales Down 48% To $2.4B, Expects Even Weaker Q4 Of $2B",
+"title" : "Quietly Troubling: HTC Q3 Sales Down 48% To $2.4B, Expects Even Weaker Q4 Of $2B",
 "date" : "Fri, 26 Oct 2012 10:42:41 +0000",
 "author" : "Ingrid Lunden"
 }
