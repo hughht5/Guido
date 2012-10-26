@@ -1,10 +1,17 @@
 {
-"title" : "Google App Engine Has Major Service Disruption As Dropbox and Tumblr Also Suffer",
+"title" : "Google App Engine Back Up After Major Service Disruption – Dropbox and Tumblr Also Suffer",
 "date" : "Fri, 26 Oct 2012 17:17:53 +0000",
 "author" : "Alex Williams"
 }
 
-<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2010/02/picture-20.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Google App Engine" title="Google App Engine" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="https://developers.google.com/appengine/">Google App Engine</a> is down with a major service disruption affecting thousands of customers around the world that use the platform-as-a-service.</p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2010/02/picture-20.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Google App Engine" title="Google App Engine" style="float: left; margin: 0 10px 7px 0;" /><p><strong>Update:</strong> Google App Engine is back up. They just issued a statement:</p>
+<blockquote><p><span style="font-family:arial, helvetica, sans-serif;"><i>Google App Engine has now been restored and users should see service returning to normal. Our team is still continuing to investigate and determine the root cause of the issue. We know that many of our customers rely on App Engine for their mission critical applications. We apologize for the inconvenience caused by this outage and we appreciate our customers’ patience.</i><br />
+</span></p></blockquote>
+<p><span style="font-family:arial, helvetica, sans-serif;">A Google spokesperson said an &#8220;event&#8221; occurred this morning,  which caused the load balancing issue.  They are still looking into the root cause. They plan to post a</span><span style="font-family:arial, helvetica, sans-serif;">n incidence report.</span></p>
+<div><span style="font-family:arial, helvetica, sans-serif;">In order to restore service, Google had to shut down traffic, then slowly bring the service back up to a stable level. Google said this is the first major &#8220;High Replication Datastore&#8221; outage they&#8217;ve had since <a target="_blank" href="http://googleappengine.blogspot.com/2012/01/happy-birthday-high-replication.html">moving to this infrastructure</a>. Google App Engine had developed a reputation for going down during its beta, which ended earlier this year.</span></div>
+<div></div>
+<div>Here&#8217;s our report from earlier today:</div>
+<p><span style="font-family:arial, helvetica, sans-serif;"><b> </b></span><a target="_blank" href="https://developers.google.com/appengine/">Google App Engine</a> is down with a major service disruption affecting thousands of customers around the world that use the platform-as-a-service.</p>
 <p>The Google  Engine team posted the <a target="_blank" href="https://groups.google.com/forum/?fromgroups=#!topic/google-appengine-downtime-notify/SMd2pDJsCPo">following update</a>:</p>
 <blockquote><p>At approximately 7:30am Pacific time this morning, Google began experiencing slow performance and dropped connections from one of the components of App Engine.  The symptoms that service users would experience include slow response and an inability to connect to services.  We currently show that a majority of App Engine users and services are affected.  Google engineering teams are investigating a number of options for restoring service as quickly as possible, and we will provide another update as information changes, or within 60 minutes.</p></blockquote>
 <p>Dropbox and Tumblr also reported outages, pointing to a potential much larger issue across the web.</p>
