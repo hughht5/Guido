@@ -1,0 +1,31 @@
+{
+"title" : "The Hex3 JaJa Stylus: A Pressure-Sensitive iPad Drawing Tool That Uses Sound To Paint A Picture",
+"date" : "Fri, 26 Oct 2012 16:54:54 +0000",
+"author" : "Darrell Etherington"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/jaja-1.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="jaja-1" title="jaja-1" style="float: left; margin: 0 10px 7px 0;" /><p>Meet the <a target="_blank" href="http://hex3.co/products/jaja">Hex3 JaJa</a> stylus, a pressure-sensitive drawing tool for the iPad (and other tablets, too) that transmits information to the device via sound waves, eschewing the need for a Bluetooth connection. It&#8217;s only one of a recent crop of pressure-sensitive styli for the iPad, but its unique, quirky design provides both its big advantages and its most significant flaws.</p>
+<h2>Short Version</h2>
+<p>The JaJa is a capable little accessory that works surprisingly well, given its strange operating mechanism. If you&#8217;re used to a Wacom tablet, you&#8217;ll probably find this a weak substitute for professional work, but hobbyists and even people looking to do basic illustrations will find much to like about the little guy.</p>
+<p><strong>Pros:</strong></p>
+<ul>
+<li>Long-lasting battery life, around 40-80 hours on a single AAA.</li>
+<li>Pinpoint accuracy thanks to unique tip design.</li>
+</ul>
+<p><strong>Cons:</strong></p>
+<ul>
+<li>Clicks audibly and regularly, like some kind of underwater creature. I didn&#8217;t find it too annoying, but you might.</li>
+<li>Skips on occasion.</li>
+</ul>
+<h2>Long Version</h2>
+<p>All I want is a pressure-sensitive iPad stylus that works consistently and reliably. I don&#8217;t even care if it works with a wide variety of apps – so long as it&#8217;s compatible with one that I enjoy using. The JaJa fits those admittedly limited needs, thanks to a design that makes it easy to set up, fun to use. It does occasionally frustrate, but not enough to mar the overall experience. Would I still rather have a Wacom Cintiq or a ModBook Pro? Of course, but spending $90 instead of $2,000 sure helps to make the JaJa look a lot better by comparison.</p>
+<p>For setup, you install a AAA battery (one isn&#8217;t supplied, unfortunately), and then turn it on with a 5 second press of one of its two buttons. Then you calibrate pressure levels, both minimum and max, in order to tailor it to your drawing style. That&#8217;s a nice touch, and one that I actually find myself taking time to get just right. Others don&#8217;t offer that level of customization, which is definitely a point in the JaJa&#8217;s favor.</p>
+<p>The stylus does offer a bit of frustration at times, due to some occasional skipping and also a startup process that seems hit or miss at times. But it works very well most of the time, and better than a lot of other styli I&#8217;ve tried that aren&#8217;t even pressure-sensitive. I&#8217;m also a fan of the replaceable battery, which allows you to use either rechargeable or alkaline AAAs instead of worrying about a proprietary charger.</p>
+<p>App compatibility varies, but once you find the correct setting, it&#8217;s easy to switch on detection of the JaJa pen. You can&#8217;t use it while playing audio out of the iPad&#8217;s speaker, but streaming via Bluetooth or AirPlay doesn&#8217;t affect anything. My favorite app for using with the JaJa was Autodesk&#8217;s SketchBook Pro, and it works well to vary pencil and brush strokes with that app. Another standout is Procreate, for those with more painterly dispositions. The drawing below in the gallery is one of my hasty, amateurish sketches, but it shows what you can do with the JaJa in just a few minutes that would&#8217;ve taken considerably longer with your finger or without the JaJa&#8217;s 1,024 levels of pressure sensitivity.</p>
+<p>In short, the JaJa is a solid buy for avid doodlers looking for something to supplement their existing iPad, without switching to a Windows 8 device with pressure-sensitive pen tech or Galaxy Note 10.1. It&#8217;s not perfect, but a lot of what ails it seems like it could be fixed on the software side, and even as-is, it provides a very enjoyable experience for the tablet user who also wants a little more artistic power than the average stylus can provide.
+<a href='http://techcrunch.com/2012/10/26/review-hex3-jaja-stylus-ipad-pressure-sensitive/jaja-3/' title='jaja-3'></a>
+<a href='http://techcrunch.com/2012/10/26/review-hex3-jaja-stylus-ipad-pressure-sensitive/jaja-2/' title='jaja-2'></a>
+<a href='http://techcrunch.com/2012/10/26/review-hex3-jaja-stylus-ipad-pressure-sensitive/jaja-1/' title='jaja-1'></a>
+<a href='http://techcrunch.com/2012/10/26/review-hex3-jaja-stylus-ipad-pressure-sensitive/photo-113/' title='photo'></a>
+</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/26/review-hex3-jaja-stylus-ipad-pressure-sensitive/">here</a>.
