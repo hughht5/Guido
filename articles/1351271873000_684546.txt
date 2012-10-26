@@ -1,5 +1,5 @@
 {
-"title" : "Google App Engine Down With Major Service Disruption As Dropbox and Tumblr Also Suffer",
+"title" : "Google App Engine Has Major Service Disruption As Dropbox and Tumblr Also Suffer",
 "date" : "Fri, 26 Oct 2012 17:17:53 +0000",
 "author" : "Alex Williams"
 }
