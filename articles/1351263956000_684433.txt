@@ -1,5 +1,5 @@
 {
-"title" : "Here Comes The Nexus 4 Smartphone, 3G Nexus 7 Tablet, And The Nexus 10 iPad Killer",
+"title" : "Here Comes The Nexus 4 Smartphone, Nexus 7 3G Tablet, And The Nexus 10 iPad Killer",
 "date" : "Fri, 26 Oct 2012 15:05:56 +0000",
 "author" : "Matt Burns"
 }
