@@ -1,0 +1,14 @@
+{
+"title" : "ExecOnline Raises 800K From Washington Post For Executive Education Service That Partners With Top 10 Business Schools",
+"date" : "Fri, 26 Oct 2012 16:19:44 +0000",
+"author" : "Alex Williams"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/execonlinelogo.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="execonlinelogo" title="execonlinelogo" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.crunchbase.com/company/execonline">ExecOnline</a> has raised $800,000 in seed funding from the Washington Post for executives to get online training that is done in partnership with top 10 business schools.</p>
+<p>The service will target Fortune 500 companies that often send executives to Harvard University and other top business schools for immersive business school training.</p>
+<p>Founder Stephen Milton said the service solves a problem for big companies that need well-trained executives but face a crunch when they are off for a week or more at business school.</p>
+<p>The company will offer curriculum that will come complete with the ability to interact with business school professors. Executives do the training from their desk without the need to travel to a university.</p>
+<p>The startup will offer an end-to-end platform that includes custom content that is business school branded. Two companies have so far signed up to participate. Milton will name the universities when the service goes live in January. The company does not yet have a website.</p>
+<p>Milton said in an email exchange that the company will be the first in the market to offer an end-to-end curriculum with branded endorsement from top business schools. He said competition like 2U provide end-to-end services (marketing, instructional design and online platform) for degree programs but no other company has applied the same model to non-degree programs targeting enterprise corporate buyers. The closest competitors are platform providers like Moodle that enable schools to put their programs online without using an outside partner.</p>
+<p>The service looks like it has the business legs but the interactions a student gets in a university setting makes for an experience that captures more than just learning. ExecOnline looks like it helps the bottom line and gets an executive world-class training. It also makes the university a brand and leaves the student without the experience of a university environment. But that&#8217;s just the reality of our time, right?</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/26/execonline-raises-800k-from-washington-post-for-executive-education-service-that-partners-with-top-10-business-schools/">here</a>.
