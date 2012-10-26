@@ -17,7 +17,7 @@
 6) Tap the gear icon on the login screen<br />
 7) Under &#8220;API root&#8221;, enter: https://apparchy.net/api/<br />
 8) Log in</p></blockquote>
-<p><a href="http://techcrunch.com/?attachment_id=684650" rel="attachment wp-att-684650"></a> <a href="http://techcrunch.com/?attachment_id=684651" rel="attachment wp-att-684651"></a></p>
+<p><a href="http://techcrunch.com/2012/10/26/want-to-read-app-net-status-messages-in-the-official-twitter-app-heres-how-with-apparchy/twitter-add-account-2/" rel="attachment wp-att-684650"></a> <a href="http://techcrunch.com/2012/10/26/want-to-read-app-net-status-messages-in-the-official-twitter-app-heres-how-with-apparchy/twitter-api-root/" rel="attachment wp-att-684651"></a></p>
 <p>You will then see app.net data loaded into Twitter.app.</p>
 <p><strong>You can:</strong></p>
 <blockquote><p>- view the stream of people you follow<br />
@@ -46,6 +46,6 @@
 <p>The result of this is the Twitter app sends a request in a certain way, and expects a response in a certain way. Apparchy implements an API that understands how the Twitter app sends requests, and understands how to give something back the Twitter app expects its response. Since Twitter has no idea something is sitting in the middle, it thinks what it&#8217;s getting back are tweets, so it happily shows them.</p></blockquote>
 <p>&#8212;&#8212;&#8212;</p>
 <p>There you have it <a target="_blank" href="http://app.net">App.net</a> fans, go ahead and tweet to your App&#8217;s content. Pretty genius, Steve.</p>
-<p><a href="http://techcrunch.com/?attachment_id=684681" rel="attachment wp-att-684681"></a></p>
+<p><a href="http://techcrunch.com/2012/10/26/want-to-read-app-net-status-messages-in-the-official-twitter-app-heres-how-with-apparchy/photo-2-51/" rel="attachment wp-att-684681"></a></p>
 <p>[Photo credit: <a target="_blank" href="http://www.flickr.com/photos/bobjagendorf/6250717968/">Flickr</a>]</p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/26/want-to-read-app-net-status-messages-in-the-official-twitter-app-heres-how-with-apparchy/">here</a>.
