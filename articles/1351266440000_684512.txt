@@ -12,7 +12,7 @@
 <blockquote><p>• Real-time algorithmic news results sourced from key national, local, partisan and non-partisan sources, including the Associated Press, USA Today, Huffington Post, Politico and more</p>
 <p>• Dynamic, interactive map with national, state and local election results from The Cook Political Report and Real Clear Politics, as it’s reported</p>
 <p>• Unique left to right news selector lets people filter the news the way they like it, including from the right, left or center perspective. Just click on a box and see the news of the day filtered accordingly.</p>
-<p>• Bing is also the only search engine with strategic partnerships with Twitter and Facebook to deliver unique social sentiment analysis across key election issues. The Bing Election hub helps people easily find and participate in trending conversations that matter most.<br />
-• Voters uncertain of their polling places can use Bing Elections to find out where to go vote, as well as experience exclusive videos from Chelsea Clinton and Mary Ann Huntsman urging everyone to get off the couch and vote in this critical election.
+<p>• Bing is also the only search engine with strategic partnerships with Twitter and Facebook to deliver unique social sentiment analysis across key election issues. The Bing Election hub helps people easily find and participate in trending conversations that matter most.</p>
+<p>• Voters uncertain of their polling places can use Bing Elections to find out where to go vote, as well as experience exclusive videos from Chelsea Clinton and Mary Ann Huntsman urging everyone to get off the couch and vote in this critical election.
 </p></blockquote>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/26/bing-launches-its-election-site-lets-you-filter-news-by-political-perspective/">here</a>.
