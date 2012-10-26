@@ -46,6 +46,6 @@
 <p>The result of this is the Twitter app sends a request in a certain way, and expects a response in a certain way. Apparchy implements an API that understands how the Twitter app sends requests, and understands how to give something back the Twitter app expects its response. Since Twitter has no idea something is sitting in the middle, it thinks what it&#8217;s getting back are tweets, so it happily shows them.</p></blockquote>
 <p>&#8212;&#8212;&#8212;</p>
 <p>There you have it <a target="_blank" href="http://app.net">App.net</a> fans, go ahead and tweet to your App&#8217;s content. Pretty genius, Steve.</p>
-<p><a href="http://techcrunch.com/2012/10/26/want-to-read-app-net-status-messages-in-the-official-twitter-app-heres-how-with-apparchy/photo-2-51/" rel="attachment wp-att-684681"></a></p>
+<p><a href="http://techcrunch.com/2012/10/26/want-to-read-app-net-status-messages-in-the-official-twitter-app-heres-how-with-apparchy/photo-2-52/" rel="attachment wp-att-684692"></a> <a href="http://techcrunch.com/2012/10/26/want-to-read-app-net-status-messages-in-the-official-twitter-app-heres-how-with-apparchy/photo-3-40/" rel="attachment wp-att-684693"></a></p>
 <p>[Photo credit: <a target="_blank" href="http://www.flickr.com/photos/bobjagendorf/6250717968/">Flickr</a>]</p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/26/want-to-read-app-net-status-messages-in-the-official-twitter-app-heres-how-with-apparchy/">here</a>.
