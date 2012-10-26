@@ -1,0 +1,30 @@
+{
+"title" : "Apple Adds 8 New Currencies Supported In App Store, Including Russian Ruble, Indian Rupee And Saudi Riyal",
+"date" : "Fri, 26 Oct 2012 06:09:04 +0000",
+"author" : "Ingrid Lunden"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-26-at-07-01-481.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="russia app store in rubles" title="russia app store in rubles" style="float: left; margin: 0 10px 7px 0;" /><p>Apple continues to go global with its App Store ambitions: the company has made eight additions to the list of supported currencies. The new currencies are the Russian Ruble, Turkey&#8217;s Lire, India&#8217;s Rupee, Indonesia&#8217;s Rupiah, Israel&#8217;s New Shekel, Saudi Arabia&#8217;s Riyal, South Africa&#8217;s Rand, and United Arab Emirates&#8217; Dirham. The additions came after developers were told earlier in the week that iTunes Connect, the portal that lets developers control pricing and app availability, would be <a target="_blank" href="http://www.razorianfly.com/2012/10/24/developers-itunes-connect-to-go-under-scheduled-maintenance-thursday-october-25/">down for a period</a> of time on the 25th.</p>
+<p>In the past, users in these countries would not have been able to pay for apps in their local currencies. Instead, they would have had to pay in U.S. dollars in their local app stores, using cards that processed payments in dollars, only use free apps, or perhaps get paid apps by illegal means. That was definitely one issue in China leading up to Apple accepting Yuan payments in the App Store, which it did in <a target="_blank" href="http://paidcontent.org/2011/11/18/419-one-more-step-for-apple-in-china-its-now-accepting-app-payments-in-yuan/">November 2011</a>.</p>
+<p>Apple announced the news to developers in a note to them (excerpted below). In it, Apple also noted that the retail price has been adjusted for the Mexican Peso, the Euro, and the Danish Kroner. Others have also been <a target="_blank" href="http://thenextweb.com/apple/2012/10/25/apple-increments-app-store-prices-for-european-users-new-base-price-stands-at-e0-89">reporting</a> that the new base price for apps sold in Euros has increased up to €0.89, with <a target="_blank" href="http://www.macstories.net/news/apple-changing-app-store-prices-for-several-countries-commission-from-30-to-40-in-europe/">some speculating</a> that the changes have been made because of foreign exchange rates on currencies, or because of Apple&#8217;s tax situation in the region. (It pays a value-added tax of 15% in Luxembourg, where its Euro iTunes operation is based, and it passes this on to developers.)</p>
+<p>The move to offering local currencies will help Apple in a couple of ways: it will help it grow local use of paid apps, and it could spur the creation of more localized apps. In some of these markets, such as India, the company has yet to launch the iPhone 5 &#8212; the <a target="_blank" href="http://www.apple.com/in/iphone/iphone-5/">India site</a> notes &#8220;coming soon&#8221; although there have been reports that it will do so today &#8212; so the currency expansion could also be linked in part to that.</p>
+<p>Apple also notes that the 8 new territories will become their own report regions, meaning that payment reports via iTunes Connect will include individual reports from the 8 new currencies. October will be split into two: one part before the change all in US Dollars for &#8220;rest of the world&#8221;, and the other part after the change.</p>
+<p>In yesterday&#8217;s earnings, Apple noted that it had set an <a href="http://techcrunch.com/2012/10/25/apple-sets-all-time-record-for-quarterly-app-store-sales-700k-apps-275k-for-ipad-6-5b-paid-to-devs/">all-time record for App Store sales</a> for app sales in the quarter, with $6.5 billion paid out to developers. The company did not reveal how much it made in overall sales in the store itself, however. There are now 700,000 apps now available in the store, 275,000 for the iPad.</p>
+<p>Here is an excerpt from the note Apple sent to developers:</p>
+<blockquote><p>The App Store now supports new currencies in the following eight territories, so your customers can easily purchase your apps in their local currency: </p>
+<p>     * Russia: Ruble (RUB)<br />
+     * Turkey: Lira (TRY)<br />
+     * India: Rupee (INR)<br />
+     * Indonesian: Rupiah (IDR)<br />
+     * Israel: New Shekel (ILS)<br />
+     * Saudi Arabia: Riyal (SAR)<br />
+     * South Africa: Rand (ZAR)<br />
+     * United Arab Emirates: Dirham (AED)<br />
+     * Updates to the iOS Paid Applications and the Mac OS X Paid</p>
+<p>Applications contracts are now available on iTunes Connect. To view all current and outstanding contracts, see the Contracts, Tax and Banking module on iTunes Connect. </p>
+<p>To view how these new currencies align with price tiers, see the Pricing Matrix in the Rights and Pricing section of the Manage Your Applications module on iTunes Connect. </p>
+<p>Additionally, these eight territories will become their own report regions. With the exception of October, future financial reports in the Earnings tab in the Payments and Financial Reports module on iTunes Connect will include individual reports for the new eight currencies&#8230;</p>
+<p>&#8230;Earnings from sales that occurred before the change will be in the Rest of World (USD) financial report. Earnings from after the change will be in the new financial reports for each individual currency. </p>
+<p>Also, note that we have adjusted the retail price for the Mexican Peso, the Euro, and the Danish Kroner. For more information, see the Pricing Matrix in the Rights and Pricing section of the Manage Your Applications module on iTunes Connect. </p></blockquote>
+<p></p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/25/apple-adds-8-new-currencies-supported-in-app-store-including-russian-ruble-indian-rupee-and-saudi-riyal/">here</a>.
