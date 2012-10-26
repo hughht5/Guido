@@ -1,5 +1,5 @@
 {
-"title" : "Unpinned: Facebook Shuts Down Test Of Its Pinterest-Style Collections Product",
+"title" : "Unpinned: Facebook Shuts Down Test Of Its Pinterest-Style Collections Feature",
 "date" : "Fri, 26 Oct 2012 04:54:50 +0000",
 "author" : "Josh Constine"
 }
