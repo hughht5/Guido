@@ -1,0 +1,21 @@
+{
+"title" : "Here Comes The Nexus 4 Smartphone, Nexus 7 3G Tablet, And The Nexus 10 iPad Killer",
+"date" : "Fri, 26 Oct 2012 15:05:56 +0000",
+"author" : "Matt Burns"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/next-nexus2.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="next-nexus" title="next-nexus" style="float: left; margin: 0 10px 7px 0;" /><p>Google is about to throw down. At <a href="http://techcrunch.com/2012/10/17/google-issues-invites-to-october-29th-nyc-android-event-says-the-playground-is-open/">next week&#8217;s NYC Android event</a>, the big G is expected yell &#8220;me too!&#8221; and reveal a full line of Nexus devices. Watch out, Mr. Consumer. These devices aren&#8217;t just for the nerds. Google is ready to take the Nexus brand mainstream and provide legitimate alternatives to the iPhones, iPads and Galaxy devices of the world.</p>
+<h2>Nexus 4</h2>
+<p></p>
+<p>Despite the name, this is not a 4-inch device. The Nexus 4 is the fourth Nexus smartphone, which appears to have a 4.7-inch 1280&#215;768 resolution screen. The LG-made phone, with all its specs, was outed by UK phone retailer Carphone Warehouse (leak product page is not available). It&#8217;s said to pack a quad-core Snapdragon S4 processor and runs Android 4.2. Inside the 9.1mm thin body resides NFC, 8MP camera, and 8GB of storage.</p>
+<p>No word on US pricing but it could be relatively inexpensive. Carphone Warehouse lists the SIM-Free version of the phone at £389.95; the SIM-free Galaxy S III is £499.</p>
+<h2>Nexus 7</h2>
+<p></p>
+<p>The little $199 Asus Nexus 7 tablet is a hot seller and Google seems ready with new versions. A 3G version was recently <a target="_blank" href="https://apps.fcc.gov/oetcf/eas/reports/ViewExhibitReport.cfm?mode=Exhibits&amp;RequestTimeout=500&amp;calledFromFrame=N&amp;application_id=424094&amp;fcc_id=%27MSQME370TG%27">revealed by the FCC database</a>, which lists the tablet with WiFi and HSPA+ (3G) capabilities. The tablet is expected to have 32GB of onboard storage, but that spec is not listed in the FCC documents.</p>
+<p>Google is also expected to discontinue the 8GB version, drop the price on the 16GB N7 and release a 32GB WiFi-only Nexus 7. This is Google&#8217;s answer to the iPad mini.</p>
+<h2>Nexus 10</h2>
+<p></p>
+<p>The Samsung-made Nexus 10 could be next week&#8217;s big announcement. At this point its existence is nearly confirmed thanks to <a target="_blank" href="http://www.seeko.co.kr/zboard4/zboard.php?id=freeboard&amp;page=2&amp;sn1=&amp;divpage=81&amp;sn=off&amp;ss=on&amp;sc=off&amp;select_arrange=headnum&amp;desc=asc&amp;no=464270">a leaked user manual</a> and <a target="_blank" href="http://www.slashgear.com/nexus-10-caught-snapping-google-execs-holiday-photos-26254156/">sample pics</a> from Google&#8217;s own Vic Gundotra. The tablet is rumored to have a 10.1-inch screen like Samsung&#8217;s Galaxy Note 10.1. The leaked manual indicates it will sport the standard assortments of ports and cameras including microUSB, micoHDMI, and dual-cams &#8212; no microSD card slot, though.</p>
+<p>There are still a lot of unknowns with the Nexus 10. Will it undercut the iPad with a cutthroat price. Will it be available with 4G? Will the screen have a PPI higher than the new iPad?</p>
+<p>The Google invite states &#8220;The playground is open.&#8221; And with three new toys all but confirmed, there will certainly be a lot to keep Android fans entertained through the holidays and into the new year.</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/26/here-comes-the-nexus-4-smartphone-nexus-7-3g-tablet-and-the-nexus-10-ipad-killer/">here</a>.
