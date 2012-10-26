@@ -1,5 +1,5 @@
 {
-"title" : "Apple Publishes Non-Apology To Samsung On Its Website To Comply With U.K. Court Ruling",
+"title" : "Following The Letter Of The Law: Apple Publishes Non-Apology To Samsung On Its Website To Comply With U.K. Court Ruling",
 "date" : "Fri, 26 Oct 2012 09:00:19 +0000",
 "author" : "Natasha Lomas"
 }
