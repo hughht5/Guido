@@ -1,0 +1,12 @@
+{
+"title" : "Gillmor Gang: Tommy Can You Hear Me",
+"date" : "Sat, 27 Oct 2012 17:00:38 +0000",
+"author" : "Steve Gillmor"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2011/08/gillmore-gang-test-pattern.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Gillmor Gang test pattern" title="Gillmor Gang test pattern" style="float: left; margin: 0 10px 7px 0;" />			<script type="text/javascript" src="http://pshared.5min.com/Scripts/PlayerSeed.js?sid=577&amp;width=640&amp;height=450&amp;colorPallet=%230A9600&amp;hasCompanion=false&amp;relatedMode=2&amp;videoControlDisplayColor=%23000000&amp;playList=517519328&amp;shuffle=0&amp;videoGroupID=133503&amp;autoStart=false&amp;playerActions=16407"></script>
+<p>The Gillmor Gang — John Borthwick, Robert Scoble, Keith Teare, John Taschek, and Steve Gillmor — counted their pennies as Apple, Microsoft, and Google weighed in to the Tablet Sweepstakes with new entries. Apple&#8217;s iPad Mini captured two of the Gang&#8217;s wallet, while none seemed ready for the Surface or other Windows 8 entries. Supposedly a Nexus 10 is due on Monday from Samsung at a Google event.</p>
+<p>Whether or not the Apple financial results indicate weakness in for the iPad, iPhone 5 continues to outstrip the ability to make the device. With @scobleizer saving for his Google Glasses, it will be an interesting pool to predict when Robert caves on the Mini. Google seems challenged to wrangle the  carriers and Microsoft may be dividing its partners with the home-grown Surface. Apologies for the 60 cycle ground loop, too. This LTE Era needs to settle down soon.</p>
+<p>@stevegillmor, @borthwick, @scobleizer, @kteare, @jtaschek</p>
+<p>Produced and directed by Tina Chase Gillmor @tinagillmor</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/27/gillmor-gang-tommy-can-you-hear-me/">here</a>.
