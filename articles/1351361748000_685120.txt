@@ -1,0 +1,13 @@
+{
+"title" : "Raincheck: Google Cancels NYC Android Event Planned For Monday Due To Hurricane Sandy",
+"date" : "Sat, 27 Oct 2012 18:15:48 +0000",
+"author" : "Colleen Taylor"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/storm.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="storm" title="storm" style="float: left; margin: 0 10px 7px 0;" /><p>There may be an app for almost everything, but there still isn&#8217;t one for controlling Mother Nature.</p>
+<p>Google this morning officially canceled the Android event that was <a href="http://techcrunch.com/2012/10/17/google-issues-invites-to-october-29th-nyc-android-event-says-the-playground-is-open/">scheduled to occur on Monday, October 29</a> in New York City due to Hurricane Sandy, which is expected to <a target="_blank" href="http://www.nytimes.com/2012/10/28/us/hurricane-sandy-on-collision-course-with-winter-storm.html?_r=1&amp;hp">hit the city on Sunday evening</a>. </p>
+<p>In an email sent to reporters signed up to attend the event first <a target="_blank" href="http://marketingland.com/hurricane-sandy-causes-google-to-cancel-its-android-event-25134">picked up by Marketing Land&#8217;s Danny Sullivan</a>, Google issued a terse explanation:</p>
+<blockquote><p>&#8220;We are canceling our Monday morning event in New York due to Hurricane Sandy. We will let you know our plans as soon as we know more.&#8221;</p></blockquote>
+<p>We&#8217;ve reached out to Google PR for more detail on when the event may be rescheduled, and will be sure to update this with anything we hear.</p>
+<p>The Android event was expected to compete for press attention with <a href="http://techcrunch.com/2012/10/04/microsofts-windows-phone-8-launch-event-happening-october-29-in-san-francisco/">Microsoft&#8217;s Windows Phone 8 launch</a> also planned for Monday October 29th. That event is still on, though, as it&#8217;s taking place in sunny San Francisco.</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/27/raincheck-google-cancels-nyc-android-event-planned-for-monday-due-to-hurricane-sandy/">here</a>.
