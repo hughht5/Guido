@@ -16,7 +16,6 @@ We’re terribly sorry to inform you that we’re experiencing domain hijacking,
 <blockquote><p>&#8220;Meanwhile, if you&#8217;re an avid Diigo/ twitter user, plesae (sic) help RT and speed up the recovery. Thanks!</p>
 <p>@Yahoo @YSmallBusiness, pls help prevent the stealing of http://diigo.com , as done here http://bit.ly/Xqi6Ki …! pls RT!&#8221;
 </p></blockquote>
-<p>The diigo.net mirror site had been put up quickly by the Diigo team to share news updates and provided a customized bookmarklet as a temporary workaround to minimize service disruption to their users.</p>
 <p>On Friday afternoon, after 50 hours, the Diigo.com came back online.</p>
 <p>Diigo posted <a target="_blank" href="http://www.diigo.com/about/domain">an update</a> saying:</p>
 <blockquote><p>
