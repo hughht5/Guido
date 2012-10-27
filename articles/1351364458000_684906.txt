@@ -1,0 +1,48 @@
+{
+"title" : "Lessons for Data Driven Businesses",
+"date" : "Sat, 27 Oct 2012 19:00:58 +0000",
+"author" : "Robert J. Moore"
+}
+
+<p><em>Robert J. Moore is the co-founder of <a target="_blank" href="http://www.rjmetrics.com/">RJMetrics</a>, a company whose software helps online businesses make smarter decisions using their own data. He also previously served on the Investment Team of Insight Venture Partners. </em></p>
+<p>One of the fun things that happens when you start a company is that you get opportunities to share what you’ve learned with other technology leaders. In past year, I’ve been fortunate to present “best practices” sessions to a number of groups, including the portfolios of <a target="_blank" href="http://www.firstround.com/">First Round Capital</a>, <a target="_blank" href="http://insightpartners.com/">Insight Venture Partners</a> and <a target="_blank" href="http://firstmarkcap.com/">FirstMark Capital</a>.</p>
+<p>These presentations have been informed by my years working with online businesses as a venture investor and as the CEO of <a target="_blank" href="http://www.rjmetrics.com">RJMetrics</a>. They share a common theme: how to build value by making data-driven decisions. In today’s post, I detail five key steps to ensuring that data can be used effectively at your company:</p>
+<ul>
+<li>defining and communicating a “single version of the truth”</li>
+<li>creating an auditability chain from your metrics to your raw data</li>
+<li>establishing specific, actionable KPIs</li>
+<li>ensuring around-the-clock availability of data</li>
+<li>accepting the limitations of your data</li>
+</ul>
+<p>Whether you are a two-person startup or a Fortune 500 company, these steps are critical to building a data organization that enables action and drives results.</p>
+<h2>Single Version of the Truth</h2>
+<p>Everyone on your team should be able to pull data from the exact same source in a systematic way that will always yield consistent results.</p>
+<p>How much revenue did you have yesterday? This sounds like an easy question but, more often than not, two random people from an organization will give two different answers to that question. Is that net of returns? Are you including shipping and handling fees in your revenue number? How about gift certificates? Did you pull from the billing system or the ERP system? What time zone are you talking about when you say &#8220;yesterday?&#8221; The list goes on.</p>
+<p>To combat this phenomenon, establish a clear set of definitions for the key metrics that drive your business. You can do this any way you choose: build an internal wiki, paint it on the walls or use a third-party tool to centralize your data. What’s important is that you make it easy to access and leave no doubt in anyone’s mind about how key metrics are calculated.</p>
+<p>Centralizing these rules allows everyone to compare their analyses apples-to-apples. In a data-driven organization, this is critical.</p>
+<h2>Auditable Accuracy</h2>
+<p>The data has to be correct. And auditable.</p>
+<p>In the early days of RJMetrics, we would sometimes get support tickets alleging that our data was “wrong.” Most often, after an investigation, we realized that the data was totally correct. What was happening was that our customer’s assumptions about their data were being challenged by reality.</p>
+<p>It is extremely common for members of an organization to challenge the accuracy of an analysis that disagrees with their assumptions or priorities. (I’ll admit that I’ve caught myself doing this at times.) This go-to excuse speaks to the widespread difficulties most organizations have with data accuracy and consistency.</p>
+<p>The solution to this issue is an auditability chain back to raw data that is universally accepted as accurate. If everyone is on-board with the fact that the data in your raw database represents reality, provide the means for team members to audit calculated metrics by showing the steps that transformed the raw data into the into the metric in question. Eventually, with these controls in place, the data’s accuracy won’t be the first thing in question when someone’s assumptions are challenged.</p>
+<p>You need to have this auditability chain, no matter what system you have in place. The minute someone questions the accuracy of the data you&#8217;re presenting, the credibility of the entire decision-making system begins to decay.</p>
+<h2>Actionable Key Performance Indicators (KPIs)</h2>
+<p>With those first two prerequisites out of the way, things start to get interesting very fast. The good news is that we can start focusing on the metrics that matter. The bad news is that there are literally hundreds of metrics that any given business could try to optimize. If every team in your organization is optimizing for different self-defined metrics, you may find teams doing counter-productive work.</p>
+<p>There needs to be a clear set of Key Performance Indicators (KPIs) communicated from the top of your company’s leadership. These KPIs may vary from company to company, but what’s important is the fact that they exist and are clearly communicated. Everyone in your organization needs to unify around a central mission to optimize these KPIs.</p>
+<p>Within sub-teams in your organization, additional KPIs can be established that are more tactical and context-specific. However, they should all be selected based on the fact that they are contributors to the company-wide KPIs.</p>
+<p>KPIs are actionable when they clearly point you to a decision or next step. Some examples of actionable KPIs are split tests, per customer metrics and cohort analysis. Numbers like total revenue, active user count or number of page views are good for making the company sound big, but they are not as useful for guiding decisions.</p>
+<p>This alignment on specific data-based goals is critical to ensuring that independent teams are contributing in ways that compliment each other. If you need help thinking about your own KPIs, Brad Feld’s<a target="_blank" href="http://www.feld.com/wp/archives/2012/02/three-magic-numbers.html"> “Three Magic Numbers”</a> approach or Dave McClure’s <a target="_blank" href="http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version">Startup Metrics for Pirates</a> are great places to get started.</p>
+<h2>Track Metrics 24/7/365</h2>
+<p>If data is the lifeline of your business, downtime is death.</p>
+<p>Even if you’re lucky enough to have an analyst or data scientist on staff, the number of people in your organization that know how your metrics get calculated should be higher than one. This minimizes the risk of outages or downtime and creates a sense of ownership around data knowledge helps a data-driven culture “catch on.”</p>
+<p>Decisions are often time-sensitive, and if data isn’t available at all times, some people might be forced to make decisions without it. That can make it seem like it&#8217;s acceptable to let decisions like these slide through from time to time (or always). Before you know it, your investment in your data can slip away.</p>
+<h2>Accept the Limitations of Data</h2>
+<p>Sometimes, companies invest unreasonable amounts of time in using data to drive inconsequential decisions or to study things that cannot be quantified. In these cases, “analysis paralysis” can slow down the pace of progress.</p>
+<p>Data is not the holy grail. A data-driven business is not guaranteed to succeed, and data should not be used to answer every one of your company’s questions.</p>
+<p>The key to building a data-driven business is employing data in the aspects of your business that require consistent, quantifiable inputs and generate consistent, measurable results. Things like customer acquisition, retention and engagement tactics are great examples. These are critical components that can cause major swings in company growth if they are optimized well.</p>
+<h2>Conclusion</h2>
+<p>Every day, I meet companies who want to “do big data.” To me, this enthusiasm about data-driven decisions is both exciting and terrifying. Without a thoughtful data strategy, entrepreneurs run the risk of wasting time or doing more harm than good.</p>
+<p>Successful online businesses focus on KPIs that are actionable, practical, transparent and well-communicated. I hope these lessons can help many more join the pack.</p>
+<p><em> </em></p>
+<p><b> </b></p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/27/lessons-for-data-driven-businesses/">here</a>.
