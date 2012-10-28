@@ -4,9 +4,10 @@
 "author" : "Drew Olanoff"
 }
 
-<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/snapshot-102812-1115-am.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Snapshot 10:28:12 11:15 AM" title="Snapshot 10:28:12 11:15 AM" style="float: left; margin: 0 10px 7px 0;" /><p>Google has a fantastic program that prepares the world for major events involving Mother Nature, and it has set up a <a target="_blank" href="http://google.org/crisismap/sandy-2012">crisis map</a> for people on the East Coast preparing for Hurricane Sandy.</p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/snapshot-102812-1118-am.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Snapshot 10:28:12 11:18 AM" title="Snapshot 10:28:12 11:18 AM" style="float: left; margin: 0 10px 7px 0;" /><p>Google has a fantastic program that prepares the world for major events involving Mother Nature, and it has set up a <a target="_blank" href="http://google.org/crisismap/sandy-2012">crisis map</a> for people on the East Coast preparing for Hurricane Sandy.</p>
 <p>Have a look:</p>
 <p><a href="http://techcrunch.com/2012/10/28/google-has-set-up-a-crisis-map-for-those-preparing-for-hurricane-sandy/snapshot-102812-1112-am/" rel="attachment wp-att-685311"></a></p>
 <p>This is an extremely helpful tool, which includes weather service alerts, as well as notifications of areas that are being evacuated. If you or a loved one are going to be affected by Hurricane Sandy, then <a target="_blank" href="http://google.org/crisismap/sandy-2012">this is going to be something worth bookmarking and checking often</a>.</p>
+<p>As you know, <a href="http://techcrunch.com/2012/10/27/raincheck-google-cancels-nyc-android-event-planned-for-monday-due-to-hurricane-sandy/">Google has cancelled its NYC Android event</a> on Monday, and <a target="_blank" href="http://allthingsd.com/20121028/facebook-gift-event-also-gets-blown-out-of-nyc-by-hurricane-sandy/">other tech events are affected as well</a>.</p>
 <p>Stay safe, folks.</p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/28/google-has-set-up-a-crisis-map-for-those-preparing-for-hurricane-sandy/">here</a>.
