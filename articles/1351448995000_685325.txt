@@ -1,5 +1,5 @@
 {
-"title" : "Anonymous Is Going After Zynga For Mistreating Employees, And Is Prepared To Leak Documents And Release Games",
+"title" : "Anonymous Is Going After Zynga For Mistreating Employees, And Has Leaked Documents And Games",
 "date" : "Sun, 28 Oct 2012 18:29:55 +0000",
 "author" : "Drew Olanoff"
 }
@@ -21,4 +21,5 @@
 <p>We&#8217;ve identified key new products from third parties such as Lovers in a Dangerous Spacetime , Shove Prod and Music Invaders in which we are starting business contacts to buy these IP for transaction value of approximately 20 million.</p>
 <p>We strongly believe we will conclude these deals this month and compete with this titles against mobile competitors with ease.</p>
 <p>Our business continues to evolve and we must evolve with it. We operate in a exciting and challenging industry and I am very pleased that our senior leadership team continue to strengthen and develop with us.</p></blockquote>
+<p>Anonymous isn&#8217;t playing around, and we&#8217;ll keep tracking this story for you.</p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/28/anonymous-is-going-after-zynga-for-mistreating-employees-and-is-prepared-to-leak-documents/">here</a>.
