@@ -1,0 +1,18 @@
+{
+"title" : "Cinefy Lets You Add CGI Special Effects To Your Awful, Shaky iPhone Video",
+"date" : "Sun, 28 Oct 2012 03:00:31 +0000",
+"author" : "Jordan Crook"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-27-at-12-24-14-pm.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-10-27 at 12.24.14 PM" title="Screen Shot 2012-10-27 at 12.24.14 PM" style="float: left; margin: 0 10px 7px 0;" />			<script type="text/javascript" src="http://pshared.5min.com/Scripts/PlayerSeed.js?sid=577&amp;width=640&amp;height=450&amp;colorPallet=%230A9600&amp;hasCompanion=false&amp;relatedMode=2&amp;videoControlDisplayColor=%23000000&amp;playList=517519481&amp;shuffle=0&amp;videoGroupID=133503&amp;autoStart=false&amp;playerActions=16407"></script>
+<p>Welcome to the future, where you can essentially make a movie with believable special effects right on your smartphone.</p>
+<p><a target="_blank" href="https://itunes.apple.com/us/app/cinefy-special-fx-studio/id481953440?mt=8">Cinefy</a>, an app that just launched on the App Store, makes this possible.</p>
+<p>You can choose from literally hundreds of CGI effects to lay over your video. You can also drop music over the video from your iTunes library.</p>
+<p>That includes dinosaurs, alien attacks, explosions, and lightning strikes, just to name a few. Obviously, this isn&#8217;t for the professional video maker. But for the rest of us, this could be just the ticket to sharing a funny video, finishing a school project, or making the kids laugh.</p>
+<p>Especially with Halloween around the corner, it&#8217;s a perfect time to shoot kids in their costumes and lay over a few fun effects to get that spooky feeling going.</p>
+<p>Just like iMovie, Final Cut Pro, or any other media editing software, the app uses a simple timeline-based interface and should be pretty simple for anyone to figure out. However, a tutorial or help video of some sort, built straight into the app, would be nice.</p>
+<p>Even still, the folks at Cinefy clearly worked to make the controls mobile and touch-friendly. For example, if you want to shorten a song you threw in to the video (most effects are between 7 and 11 seconds) down to the size of the effect clip, the cursor speeds up once you begin dragging.</p>
+<p>The app is a massive download, at 963MB, so be prepared for it. It costs $.99 and is available in the <a target="_blank" href="https://itunes.apple.com/us/app/cinefy-special-fx-studio/id481953440?mt=8">App Store</a> now.</p>
+<a href="http://techcrunch.com/2012/10/27/cinefy-lets-you-add-cgi-special-effects-to-your-awful-shaky-iphone-video/#gallery-685042-1-slideshow">Click to view slideshow.</a>
+<p>[via <a target="_blank" href="http://www.tuaw.com/2012/10/25/cinefy-puts-a-special-fx-studio-in-your-pocket/">TUAW</a>]</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/27/cinefy-lets-you-add-cgi-special-effects-to-your-awful-shaky-iphone-video/">here</a>.
