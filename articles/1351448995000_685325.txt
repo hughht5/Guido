@@ -1,0 +1,24 @@
+{
+"title" : "Anonymous Is Going After Zynga For Mistreating Employees, And Is Prepared To Leak Documents",
+"date" : "Sun, 28 Oct 2012 18:29:55 +0000",
+"author" : "Drew Olanoff"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/6250260580_4d03ff9f5c_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="6250260580_4d03ff9f5c_z" title="6250260580_4d03ff9f5c_z" style="float: left; margin: 0 10px 7px 0;" /><p>Zynga has pissed off the online group Anonymous, and it&#8217;s quite serious. Here&#8217;s a video just released by them, discussing exactly what it plans to do and why:</p>
+<p><span class='embed-youtube' style='text-align:center; display: block;'><iframe class='youtube-player' type='text/html' width='640' height='390' src='http://www.youtube.com/embed/OG1ypqhWDQ0?version=3&#038;rel=1&#038;fs=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' frameborder='0'></iframe></span></p>
+<p>Here&#8217;s a transcript of the video:</p>
+<blockquote><p>Zynga customers and Facebook users , We are anonymous . During the last few days anonymous has been targeting Zynga for the outrageous treatment of their employees and their actions against many developers . </p>
+<p>We have come to believe that this actions of Zynga will result in massive layoff of a thousand people and legal actions against everyone that speaks to the public about this plan.</p>
+<p>It will also come to end of the US game market as we know it as all this jobs will be replaced in other more convenient financial countries. </p>
+<p>With a billion dollars cash sitting in a bank we do believe that such actions are an insult to the population and the behaviour of corporations like Zynga must change.</p>
+<p>Anonymous could not allow this to happen so it&#8217;s starting to release confidential documents we have leaked on this plan </p>
+<p>As we speak we are planning to release also all the games we&#8217;ve taken from their servers for free.</p>
+<p>That being said we will stop the idea of the distribution of such games if Zynga will cease immediately the plan.</p>
+<p>The leaked strategy of Zynga , transcript:</p>
+<p>Following the preliminary announced of this week the final strategy for the next two quarters has been successfully set to delivery by november 23 an additional but of 800 jobs with further raising of new capital from the market to support businesses.</p>
+<p>We&#8217;ve identified our global gambling strategy with bwin.party and as we speak discussions are progressing with a partner to cover the US market.</p>
+<p>Work is focused and on-going to completely outsource our development teams in our offices in Bangalore , India to hedge our position in the long term.</p>
+<p>We&#8217;ve identified key new products from third parties such as Lovers in a Dangerous Spacetime , Shove Prod and Music Invaders in which we are starting business contacts to buy these IP for transaction value of approximately 20 million.</p>
+<p>We strongly believe we will conclude these deals this month and compete with this titles against mobile competitors with ease.</p>
+<p>Our business continues to evolve and we must evolve with it. We operate in a exciting and challenging industry and I am very pleased that our senior leadership team continue to strengthen and develop with us.</p></blockquote>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/28/anonymous-is-going-after-zynga-for-mistreating-employees-and-is-prepared-to-leak-documents/">here</a>.
