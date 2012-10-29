@@ -1,0 +1,15 @@
+{
+"title" : "Windows Phone 8 Lockscreen Takes A Swipe At Apple With Facebook Love-In, New Skype App Is “Always On”",
+"date" : "Mon, 29 Oct 2012 17:27:27 +0000",
+"author" : "Natasha Lomas"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/wp8-skypw.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="wp8 skypw" title="wp8 skypw" style="float: left; margin: 0 10px 7px 0;" /><p>Microsoft has unveiled a new lockscreen on Windows Phone 8 which takes a swipe at Apple by displaying personalised content, such as photos, and partnering with Facebook to offer an even more customised experience.</p>
+<p>&#8220;The new lock screen is going to make your phone feel much more personal, it will automatically surface photos, notifications and content from your apps and you get to make the choice on what you get to see,&#8221; said Microsoft&#8217;s Windows Phone chief Joe Belfiore.</p>
+<p>“We’ve partnered with Facebook and doing an optimized version of the app for Windows 8 and update the new lock screen.”</p>
+<p><a href="http://techcrunch.com/2012/10/29/windows-phone-8-lockscreen-takes-a-swipe-at-apple-with-facebook-love-in-new-skype-app-is-always-on/facebook-wp8/" rel="attachment wp-att-686171"></a></p>
+<p>“Windows Phone 8 is the only operating system that lets you do this in a systemized way,&#8221; he added.</p>
+<p>Microsoft has also announced a new Skype app for Windows Phone 8 &#8212; which Belfiore said will run continually in the background, without having an impact on the phone&#8217;s battery.</p>
+<p>“On Windows Phone 8 We’ve built Skype so it feels like a natural part of using the phone,&#8221; he said. &#8220;It’s always on”</p>
+<p>&nbsp;</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/29/windows-phone-8-lockscreen-takes-a-swipe-at-apple-with-facebook-love-in-new-skype-app-is-always-on/">here</a>.
