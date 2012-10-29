@@ -12,6 +12,7 @@
 <li>WiFi</li>
 <li>2, 4 or 8 GB</li>
 <li>$169.95, $199.95 or $249.95</li>
+<li><a target="_blank" href="http://www.livescribe.com/en-us/smartpen/sky/">Product page</a></li>
 </ul>
 <p><b>Pros:</b></p>
 <ul>
