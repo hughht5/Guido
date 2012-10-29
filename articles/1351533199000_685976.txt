@@ -1,0 +1,14 @@
+{
+"title" : "Makers Can Uses Circuits.io To Prototype Electronics In Their Browser",
+"date" : "Mon, 29 Oct 2012 17:53:19 +0000",
+"author" : "John Biggs"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/screen-shot-2012-10-29-at-1-52-42-pm.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2012-10-29 at 1.52.42 PM" title="Screen Shot 2012-10-29 at 1.52.42 PM" style="float: left; margin: 0 10px 7px 0;" /><p>Two lads from Ghent University in Belgium, Karel Bruneel and Benjamin Schrauwen, got tired of the traditional tools used to build electronics manufacturing. Rather than rage silently at their breadboards, the created <a target="_blank" href="http://www.circuits.io">Circuits.io</a>, a website that lets you create circuits in Chrome and view the rendered PCB.</p>
+<p>Written in JavaScript and Rails, it&#8217;s basically a drag-and-drop interface for electronics. I&#8217;m no Enrico Fermi and know nothing about PCB manufacturing beyond a general understanding that electricity hurts when you touch it, but it seems like a very cool project and a great demonstration of the power of browser-based apps.</p>
+<div class='embed-vimeo' style='text-align:center;'><iframe src='http://player.vimeo.com/video/50052950' width='400' height='300' frameborder='0'></iframe></div>
+<p>Best of all, the lads are solid free-software fans who will never lock your designs.</p>
+<div style="margin-left:30px;margin-right:30px;padding-left:15px;border-left:3px solid #ccc;font-style:italic;">After struggling for years to design and teach to design electronics using existing EDA tool, they felt that electronics design needed an urgent jolt. Learning from how software is designed, they came up with the following magic recipe which is at the heart of circuits.io: (i) allow to easily build on pre-designed electronics modules, (ii) use intuitive tools that hide much of the complexity in software, and (iii) embrace the open hardware movement. Furthermore, we will soon allow easy PCB ordering right from circuits.io, no more messing with Gerber files. We promise that circuits.io will always be free for open hardware designs and that you can export all your designs, we will never lock in what actually is yours.</div>
+<p>Electronics fans: would this site be helpful? Maybe tell the lads what they can do to make it better?<br />
+<a target="_blank" href="http://www.circuits.io/about">Project Page</a></p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/29/makers-can-uses-circuits-io-to-prototype-electronics-in-their-browser/">here</a>.

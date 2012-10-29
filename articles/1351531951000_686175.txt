@@ -4,9 +4,9 @@
 "author" : "Jordan Crook"
 }
 
-<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/wp10.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="wp10" title="wp10" style="float: left; margin: 0 10px 7px 0;" /><p>One of the major issues with the Windows Phone platform has always been a lack of apps. Microsoft argues quality over quantity, which is better for developers and consumers alike in terms of discoverability. But that&#8217;s only if you can migrate from one platform to another without feeling like you&#8217;re losing things. </p>
-<p>But with the newly announced apps on Windows Phone 8, new users should see all the same apps they&#8217;ve grown to know and love. </p>
-<p>According to today&#8217;s Windows Phone 8 announcement, 46 of the top 50 mobile apps are now migrating over the platform. This includes Temple Run, Cut The Rope, Living Social, Urban Spoon, Angry Birds Star Wars and plenty more. </p>
-<p>In fact, Pandora will be available in 2013 with one year ad-free. </p>
-<p>Perhaps that will make a difference as Microsoft partners with HTC, Nokia and others to elbow its way into the mobile arena with the likes of Google and Apple. </p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/wp10.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="wp10" title="wp10" style="float: left; margin: 0 10px 7px 0;" /><p>One of the major issues with the Windows Phone platform has always been a lack of apps. Microsoft argues quality over quantity, which is better for developers and consumers alike in terms of discoverability. But that&#8217;s only if you can migrate from one platform to another without feeling like you&#8217;re losing things.</p>
+<p>But with the newly announced apps on Windows Phone 8, new users should see all the same apps they&#8217;ve grown to know and love.</p>
+<p>According to today&#8217;s Windows Phone 8 announcement, 46 of the top 50 mobile apps are now migrating over to the platform. This includes Temple Run, Cut The Rope, LivingSocial, Urban Spoon, Angry Birds Star Wars and plenty more.</p>
+<p>In fact, Pandora will be available in 2013 with one year ad-free.</p>
+<p>Perhaps that will make a difference as Microsoft partners with HTC, Nokia and others to elbow its way into the mobile arena with the likes of Google and Apple.</p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/29/windows-phone-8-will-have-46-of-top-50-mobile-apps-pandora-with-one-year-ad-free/">here</a>.
