@@ -1,0 +1,12 @@
+{
+"title" : "Reorganizing Its Product Division, PayPal Gives 325 Employees Pink Slips",
+"date" : "Mon, 29 Oct 2012 16:09:35 +0000",
+"author" : "Leena Rao"
+}
+
+<img width="100" height="66" src="http://tctechcrunch2011.files.wordpress.com/2012/10/paypal-crunchbase-profile.jpg?w=100&amp;h=66&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="PayPal | CrunchBase Profile" title="PayPal | CrunchBase Profile" style="float: left; margin: 0 10px 7px 0;" /><p>We&#8217;ve been <a target="_blank" href="http://www.bloomberg.com/news/2012-10-12/paypal-said-to-be-cutting-as-many-as-400-jobs.html">hearing</a> about these PayPal layoffs, and today the company confirmed this in a blog post today. Due to a product org redesign, 325 full-time roles (and employees) have been terminated. PayPal is also ending contracts with approximately 120 contractors globally.</p>
+<p>From the blog post: <em>So we&#8217;ve been redesigning our product organization, collapsing nine product groups into one. We are creating agile teams of designers, engineers and product managers. Instead of being organized around projects, our teams will now be dedicated to products and focused on our customers — consumers, developers, small businesses and large retailers.</em></p>
+<p>You can read more about about PayPal&#8217;s new product strategy <a href="http://techcrunch.com/2012/10/07/ebay-battles-back-with-mobile-local-personalization-and-a-more-streamlined-paypal/">here.</a></p>
+<p>The company&#8217;s President, David Marcus, cautions that these layoffs are more a reflection of the reorganization, and that the business is &#8220;strong and performing well.&#8221; eBay and PayPal just posted strong <a href="http://techcrunch.com/2012/10/17/ebays-q3-thanks-to-marketplace-and-paypal-growth-revenue-up-15-percent-to-3-4b/">earnings</a> a few weeks ago. PayPal ended the quarter with 117.4 million active registered accounts, a 14% increase over the third quarter of 2011. Revenue increased 23% year over year, to $1.4 billion, and net total payment volume (TPV) grew 20% year over year to $35.2 billion.</p>
+<p>- David Marcus, President, PayPal</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/29/reorganizing-its-product-division-paypal-gives-325-employees-pink-slips/">here</a>.
