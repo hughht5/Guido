@@ -1,0 +1,11 @@
+{
+"title" : "FEMA: Avoid Wireless Calls, Use Text Messages And Social Networks To Reduce Network Strain",
+"date" : "Mon, 29 Oct 2012 14:58:07 +0000",
+"author" : "Matt Burns"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/fema_logo.gif?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="FEMA_logo" title="FEMA_logo" style="float: left; margin: 0 10px 7px 0;" /><p>With Hurricane Sandy bearing down on the East Coast, the Federal Emergency Management Agency took to Twitter with a bit of sound advice: Use text messages or social networks to communicate. This will reduce congestion on mobile networks, allowing for better communication for everyone in the path of Frankenstorm.</p>
+<p>Hurricane Sandy is likely going to wreak hell on several states. There is expected to be widespread flooding and wind damage. Despite <a href="http://techcrunch.com/2012/10/29/verizon-sprint-t-mobile-hunker-down-for-hurricane-sandy-att-is-like-whatevs/">the best efforts by carriers</a> and utility companies, wireless networks will be affected. Don&#8217;t be selfish with your phone use.</p>
+<p>The idea behind FEMA&#8217;s plan is sound. Voice calls consume significantly more bandwidth than text messages or data usage. It&#8217;s very important to communicate but your mom does not need a play-by-play of the action. Tune to The Weather Channel for that. Text messages and social networks are well-suited to handle the simple message of &#8220;My building survived. I&#8217;m fine. Going to the bar. #freetebow&#8221;</p>
+<blockquote class='twitter-tweet' lang='en'><p>Phone lines may be congested during/after <a href="http://twitter.com/search?q=%23Sandy" title="#Sandy">#Sandy</a>. Let loved ones know you&#039;re OK by sending a text or updating your social networks.</p>&mdash; <br />FEMA (@fema) <a href='http://twitter.com/#!/fema/status/262894013630263296' data-datetime='2012-10-29T12:29:51+00:00'>October 29, 2012</a></blockquote>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/29/fema-avoid-wireless-calls-use-text-messages-and-social-networks-to-reduce-network-strain/">here</a>.
