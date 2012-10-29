@@ -1,0 +1,29 @@
+{
+"title" : "Why The Technology Industry Must Get Involved In Government",
+"date" : "Mon, 29 Oct 2012 16:50:23 +0000",
+"author" : "Ron Conway"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/05/ron-conway.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="ron conway" title="ron conway" style="float: left; margin: 0 10px 7px 0;" /><p><strong>Editor&#8217;s note:</strong> <em>Ron Conway is an angel investor and chairman of sf.citi.</em></p>
+<p>As the tech industry continues to grow its footprint in San Francisco, its leaders have a responsibility to help improve the city for all of its residents. The tech sector is uniquely qualified to give back and invest in our community because its entrepreneurs have the ability to use resources within their companies to improve the lives of San Franciscans.</p>
+<p>Gone are the days when the tech community can innovate and run their businesses in spite of government. As we saw with the SOPA/PIPA debate, public policy has a direct and significant impact on startups and the investors who support them.</p>
+<p>Whether it is regulations that stifle innovation or tax policies that hinder job creation, government has a major role in the success or failure of a startup. It is critically important for the tech community to engage in public policy.</p>
+<p><a href="http://techcrunch.com/2012/01/13/ron-conway-mayor-lee-and-heather-harde-launch-sfciti-want-to-keep-sf-at-the-forefront-of-tech/">Earlier this year</a> I established <a target="_blank" href="http://www.sfciti.com/">sf.citi</a>, an organization of more than 350 San Francisco-based tech companies created to leverage the collective power of the technology community around civic action. We have led several projects that highlight the civic engagement of tech companies including leading a voter registration drive.</p>
+<p>sf.citi’s mission has six pillars that are inherent elements of policy: education, public safety, transportation, job creation, policy, and philanthropy. For instance, education is needed to support demand for engineers, but without guidance from the tech community, our education system has not prioritized STEM degrees like it should have. This is why sf.citi has led a number of civic projects to engage the tech community in improving San Francisco and its tech sector.</p>
+<p><b>Education</b></p>
+<p>This summer sf.citi donated $25,000 and partnered with the San Francisco Police Foundation to establish the Future Graduates Summer Tech Internships program, which provided paid internships for 20 local high school students at San Francisco tech companies. sf.citi also coordinated internships for other tech companies participating in the mayor’s San Francisco Summer Jobs + Initiative, placing 150 jobs.</p>
+<p><b>Public Safety</b></p>
+<p>sf.citi also teamed up with the San Francisco Police Department and provided a $100,000 grant to create a new mobile application that enables police officers to report remotely from the field and share reports in real time. This will allow officers to spend up to 40 percent more time on the streets.</p>
+<p><b>Transportation</b></p>
+<p>Through another $100,000 grant in September we funded the development of SMARTmuni (System Management Administered in Real Time), an iPad-based software application designed to improve the day-to-day operations and on-time service of the San Francisco Municipal Transportation Agency.</p>
+<p><b>Job Creation</b></p>
+<p>sf.citi is planning a major effort to create entry-level jobs with coordinated placement directly into the tech companies filling those positions. Our member companies employ 20,000 people in San Francisco and are expected to generate 6,500 new jobs by the end of 2012.</p>
+<p><b>Policy</b></p>
+<p>The next, and most critical, challenge in which the tech community needs to engage is the passage of Proposition E, which combines the work of tech leaders, City Hall, small business and labor to update the city’s antiquated tax system.</p>
+<p>Tax policy over the past decade has penalized job creation by taxing jobs instead of profit. Proposition E would fix that by incentivizing job growth, hiring, and economic investment which has a multiplier effect that generates millions of dollars in revenue for San Francisco.</p>
+<p>Proposition E will phase out the city&#8217;s current payroll tax and replace it with a gross receipts tax. It was approved unanimously by the Board of Supervisors and is supported by Mayor Ed Lee, the Chamber of Commerce and the San Francisco Labor Council.</p>
+<p>As tech companies commit to San Francisco, moving their offices into the city and investing in our community and its workforce, we need to encourage civic engagement. As people move here and enjoy everything the city has to offer, we have motivated our colleagues to use their talents and resources to make San Francisco the best it can be.</p>
+<p>Partnering with these groups to change public policy also is a way to protect the freedom and open-source ethos of the tech community.</p>
+<p>The future of our city depends on partnerships. Government cannot do it alone and business, non-profits, and citizens need to play a role in developing solutions to historic problems facing our community. This is exactly why we established sf.citi, and is exactly what the coalition behind Proposition E represents.</p>
+<p>The tech ecosystem depends on sound public policy that nurtures innovation and creates more jobs. All of us &#8212; founders, engineers, investors, and consumers &#8212; have a responsibility to actively engage with our public officials and community partners to make San Francisco the innovation capitol of the world.</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/29/why-the-tech-industry-depends-on-government-partnerships/">here</a>.
