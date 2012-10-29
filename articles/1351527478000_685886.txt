@@ -1,0 +1,13 @@
+{
+"title" : "Android 4.2 Jelly Bean Has Arrived: Photo Sphere Panoramic Camera, Gesture Typing, Wireless HDTV Streaming",
+"date" : "Mon, 29 Oct 2012 16:17:58 +0000",
+"author" : "Jordan Crook"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/jb-new-logo.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="jb-new-logo" title="jb-new-logo" style="float: left; margin: 0 10px 7px 0;" /><p>Google unfortunately had to <a href="http://techcrunch.com/2012/10/27/raincheck-google-cancels-nyc-android-event-planned-for-monday-due-to-hurricane-sandy/">cancel its Nexus event</a> in NYC today, but not snow nor rain nor heat nor gloom of night stays this Google from the swift announcement of its appointed products. Android 4.2 Jelly Bean (not Key Lime Pie, as some had previously pontificated) has arrived. </p>
+<p>The software update will debut on the Nexus 10 tablet and the <a href="http://techcrunch.com/2012/10/29/lg-nexus-4-android-smartphone/">LG Nexus 4 smartphone</a>, the latest devices to join Google&#8217;s <a target="_blank" href="techcrunch.com/2012/10/29/32gb-nexus-7">family of pure vanilla Android products</a>. </p>
+<p>As <a href="http://techcrunch.com/2012/10/26/this-is-the-nexus-10/">expected</a>, Android 4.2 will finally offer multiple user accounts, allowing family members to share the device while maintaining their own unique settings. And speaking of settings, Android 4.2 will have a &#8220;quick settings&#8221; section if you click the icon on the top right, allowing you to switch between user accounts, toggle Wifi and Bluetooth, adjust brightness, go into airplane mode, etc. </p>
+<p>The photo gallery app has also been revamped a bit, but the major introduction here is Photo Sphere. According to the release, this is essentially an app that lets you create 360-degree panoramic photos (clearly a jab back at iOS 6&#8242;s Panorama feature) that are shareable on Google+, Google Maps, etc. </p>
+<p>Android 4.2 will include gesture typing, a lot like Swype, letting you glide your finger over the letters instead of tap them. Google Now has also seen an update, adding cards for flight information, restaurant reservations, hotel confirmations, and shipping details. </p>
+<p>And for fans of big-screen browsing, Android 4.2 brings with it support for Miracast wireless displays. This means users can watch movies, play games, browse, or whatever on their HDTV wirelessly. </p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/29/android-4-2-jelly-bean/">here</a>.
