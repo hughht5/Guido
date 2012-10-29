@@ -1,0 +1,16 @@
+{
+"title" : "Is That #Sandy Image Fake? PSKiller Helps ID Photoshopped Images",
+"date" : "Mon, 29 Oct 2012 18:25:22 +0000",
+"author" : "Gregory Ferenstein"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/photoshopped-image-killer.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Photoshopped Image Killer" title="Photoshopped Image Killer" style="float: left; margin: 0 10px 7px 0;" /><p></p>
+<p>Viral images of Hurricane Sandy are running throughout media outlets and social media feeds, but not all of them are real, (unfortunately) like the above image of drenched soldiers standing guard at the <a target="_blank" href="http://mashable.com/2012/10/29/viral-soldier-pic-debunked/">Tomb of the Unknown Solidier</a>. In an age where anyone with a smartphone has the power to push photos out to the world with a reputation to back its authenticity, telling fake from real can be difficult. One site, <a target="_blank" href="http://www.pskiller.com/">PSKiller</a>, can help identify some of the most common tell-tale photoshop signs, such as color imbalances.</p>
+<p>We put PSKiller through the ringer, and it correctly identified to the solider picture above as fake, and correctly identified photos from mainstream media outlets as not having any corrections.</p>
+<p></p>
+<p>To be sure, it wasn&#8217;t 100%. It had trouble identifying a viral picture of storm clouds over the Statue of Liberty as fake.</p>
+<p></p>
+<p>In some cases, it may be best to arm yourself knowledge about how <a target="_blank" href="http://www.scientificamerican.com/article.cfm?id=5-ways-to-spot-a-fake">to manually spot fakes</a>. Fake photos usually have objects with the sources of light coming at different directions:</p>
+<p></p>
+<p>If an image seems to good to be true, look out for similar images (after all, if it&#8217;s a user-generated image, it&#8217;s probably popular enough to have been take at multiple angles). And, when sharing images, qualify it with statements like, &#8220;might be a fake&#8221; to help spread healthy skepticism as fast as the photo itself</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/29/is-that-sandy-image-fake-pskiller-helps-id-photoshopped-images/">here</a>.
