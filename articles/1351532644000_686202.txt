@@ -4,8 +4,7 @@
 "author" : "Romain Dillet"
 }
 
-<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/wp1211.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="wp121" title="wp121" style="float: left; margin: 0 10px 7px 0;" /><p>Today at the <a href="http://techcrunch.com/2012/10/29/live-from-microsofts-windows-phone-8-event-in-san-francisco"></a>Windows Phone 8 press conference, Microsoft unveiled a new feature for the operating system. Kid&#8217;s Corner is specifically targeted at your children who are so attracted by the vivid screen of your phone. In that mode, they can safely use certain games or applications.</p>
-<p>“It’s a phone within a phone, but it’s a phone for your kids,” Joe Belfiore said.</p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/wp1211.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="wp121" title="wp121" style="float: left; margin: 0 10px 7px 0;" /><p>Today at the <a href="http://techcrunch.com/2012/10/29/live-from-microsofts-windows-phone-8-event-in-san-francisco"></a>Windows Phone 8 press conference, Microsoft unveiled a new feature for the operating system. Kid&#8217;s Corner is specifically targeted at your children who are so attracted by the vivid screen of your phone. In that mode, they can safely play certain games.</p>
 <p>Even though smartphones are becoming great gaming platforms, they are still very personal devices. By building Kid&#8217;s Corner, Microsoft is answering the critics that keep asking for a <a href="http://techcrunch.com/2012/01/04/why-dont-smartphones-have-a-guest-mode/">guest mode</a> on smartphones.</p>
 <p><i>Developing…</i></p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/29/can-i-play-with-your-phone-windows-phone-8s-kids-corners-allows-your-kids-to-safely-use-your-phone/">here</a>.
