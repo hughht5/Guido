@@ -1,0 +1,43 @@
+{
+"title" : "Livescribe Sky WiFi Review: The Perfect Pen To Take Notes When You Can’t Use A Laptop",
+"date" : "Mon, 29 Oct 2012 18:09:20 +0000",
+"author" : "Romain Dillet"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/p1010473.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="P1010473" title="P1010473" style="float: left; margin: 0 10px 7px 0;" /><p><b>Short version:</b> Livescribe is refining its smartpen once again. The two major changes are the addition of WiFi and Evernote integration. Now, the pen uses and depends on Evernote for syncing and archiving notes.</p>
+<p><b>Features:</b></p>
+<ul>
+<li>A ball pen</li>
+<li>Microphone</li>
+<li>WiFi</li>
+<li>2, 4 or 8 GB</li>
+<li>$169.95, $199.95 or $249.95</li>
+</ul>
+<p><b>Pros:</b></p>
+<ul>
+<li>Record and take notes at the same time</li>
+<li>No USB syncing needed</li>
+<li>See your notes on your computer, phone and tablet</li>
+</ul>
+<p><b>Cons:</b></p>
+<ul>
+<li>Large and tiring pen body</li>
+<li>Evernote is mandatory</li>
+<li>Expensive</li>
+</ul>
+<p><b>Long version:</b></p>
+<p>Like or hate it, the new Livescribe pen is all about Evernote. When CEO Gilles Bouchard came to work for Livescribe, the company was already working on a WiFi version of its smartpen. He met Evernote CEO Phil Libin ten days after starting his new job. It was the best way to bring Livescribe to a tablet.</p>
+<p>&#8220;Tablet is the best thing that has happened to us. What was missing was filling the gap between paper and tablet,&#8221; Bouchard said.</p>
+<p>Yet, the Oakland-based company&#8217;s focus hasn&#8217;t changed. The core idea remains using the qualities of paper to take notes and bringing them to a computer, a tablet or a phone. It&#8217;s just now easier to take advantage of Livescribe&#8217;s key feature.</p>
+<p>As a writer, I&#8217;m a natural user for this kind of device. When I do an interview, I usually take notes and record the audio with my iPhone. Listening to the audio file is the most painful process when it comes to writing a post afterwards.</p>
+<p>The Livescribe pen, the notes and the recording are not only handled by the pen, but are synced together. When playing back your notes on your computer or tablet (the player uses HTML5), you can click or tap on a certain sentence to jump instantly to the corresponding audio part of the interview. It&#8217;s a timesaver.</p>
+<p>For avid Evernote users, it will be the perfect evolution. After receiving the new Livescribe pen, I tried using Evernote as my main note taking app for about two weeks. A few days ago, I switched back to Simplenote and Justnotes, because I couldn&#8217;t handle Evernote&#8217;s bulkiness and slowness.</p>
+<p>Livescribe notes don&#8217;t count toward your Evernote quota as you can upload 500 MB of Livescribe content before starting eating up your quota. It represents around 50 hours of audio and written notes. The most expensive Sky WiFi comes with one year of Evernote Premium — a $50 value.</p>
+<p>Evernote is now only my Livescribe repository. Those who deal with hundreds of notes and tags in Evernote will be glad to find their Livescribe notes in it. But it won&#8217;t be the case for me.</p>
+<p>More integrations and services will be released in the coming weeks, such as Dropbox and Google Drive integration. The company will release an SDK so that mobile app developers will be able to take advantage of the pen&#8217;s data. Bouchard was excited by the possibilities and evolutions that will become available to Sky WiFi owners.</p>
+<p>The battery is quite good. As an occasional user, I only had to plug the pen every couple of days.</p>
+<p>Finally, you still have to use Livescribe&#8217;s paper. The pen comes with an A5 notebook and new notebooks aren&#8217;t expensive. But I like to be able to use whatever paper I want with my pen without having to look for my &#8220;device&#8221; (in this case, a notebook and a pen). I usually keep my pen in my pocket, an inexpensive Pilot Hi-Tec-C that I throw away when there is no ink left. I wouldn&#8217;t do that with a Livescribe pen. The simplicity of pen and paper is lost along the way.</p>
+<p>Heavy note takers and/or Evernote users should consider using a Livescribe pen, because it&#8217;s a great device. I may continue using it occasionally for interviews, but for my personal notes, I&#8217;ll keep using a simple pen.</p>
+<p>If you do a lot of interviews without your computer, attend math classes or like the novelty of a digital pen, then you are a potential customer. The initial investment is high, but the flexibility of paper brought to the digital environment is impressive and actually useful. I look forward to seeing the potential third-party apps and services that will pop up in the coming months.</p>
+<a href="http://techcrunch.com/2012/10/29/livescribe-sky-wifi-review-the-perfect-pen-to-take-notes-when-you-cant-use-a-laptop/#gallery-686109-1-slideshow">Click to view slideshow.</a>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/29/livescribe-sky-wifi-review-the-perfect-pen-to-take-notes-when-you-cant-use-a-laptop/">here</a>.
