@@ -66,5 +66,5 @@ Video playback: up to 8 hours<br />
 Web browsing: up to 7 hours<br />
 OS	Android Jelly Bean (4.2)</p>
 <p>Image <a target="_blank" href="http://www.engadget.com/2012/10/29/google-nexus-10/">via Engadget</a> </p>
-<p><a target="_blank" href="http://www.techcrunch.com/tag/googlelaunch2012"></a></p>
+<p><a target="_blank" href="http://www.techcrunch.com/tag/googlelaunch1012"></a></p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/29/here-are-the-official-specs-for-the-nexus-4-and-nexus-10/">here</a>.
