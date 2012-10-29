@@ -12,4 +12,5 @@
 <p>It&#8217;s also not a bad idea to fill up tupperware, bowls, vases, pots, and even the bath tub with water, just in case. </p>
 <p>And in worst case scenarios, you can always use the <a target="_blank" href="http://www.redcross.org/mobile-apps/hurricane-app">Red Cross Hurricane app</a> or SMS service. </p>
 <p><a href="http://techcrunch.com/2012/10/28/google-has-set-up-a-crisis-map-for-those-preparing-for-hurricane-sandy/">Here is a link</a> to the internet&#8217;s best tips for the storm. </p>
+<p><em>A previous version of this post indicated that AT&amp;T had not yet published a press release on Hurricane Sandy. AT&amp;T PR responded with a press release dated October 27th, which details a plan, but the press release never hit the wires nor is it available for public viewing on AT&amp;T&#8217;s website.</em></p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/29/verizon-sprint-t-mobile-hunker-down-for-hurricane-sandy-att-is-like-whatevs/">here</a>.
