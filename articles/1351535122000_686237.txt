@@ -12,5 +12,7 @@
 <p></p>
 <p>In some cases, it may be best to arm yourself knowledge about how <a target="_blank" href="http://www.scientificamerican.com/article.cfm?id=5-ways-to-spot-a-fake">to manually spot fakes</a>. Fake photos usually have objects with the sources of light coming at different directions:</p>
 <p></p>
-<p>If an image seems to good to be true, look out for similar images (after all, if it&#8217;s a user-generated image, it&#8217;s probably popular enough to have been take at multiple angles). And, when sharing images, qualify it with statements like, &#8220;might be a fake&#8221; to help spread healthy skepticism as fast as the photo itself</p>
+<p>If an image seems to good to be true, look out for similar images (after all, if it&#8217;s a user-generated image, it&#8217;s probably popular enough to have been take at multiple angles). And, when sharing images, qualify it with statements like, &#8220;might be a fake&#8221; to help spread healthy skepticism as fast as the photo itself.</p>
+<p>For instance, <a target="_blank" href="http://www.facebook.com/photo.php?fbid=546000785429379&amp;set=a.223098324386295.105971.205344452828349&amp;type=1">this photo</a> posted by Star Trek alum George Takei is definitely fake:</p>
+<p></p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/29/is-that-sandy-image-fake-pskiller-helps-id-photoshopped-images/">here</a>.
