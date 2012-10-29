@@ -1,0 +1,15 @@
+{
+"title" : "10 Print “TinyBASIC Ported To Raspberry Pi Mini Computer”, 20 GOTO 10, RUN",
+"date" : "Mon, 29 Oct 2012 14:06:42 +0000",
+"author" : "Natasha Lomas"
+}
+
+<img width="50" height="63" src="http://tctechcrunch2011.files.wordpress.com/2012/10/raspberry-pi-logo.png?w=50&amp;h=63&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="raspberry-pi-logo" title="raspberry-pi-logo" style="float: left; margin: 0 10px 7px 0;" /><p>The Raspberry Pi mini computer that&#8217;s become popular with the maker community but was <a href="http://techcrunch.com/2012/10/14/raspberry-pi-the-small-computer-with-the-big-ambition-to-get-kids-coding-again/">originally conceived as a device to help kids learn how to code</a> has had the lightweight <a target="_blank" href="http://en.wikipedia.org/wiki/Tiny_BASIC">TinyBASIC</a> programming language <a target="_blank" href="http://www.staff.city.ac.uk/afl/tinybasic/index.html">ported to it</a>.</p>
+<p>The Raspberry Pi Foundation noted the development in a <a target="_blank" href="http://www.raspberrypi.org/archives/2277">blog post</a> &#8211; explaining how it&#8217;s received lots of emails from parents who haven&#8217;t done any programming since their school days but still have books on BASIC, and want to be able to share the programming language with their kids</p>
+<blockquote><p>The good news for those people, and for anyone else who wants to learn BASIC from scratch or revisit an old friend, is that TinyBASIC is now available for the Raspberry Pi. Andrew Lack has ported this very lightweight editor, interpreter and graphics package to the Pi, and we think it’s great.</p></blockquote>
+<p>The Foundation says it&#8217;s considering bundling TinyBASIC &#8220;as part of the standard Raspbian image&#8221; &#8212; but it wants to test the waters first to see how popular the language turns out to be.</p>
+<p>The blog post also notes that while the GOTO function is included in the most basic version of the TinyBASIC port (called vanilla) &#8212; to allow for beginners to take their programming baby steps &#8212; the function can be disabled in another version (called raspberry) to ensure budding programmers are given the chance to learn structured programming.</p>
+<p>The TinyBASIC port consists of an editor, called TinyBASIC One, which allows programs to be inputed, edited and run; the BASIC interpreter &#8212; including support for language features such as PRINT, REM, LET, STOP and GOTO &#8212; and in the raspberry flavour additional features include WHILE/WEND and REPEAT/UNTIL loops (but not GOTO).</p>
+<p>The port also includes support for drawing basic shapes, via the DRAW function.</p>
+<p><a href="http://techcrunch.com/2012/10/29/10-print-tinybasic-ported-to-raspberry-pi-mini-computer-20-goto-10-run/screen-shot-2012-10-29-at-13-41-04/" rel="attachment wp-att-685839"></a></p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/29/10-print-tinybasic-ported-to-raspberry-pi-mini-computer-20-goto-10-run/">here</a>.
