@@ -1,0 +1,16 @@
+{
+"title" : "Verizon, Sprint, T-Mobile Hunker Down For Hurricane Sandy, AT&T Is Like “Whatevs”",
+"date" : "Mon, 29 Oct 2012 13:40:44 +0000",
+"author" : "Jordan Crook"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/sandy.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="sandy" title="sandy" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://news.blogs.cnn.com/2012/10/28/sandy-bringing-life-threatening-storm-surge/comment-page-10/">Hurricane Sandy</a>, what may essentially be the biggest storm to hit the North Eastern seaboard in history, is barreling toward us, through the Atlantic, at this very second. It&#8217;s estimated to cause between $2.5 and $3 billion in <em>wind damage alone</em>, and has already claimed dozens of lives on its way to the States. </p>
+<p>To that extent, the nation&#8217;s major wireless carriers want you to know they&#8217;re ready to roll. Verizon, Sprint, and T-Mobile have all sent out press releases explaining that they&#8217;re in full preparation mode for Sandy&#8217;s arrival. AT&amp;T has made no such announcement. </p>
+<p>While flooding and storm surges may be the most life-threatening aspect of the storm, wind damage will most certainly hinder communication and likely cause power outages across the area. In fact, it&#8217;s expected that <a target="_blank" href="http://www.huffingtonpost.com/2012/10/28/hurricane-sandy-power-outages_n_2035288.html">10 million people will be without power</a> at some point over the next week. </p>
+<p>You can check out the invidivual press releases from Sprint (<a target="_blank" href="http://newsroom.sprint.com/article_display.cfm?article_id=2442">here</a>), Verizon (<a target="_blank" href="http://news.verizonwireless.com/news/2012/10/pr2012-10-28.html">here</a>), and T-Mobile (<a target="_blank" href="http://newsroom.t-mobile.com/articles/t-mobile-prepares-for-hurricane-sandy">here</a>), but the general idea behind all of them is that our carriers have a plan in place to mitigate the affects of the storm. </p>
+<p>Except for AT&amp;T. </p>
+<p>For residents of states declared to be in a State of Emergency, here&#8217;s a friendly reminder to plug in all of your electronics to a surge protector, and leave them charging until power goes out (if it does). Unplug unused equipment and anything that doesn&#8217;t have a battery, as brownouts usually proceed blackouts and can be very harmful. </p>
+<p>It&#8217;s also not a bad idea to fill up tupperware, bowls, vases, pots, and even the bath tub with water, just in case. </p>
+<p>And in worst case scenarios, you can always use the <a target="_blank" href="http://www.redcross.org/mobile-apps/hurricane-app">Red Cross Hurricane app</a> or SMS service. </p>
+<p><a href="http://techcrunch.com/2012/10/28/google-has-set-up-a-crisis-map-for-those-preparing-for-hurricane-sandy/">Here is a link</a> to the internet&#8217;s best tips for the storm. </p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/29/verizon-sprint-t-mobile-hunker-down-for-hurricane-sandy-att-is-like-whatevs/">here</a>.
