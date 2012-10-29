@@ -1,5 +1,5 @@
 {
-"title" : "Enterprise Social Network Startup NationalField Raises $1.5 Million To Take On Yammer And Others",
+"title" : "Enterprise Social Network Startup NationalField Raises $1.5M To Take On Yammer And Others",
 "date" : "Mon, 29 Oct 2012 18:00:21 +0000",
 "author" : "Ryan Lawler"
 }
