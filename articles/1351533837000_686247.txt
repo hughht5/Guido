@@ -1,0 +1,12 @@
+{
+"title" : "Microsoft Adds Rooms To Windows Phone 8′s People Hub For Private Group Messaging, Lists, Location; Rooms Support iPhone, WP7",
+"date" : "Mon, 29 Oct 2012 18:03:57 +0000",
+"author" : "Natasha Lomas"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/photo-25.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="photo 2" title="photo 2" style="float: left; margin: 0 10px 7px 0;" /><p>Another update to Windows Phone 8 that&#8217;s been announced today is a new feature in the People Hub called Rooms. This allows Windows Phone 8 users to parcel up their contacts so they send group messages to particular sub-sets of people, share location, calendars, shared to-do lists and more.</p>
+<p>WP8 will include a Family Room as standard but users can create Rooms for any contacts. &#8221;A  Family Room is part of Windows Phone 8 right out of the box,&#8221; said Joe Belfiore. Room are designed to “gather people into sets away from the crowd… perfect for close friends, immediate family.”</p>
+<p>Microsoft is also including support for Windows Phone 7 and Apple iPhone users &#8212; so that Rooms don&#8217;t have to be exclusively populated by WP8 owners.</p>
+<p>Below (right) is the calendar view an iPhone owner will see when they participate in a WP8 Room</p>
+<p><a href="http://techcrunch.com/2012/10/29/microsoft-adds-rooms-to-windows-phone-8s-people-hub-for-private-group-messaging-lists-location-rooms-support-iphone-wp7-users/rooms-iphone/" rel="attachment wp-att-686263"></a></p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/29/microsoft-adds-rooms-to-windows-phone-8s-people-hub-for-private-group-messaging-lists-location-rooms-support-iphone-wp7-users/">here</a>.
