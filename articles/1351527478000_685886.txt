@@ -10,4 +10,5 @@
 <p>The photo gallery app has also been revamped a bit, but the major introduction here is Photo Sphere. According to the release, this is essentially an app that lets you create 360-degree panoramic photos (clearly a jab back at iOS 6&#8242;s Panorama feature) that are shareable on Google+, Google Maps, etc. </p>
 <p>Android 4.2 will include gesture typing, a lot like Swype, letting you glide your finger over the letters instead of tap them. Google Now has also seen an update, adding cards for flight information, restaurant reservations, hotel confirmations, and shipping details. </p>
 <p>And for fans of big-screen browsing, Android 4.2 brings with it support for Miracast wireless displays. This means users can watch movies, play games, browse, or whatever on their HDTV wirelessly. </p>
+<p><a target="_blank" href="http://www.techcrunch.com/tag/googlelaunch2012"></a></p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/29/android-4-2-jelly-bean/">here</a>.
