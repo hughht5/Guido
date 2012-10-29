@@ -1,0 +1,11 @@
+{
+"title" : "Google Refreshes The Nexus 7 With New Storage Options, Lower Prices, 3G Option",
+"date" : "Mon, 29 Oct 2012 16:12:48 +0000",
+"author" : "Matt Burns"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/07/nexus-7.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="nexus 7" title="nexus 7" style="float: left; margin: 0 10px 7px 0;" /><p>The Nexus 7 is now a little more awesome. Google just released the details on a significant update that includes larger storage options for less money. Starting today, the Nexus 7 is available with 16GB for $199 and 32GB for $249. There is also a $299 3G modelproviding Google plenty of ammo to fight off Apple and its new iPad mini.</p>
+<p>Today&#8217;s news was supposed to be announced at a large NYC event. But <a href="http://techcrunch.com/2012/10/27/raincheck-google-cancels-nyc-android-event-planned-for-monday-due-to-hurricane-sandy/">Hurricane Sandy decided to come to town</a>. Google instead announced the Nexus 7 updates along with <a href="http://techcrunch.com/2012/10/29/lg-nexus-4-android-smartphone/">Nexus 4</a>, Nexus 10, and <a href="http://techcrunch.com/2012/10/29/android-4-2-jelly-bean/">Android 4.2</a> on its Android blog.</p>
+<p>The Nexus 7 update does not bring any physical changes to the 7-inch tablet. It&#8217;s still the same Asus-made device as before &#8212; just a little cheaper.</p>
+<p>Google also announced the latest version of Android today, which will hit the Nexus 7 shortly. Still designated Jelly Bean, Android 4.2 features multiple user accounts, a revamped camera interface, and quick settings.</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/29/32gb-nexus-7/">here</a>.
