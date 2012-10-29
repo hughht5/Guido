@@ -1,0 +1,69 @@
+{
+"title" : "Here Are The Official Specs For The Nexus 4 And Nexus 10",
+"date" : "Mon, 29 Oct 2012 16:44:13 +0000",
+"author" : "John Biggs"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/daydream.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="daydream" title="daydream" style="float: left; margin: 0 10px 7px 0;" /><p>When Google announced the Nexus 4 and the Nexus 10, they neglected to mention specific specifications for folks who specifically wanted them. Luckily, we just got our hands on a nice, complete list. As we noted, the N10 has a 5MP front camera and 1.9MP back camera and 2GB RAM. It&#8217;s running a Dual-core A15 Eagle processor and runs for up to 500 hours on standby.</p>
+<p>The N4 has a 8MP back camera and 1.3MP front camera, 2GB RAM, and Qualcomm Snapdragon S4 Pro 1.5GHz processor. It has a 4.7-inch 1280&#215;768 pixel screen. It also includes a wireless charging solution that is compatible with the <a target="_blank" href="http://en.wikipedia.org/wiki/Qi_(inductive_power_standard)">Qi inductive charging standard</a>.</p>
+<p>Read on for the full run-down.</p>
+<p><strong>Nexus 10</strong></p>
+<p>Screen	10.055” 2560 x 1600 (300 ppi)<br />
+WQXGA, HD PLS<br />
+Corning® Gorilla® Glass 2<br />
+Size	W: 10.39 in (263.9 mm)<br />
+H:  6.99 in (177.6 mm)<br />
+D:  0.35 in (8.9 mm)<br />
+Weight	1.33 lbs (603 g)<br />
+Cameras	5MP (main), 1080p video<br />
+1.9MP (front), 720p video<br />
+Memory	16 GB or 32 GB (formatted capacity will be less)<br />
+CPU/GPU	CPU: Dual-core A15 Eagle<br />
+GPU: Mali T604<br />
+RAM	2GB<br />
+Sensors	Accelerometer, Compass, Ambient light, Gyroscope, Pressure, GPS<br />
+Wireless	Dual-band Wi-Fi 802.11 b/g/n (MIMO+HT40)<br />
+Bluetooth<br />
+Dual-side NFC (Android Beam)<br />
+Connectivity	Micro USB<br />
+Micro HDMI<br />
+3.5mm headphone jack<br />
+Battery	9,000 mAh Lithium polymer<br />
+Standby: up to 500 hours<br />
+Music playback: up to 90 hours<br />
+Video playback: up to 9 hours<br />
+Web browsing: up to 7 hours<br />
+OS	Android 4.2 (Jelly Bean)</p>
+<p><strong>Nexus 4</strong></p>
+<p>Screen	4.7” 1280&#215;768 (320ppi)<br />
+WXGA, HD IPS+<br />
+Corning® Gorilla® Glass 2<br />
+Size	H:  5.27 in (133.9 mm)<br />
+W: 2.7 in (68.7 mm)<br />
+D:  0.36 in (9.1 mm)<br />
+Weight	0.31 lbs (139 g)<br />
+Cameras	Main: 8MP BSI sensor, 1080p video<br />
+Front: 1.3MP, 720p video<br />
+Face recognition<br />
+Memory	8GB or 16GB (formatted capacity will be less)<br />
+Chipset	Qualcomm Snapdragon S4 Pro 1.5GHz (Adreno 320 GPU)<br />
+RAM	2GB<br />
+Sensors	Accelerometer, Compass, Ambient light, Proximity, Gyroscope, Pressure, GPS<br />
+Network	Unlocked GSM/UMTS/HSPA+<br />
+GSM/EDGE/GPRS (850, 900, 1800, 1900 MHz)<br />
+3G (850, 900, 1700, 1900, 2100 MHz)<br />
+HSPA+ 42 Mbps<br />
+Wireless	Wireless display on a Miracast compatible HD TV<br />
+Dual-band Wi-Fi (802.11 b/g/n)<br />
+Bluetooth<br />
+NFC (Android Beam)<br />
+Power	Wireless charging (use any Qi-compatible charger)<br />
+2,100 mAH Li-polymer battery<br />
+Standby: up to 250 hours<br />
+Talk time: up to 10 hours<br />
+Music playback: up to 40 hours<br />
+Video playback: up to 8 hours<br />
+Web browsing: up to 7 hours<br />
+OS	Android Jelly Bean (4.2)</p>
+<p>Image <a target="_blank" href="http://www.engadget.com/2012/10/29/google-nexus-10/">via Engadget</a> </p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/29/here-are-the-official-specs-for-the-nexus-4-and-nexus-10/">here</a>.
