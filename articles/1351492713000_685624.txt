@@ -1,0 +1,39 @@
+{
+"title" : "Why The Future Of Search May Look More Like Yahoo Than Google",
+"date" : "Mon, 29 Oct 2012 06:38:33 +0000",
+"author" : "Adrian Aoun"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/yahoo_old1.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Yahoo_old" title="Yahoo_old" style="float: left; margin: 0 10px 7px 0;" /><p><b>When Nirvana was cool</b></p>
+<p>Rewind to the late 90s. Almost everything you needed – email, news, sports, stocks, maps and more – was conveniently on one site: Yahoo!. Yahoo! was the “portal” to the Internet that strived to deliver everything you could ever want on its own properties.</p>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/10/yahoo_old.png"></a></p>
+<p>The crazy thing is how successful Yahoo! was at this. Few, if any, have ever done content or media online at that scale.</p>
+<p>But then Google came along and exploited the fact that the Internet was growing too fast for Yahoo! to keep up. Suddenly, Yahoo! was struggling to find its way, as Google made buckets of money by taking the opposite strategy: redirecting its traffic across the Internet to the best sites for each query (e.g. popular topics landed you on Wikipedia, movies on IMDB).</p>
+<p>Search replaced the portal as the dominant paradigm, and it became accepted that no single organization could successfully cover every aspect of the web by itself.</p>
+<p><b>Portals reborn</b></p>
+<p>Fast-forward to the late 2000s…Facebook and smartphones, primarily the iPhone, are the new portals, reminiscent of the days of Yahoo!. They have every experience you need, from weather and stocks to games and maps. The difference is that they’re not foolish enough to think that they can keep up by doing it all by themselves – instead, they use their platform to scale the portal with partners.</p>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/10/facebook_ios_apps.png"></a></p>
+<p>As a result, today’s mobile and social portals offer distribution to third parties that develop content for their own platforms. In this world, the AppStore is the new Google.</p>
+<p>But wait, this shift certainly has problems of its own. It puts the burden back on the user to know which apps to install and which to actually use.</p>
+<p>Even if a perfect app exists for what I want to do, it’s too much hassle to download, install, and learn about a new app for something I’m doing just once. While there are many excellent apps today, finding the best one for my task is next to impossible.</p>
+<p>Then, if I do manage to get the right app, it doesn’t know anything about me – I have to register and personalize it to some degree. Not to mention, I have to learn the app’s custom user interface, and try to remember for next time what the app does.</p>
+<p>It makes me actually start to miss the simplicity of the Yahoo! world. A world where you’re already logged in, you don’t have to remember a hundred places to go, and the apps don’t overlap in functionality or act differently.</p>
+<p><b>Search has to evolve</b></p>
+<p>These issues are the opportunities at stake for tomorrow&#8217;s search engines. When you search, you know what you want (or something close to it) and the search engine points you in the right direction. You don’t need to pre-install the results or pre-select the right app.</p>
+<p>We’ve seen that Google, Bing, and Yahoo! have already made efforts to “appify” their results. When you search for “The Dark Knight,” they all load movie show times, searching for addresses brings up maps, cities get weather forecasts, and stock symbols get charts, not to mention news results, image results, video results, etc. But, they’re all trying to cover every scenario without the help of partners, which, as we learned from Yahoo!, is impossible in the long run.</p>
+<p>The answer isn’t to do it all in-house, nor is it only to enlist a community of app developers. The answer is a combination of the two: a portal connecting us to the app most qualified to accomplish the given query.</p>
+<p>If the portal sees a query that’s pretty common, they should make their own app. In Yahoo!’s case, they’d keep their own stocks and news apps, but they’d farm out things that are a little more niche (think Yelp, Spotify, social readers, etc.) This is similar to how the iPhone comes with a calendar app and stock app, but doesn’t come with any games. There’s always going to be a set of things nobody builds apps for – in that case, we always have the old school 10 blue links.</p>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/10/yahoo_3rd_links.png"></a></p>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/10/yahoo_search_apps.png"></a></p>
+<p>How would this work for search? Imagine if searching “black eyed peas” loaded the Spotify app right inside the website, or searching “French gourmet” loads the Yelp app? They can let third parties build as many apps as they want, with each competing for distribution by proving their value to the search engine’s organic ranking system.</p>
+<p>Such a search engine would mean that instead of having to install a hundred apps and remember which to use for which scenario, I’d have access to thousands of apps custom-built for each and every scenario I could ever desire. And even better, this lets me focus on my intent and what I want to do &#8212; not which app I should use to do it. Right now I have to think about the app category, like “I want restaurant info,” to know which app to use. What I want is to skip this step and just state my intent: “I want French Laundry.”</p>
+<p>Even Apple is acknowledging that this is where the world is headed. Take Siri, for example. You don’t say “ask Yelp to find French Laundry.” You merely say “find a table at French Laundry” and it figures out which app or data source is best suited.</p>
+<p><b>Why Yahoo!, not Google!?</b></p>
+<p>Google is a search company at its core, and they make a lot of money doing it. If you’re the head of search at Google, are you really going to bet the farm on a new model when your current one works? It’s risky, and it’s not in your DNA. You’re somewhat a victim of your own success. Not to mention how distracted you are by competing with Facebook.</p>
+<p>And Bing won’t appify like this because Google isn’t doing it. Bing’s goal is to put a dent in Google’s profits, making it harder for Google to go after Microsoft’s other cash-cow businesses, so, oddly, it counters Google’s search strategy by mimicking its approach.</p>
+<p>Yahoo!, on the other hand, already thinks like this. For more than ten years they’ve been focused on delivering users all the scenarios on their site. They still have plenty of traffic and they’re a content company. It makes total sense for Yahoo! to become the Apple of the web.</p>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/10/yahoo_blackeyedpeas.png"></a></p>
+<p>Caption: <i>Music apps competing for the best result on search for “Black Eyed Peas.&#8221;</i></p>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2012/10/yahoo_frenchlaundry.png"></a></p>
+<p><em><strong>Editor&#8217;s note:</strong> This is a guest post by <a target="_blank" href="http://www.crunchbase.com/person/adrian-aoun">Adrian Aoun</a>, the founder and CEO of <a target="_blank" href="http://www.wavii.com">Wavii</a>, an app that provides instant news feeds for any topic. Prior to Wavii, Adrian was a director at Fox Interactive Media and worked at Microsoft working on bringing Microsoft Office to the web. He also obviously has some unorthodox opinions about search.</em></p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/28/why-the-future-of-search-may-look-more-like-yahoo-than-google/">here</a>.

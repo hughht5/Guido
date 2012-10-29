@@ -1,0 +1,24 @@
+{
+"title" : "6 Business Friendly Features In iOS 6 And What They Say About The New “Surface” Threat",
+"date" : "Sun, 28 Oct 2012 22:00:48 +0000",
+"author" : "Alex Williams"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/surface-14.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Surface vs iPad" title="Surface vs iPad" style="float: left; margin: 0 10px 7px 0;" /><p>Apple CEO Tim Cook said in the earnings call this past week that 80% of the Fortune 500 companies use iPhones and iPads. To make his point, Cook said companies such as Canon are outfitting its entire field sales teams with iPads.</p>
+<p>Apple always puts some attention on its enterprise sales in its quarterly earnings calls. But six new features in iOS 6 show the company&#8217;s much deeper commitment to selling into the business world and the new competitive landscape it faces now that Microsoft has launched Windows 8 and the Surface PC-tablet hybrid. There are certainly other features that could be added to this list but these demonstrate how bullish Apple is about the enterprise market and underscores the respect it has for Microsoft&#8217;s new mobile push.</p>
+<p>Here they are:</p>
+<ul>
+<li>“Guided Acces.&#8221; This lets the administrator lock the device to a single app and prevent the user from going to the home screen.</li>
+<li>Define wallpaper. This lets the administrator specify wallpaper for both locked and in-use devices. No rogue wallpaper, folks.</li>
+<li>Administrators may define a single HTTP global proxy for access to the web.</li>
+<li>There is now the ability to disable Game Center, iMessage, iBookstore and shared photo streams.</li>
+<li>An administrator may prevent Passbook notifications from showing on a locked screen, the download of content from iBookstore based on ratings (e.g., tagged as erotica), and synching of recent contacts to mail servers.</li>
+<li>Administrators may prevent user from installing configuration profiles and certificates and automatically remove profiles on a certain date or after a given period of time.</li>
+</ul>
+<p>Apple is undoubtedly placing a deeper emphasis on the enterprise. The company is building out an international field sales team and coupling that with an inside group that regularly sells thousands of devices to enterprise shops.</p>
+<p>Apple is also banking on a partnership it is reportedly developing with VMware. As reported originally by <a target="_blank" href="http://www.crn.com/news/applications-os/240009503/apple-vmware-team-on-ipad-microsoft-office-killer.htm">CRN,</a> the two companies will marry VMware&#8217;s desktop virtualization platform with the iWork suite: Notes, Keynote and Numbers. The partnership will also leverage VMware View, a virtualization platform that partitions personal and work information.</p>
+<p>The new features and the bolstering of the sales team will help build deeper relationships with IT. But it also puts Apple into foreign territory and exposes weaknesses compared to Microsoft.</p>
+<p>CIOs are taking notice.Vendors I talk to say they&#8217;ve had recent conversations with CIOs who want to support Microsoft mobile devices as part of a bring your own device (BYOD) strategy. But some are also looking at the Surface for mobile business tablet initiatives. For instance, one source said to me that in the past few weeks, two customers have come forward with plans to buy thousands of Surface machines for employees.</p>
+<p>Microsoft has Office deployed on Windows RT, which gives the company a leg up against Apple in the tablet space. CIOs recognize that they can run Office natively, enjoying the rich set of features they have come to know better than any other application environment.</p>
+<p>I think it&#8217;s time to question the Apple illusion that it will forever dominate the work world with its iPhones and iPads. They are undoubtedly beautiful, functional and very much work oriented devices.  But Apple is now entering Microsoft&#8217;s turf, a land that the giant from Redmond has ruled for the past 20 years.</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/28/6-business-friendly-features-in-ios-6-and-what-they-say-about-the-new-surface-threat/">here</a>.

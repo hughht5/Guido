@@ -1,0 +1,14 @@
+{
+"title" : "Everyone At Once On The Second Screen",
+"date" : "Mon, 29 Oct 2012 01:01:50 +0000",
+"author" : "Josh Constine"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/second-screening.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="SECOND SCREENING" title="SECOND SCREENING" style="float: left; margin: 0 10px 7px 0;" /><p>When the world&#8217;s gaze focuses on a single televised moment, it&#8217;s what&#8217;s in the periphery of our vision that unites us. The second screen brings awareness of the millions watching alongside, no matter where they are. It reaffirms our interest and passion, while adding depth and fresh perspective. Now if you watch the game on delay, or check out the debates online later, you&#8217;re missing something special.</p>
+<p>Even just a year or two ago, people seemed to happy to DVR. There&#8217;s a big appeal to watching on your own schedule. And for most TV, it works fine.</p>
+<p>But the second screen has since come of age, and it&#8217;s turning into the new champion of real-time video. Now, sports championships, political square-offs, and season premieres come with a counterpart if you watch them as they happen. The complementary content has become more valuable than the convenience of on-demand.</p>
+<p>This next week will be a grand example. Between the World Series and the presidential election, a lot of people will be tuning in to television. And thanks to the slow but steady growth of speedy smartphones and unfiltered social networks like Twitter and Instagram, more people than ever will turn on their small screen at the same time.</p>
+<p>Because these are agents of interconnection, you really feel the critical mass. Everyone at once on the second screen crosses the barriers of who we friend or follow. Retweets flourish, and jokes spread at outbreak pace. And in the next few years, the synchronization is just going to get stronger.</p>
+<p>There&#8217;ll be more instant meme creation, like live GIF&#8217;ing. Expert curators will cobble together real-time content roundups the way <a target="_blank" href="http://www.buzzfeed.com/ryanhatesthis/the-last-presidential-debate-as-told-by-gifs">Buzzfeed is</a>. I think we&#8217;re going to see the second screen experience become so significant, it will spawn a new behavior (and maybe a start up or two to help out). If we can&#8217;t watch in real-time, we&#8217;ll start setting back the clock on social media and scrolling along as if we were.</p>
+<p><em>[Image Credit: the almighty <a target="_blank" href="http://www.theonion.com/articles/report-90-of-waking-hours-spent-staring-at-glowing,2747/">Onion</a>]</em></p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/28/everyone-at-once/">here</a>.

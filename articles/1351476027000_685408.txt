@@ -1,0 +1,14 @@
+{
+"title" : "Badabing! For iOS Helps You Find All Of Your Facebook Friends’ Bikini Pics",
+"date" : "Mon, 29 Oct 2012 02:00:27 +0000",
+"author" : "Drew Olanoff"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/2573375356_a0edb3d42d_z.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="2573375356_a0edb3d42d_z" title="2573375356_a0edb3d42d_z" style="float: left; margin: 0 10px 7px 0;" /><p>Ok, so this app made me feel really dirty when I downloaded it. It&#8217;s called <a target="_blank" href="https://itunes.apple.com/us/app/badabing!/id548536602?mt=8&amp;utm_source=feedburner&amp;utm_medium=twitter&amp;utm_campaign=Feed%3A+hnycombinator+%28HN+-+hnycombinator%29">Badabing!</a> and it basically goes through your friends&#8217; photos on Facebook to pull out the ones of them at the pool or beach. In other words, we&#8217;re talking about scantily clad photos here.</p>
+<p>I of course, for the sake of technology journalism, had to download the app and give it a whirl. It actually kind of works and it&#8217;s really creepy. To protect the <del datetime="2012-10-28T22:24:02+00:00">not so</del> innocent, I&#8217;m not going to post any actual screenshots of my Facebook friends. They&#8217;d kill me. And probably the folks who made this app.</p>
+<p>The <a target="_blank" href="https://itunes.apple.com/us/app/badabing!/id548536602?mt=8&amp;utm_source=feedburner&amp;utm_medium=twitter&amp;utm_campaign=Feed%3A+hnycombinator+%28HN+-+hnycombinator%29">app is $1.99</a> and all you have to do is log in with your Facebook account and then choose a few friends to dig up some dirt on. The company has some sort of image recognition technology that looks for&#8230;skin? </p>
+<p><a href="http://techcrunch.com/2012/10/28/badabing-for-ios-helps-you-find-all-of-your-facebook-friends-bikini-pics/mza_9134718437248074092-320x480-75-2/" rel="attachment wp-att-685413"></a> <a href="http://techcrunch.com/2012/10/28/badabing-for-ios-helps-you-find-all-of-your-facebook-friends-bikini-pics/mza_561499676399631059-320x480-75-2/" rel="attachment wp-att-685414"></a></p>
+<p>After your search is complete you can bookmark your favorite photos. Now let&#8217;s get to the heart of the matter, is this wrong to do? I mean, technically, your friends have uploaded these photos and shared them with you anyway. All this app does is do a search, albeit a search with <del datetime="2012-10-28T22:29:11+00:00">slightly</del> icky intent.</p>
+<p>Moral of the story, don&#8217;t upload photos to Facebook and share them with friends unless you want them looking at them. Especially if you&#8217;re in a bikini or tight swim trunks.</p>
+<p>Creep you out? Cool use of tech? Tell us in the comments.</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/28/badabing-for-ios-helps-you-find-all-of-your-facebook-friends-bikini-pics/">here</a>.
