@@ -1,0 +1,11 @@
+{
+"title" : "Russian Firm IMI.VC Raises $75M From Mail.ru Founder Michael Vinchel",
+"date" : "Mon, 29 Oct 2012 13:00:47 +0000",
+"author" : "Anthony Ha"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/logo_imi_800px.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="logo_imi_800px" title="logo_imi_800px" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.imi.vc">IMI.VC</a>, a startup investment firm based in Moscow, just announced that it has raised $75 million in funding.</p>
+<p>The money comes from Michael Vinchel, who co-founded Mail.ru Group (the popular Russian email service that&#8217;s probably best-known to international readers for its association with Facebook investor Digital Sky Technologies, although the two companies are now independent of each other). Vinchel sits on the IMI.VC board, and his Mail.ru co-founder and partner Gregory Finger has been named chairman.</p>
+<p>IMI.VC was founded last year by Igor Matsanyuk, himself a former vice president at Mail.ru. The name stands for In Mobile Investment, and as you might expect, the firm focuses on mobile startups. It has already made 36 investments, including mobile gaming company Game Insight, mobile storytelling platform NARR8, and incubator Farminers (which is the source of a number of IMI.VC investments, include WeHeartPics).</p>
+<p>“This raised capital will help us to expand our investment portfolio by means of investing in new startups and increasing our share in the companies which are already successful,&#8221; Matsanyuk said in a press release. &#8220;Russia is a country rich in talent and we are going to use the resources we have to support ambitious ideas and projects.&#8221;</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/29/imi-vc-funding/">here</a>.
