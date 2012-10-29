@@ -9,7 +9,6 @@
 <p>“We’ve partnered with Facebook and doing an optimized version of the app for Windows 8 and update the new lock screen.”</p>
 <p><a href="http://techcrunch.com/2012/10/29/windows-phone-8-lockscreen-takes-a-swipe-at-apple-with-facebook-love-in-new-skype-app-is-always-on/facebook-wp8/" rel="attachment wp-att-686171"></a></p>
 <p>“Windows Phone 8 is the only operating system that lets you do this in a systemized way,&#8221; he added.</p>
-<p>Microsoft has also announced a new Skype app for Windows Phone 8 &#8212; which Belfiore said will run continually in the background, without having an impact on the phone&#8217;s battery.</p>
+<p>Microsoft has also announced a new Skype app for Windows Phone 8 &#8212; which Belfiore said will run continually in the background, without having an impact on the phone&#8217;s battery. It will also support video chatting.</p>
 <p>“On Windows Phone 8 We’ve built Skype so it feels like a natural part of using the phone,&#8221; he said. &#8220;It’s always on”</p>
-<p>&nbsp;</p>
 <br /> The original article was posted <a href="http://techcrunch.com/2012/10/29/windows-phone-8-lockscreen-takes-a-swipe-at-apple-with-facebook-love-in-new-skype-app-is-always-on/">here</a>.
