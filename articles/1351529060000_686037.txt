@@ -4,8 +4,8 @@
 "author" : "Gregory Ferenstein"
 }
 
-<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/instacane.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="instacane" title="instacane" style="float: left; margin: 0 10px 7px 0;" /><p>A simple website <a target="_blank" href="http://www.popsci.com/technology/article/2012-10/look-instagrams-hurricane-sandy-real-time">displaying first-person accounts</a> of Hurricane Sandy&#8217;s impact from Instagram has become one of the best journalistic tools on the Internet. &#8220;<a target="_blank" href="http://instacane.com/">Instacane</a>&#8221; follows hashtags from Instagram users experiencing the wrath of the superstorm. Footage of the destruction is both horrifying and jaw-dropping at the same time. And, as with any ad hoc Internet property, there&#8217;s a bit of sillyness mixed in (at the bottom of the post).</p>
-<p>*Note: there&#8217;s no guarantee of photo authenticity. Be smart, don&#8217;t instantly believe everything you see on the Internet</p>
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/instacane.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="instacane" title="instacane" style="float: left; margin: 0 10px 7px 0;" /><p>A simple website <a target="_blank" href="http://www.popsci.com/technology/article/2012-10/look-instagrams-hurricane-sandy-real-time">displaying first-person accounts</a> of Hurricane Sandy&#8217;s impact from Instagram has become one of the best journalistic tools on the Internet. &#8220;<a target="_blank" href="http://instacane.com/">Instacane</a>&#8221; follows hashtags from Instagram users experiencing the wrath of the superstorm. Footage of the destruction is both horrifying and jaw-dropping at the same time. And, as with any ad hoc Internet property, there&#8217;s a bit of silliness mixed in (at the bottom of the post).</p>
+<p>*Note: There&#8217;s no guarantee of photo authenticity. Be smart, don&#8217;t instantly believe everything you see on the Internet.</p>
 <p></p>
 <p></p>
 <p></p>
