@@ -1,0 +1,9 @@
+{
+"title" : "Live From Microsoft’s Windows Phone 8 Event In San Francisco",
+"date" : "Mon, 29 Oct 2012 16:51:59 +0000",
+"author" : "Chris Velazco"
+}
+
+<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/wp1.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="wp1" title="wp1" style="float: left; margin: 0 10px 7px 0;" /><p>Event cancellations aside, today is still shaping up to be a big day for smartphone fans &#8212; Google has just officially outed some shiny new (if not entirely unexpected) hardware, and we&#8217;re here at the Bill Graham Civic Auditorium to catch up with Microsoft and see what&#8217;s new with Windows Phone 8.</p>
+<p>If you&#8217;ll recall, Microsoft hasn&#8217;t been completely forthcoming with its newest mobile operating system &#8212; devices running Windows Phone 8 have been carefully controlled (even in the midst of a tumultuous press event), but that should all change today. Anyway, the show is set to begin shortly, so stay tuned!</p>
+<br /> The original article was posted <a href="http://techcrunch.com/2012/10/29/live-from-microsofts-windows-phone-8-event-in-san-francisco/">here</a>.
